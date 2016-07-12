@@ -1,3 +1,8 @@
 *~
 *.jpg
 *.pdf
+makefile
+cgi-bin
+*.png
+dia*.html
+*clasif.html
