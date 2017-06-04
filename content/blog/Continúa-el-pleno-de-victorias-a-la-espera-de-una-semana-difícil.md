@@ -22,6 +22,6 @@ Por su parte, <b>las cadetes</b> de Miriam Sánchez continúan sorprendiendo y s
 Cabe señalar que esta semana arrancan también los equipos masculinos, <b>el juvenil masculino y el senior masculino b</b> lo harán en casa el sábado ante CV Puertollano, mientras que el renovado <b>ADV senior masculino</b> viajará a Talavera comenzando ya con uno de los partidos difíciles de la liga. Todo indica que el próximo, será un fin de semana apasionante para el voleibol miguelturreño.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20171114%20-%2014%3A33%3A00.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20171114%20-%2014%3A33%3A00.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20171114%20-%2014%3A33%3A00.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20171114%20-%2014%3A33%3A00.png"/> </a> </center>
 

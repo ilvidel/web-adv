@@ -19,10 +19,10 @@ El equipo juvenil femenino A, que ya consiguió el año pasado el bronce, disput
 Las infantiles que dirigen Laura Mora y Fran González alcanzan una fase final desconocida para nuestro club en esta categoría desde hace décadas, con un equipo plagado de jugadoras que con toda seguridad dará muchas alegrías en el futuro a nuestro club. Después de caer 2-3 en la ida de cuartos de final ante Salesianos Don Bosco, consiguieron la clasificación al imponerse 0-3 en Guadalajara y en semifinales se medirán a las 12:30 al duro equipo del CV ibañés tratando de seguir sorprendiendo y metiéndose en la final regional.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/WhatsApp%20Image%202017-03-04%20at%2014.24.20.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/WhatsApp%20Image%202017-03-04%20at%2014.24.20.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/WhatsApp%20Image%202017-03-04%20at%2014.24.20.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/WhatsApp%20Image%202017-03-04%20at%2014.24.20.jpg"/> </a> </center>
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/C6BuCY2WgAI9zt6.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/C6BuCY2WgAI9zt6.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/C6BuCY2WgAI9zt6.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/C6BuCY2WgAI9zt6.jpg"/> </a> </center>
 

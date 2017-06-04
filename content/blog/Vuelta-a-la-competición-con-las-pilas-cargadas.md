@@ -22,8 +22,8 @@ En Albacete habrá doble partido del ADV con el desplazamiento de juveniles y se
 Suerte a todos!!!
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/14-01-16.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/14-01-16.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/14-01-16.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/14-01-16.jpg"/> </a> </center>
 
 
 

@@ -34,6 +34,6 @@ geografía.
 Enhorabuena a todos estos chicos y a su gran trabajo.
 
 <img
-	src="http://www.advmiguelturra.org/drupal/sites/default/files/2.jpg"
+	src="http://www.advmiguelturra.org/img/banners/2.jpg"
 	width="100%"
 />

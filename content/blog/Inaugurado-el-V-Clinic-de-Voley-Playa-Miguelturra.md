@@ -21,6 +21,6 @@ Los objetivos del Clínic continúan invariables, siendo la prioridad de la orga
 Una vez más agradecer la colaboración de las instituciones Ayuntamiento de Miguelturra y Diputación Provincial y de las firmas que siguen apoyando el deporte en estos tiempos: Carnicería Satur, E. Leclerc, Cash Ecofamilia, BravoBus, Hervás Maján y Central de Frutas del Hoyo.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/IMG_20160707_203526.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/IMG_20160707_203526.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/IMG_20160707_203526.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/IMG_20160707_203526.jpg"/> </a> </center>
 

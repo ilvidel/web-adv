@@ -22,7 +22,7 @@ La parte negativa de la jornada se la llevan los juveniles que salieron derrotad
 Vacaciones de fin de año para reponer fuerzas y empezar a tope el 2016 tratando de lograr todos los objetivos planteados. Únicamente el derbi juvenil femenino se disputará en estas vacaciones encuadrado dentro de las Jornadas de Navidad en las que se espera numerosa participación.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/DSC_0758.JPG"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/DSC_0758.JPG"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/DSC_0758.JPG"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/DSC_0758.JPG"/> </a> </center>
 
 

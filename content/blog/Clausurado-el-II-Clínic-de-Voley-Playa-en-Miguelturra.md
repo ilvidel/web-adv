@@ -15,7 +15,7 @@
 El pasado miércoles 24 de julio con la entrega de diplomas se ponía punto y final al II Clínic de Voley Playa, organizado por la ADV Miguelturra.
 
 <center>
-<img src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202013-07-29%2001%3A10%3A41.png" height="265" width="650"/> </center>
+<img src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202013-07-29%2001%3A10%3A41.png" height="265" width="650"/> </center>
 
 Los 84 alumnos, niñas y niños de 9 a 14 años, que han participado en este Clinic, han podido disfrutar durante una semana (18 al 24 de julio), de la práctica de una modalidad deportiva que con la combinación de arena y deporte la hace muy divertida, a la vez que han podido tener la oportunidad de hacer nuevas amistades. 
 

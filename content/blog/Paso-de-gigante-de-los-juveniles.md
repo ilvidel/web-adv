@@ -22,6 +22,6 @@ Cuando todo parecía acabado con 8-15 en el marcador de la cuarta manga, los nue
 Mucho trabajo aún por hacer para los nuestros que continúan terceros en la tabla pero ahora a solo una victoria de diferencia tanto del primer como del segundo clasificado a falta de seis partidos. Se espera que este triunfo sirva de motivación para los próximos encuentros y el equipo cumpla sus objetivos.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/WhatsApp%20Image%202017-01-30%20at%2015.00.18.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/WhatsApp%20Image%202017-01-30%20at%2015.00.18.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/WhatsApp%20Image%202017-01-30%20at%2015.00.18.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/WhatsApp%20Image%202017-01-30%20at%2015.00.18.jpg"/> </a> </center>
 

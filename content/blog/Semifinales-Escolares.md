@@ -18,7 +18,7 @@ Las infantiles de Miriam Sánchez se hicieron con la victoria por 3-0 ante el eq
 Las cadetes, por su parte, comandadas por Anabel Ramírez se midieron ante las chicas de Puertollano. El encuentro estuvo en todo momento liderado por las jugadoras del ADV, y consiguieron meterse en la final con un contundente 3-0 (25-12, 25-3 y 25-14).
 
 <center>
-<img width="100%" src="http://www.advmiguelturra.org/drupal/sites/default/files/cadete_fem.jpg" alt="Equipo cadete femenino, tras su victoria" /> 
+<img width="100%" src="http://www.advmiguelturra.org/img/banners/cadete_fem.jpg" alt="Equipo cadete femenino, tras su victoria" /> 
 </center>
 
 La única derrota del club vino del equipo alevín, dirigido por Juan Rivas, que se enfrentó al equipo <em>Almagro A</em>, quien se llevó la victoria por 2-1 (25-20, 25-22 y 25-27).

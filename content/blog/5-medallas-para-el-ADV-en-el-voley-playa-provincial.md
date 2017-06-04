@@ -28,7 +28,7 @@ Agradecimientos a los asistentes y en especial al Ayuntamiento de Miguelturra po
 En los próximos días informaremos de los resultados en infantil masculino. Toda la información en http://www.advmiguelturra.org/vplaya/provincial.html.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/IMG_20150517_200952.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/IMG_20150517_200952.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/IMG_20150517_200952.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/IMG_20150517_200952.jpg"/> </a> </center>
 
 

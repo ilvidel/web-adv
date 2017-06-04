@@ -24,7 +24,7 @@ Desde el club agradecer a la FVCM optar por nuestro pueblo como sede de una prue
 Toda la información en la sección Voley Playa http://www.advmiguelturra.org/vplaya/regional.html
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/cartelVPsub21.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/cartelVPsub21.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/cartelVPsub21.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/cartelVPsub21.jpg"/> </a> </center>
 
 

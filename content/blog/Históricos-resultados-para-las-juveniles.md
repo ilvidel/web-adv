@@ -20,8 +20,8 @@ El equipo se ha impuesto por 3-0 en todos los partidos disputados hasta la fecha
 Gran trabajo el de todas las jugadoras de este equipo que merecen el reconocimiento de todos y también, por supuesto, de sus entrenadores Mirian Sánchez y Sergi Domínguez.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202015-12-07%2014%3A12%3A02.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202015-12-07%2014%3A12%3A02.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202015-12-07%2014%3A12%3A02.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202015-12-07%2014%3A12%3A02.png"/> </a> </center>
 
 
 

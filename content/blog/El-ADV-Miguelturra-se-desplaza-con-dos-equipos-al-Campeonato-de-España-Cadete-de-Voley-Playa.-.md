@@ -22,10 +22,10 @@ Desde el club se ha apostado fuerte por la cantera en la modalidad de Voley Play
 Agradecer a todas las firmas colaboradoras que han hecho posible la participación de estos jóvenes deportistas que representarán a Miguelturra y Castilla-La Mancha en este Campeonato de España: Certrade, Fundición Dúctil Molina, Neumáticos Miguelturra, Clínica Dental Sonría, PuntoDidot, Tecnofactory, Multiópticas, Krauf, Casa Loren y Dulce Almacén, además de la Diputación Provincial de Ciudad Real.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20210715%20-%2022%3A20%3A12.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20210715%20-%2022%3A20%3A12.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20210715%20-%2022%3A20%3A12.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20210715%20-%2022%3A20%3A12.png"/> </a> </center>
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20210715%20-%2022%3A16%3A55.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20210715%20-%2022%3A16%3A55.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20210715%20-%2022%3A16%3A55.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20210715%20-%2022%3A16%3A55.png"/> </a> </center>
 

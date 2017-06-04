@@ -21,6 +21,6 @@ En cualquier caso, el objetivo principal del conjunto era estar en la fase nacio
 Por segundo año consecutivo, esta generación estará en un Campeonato de España, en este caso en Murcia del 15 al 19 de Junio, representando a Miguelturra entre los mejores equipos del país. Todo un éxito para la Escuela Deportiva Municipal de Voleibol, desde la que se está realizando un gran trabajo que, en este caso, se ve recompensado con estos magníficos resultados.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202016-04-10%2022%3A44%3A22.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202016-04-10%2022%3A44%3A22.png"/> </a> </center> 
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202016-04-10%2022%3A44%3A22.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202016-04-10%2022%3A44%3A22.png"/> </a> </center> 
 

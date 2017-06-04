@@ -25,6 +25,6 @@ En categoría cadete femenino el ADV volvía a Liga Regional Cadete tras ocho a�
 La próxima semana las senior jugarán como locales ante Tomelloso el domingo a las 12:00 mientras que las juveniles viajaran para enfrentarse a Puertollano Fray Andrés así como las cadetes se desplazarán a Motilla. Para el inicio de las competiciones masculinas habrá que esperar al 22 de este mes, no obstante, los equipos ya están más que mentalizados para comenzar a jugar.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20101114%20-%2000%3A46%3A46.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20101114%20-%2000%3A46%3A46.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20101114%20-%2000%3A46%3A46.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20101114%20-%2000%3A46%3A46.png"/> </a> </center>
 

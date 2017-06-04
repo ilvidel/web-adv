@@ -22,6 +22,6 @@ La categoría Mixto Pro también tendrá una notable presencia en el día de hoy
 La foto del día del Miércoles finalmente ha sido la realizada por Gloria Cortés de la pareja Díaz-Hervás de categoría Mixto Pro que os dejamos adjunta. El día de hoy otra nueva edición de LA FOTO DEL DÍA en esta ocasión la foto que obtenga el premio será la que reciba más retweets!!
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20060815%20-%2018%3A41%3A36.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20060815%20-%2018%3A41%3A36.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20060815%20-%2018%3A41%3A36.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20060815%20-%2018%3A41%3A36.png"/> </a> </center>
 

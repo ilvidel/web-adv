@@ -25,6 +25,6 @@ A pesar de que no han tenido descanso en vacaciones, los juveniles no vuelven a 
 La etapa clave de la temporada comienza ahora, en los próximos meses nuestros equipos podrán ir vislumbrando si se consiguen los objetivos marcados, confiamos en que el esfuerzo de sus frutos.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202016-01-12%2015%3A54%3A41.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202016-01-12%2015%3A54%3A41.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202016-01-12%2015%3A54%3A41.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202016-01-12%2015%3A54%3A41.png"/> </a> </center>
 

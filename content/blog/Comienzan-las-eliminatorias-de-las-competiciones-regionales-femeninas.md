@@ -19,16 +19,16 @@ Las chicas del juvenil A se enfrentarán en octavos de final con el CV Hervás C
 Finalmente el juvenil B jugará la ida de octavos este sábado en casa a las 19:30 ante Escolapios. Las chicas de Manu León tienen un duro reto por delante al tener que recibir a las campeonas de Albacete, sin embargo continúan trabajando para tratar de hacer el mejor papel posible y no dejan de soñar con poder sorprender.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/WhatsApp%20Image%202017-01-14%20at%2016.32.17.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/WhatsApp%20Image%202017-01-14%20at%2016.32.17.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/WhatsApp%20Image%202017-01-14%20at%2016.32.17.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/WhatsApp%20Image%202017-01-14%20at%2016.32.17.jpg"/> </a> </center>
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/WhatsApp%20Image%202017-01-19%20at%2023.56.18.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/WhatsApp%20Image%202017-01-19%20at%2023.56.18.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/WhatsApp%20Image%202017-01-19%20at%2023.56.18.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/WhatsApp%20Image%202017-01-19%20at%2023.56.18.jpg"/> </a> </center>
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/WhatsApp%20Image%202017-01-27%20at%2019.17.59.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/WhatsApp%20Image%202017-01-27%20at%2019.17.59.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/WhatsApp%20Image%202017-01-27%20at%2019.17.59.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/WhatsApp%20Image%202017-01-27%20at%2019.17.59.jpg"/> </a> </center>
 
 
 

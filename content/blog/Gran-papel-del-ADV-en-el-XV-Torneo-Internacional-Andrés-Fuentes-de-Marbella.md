@@ -19,6 +19,6 @@ El club miguelturreño concurría al torneo con dos equipos senior masculino y u
 Para la entrega de trofeos estuvo presente Ángel Trinidad, colocador de la selección española de Voleibol. Gran experiencia para nuestro club dejando alto el nombre del ADV y de Miguelturra y felicitaciones para el club organizador por la buena atención prestada.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/11146508_472849499533761_5632991804977499035_o.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/11146508_472849499533761_5632991804977499035_o.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/11146508_472849499533761_5632991804977499035_o.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/11146508_472849499533761_5632991804977499035_o.jpg"/> </a> </center>
 

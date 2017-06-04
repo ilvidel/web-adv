@@ -23,6 +23,6 @@ Mala suerte en las derrotas ante los equipos gallegos ayer por 3-1 por la mañan
 A pesar de que los resultados no han acompañado, desde el club se valora positivamente la vuelta del ADV Miguelturra a los Campeonatos de España de pista 7 años después, tomando este campeonato como base para los próximos años en los que el objetivo será seguir clasificando para fases nacionales e ir escalando puestos poco a poco.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Ako17K02x02jXbBks67mVvoeDXxvR5RL0KorIhpCYQs4.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Ako17K02x02jXbBks67mVvoeDXxvR5RL0KorIhpCYQs4.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Ako17K02x02jXbBks67mVvoeDXxvR5RL0KorIhpCYQs4.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Ako17K02x02jXbBks67mVvoeDXxvR5RL0KorIhpCYQs4.jpg"/> </a> </center>
 

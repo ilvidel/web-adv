@@ -20,8 +20,8 @@ En categoría sub-21 masculino final miguelturreña entre las parejas Brígido/G
 No pudieron repetir título en sub-19 masculino la joven pareja Fernández/Sánchez que cayó por un ajustado 2-1 en la final ante los guadalajareños Pérez/Tirado. Gran labor en cualquier caso de los nuestros que ya suman dos medallas en sub-19 a pesar de su corta edad y que estarán en Arona (Tenerife) en el Campeonato de España del 21 al 23 de Julio. También el bronce en esta categoría se quedó en casa de la mano de la pareja Ruiz/Sobrino, al igual que en femenino, donde la pareja miguelturreña Gómez/Sánchez repitieron el bronce logrado el año anterior al repetirse la final entre las hermanas García/García de Guadalajara y las primas puertollaneras Arroyo/Arroyo.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202016-06-27%2017%3A24%3A23.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202016-06-27%2017%3A24%3A23.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202016-06-27%2017%3A24%3A23.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202016-06-27%2017%3A24%3A23.png"/> </a> </center>
 
 
 

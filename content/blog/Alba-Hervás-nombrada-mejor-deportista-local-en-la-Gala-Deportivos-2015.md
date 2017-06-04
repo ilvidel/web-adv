@@ -22,6 +22,6 @@ Alba, quien recibió el galardón de manos del histórico jugador de balonmano R
 Desde el club no se oculta la alegría por el hecho de que haya jugadores y jugadoras jóvenes que ponen tan arriba el nombre de nuestra asociación y, en vista de los buenos resultados, se seguirá apostando por la base. También se aprovecha para felicitar a nominados y finalistas y agradecer a la Concejalía el seguir contando con nuestro club para colaborar con la gala, como se lleva haciendo ya tres años.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/lote-2-gala-deportivos-2015-fuente-area-de-comunicacion-municipal-048.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/lote-2-gala-deportivos-2015-fuente-area-de-comunicacion-municipal-048.jpg"/> </a> </center> 
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/lote-2-gala-deportivos-2015-fuente-area-de-comunicacion-municipal-048.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/lote-2-gala-deportivos-2015-fuente-area-de-comunicacion-municipal-048.jpg"/> </a> </center> 
 

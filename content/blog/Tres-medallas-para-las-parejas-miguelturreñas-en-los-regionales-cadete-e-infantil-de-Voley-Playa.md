@@ -22,6 +22,6 @@ En categoría cadete femenino Lola Albiñana y Andrea Carrillo rozaron la medall
 En infantil masculino las parejas churriegas no pudieron alcanzar las semis. Tanto Marcos e Iván como Pablo y Dani cayeron en los cuartos de final, no obstante quedan muchas esperanzas depositadas en este grupo de chicos en el que la mayoría aún son de primer año.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/medRegVP.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/medRegVP.jpg"/> </a> </center> 
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/medRegVP.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/medRegVP.jpg"/> </a> </center> 
 

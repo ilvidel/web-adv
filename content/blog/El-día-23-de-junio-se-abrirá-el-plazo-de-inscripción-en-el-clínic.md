@@ -23,12 +23,12 @@ Al igual que otros años hemos tratado de mantener una cuota que no impida a los
 Las plazas son limitadas y se asignarán por riguroso orden de inscripción, los alumnos de la escuela de voleibol tendrán preferencia para inscribirse los días 23 y 24 de junio, quedando el plazo abierto a todo el público por igual entre los días 25 de junio y 2 de julio. El límite de plazas por categoría y el resto de información la tienen en el cartel adjunto, así mismo informamos que en la web www.advmiguelturra.org/clinic se irá añadiendo toda la información acerca del clínic.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20-%20160614%20-%2015%3A06%3A52.png"> 
-<img alt="Trio VP" width="75%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20-%20160614%20-%2015%3A06%3A52.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20-%20160614%20-%2015%3A06%3A52.png"> 
+<img alt="Trio VP" width="75%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20-%20160614%20-%2015%3A06%3A52.png"/> </a> </center>
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20-%20160614%20-%2015%3A06%3A23.png"> 
-<img alt="Trio VP" width="75%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20-%20160614%20-%2015%3A06%3A23.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20-%20160614%20-%2015%3A06%3A23.png"> 
+<img alt="Trio VP" width="75%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20-%20160614%20-%2015%3A06%3A23.png"/> </a> </center>
 
 
 

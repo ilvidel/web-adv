@@ -21,6 +21,6 @@ A los juveniles les tocará medirse al CV Hervás B, un equipo que, a pesar de s
 De nuevo el público será el apoyo indispensable para mantener arriba a nuestros equipos en los momentos decisivos que con toda seguridad se vivirán el sábado en el Pabellón Municipal dada la igualdad entre rivales ¡¡¡Estáis todos invitados!!!
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202016-12-08%2011-30-36.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202016-12-08%2011-30-36.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202016-12-08%2011-30-36.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202016-12-08%2011-30-36.png"/> </a> </center>
 

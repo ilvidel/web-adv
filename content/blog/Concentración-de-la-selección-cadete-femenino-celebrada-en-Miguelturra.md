@@ -19,7 +19,7 @@ La elegida por la delegación provincial para dirigir la selección este año es
 Entre las 12 convocadas para el campeonato 5 miguelturreñas: Alba Hervás, Lorena Sánchez, Eva Rivera, Megan Jane Howard y Rebeca Matas.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20-%20060514%20-%2023%3A03%3A24.png"> 
-<img width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20-%20060514%20-%2023%3A03%3A24.png"/> </a>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20-%20060514%20-%2023%3A03%3A24.png"> 
+<img width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20-%20060514%20-%2023%3A03%3A24.png"/> </a>
 </center>
 

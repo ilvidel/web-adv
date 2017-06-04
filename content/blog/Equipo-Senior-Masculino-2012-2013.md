@@ -12,8 +12,8 @@
 }
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/A8jSMWdCUAIvT2X.jpg">
-<img alt="El equipo senior masculino en Talavera" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/A8jSMWdCUAIvT2X.jpg"/> </a>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/A8jSMWdCUAIvT2X.jpg">
+<img alt="El equipo senior masculino en Talavera" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/A8jSMWdCUAIvT2X.jpg"/> </a>
 </center>
 
 <p>&nbsp;</p>

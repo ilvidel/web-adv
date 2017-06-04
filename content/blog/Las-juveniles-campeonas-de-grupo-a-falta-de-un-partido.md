@@ -20,8 +20,8 @@ La primera meta que plantearon al inicio de temporada los entrenadores Miriam S�
 Mucha es la ilusión depositada en este equipo que, tras dos años al borde de entrar en la fase final, cuenta con el apoyo incondicional de todo el club para superar la barrera de los cuartos de final en este 2016. El nivel demostrado hasta ahora es el adecuado, pero en palabras de Marta Nieto, veterana del grupo, "estamos orgullosas de los resultados pero también trabajamos duro para lo que viene ahora, pensando en luchar hasta el último punto y poder conseguir más logros".
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/20160117074252.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/20160117074252.jpg"/> </a> </center> 
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/20160117074252.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/20160117074252.jpg"/> </a> </center> 
 
 
 

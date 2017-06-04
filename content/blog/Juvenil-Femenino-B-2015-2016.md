@@ -12,9 +12,9 @@
 }
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/juvfem-b-15-16.jpg">
-<!--img alt="El equipo juvenil femenino" width="100%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/no-photo-yet.png"/-->
-<img alt="El equipo juvenil femenino" width="100%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/juvfem-b-15-16.jpg"/>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/juvfem-b-15-16.jpg">
+<!--img alt="El equipo juvenil femenino" width="100%" align="center" src="http://www.advmiguelturra.org/img/banners/no-photo-yet.png"/-->
+<img alt="El equipo juvenil femenino" width="100%" align="center" src="http://www.advmiguelturra.org/img/banners/juvfem-b-15-16.jpg"/>
 </a>
 </center>
 

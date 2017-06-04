@@ -29,6 +29,6 @@ El filial senior masculino sigue sin conocer la victoria tras desplazarse a Alba
 Cabe señalar que el próximo sábado en Albacete los equipos infantil y cadete masculinos jugarán la segunda concentración de la fase regional, donde volverán a medirse con algunos de los mejores equipos de la región.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/10914805_427556370733005_2260183147455217816_o.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/10914805_427556370733005_2260183147455217816_o.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/10914805_427556370733005_2260183147455217816_o.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/10914805_427556370733005_2260183147455217816_o.jpg"/> </a> </center>
 

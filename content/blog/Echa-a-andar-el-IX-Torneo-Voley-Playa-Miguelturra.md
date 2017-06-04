@@ -20,6 +20,6 @@ El record de inscripciones se ha visto superado otro año más llegando a un tot
 Esta última categoría ya quedó finalizada ayer domingo tras vencer en la final Álvaro y Noe a Colacao Con Leche mientras que el tercer puesto fue para la pareja Illescas Gallego. Durante el resto de la semana continuaremos con las demás categorías de las cuales ya se están jugando partidos en todas ellas siendo el colofón el fin de semana cuando vendrán todas las parejas de fuera y se pondrá fin al espectáculo el domingo día 10 con las finales.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Inauguracion.jpg"> 
-<img alt="Trio VP" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Inauguracion.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Inauguracion.jpg"> 
+<img alt="Trio VP" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Inauguracion.jpg"/> </a> </center>
 

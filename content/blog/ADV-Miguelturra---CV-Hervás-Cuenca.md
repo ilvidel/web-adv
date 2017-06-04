@@ -47,7 +47,7 @@ Cuenca no se dio por vencido antes de tiempo, intentó lo imposible y siguió lu
 La alegría se instauró en el equipo local al final del partido agradeciendo a su afición el gran apoyo que le había brindado, los dirigentes del club ademas de mostrar su orgullo y satisfacción por la victoria de sus jugadoras, manifestaban que si al final como todos presumen, el equipo queda campeón de liga, estarían encantados de poder organizar la futura fase de ascenso a nivel nacional en nuestro pueblo y harán todo lo posible para que así sea.  
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20-%20100214%20-%2017%3A34%3A47.png"> 
-<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20-%20100214%20-%2017%3A34%3A47.png"/> </a>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20-%20100214%20-%2017%3A34%3A47.png"> 
+<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20-%20100214%20-%2017%3A34%3A47.png"/> </a>
 </center>
 

@@ -19,8 +19,8 @@ La anterior visita fue todo un éxito, tras una exhibición por parte de los jug
 Para completar la jornada de voleibol, la tarde del sábado 18 los senior junto con las juveniles y senior femenino viajarán también a Puertollano para disputar sendos encuentros amistosos (a las 16:00, 18:00 y 20:00) y devolver al CV Puertollano la visita que nos hicieron el pasado 5 de octubre.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202013-10-14%2023%3A37%3A10.png"> 
-<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202013-10-14%2023%3A37%3A10.png"/> </a>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202013-10-14%2023%3A37%3A10.png"> 
+<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202013-10-14%2023%3A37%3A10.png"/> </a>
 </center>
 
 

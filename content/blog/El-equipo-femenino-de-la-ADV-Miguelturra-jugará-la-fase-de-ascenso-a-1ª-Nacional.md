@@ -12,7 +12,7 @@
 }
 
 <center>
-<img src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202013-05-08%2000%3A09%3A10.png" height="300" width="400"/> </center>   
+<img src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202013-05-08%2000%3A09%3A10.png" height="300" width="400"/> </center>   
 
 
      Terminada la liga regular de la Segunda División femenina de voleibol, el equipo de la ADV Miguelturra, no ha podido revalidar el titulo conseguido el año anterior, aunque si un meritorio segundo puesto que les da acceso a disputar la fase de ascenso a nivel nacional, que este año se celebrara en la localidad extremeña de Badajoz, los días  10, 11 y 12 de Mayo.
@@ -29,5 +29,5 @@ Los equipos participantes son C.V.Coslada y Mintonette CV Pozuelo por la Comunid
      Las chicas de la ADV Miguelturra que el año pasado ya disputaron esta competición quedando en tercer lugar, es el único equipo que repite este año, y tienen el objetivo de poder mejorar la clasificación del curso pasado pero sobre todo vivir una gran experiencia deportiva y acabar la temporada con un buen sabor de boca. 
 
 <center>
-<img src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202013-05-08%2000%3A10%3A50.png" height="300" width="400"/> </center>
+<img src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202013-05-08%2000%3A10%3A50.png" height="300" width="400"/> </center>
 

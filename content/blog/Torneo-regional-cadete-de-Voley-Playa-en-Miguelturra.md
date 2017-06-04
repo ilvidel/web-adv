@@ -23,13 +23,13 @@ A continuación os dejamos los cuadros de competición que tendrán que afrontar
 
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Cuadro%20masculino.jpg"> 
-<img width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Cuadro%20masculino.jpg"/> </a>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Cuadro%20masculino.jpg"> 
+<img width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Cuadro%20masculino.jpg"/> </a>
 </center>
 
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Cuadro%20femenino.jpg"> 
-<img width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Cuadro%20femenino.jpg"/> </a>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Cuadro%20femenino.jpg"> 
+<img width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Cuadro%20femenino.jpg"/> </a>
 </center>
 

@@ -19,6 +19,6 @@ http://www.advmiguelturra.org/vplaya/torneo/index.html
 Recuerda que las plazas son limitadas y no lo dejes para el último día!! Todo apunta a que este año será una edición memorable, no te lo pierdas anímate a practicar Voley Playa!!
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Cartel%20definitivo%20peq.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Cartel%20definitivo%20peq.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Cartel%20definitivo%20peq.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Cartel%20definitivo%20peq.jpg"/> </a> </center>
 

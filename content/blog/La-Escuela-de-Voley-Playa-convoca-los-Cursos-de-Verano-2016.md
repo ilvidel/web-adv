@@ -22,6 +22,6 @@ Toda la información está en el cartel y en el siguiente enlace: http://www.adv
 Recuerda que las plazas son limitadas!!
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202016-06-03%2013%3A12%3A58.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202016-06-03%2013%3A12%3A58.png"/> </a> </center> 
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202016-06-03%2013%3A12%3A58.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202016-06-03%2013%3A12%3A58.png"/> </a> </center> 
 

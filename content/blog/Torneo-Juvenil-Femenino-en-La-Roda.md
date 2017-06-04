@@ -22,7 +22,7 @@ Confíamos en que nuestras chicas traigan la copa bajo el brazo.
 Os dejamos adjunto el cartel del torneo.
 
 <center>
-<img src="http://www.advmiguelturra.org/drupal/sites/default/files/torneo%20femenino%202013.jpg" width="100%"/> </center>
+<img src="http://www.advmiguelturra.org/img/banners/torneo%20femenino%202013.jpg" width="100%"/> </center>
 
 
 

@@ -24,8 +24,8 @@ En categoría mixto especial interés a los duelos locales entre Cortés-Rodado 
 Para terminar que no se nos olvide recordar que hoy arranca el concurso Foto del día del Voley Playa, las bases las tendréis en breve en twitter y facebook, la mejor foto del torneo que nos envieis esta noche... tendrá premio!!
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20050815%20-%2015%3A56%3A08.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20050815%20-%2015%3A56%3A08.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20050815%20-%2015%3A56%3A08.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20050815%20-%2015%3A56%3A08.png"/> </a> </center>
 
 
 

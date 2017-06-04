@@ -22,8 +22,8 @@ Con estos resultados nuestros cuatro jugadores consiguen la plaza para el Campeo
 Gran trabajo el que vienen haciendo estos chicos y chicas que con toda seguridad continuarán dando éxitos al voley playa miguelturreño. El próximo sábado 13 tendrá lugar el regional infantil también en Playas del Vicario y confiamos en que nuestros equipos sigan sumando medallas a su haber.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/medallistas.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/medallistas.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/medallistas.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/medallistas.jpg"/> </a> </center>
 
 
 

@@ -24,8 +24,8 @@ En el caso del equipo infantil de Liga Regional también se cruzarán con el CD 
 El público, como siempre, volverá a ser un elemento clave para el éxito de nuestros equipos femeninos de categorías inferiores. Contamos con toda la afición!!
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202016-02-12%2011%3A01%3A48.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202016-02-12%2011%3A01%3A48.png"/> </a> </center> 
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202016-02-12%2011%3A01%3A48.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202016-02-12%2011%3A01%3A48.png"/> </a> </center> 
 
 
 

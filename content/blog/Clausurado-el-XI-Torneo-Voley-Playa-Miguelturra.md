@@ -61,6 +61,6 @@ MIXTO AFICIONADO
 3º Álvaro y Noe
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/WhatsApp%20Image%202016-08-09%20at%2016.50.33.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/WhatsApp%20Image%202016-08-09%20at%2016.50.33.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/WhatsApp%20Image%202016-08-09%20at%2016.50.33.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/WhatsApp%20Image%202016-08-09%20at%2016.50.33.jpg"/> </a> </center>
 

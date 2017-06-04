@@ -28,16 +28,16 @@ Toda la información en www.advmiguelturra.org/clinic
 
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/IMG_20150626_163124.jpg"> 
-<img alt="Imagen del partido" width="70%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/IMG_20150626_163124.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/IMG_20150626_163124.jpg"> 
+<img alt="Imagen del partido" width="70%" align="center" src="http://www.advmiguelturra.org/img/banners/IMG_20150626_163124.jpg"/> </a> </center>
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20260615%20-%2017%3A00%3A11.png"> 
-<img alt="Imagen del partido" width="70%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20260615%20-%2017%3A00%3A11.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20260615%20-%2017%3A00%3A11.png"> 
+<img alt="Imagen del partido" width="70%" align="center" src="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20260615%20-%2017%3A00%3A11.png"/> </a> </center>
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/contraClinic.jpg"> 
-<img alt="Imagen del partido" width="70%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/contraClinic.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/contraClinic.jpg"> 
+<img alt="Imagen del partido" width="70%" align="center" src="http://www.advmiguelturra.org/img/banners/contraClinic.jpg"/> </a> </center>
 
 
 

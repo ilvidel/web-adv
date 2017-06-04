@@ -39,4 +39,4 @@ en el que se encontrarán con los mejores equipos del país.
 
 Enhorabuena!!
 
-<img width="100%" src="http://www.advmiguelturra.org/drupal/sites/default/files/WhatsApp%20Image%202017-05-20%20at%2013.59.26.jpg"/>
+<img width="100%" src="http://www.advmiguelturra.org/img/banners/WhatsApp%20Image%202017-05-20%20at%2013.59.26.jpg"/>

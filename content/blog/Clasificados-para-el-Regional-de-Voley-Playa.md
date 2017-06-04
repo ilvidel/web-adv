@@ -19,7 +19,7 @@
 
 <p>Se disputaron un total de 70 partidos, en los que participaron alrededor de 100 chicos y chicas, finalizando la competición a las 8 de la tarde con la entrega de los trofeos por parte de Dña. Victoria Sobrino, Teniente Alcalde del Excmo. Ayuntamiento de Miguelturra, y D. Eduardo Zurita, Concejal de Deporte también del Excmo. Ayuntamiento de Miguelturra.</p>
 
-<img src="http://www.advmiguelturra.org/drupal/sites/default/files/DSC_0210.JPG" alt="Campeonato Provincial Escolar de Voley-Playa" width="100%"/>
+<img src="http://www.advmiguelturra.org/img/banners/DSC_0210.JPG" alt="Campeonato Provincial Escolar de Voley-Playa" width="100%"/>
 
 <p>Los primeros puestos, y por ello, clasificados para el Campeonato Regional que se celebrará el día 7 de Junio en categoría cadete y 14 de Junio en categoría infantil, en Miguelturra y Guadalajara respectivamente fueron:</p>
 

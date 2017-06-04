@@ -21,7 +21,7 @@ Desde la organización el sabor de boca es satisfactorio y afirman que lo normal
 Por su parte el torneo infantil 4x4 finalizó el viernes 13 con victoria en categoría infantil para Los Plus y segunda posición para Los Cabechas. En categoría alevín el título fue para Los Gatusos. Éxito también de este torneo infantil con la participación de un total de 10 equipos.
 
 <center>
-<img src="http://www.advmiguelturra.org/drupal/sites/default/files/IMG-20130916-WA0000.jpg" height="420" width="600"/> </center>
+<img src="http://www.advmiguelturra.org/img/banners/IMG-20130916-WA0000.jpg" height="420" width="600"/> </center>
 
 
 

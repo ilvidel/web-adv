@@ -18,8 +18,8 @@ Lola Albiñana en cadete femenino, Amelia Briñas y Araceli Yébenes en infantil
 Una representación miguelturreña que vuelve a poner a nuestro club entre los que más jugadores proporcionan a las selecciones, con un número creciente en los últimos años y dejando ya lejos las temporadas en que Miguelturra no contaba para las selecciones. Gran trabajo de estos chicos y chicas y de los monitores de las Escuelas Deportivas, esperemos que sigan viniendo noticias como estas en las próximas temporadas.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/WhatsApp%20Image%202017-04-06%20at%2017.54.51.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/WhatsApp%20Image%202017-04-06%20at%2017.54.51.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/WhatsApp%20Image%202017-04-06%20at%2017.54.51.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/WhatsApp%20Image%202017-04-06%20at%2017.54.51.jpg"/> </a> </center>
 
 
 

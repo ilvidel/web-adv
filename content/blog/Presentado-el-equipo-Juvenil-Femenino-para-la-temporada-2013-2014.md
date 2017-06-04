@@ -12,8 +12,8 @@
 }
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202013-09-18%2016%3A55%3A37.png"> 
-<img alt="El equipo juvenil femenino" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202013-09-18%2016%3A55%3A37.png"/> </a>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202013-09-18%2016%3A55%3A37.png"> 
+<img alt="El equipo juvenil femenino" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202013-09-18%2016%3A55%3A37.png"/> </a>
 </center>
 
 Tras 5 semanas de pretemporada el pasado martes 17 de septiembre quedó cerrada la plantilla que conformará el equipo juvenil femenino durante la campaña 2013/2014.

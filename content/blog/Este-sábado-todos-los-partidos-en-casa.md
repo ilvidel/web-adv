@@ -22,6 +22,6 @@ Los equipos escolares femeninos de liga regional recibirán a Membrilla tras las
 El senior masculino A jugará un amistoso en el Pabellón del Colegio El Cristo a las 17:00 ante el CV Atlético Puertollano para ultimar detalles de cara al inicio de liga. La próxima semana comenzarán los equipos masculinos federados sus ligas.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/cartel-partidos-finde%20%281%29.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/cartel-partidos-finde%20%281%29.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/cartel-partidos-finde%20%281%29.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/cartel-partidos-finde%20%281%29.png"/> </a> </center>
 

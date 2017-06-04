@@ -26,8 +26,8 @@ Varios fueron los acuerdos alcanzados en la reunión, cabe destacar:
 - Colaboración en actividades de fomento del Voley Playa a todos los ámbitos.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/junta%20directiva.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/junta%20directiva.jpg"/> </a> </center> 
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/junta%20directiva.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/junta%20directiva.jpg"/> </a> </center> 
 
 
 

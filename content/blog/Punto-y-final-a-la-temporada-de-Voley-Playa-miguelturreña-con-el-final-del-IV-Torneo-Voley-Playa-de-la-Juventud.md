@@ -35,6 +35,6 @@ Cadete Masculino
 2º: Alejandro Fernández y Sergio Sobrino
 
 <center>
-<img src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202013-08-20%2018%3A03%3A47.png" height="360" width="480"/> </center>
+<img src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202013-08-20%2018%3A03%3A47.png" height="360" width="480"/> </center>
 
 

@@ -26,7 +26,7 @@ El conjunto cadete masculino, tendrá una última oportunidad de distanciarse de
 Finalmente, las cadetes jugarán el sábado a las 13:00 en el Pabellón El Cristo ante CV Albacete en la ida de los cuartos de final regional. Complicado partido para un equipo que tratará de seguir dando ruido en esta Liga Regional a la que retornaban después de muchos años fuera de la misma. Tras los buenos resultados de la fase de grupos y de superar los octavos de final, las miguelturreñas confían en ascender un peldaño más y tratar de plantarse en toda una fase final regional, para ello será básico el apoyo de la afición churriega a la que animamos a acercarse por allí a arropar a las nuestras.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20130315%20-%2014%3A12%3A36.png"> 
-<img alt="Imagen del partido" width="60%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20130315%20-%2014%3A12%3A36.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20130315%20-%2014%3A12%3A36.png"> 
+<img alt="Imagen del partido" width="60%" align="center" src="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20130315%20-%2014%3A12%3A36.png"/> </a> </center>
 
 

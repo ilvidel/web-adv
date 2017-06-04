@@ -20,6 +20,6 @@ Este año el torneo se centrará en los nacidos entre 1998 y 2003 y para facilit
 Junto a este torneo, el XXXIII Trofeo Villa Miguelturra que se celebrará el sábado 20 completa las actividades de nuestro club para ferias, sirviendo estos eventos como punto de arranque para las escuelas deportivas de voleibol a través del voley hierba y para los equipos federados a través del Villa Miguelturra.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20090914%20-%2023%3A48%3A31.png"> 
-<img alt="Trio VP" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20090914%20-%2023%3A48%3A31.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20090914%20-%2023%3A48%3A31.png"> 
+<img alt="Trio VP" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20090914%20-%2023%3A48%3A31.png"/> </a> </center>
 

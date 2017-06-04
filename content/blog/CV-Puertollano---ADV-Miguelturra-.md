@@ -49,7 +49,7 @@ La tercera manga fue mucho más equilibrada, la ADV realizo numerosos cambios de
 La próxima semana, el equipo tiene jornada de descanso, por lo que no volverá a competir hasta el día 22 de Marzo, que se enfrentara al Ciudad de Guadalajara en la que sera la penúltima jornada de liga.  
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/IMG-20140310-WA0004.jpg"> 
-<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/IMG-20140310-WA0004.jpg"/> </a>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/IMG-20140310-WA0004.jpg"> 
+<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/IMG-20140310-WA0004.jpg"/> </a>
 </center>
 

@@ -24,7 +24,7 @@ Viajando fuera de casa tendremos a las cadetes y a las juveniles. Las primeras i
 Os animamos a todos a pasar por el Pabellón Municipal a disfrutar del mejor voleibol de la provincia!
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/jornada14-12-13.jpg"> 
-<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/jornada14-12-13.jpg"/> </a>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/jornada14-12-13.jpg"> 
+<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/jornada14-12-13.jpg"/> </a>
 </center>
 

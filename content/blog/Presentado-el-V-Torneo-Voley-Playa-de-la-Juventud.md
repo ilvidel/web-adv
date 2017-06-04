@@ -27,6 +27,6 @@ El torneo está organizado por el ADV Miguelturra en colaboración con la Concej
 El resto de información está disponible en el cartel del torneo.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/VTorneoJuventudCartel.jpg"> 
-<img alt="Trio VP" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/VTorneoJuventudCartel.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/VTorneoJuventudCartel.jpg"> 
+<img alt="Trio VP" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/VTorneoJuventudCartel.jpg"/> </a> </center>
 

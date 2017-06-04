@@ -21,6 +21,6 @@ Un total de 12 equipos formados por jóvenes entre 11 y 15 años acudieron duran
 El conjunto de actividades organizadas por el ADV con motivo de las fiestas se verá completado el próximo sábado 20 con la celebración del XXXIII Torneo Villa Miguelturra en el Pabellón Municipal.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/IMG_20140912_192618.jpg"> 
-<img alt="Trio VP" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/IMG_20140912_192618.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/IMG_20140912_192618.jpg"> 
+<img alt="Trio VP" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/IMG_20140912_192618.jpg"/> </a> </center>
 

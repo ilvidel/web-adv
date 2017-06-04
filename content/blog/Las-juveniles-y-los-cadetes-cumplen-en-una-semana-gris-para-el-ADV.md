@@ -26,8 +26,8 @@ Noticias tristes también desde Guadalajara donde los equipos de Liga Regional F
 Jornada poco positiva para nuestro club que deja a un buen número de nuestros equipos sin poder conseguir sus objetivos. Por contra, cadete masculino y juvenil femenino se ven un poco más cerca, así como juvenil masculino y senior femenino tendrán que pelear en las próximas jornadas para lograr los suyos.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202016-02-22%2011%3A24%3A23.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202016-02-22%2011%3A24%3A23.png"/> </a> </center> 
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202016-02-22%2011%3A24%3A23.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202016-02-22%2011%3A24%3A23.png"/> </a> </center> 
 
 
 

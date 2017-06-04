@@ -23,6 +23,6 @@ La otra clave del partido será la afición, esperándose numeroso público para
 En otro orden, las juveniles se desplazarán el domingo a Motilla del Palancar para enfrentarse al único equipo con el que aún no se han visto las caras, confiando en lograr la victoria para mantener el liderato y continuar con la inmaculada campaña que están protagonizando en la que aún no han cedido ni un solo set, imponiéndose en todos los encuentros con claridad.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/cartel%2028-11-15.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/cartel%2028-11-15.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/cartel%2028-11-15.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/cartel%2028-11-15.jpg"/> </a> </center>
 

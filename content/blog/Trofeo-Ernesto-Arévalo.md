@@ -14,7 +14,7 @@ Con motivo de homenajear a nuestro expresidente, exentrenador y miembro fundador
 El torneo se compondrá de dos partes: por la mañana torneo juvenil femenino con el formato que podéis ver en el cartel:
 
 <center>
-<img src="http://www.advmiguelturra.org/drupal/sites/default/files/CARTEL_ERNESTO%20%20%28copia%29.jpg" height="550" width="400"/> </center>
+<img src="http://www.advmiguelturra.org/img/banners/CARTEL_ERNESTO%20%20%28copia%29.jpg" height="550" width="400"/> </center>
 
 Por la mañana también habrá un partido cadete masculino entre los equipos del ADV Miguelturra y del CV Tomelloso aunque no aparezca en el cartel.
 
@@ -23,7 +23,7 @@ Por la tarde continuaremos con más partidos, entre tales partidos se hará entr
 Os dejamos el cartel de la tarde:
 
 <center>
-<img src="http://www.advmiguelturra.org/drupal/sites/default/files/trofeoErnestoArevalo.jpg" height="550" width="400"/> </center>
+<img src="http://www.advmiguelturra.org/img/banners/trofeoErnestoArevalo.jpg" height="550" width="400"/> </center>
 
 Por la noche para cerrar el día habrá una cena de hermandad de todos aquellos que quieran acudir. 
 

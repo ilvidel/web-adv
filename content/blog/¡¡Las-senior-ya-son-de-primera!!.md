@@ -24,8 +24,8 @@ La victoria en semifinales les daba ya el billete a la primera división y para 
 Felicidades a todas las jugadoras y a su entrenador y mucho ánimo de cara a la prometedora temporada que nos espera el año próximo de nuevo en categoría nacional.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20110515%20-%2000%3A48%3A47.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20110515%20-%2000%3A48%3A47.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20110515%20-%2000%3A48%3A47.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20110515%20-%2000%3A48%3A47.png"/> </a> </center>
 
 
 

@@ -20,5 +20,5 @@ Ambos jugadores militan en el equipo cadete masculino del ADV Miguelturra con el
 El equipo estará concentrado en Guadalajara desde el día 5 de dicho mes para preparar el torneo. Castilla-La Mancha peleará de inicio en el grupo preferente B junto a Asturias y Melilla y los nuestros tratarán de aportar al grupo su granito de arena para luchar por conseguir medalla.
 
 <center>
-<img alt="Remontada ADV" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20250315%20-%2010%3A44%3A49.png"/> </center>
+<img alt="Remontada ADV" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20250315%20-%2010%3A44%3A49.png"/> </center>
 

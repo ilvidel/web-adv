@@ -27,6 +27,6 @@ ADV Miguelturra 2 - 0 CVP Poniente [2º Com. Valenciana] (15-12, 15-11)
 ADV Miguelturra 1 - 2 IMD Laredo [2º Cantabria] (15-13, 12-15, 8-10)
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/IMG_20150718_131938.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/IMG_20150718_131938.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/IMG_20150718_131938.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/IMG_20150718_131938.jpg"/> </a> </center>
 

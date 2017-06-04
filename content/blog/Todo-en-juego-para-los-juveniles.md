@@ -20,7 +20,7 @@ El conjunto juvenil tendrá que enfrentarse en dos ocasiones en febrero al CV He
 Duro camino por recorrer en el próximo mes de febrero en el que se espera que se vea reflejado todo el trabajo realizado en estos meses, el equipo necesitará el apoyo de toda la afición para crecerse y poder cumplir sus objetivos, de momento, la próxima cita este sábado en el Pabellón Municipal a las 17:00. Los chicos del juvenil os esperan!!
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/IMG-20160124-WA0015.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/IMG-20160124-WA0015.jpg"/> </a> </center> 
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/IMG-20160124-WA0015.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/IMG-20160124-WA0015.jpg"/> </a> </center> 
 
 

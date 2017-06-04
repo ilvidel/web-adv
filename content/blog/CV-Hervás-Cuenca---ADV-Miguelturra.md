@@ -42,7 +42,7 @@ El cuarto set fue mas o menos un calco del tercero,las chicas de la ADV, muy con
 El proximo sabado 23 de Noviembre a las 16:30 en el Pabellon Municipal de Miguelturra, el equipo femenino de la ADV Miguelturra dubutará en casa ante el CV Albacete, teniendo que mantener el buen nivel de juego si quiere seguir al frente de la clasificación, ya que se enfrenta ante otro de los equipos fuertes de la competición.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202013-11-18%2015%3A39%3A33.png"> 
-<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202013-11-18%2015%3A39%3A33.png"/> </a>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202013-11-18%2015%3A39%3A33.png"> 
+<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202013-11-18%2015%3A39%3A33.png"/> </a>
 </center>
 

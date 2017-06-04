@@ -23,6 +23,6 @@ Los equipos masculinos comenzarán la liga el 14 de Noviembre mientras que los e
 Los que aún no habéis visitado el Pabellón Municipal esta semana, tenéis una buena oportunidad para hacerlo!!
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/cartel-partidos-finde.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/cartel-partidos-finde.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/cartel-partidos-finde.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/cartel-partidos-finde.png"/> </a> </center>
 

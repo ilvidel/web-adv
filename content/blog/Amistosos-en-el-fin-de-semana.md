@@ -23,7 +23,7 @@ Por la tarde también también se enfrentarán estos dos clubes pero en este cas
 El plato fuerte será por la tarde en el Pabellón El Cristo con el triangular senior masculino entre ADV Miguelturra, CV Puertollano y los extremeños de la ADV Miajadas. Los chicos de Pablo Muñoz tratarán de inaugurar su casillero de victorias tras caer ante AD Rivas Voleibol y CV Pinto. Los horarios los tenéis en el cartel adjunto.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/cartelTriangularMiajadas.jpg"> 
-<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/cartelTriangularMiajadas.jpg"/> </a>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/cartelTriangularMiajadas.jpg"> 
+<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/cartelTriangularMiajadas.jpg"/> </a>
 </center>
 

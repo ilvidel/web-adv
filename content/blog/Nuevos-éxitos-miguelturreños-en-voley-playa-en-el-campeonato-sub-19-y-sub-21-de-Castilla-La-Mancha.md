@@ -22,8 +22,8 @@ También hubo éxitos para los miguelturreños en categoría sub-19 masculina au
 No se pudo obtener medalla en categoría sub-19 femenino aunque cabe destacar el buen resultado de las miguelturreñas Lorena Sánchez y Eva Rivera (15 años ambas) que se plantaron en semifinales ganando a varias parejas de mayor edad y que garantizan el futuro en el voley playa de nuestra localidad.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20-%20220614%20-%2018%3A31%3A32.png"> 
-<img alt="Trio VP" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20-%20220614%20-%2018%3A31%3A32.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20-%20220614%20-%2018%3A31%3A32.png"> 
+<img alt="Trio VP" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20-%20220614%20-%2018%3A31%3A32.png"/> </a> </center>
 
 Podios:
 

@@ -25,6 +25,6 @@ El objetivo, como siempre, disfrutar y hacer disfrutar tanto a jugadores como es
 Además del patrocinador oficial Amstel Radler, agradecimientos al patrocinador Distribuciones Sacra, a las instituciones colaboradoras Diputación Provincial de Ciudad Real y Ayuntamiento de Miguelturra y a las firmas Iveco Veimancha, Tresa Automoción, Azul S.L. Lavandería Industrial, Movistar, Viajes Rodrigo, Pinturas Ruma, Enova ic, Optica Lara, Mesón Las Tejas, Globalcaja, Lo Nuestro Cafe&Copas, Pan Real, Errea, Cafetería Ramón, Mesón-Restaurante Casa Loren, Gestión Integral Lozano Arenas, Julian Tejidos, Aranda Fotógrafos y Administración de Loterías Miguelturra.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/cartelVP.jpg"> 
-<img alt="Trio VP" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/cartelVP.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/cartelVP.jpg"> 
+<img alt="Trio VP" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/cartelVP.jpg"/> </a> </center>
 

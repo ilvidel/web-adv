@@ -24,8 +24,8 @@ Noticia: Miguel Astilleros
 Foto: Jesús Nieto
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/SF.JPG"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/SF.JPG"/> </a> </center> 
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/SF.JPG"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/SF.JPG"/> </a> </center> 
 
 
         

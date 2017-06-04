@@ -18,7 +18,7 @@ Con más de 20 temporadas jugando en el club, Diego es el jugador con más parti
 Todo esto, sumado a que todos los que hemos pasado por el ADV lo consideramos un ejemplo de trabajo y sacrificio por el club, ha llevado a tener este pequeño detalle con el mítico 15 del ADV, el cual esperemos que sirva de incentivo para que siga acompañándonos en el club durante muchos más años.
 
 <center>
-<img src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202013-10-06%2017%3A07%3A04.png" height="450" width="600"/> </center>
+<img src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202013-10-06%2017%3A07%3A04.png" height="450" width="600"/> </center>
 
 
 

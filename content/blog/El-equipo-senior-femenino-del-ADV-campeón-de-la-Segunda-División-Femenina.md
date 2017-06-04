@@ -24,7 +24,7 @@ Felicitar a las chicas por su magnífica labor y agradecer a la afición su apoy
 ¡¡¡ENHORABUENA CHICAS!!!
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/2013sf.jpg"> 
-<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/2013sf.jpg"/> </a>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/2013sf.jpg"> 
+<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/2013sf.jpg"/> </a>
 </center>
 

@@ -22,7 +22,7 @@ Será Miriam Sánchez quien continúe un año más al cargo del juvenil femenino
 Finalmente, el conjunto juvenil masculino será coordinado por Jesús Nieto "Chule" con la colaboración de Manolo Casas, quienes tendrán que afrontar una de las ligas más completas de los últimos años pero con altas expectativas, con un equipo fortalecido por los cadetes ascendidos que han sumado numerosos éxitos en las últimas temporadas y que buscará su hueco en el Campeonato de España.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/WhatsApp%20Image%202016-10-10%20at%2013.56.17.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/WhatsApp%20Image%202016-10-10%20at%2013.56.17.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/WhatsApp%20Image%202016-10-10%20at%2013.56.17.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/WhatsApp%20Image%202016-10-10%20at%2013.56.17.jpg"/> </a> </center>
 
 

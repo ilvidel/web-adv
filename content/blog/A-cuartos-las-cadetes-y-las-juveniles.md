@@ -18,6 +18,6 @@ Las juveniles salieron muy enchufadas ante las talaveranas del CV Ciudad de la C
 El equipo cadete de liga regional demuestra definitivamente que este año estaban perfectamente preparadas para afrontar la categoría alta del voleibol escolar tras superar con amplia diferencia en casa al CD Quince guadalajareño. Era necesario remontar la derrota por 3-2 en la ida, así que las chicas salieron muy concentradas y dieron el primer golpe ganando el primer set y dando sensación de que eran las favoritas para la victoria. El segundo set asustó a los asistentes, los numerosos errores de las nuestras hicieron que las visitantes se llevasen la manga por la mínima haciendo peligrar la clasificación. Las de Miriam supieron reaccionar y se anotaron de forma contundente los dos últimos parciales con el definitivo 3-1 (25-16, 24-26, 25-11, 25-4) que las pone en cuartos de final, donde tendrán que medirse a uno de los mejores equipos de la región, el CV Albacete. La semana próxima jugarán en casa la ida tratando de continuar sorprendiendo a todos los aficionados al voley. 
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20080315%20-%2023%3A01%3A16.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20080315%20-%2023%3A01%3A16.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20080315%20-%2023%3A01%3A16.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20080315%20-%2023%3A01%3A16.png"/> </a> </center>
 

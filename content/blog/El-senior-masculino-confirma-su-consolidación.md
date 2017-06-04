@@ -20,6 +20,6 @@ A pesar de haber salido del equipo, tras la pasada campaña, jugadores veteranos
 Ahora toca no bajar la guardia para poder pelear por el título en una liga extremadamente igualada en la que cualquier error pasa factura. Los enfrentamientos de Diciembre ante ADEVA y Voley Guada serán clave para el devenir de la liga, por lo que dentro de la planificación del equipo no se incluyen descansos.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/IMG_20151121_231359.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/IMG_20151121_231359.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/IMG_20151121_231359.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/IMG_20151121_231359.jpg"/> </a> </center>
 

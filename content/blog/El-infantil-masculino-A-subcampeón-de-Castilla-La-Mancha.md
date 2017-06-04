@@ -20,6 +20,6 @@ El resultado probablemente les permita acceder al Campeonato de España, que se 
 
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/WhatsApp%20Image%202017-03-19%20at%2017.20.16.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/WhatsApp%20Image%202017-03-19%20at%2017.20.16.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/WhatsApp%20Image%202017-03-19%20at%2017.20.16.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/WhatsApp%20Image%202017-03-19%20at%2017.20.16.jpg"/> </a> </center>
 

@@ -21,6 +21,6 @@ El objetivo, como siempre, no es otro que dar la oportunidad de practicar Voley 
 Animar también a todos los aficionados al deporte a dejarse caer por el Parque Rivas Moreno durante los días del torneo, ya que, a pesar de la juventud, el nivel que se viene demostrando en las últimas ediciones es digno de disfrute para el público.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202016-07-11%2019%3A22%3A16.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202016-07-11%2019%3A22%3A16.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202016-07-11%2019%3A22%3A16.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202016-07-11%2019%3A22%3A16.png"/> </a> </center>
 

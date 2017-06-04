@@ -22,7 +22,7 @@ Balance positivo para una comunidad como la nuestra que hasta hace muy poco apen
 Desde el club felicitar a las campeonas de España, las catalanas Julia Bonet y María Palet y agradecer a las entidades colaboradoras con la pareja miguelturreña: Hobby Lava, Toldos Tol Luz, Pedro Motor, Cordelerías Jesús León Carrascosa y Punto Didot además de la Concejalía de Deportes de Miguelturra y la Federación de Voleibol de Castilla-La Mancha.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/AmMSeLkItujLSpa9fRfyMOZEbWjsT_tl-R3m-kck1-aZ.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/AmMSeLkItujLSpa9fRfyMOZEbWjsT_tl-R3m-kck1-aZ.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/AmMSeLkItujLSpa9fRfyMOZEbWjsT_tl-R3m-kck1-aZ.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/AmMSeLkItujLSpa9fRfyMOZEbWjsT_tl-R3m-kck1-aZ.jpg"/> </a> </center>
 
 

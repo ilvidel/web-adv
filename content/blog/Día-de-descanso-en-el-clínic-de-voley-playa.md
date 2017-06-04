@@ -19,14 +19,14 @@ El primer día tuvimos jornada de presentación con variedad de juegos para que 
 Todos los días a media mañana almuerzo saludable y para terminar la mañana un baño en la Piscina Municipal. Hoy domingo toca descanso, mañana se reanudará el clínic hasta la clausura el próximo sábado con distintas actividades, visitas y el torneo de finalización a lo largo de estos días.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/IMG-20140711-WA0014.jpg"> 
-<img alt="Trio VP" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/IMG-20140711-WA0014.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/IMG-20140711-WA0014.jpg"> 
+<img alt="Trio VP" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/IMG-20140711-WA0014.jpg"/> </a> </center>
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/IMG-20140711-WA0016.jpg"> 
-<img alt="Trio VP" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/IMG-20140711-WA0016.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/IMG-20140711-WA0016.jpg"> 
+<img alt="Trio VP" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/IMG-20140711-WA0016.jpg"/> </a> </center>
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20-%20130714%20-%2018%3A22%3A25.png"> 
-<img alt="Trio VP" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20-%20130714%20-%2018%3A22%3A25.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20-%20130714%20-%2018%3A22%3A25.png"> 
+<img alt="Trio VP" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20-%20130714%20-%2018%3A22%3A25.png"/> </a> </center>
 

@@ -24,6 +24,6 @@ El primer equipo juvenil femenino tendrá jornada de descanso, no será así par
 Cuatro partidos en el Pabellón Municipal para la tarde del sábado, espectáculo garantizado en este inicio de liga, en la grada está escrito tu nombre, no te olvides de acercarte a apoyar a tu equipo!!
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202015-11-13%2016%3A05%3A33.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202015-11-13%2016%3A05%3A33.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202015-11-13%2016%3A05%3A33.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202015-11-13%2016%3A05%3A33.png"/> </a> </center>
 

@@ -17,7 +17,7 @@ El próximo Domingo 29 de Diciembre la selección absoluta masculina se enfrenta
 Ibán Pérez, Guille Hernán, Israel Rodríguez... los mejores de nuestro deporte acudirán a esta cita para preparar el premundial de cara a obtener plaza en el mundial de Polonia en 2014. Por todo esto os animamos a veniros con nosotros, quedan pocas plazas, apuntaros cuanto antes! Tenéis toda la información en el cartel adjunto.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/cartel%20excursion.jpg"> 
-<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/cartel%20excursion.jpg"/> </a>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/cartel%20excursion.jpg"> 
+<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/cartel%20excursion.jpg"/> </a>
 </center>
 

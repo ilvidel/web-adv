@@ -20,7 +20,7 @@ Las chicas consiguieron la victoria tras imponerse en los dos primeros sets 25-2
 Enhorabuena para las jugadoras y jugadores y para los técnicos de las Escuelas Deportivas por la gran labor realizada.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/IMG-20150428-WA0002.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/IMG-20150428-WA0002.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/IMG-20150428-WA0002.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/IMG-20150428-WA0002.jpg"/> </a> </center>
 
 

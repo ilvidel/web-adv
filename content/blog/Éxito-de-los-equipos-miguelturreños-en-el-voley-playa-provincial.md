@@ -27,5 +27,5 @@ A las semifinales cadete masculino llegábamos con el corazón dividido al enfre
 Este sábado 8 de junio los cinco equipos clasificados se desplazarán a Cuenca a disputar la fase regional junto con los entrenadores Jesús Nieto, Anabel Ramírez, Miriam Sánchez y Joaquín González.
 
 <center>
-<img src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202013-05-26%2017%3A26%3A03.png" height="300" width="400"/> </center>
+<img src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202013-05-26%2017%3A26%3A03.png" height="300" width="400"/> </center>
 

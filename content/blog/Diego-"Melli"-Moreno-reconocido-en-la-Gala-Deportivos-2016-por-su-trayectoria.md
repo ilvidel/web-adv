@@ -20,6 +20,6 @@ Desde el club queremos felicitar a Diego por esta mención destacando, además d
 Esperamos que sean muchos más los años trabajando con nosotros, cualquier club querría contar en sus filas con una persona como Diego y nosotros nos enorgullecemos de compartir proyecto con él.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/gala-deportivos-miguelturra-2016-fuente-imagen-area-comunicacion-ayuntamiento-miguelturra-086.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/gala-deportivos-miguelturra-2016-fuente-imagen-area-comunicacion-ayuntamiento-miguelturra-086.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/gala-deportivos-miguelturra-2016-fuente-imagen-area-comunicacion-ayuntamiento-miguelturra-086.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/gala-deportivos-miguelturra-2016-fuente-imagen-area-comunicacion-ayuntamiento-miguelturra-086.jpg"/> </a> </center>
 

@@ -20,7 +20,7 @@ El equipo juvenil vuelve a jugar en casa tras tres partidos compitiendo a domici
 Dos partidos muy complicados pero que prometen hacer disfrutar a todo el que se acerque por allí y para los cuales nuestros equipos necesitan tener a la afición como séptimo jugador por lo que os esperamos a todos para apoyar a los deportistas miguelturreños.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/15-03-14.JPG"> 
-<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/15-03-14.JPG"/> </a>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/15-03-14.JPG"> 
+<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/15-03-14.JPG"/> </a>
 </center>
 

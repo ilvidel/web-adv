@@ -23,6 +23,6 @@ Para tratar de lograr la gesta Astilleros contará con las centrales Isabel Roja
 Mucho ánimo y suerte para nuestras chicas!!
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20070515%20-%2000%3A06%3A24.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20070515%20-%2000%3A06%3A24.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20070515%20-%2000%3A06%3A24.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20070515%20-%2000%3A06%3A24.png"/> </a> </center>
 

@@ -27,8 +27,8 @@ El equipo cadete femenino no pudo traerse una victoria de Guadalajara en la ida 
 Este fin de semana los equipos infantiles han sido los primeros en cerrar sus temporadas de pista. Los infantiles terminan quintos regionales, quedándose fuera del Campeonato de España. Las infantiles A han terminado la competición al quedar fuera de la fase regional, finalmente son terceras provinciales tras imponerse el sábado por claro 3-0 a Socuéllamos en el 3º y 4º puesto, recordamos también que el infantil femenino C terminó en 7ª posición en la provincia y el B en 8ª. Toca centrarse en las competiciones de Voley Playa que comenzarán en Mayo.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/juvfem.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/juvfem.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/juvfem.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/juvfem.jpg"/> </a> </center>
 
 
 

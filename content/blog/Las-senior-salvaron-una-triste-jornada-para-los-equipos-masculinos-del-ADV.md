@@ -23,7 +23,7 @@ Las esperanzas se depositaban en los jugadores del equipo senior que se enfrenta
 Por su parte las juveniles descansaban y el partido del próximo sábado ha quedado aplazado de tal manera que no volverán a jugar hasta después del puente de diciembre. El único equipo que juega el próximo fin de semana es el senior femenino que se desplaza a Almagro y esperemos que allí sumen su tercera victoria.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/seniorFemeninoContraAlbacete.png"> 
-<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/seniorFemeninoContraAlbacete.png"/> </a>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/seniorFemeninoContraAlbacete.png"> 
+<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/seniorFemeninoContraAlbacete.png"/> </a>
 </center>
 

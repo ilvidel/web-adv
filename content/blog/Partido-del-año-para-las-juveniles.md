@@ -24,8 +24,8 @@ Por todo esto os esperamos el sábado en el Pabellón Municipal apoyando al depo
 Os dejamos el cuadro de cruces de cuartos de final y el camino hasta el título regional:
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20-%20180314%20-%2012%3A31%3A42.png"> 
-<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20-%20180314%20-%2012%3A31%3A42.png"/> </a>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20-%20180314%20-%2012%3A31%3A42.png"> 
+<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20-%20180314%20-%2012%3A31%3A42.png"/> </a>
 </center>
 
 

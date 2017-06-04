@@ -22,6 +22,6 @@ El equipo confía en contar también con el apoyo de la afición para que ayude 
 Desde el club se confía plenamente en el combinado encabezado por Pablo Muñoz y la idea es continuar trabajando para que vayan llegando las victorias y los éxitos.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20211114%20-%2010%3A12%3A57.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20211114%20-%2010%3A12%3A57.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20211114%20-%2010%3A12%3A57.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20211114%20-%2010%3A12%3A57.png"/> </a> </center>
 

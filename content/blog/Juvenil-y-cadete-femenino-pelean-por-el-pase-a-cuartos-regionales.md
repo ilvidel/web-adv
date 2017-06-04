@@ -18,8 +18,8 @@ El equipo confía en sus armas para doblegar a las talaveranas y mantenerse invi
 Las cadetes de liga regional también se la juegan en casa. Tras sufrir una dura remontada en la ida en Guadalajara ante el CD Quince se ven obligadas a buscar la victoria en el partido que tendrá lugar a las 15:15 en el Pabellón Municipal. Las chicas trabajan a tope para conseguir el triunfo y consumar el pase a cuartos en lo que sería todo un éxito en este retorno del ADV a la liga regional tras 9 años de ausencia.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20060315%20-%2013%3A41%3A18.png"> 
-<img alt="Imagen del partido" width="50%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20060315%20-%2013%3A41%3A18.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20060315%20-%2013%3A41%3A18.png"> 
+<img alt="Imagen del partido" width="50%" align="center" src="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20060315%20-%2013%3A41%3A18.png"/> </a> </center>
 
 
 

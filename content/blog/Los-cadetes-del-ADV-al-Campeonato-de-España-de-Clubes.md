@@ -18,5 +18,5 @@ Este hecho marca un punto de inflexión en la evolución del voleibol masculino 
 Todo un logro para un equipo formado casi en su totalidad por jugadores de primer año, es decir, con otra temporada por delante en esta categoría y mucho futuro para las categorías superiores del club. Merecida enhorabuena del club para este joven grupo.
 
 <center>
-<img alt="Remontada ADV" width="90%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/CadetesMig.png"/> </center>
+<img alt="Remontada ADV" width="90%" align="center" src="http://www.advmiguelturra.org/img/banners/CadetesMig.png"/> </center>
 

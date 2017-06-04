@@ -26,8 +26,8 @@ Los dos últimos partidos se saldaron con victorias para el ADV mejorando el sab
 Para poner la puntilla al viaje, a las 19:00 las juveniles volvían a cancha para enfrentarse al CV Cuenca. Los problemas en el inicio del partido pusieron un 2-0 inicial que parecía difícil de remontar, sin embargo, un último esfuerzo de las chicas jugando 10 sets tras un duro viaje y una de las mayores aficiones que han acompañado al ADV fuera de casa haciendo que pareciese que se jugaba en Miguelturra en lugar de en Cuenca, hicieron que los últimos 3 sets fuesen para Miguelturra. 2-3 para poner el final a un buen viaje.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/IMG611.jpg"> 
-<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/IMG611.jpg"/> </a>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/IMG611.jpg"> 
+<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/IMG611.jpg"/> </a>
 </center>
 
 

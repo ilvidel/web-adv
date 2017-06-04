@@ -14,7 +14,7 @@
 El torneo tuvo lugar en la mañana del pasado sábado 22 de mayo en el Pabellón Municipal, donde más de 25 monitores miembros del ADV Miguelturra pusieron su empeño y esfuerzo en sacar adelante la segunda edición de este Torneo Interescolar.
 
 <center>
-<img src="http://www.advmiguelturra.org/drupal/sites/default/files/IMG-20130622-WA0000.jpg" height="330" width="440"/> </center>
+<img src="http://www.advmiguelturra.org/img/banners/IMG-20130622-WA0000.jpg" height="330" width="440"/> </center>
 
 Un año más cada colegio presentaba un equipo de alumnos y otro de alumnas escogido entre sus alumnos de 5º y 6º de primaria entre los cuales juntaban un centenar de jugadores que nos hicieron disfrutar a todos los allí presentes. Todos estos alumnos habían recibido previamente varias clases de voleibol por parte de nuestros monitores en sus colegios durante las clases de educación física, donde se formaron los equipos que comparecieron en el torneo.
 

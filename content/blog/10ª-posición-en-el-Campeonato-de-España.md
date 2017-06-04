@@ -21,7 +21,7 @@ Balance muy positivo en palabras de Jesús Nieto, quien ha coordinado la expedic
 El resultado es una muestra del gran trabajo y esfuerzo llevado a cabo por los jugadores de este equipo a lo largo de toda la temporada y en el club todos esperan que el gran rendimiento de este joven grupo se mantenga por mucho tiempo en el futuro.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202016-06-22%2000%3A35%3A56.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202016-06-22%2000%3A35%3A56.png"/> </a> </center> 
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202016-06-22%2000%3A35%3A56.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202016-06-22%2000%3A35%3A56.png"/> </a> </center> 
 
 

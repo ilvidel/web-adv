@@ -24,8 +24,8 @@ Los juveniles tendrán jornada de descanso y volverán a la competición el sáb
 Una semana más os animamos a disfrutar del deporte local, en este caso Voleibol, y animar a nuestras jugadoras y nuestros jugadores!
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/08-02-14.jpg"> 
-<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/08-02-14.jpg"/> </a>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/08-02-14.jpg"> 
+<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/08-02-14.jpg"/> </a>
 </center>
 
 

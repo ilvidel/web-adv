@@ -1,15 +1,15 @@
 {
-  "author": "Joaqu\u00edn", 
-  "banner": "img/banners/concentracionCadeteInfantil2016_%28copia%29.jpg", 
+  "author": "Joaqu\u00edn",
+  "banner": "img/banners/concentracionCadeteInfantil2016_%28copia%29.jpg",
   "categories": [
     "noticia"
-  ], 
-  "date": "2016-02-01 15:34:39", 
+  ],
+  "date": "2016-02-01 15:34:39",
   "tags": [
-    "Club", 
-    "EEDD", 
+    "Club",
+    "EEDD",
     "Carnaval"
-  ], 
+  ],
   "title": "Una Megajornada de Voley en pleno Carnaval"
 }
 
@@ -27,10 +27,9 @@ Durante todo el día y para animar a los más carnavaleros a pasarse por el Pabe
 
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/cartel%2006-02-16%20%28copia%29.jpgg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/cartel%2006-02-16%20%28copia%29.jpg"/> </a> </center> 
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/cartel%2006-02-16%20%28copia%29.jpg">
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/cartel%2006-02-16%20%28copia%29.jpg"/> </a> </center>
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/concentracionCadeteInfantil2016%20%28copia%29.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/concentracionCadeteInfantil2016%20%28copia%29.jpg"/> </a> </center> 
-
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/concentracionCadeteInfantil2016%20%28copia%29.jpg">
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/concentracionCadeteInfantil2016%20%28copia%29.jpg"/> </a> </center>

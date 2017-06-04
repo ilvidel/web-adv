@@ -19,6 +19,6 @@ El premio ha sido otorgado en reconocimiento a las actividades llevadas a cabo p
 Este galardón se debe al trabajo diario y desinteresado de todas las personas que forman parte de la gran familia del ADV Miguelturra, grupo que a día de hoy continúa creciendo, e incluso ahora en 2014 creemos poder afirmar que aún hemos incrementado un nivel más lo conseguido el año anterior, manteniendo con la firme confianza en que seguiremos mejorando en el futuro siempre que sigamos contando con toda esta gente dispuesta a poner su grano de arena y a continuar aportando al voleibol y al deporte en general.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/logo_ADV_nuevo.png"> 
-<img alt="Trio VP" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/logo_ADV_nuevo.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/logo_ADV_nuevo.png"> 
+<img alt="Trio VP" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/logo_ADV_nuevo.png"/> </a> </center>
 

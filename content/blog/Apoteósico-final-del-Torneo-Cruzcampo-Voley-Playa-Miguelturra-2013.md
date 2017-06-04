@@ -67,9 +67,9 @@ Categoría Masculino Pro:
 3º.- Einbergs-Mora (Gandía)
 
 <center>
-<img src="http://www.advmiguelturra.org/drupal/sites/default/files/vp1.jpg" height="360" width="520"/> </center>
+<img src="http://www.advmiguelturra.org/img/banners/vp1.jpg" height="360" width="520"/> </center>
 
 <center>
-<img src="http://www.advmiguelturra.org/drupal/sites/default/files/vp2.jpg" height="360" width="520"/> </center>
+<img src="http://www.advmiguelturra.org/img/banners/vp2.jpg" height="360" width="520"/> </center>
 
 

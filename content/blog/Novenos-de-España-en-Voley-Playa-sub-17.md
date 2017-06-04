@@ -23,7 +23,7 @@ En la pelea por el 9º puesto el equipo churriego se impuso por 2-1 al CVP Areny
 Agradecer por su colaboración con nuestro club para este Campeonato a Tienda Mirame, así como a las instituciones Junta de Comunidades de Castilla-La Mancha, Diputación Provincial de Ciudad Real y Concejalía de Deportes del Ayuntamiento de Miguelturra.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/IMG_20160730_191204asdf.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/IMG_20160730_191204asdf.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/IMG_20160730_191204asdf.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/IMG_20160730_191204asdf.jpg"/> </a> </center>
 
 

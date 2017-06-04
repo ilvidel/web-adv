@@ -25,6 +25,6 @@ Finalmente en categoría sub-19 femenino solo el bronce tuvo color miguelturreñ
 Para la entrega de trofeos se contó con el concejal de deportes José Félix Martín, los directivos del ADV Miguelturra Manuel de la Torre y Juan Miguel Toribio y el representante del comité provincial de árbitros Sergio Domínguez. El desarrollo del torneo fue idóneo y el público asistente numeroso lo que anima volver a intentar traer futuras ediciones a nuestra localidad. Recordamos que el torneo organizado por la Federación de Voleibol de Castilla-La Mancha tuvo lugar en nuestro pueblo gracias a la colaboración del ADV Miguelturra y el Ayuntamiento de Miguelturra.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20050715%20-%2017%3A18%3A13.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20050715%20-%2017%3A18%3A13.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20050715%20-%2017%3A18%3A13.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20050715%20-%2017%3A18%3A13.png"/> </a> </center>
 

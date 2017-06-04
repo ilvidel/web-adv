@@ -22,6 +22,6 @@ Para Josema y Sergio esta es su primera convocatoria con la selección de pista 
 De esta forma, Miguelturra se convierte en la localidad que más jugadores aporta a la selección en esta categoría por detrás de Cuenca. Además de estos jugadores, también estará en Murcia Pablo Pozo, jugador puertollanero pero veterano del ADV Miguelturra, donde ha jugado las 7 últimas temporadas, que un año más dirigirá la selección infantil femenina, así como el miguelturreño Joaquín González que formará parte de la sección arbitral como representante del Colegio Castellanomanchego.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/FullSizeRender.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/FullSizeRender.jpg"/> </a> </center> 
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/FullSizeRender.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/FullSizeRender.jpg"/> </a> </center> 
 

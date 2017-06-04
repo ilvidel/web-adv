@@ -23,6 +23,6 @@ Las cadetes de liga regional supieron imponerse a Voleibol Polígono Toledo por 
 La nota triste de la jornada para el voleibol miguelturreño la pusieron las infantiles. El equipo A de esta categoría no pudo completar el sueño al ser doblegadas en la semifinal provincial por Almagro, lo que supone no jugar la final y por tanto no pasar a la fase regional. El próximo sábado pelearán por el 3º y 4º puesto ante Socuéllamos.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20220215%20-%2023%3A37%3A35.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20220215%20-%2023%3A37%3A35.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20220215%20-%2023%3A37%3A35.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20220215%20-%2023%3A37%3A35.png"/> </a> </center>
 

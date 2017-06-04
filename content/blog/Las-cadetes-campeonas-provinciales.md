@@ -20,8 +20,8 @@ La final a cinco sets comenzó con un primer set igualadísimo que calló de par
 Segundo título de la temporada para el voleibol miguelturreño tras la primera plaza de las senior en la segunda división y segundo campeonato provincial consecutivo para muchas de las chicas de esta generación que ya fueron campeonas infantiles la pasada campaña y que todo parece indicar que seguirán dando éxitos a nuestras escuelas y nuestro club.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20-%20160314%20-%2023%3A59%3A34.png"> 
-<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20-%20160314%20-%2023%3A59%3A34.png"/> </a>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20-%20160314%20-%2023%3A59%3A34.png"> 
+<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20-%20160314%20-%2023%3A59%3A34.png"/> </a>
 </center>
 Arriba: Estela, Eva, Megan, Rebeca, Marta, Celia, Ana, Elena y Miriam
 Abajo: Alba, Cristina, Carmen, Lorena, María y Rocío.

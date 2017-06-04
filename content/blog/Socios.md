@@ -21,5 +21,5 @@ Si te gusta lo que hacemos y quieres colaborar con nosotros, puedes formar parte
 
 Para convertirte en socio protector del ADV Miguelturra, <a href="/drupal/contacto/">ponte en contacto con nosotros</a>.
 
-<img width="100%" src="http://www.advmiguelturra.org/drupal/sites/default/files/cartel-hazte-socio.png" alt="cartel hazte socio"/>
+<img width="100%" src="http://www.advmiguelturra.org/img/banners/cartel-hazte-socio.png" alt="cartel hazte socio"/>
 

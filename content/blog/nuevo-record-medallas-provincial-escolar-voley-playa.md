@@ -46,4 +46,4 @@ en la final a las también locales Elsa Moraga y Lucía Vidal. Ambas
 parejas estarán en el regional junto a Cristina Rivero y Sonia Brilas
 que a pesar de ser cuartas han conseguido la plaza.
 
-<img width="100%" src="http://www.advmiguelturra.org/drupal/sites/default/files/IMG-20170601-WA0008.jpg"/>
+<img width="100%" src="http://www.advmiguelturra.org/img/banners/IMG-20170601-WA0008.jpg"/>

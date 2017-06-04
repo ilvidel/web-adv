@@ -21,6 +21,6 @@ Enhorabuena una vez más a este equipo que, a pesar de haber sufrido una gran re
 
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/WhatsApp%20Image%202017-04-02%20at%2013.29.05.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/WhatsApp%20Image%202017-04-02%20at%2013.29.05.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/WhatsApp%20Image%202017-04-02%20at%2013.29.05.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/WhatsApp%20Image%202017-04-02%20at%2013.29.05.jpg"/> </a> </center>
 

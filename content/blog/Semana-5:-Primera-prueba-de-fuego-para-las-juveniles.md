@@ -26,8 +26,8 @@ Punto de partida también este fin de semana para los equipos que participan en 
 No hay excusa para perdérselo. Saltan chispas ya en los pabellones de Miguelturra!!
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/AtZCAzZK_Yl42YrWTnppPYlKkoGi7gFpDhRuVlgQv_6r.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/AtZCAzZK_Yl42YrWTnppPYlKkoGi7gFpDhRuVlgQv_6r.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/AtZCAzZK_Yl42YrWTnppPYlKkoGi7gFpDhRuVlgQv_6r.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/AtZCAzZK_Yl42YrWTnppPYlKkoGi7gFpDhRuVlgQv_6r.jpg"/> </a> </center>
 
 
 

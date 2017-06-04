@@ -22,6 +22,6 @@ La inscripción se realizará en las oficinas de la Concejalía de Deportes en e
 Los campeones en categorías cadete obtendrán la inscripción gratuita para las categoría sub-21 correspondiente mientras que a los campeones sub-21 se les compensará con la inscripción gratuita en el torneo absoluto. A las parejas de fuera de nuestra localidad se le tratará de ofrecer horarios adaptados para facilitar su participación.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20110715%20-%2001%3A41%3A12.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20110715%20-%2001%3A41%3A12.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20110715%20-%2001%3A41%3A12.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20110715%20-%2001%3A41%3A12.png"/> </a> </center>
 

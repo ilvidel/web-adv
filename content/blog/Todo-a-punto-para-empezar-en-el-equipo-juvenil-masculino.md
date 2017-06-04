@@ -22,6 +22,6 @@ El arranque liguero se producirá este sábado a las 16:30 en casa ante el CV Pu
 Para todo ello el equipo espera contar con el apoyo de la afición y volver a ilusionar en una categoría que ha sido la asignatura pendiente del club en los últimos años, pero que en esta campaña todo apunta a que la cantidad de victorias se verá incrementada y para ello llevan trabajando duro desde agosto y siguen haciéndolo día a día.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20191114%20-%2010%3A45%3A44.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20191114%20-%2010%3A45%3A44.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20191114%20-%2010%3A45%3A44.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20191114%20-%2010%3A45%3A44.png"/> </a> </center>
 

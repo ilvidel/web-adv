@@ -39,8 +39,8 @@ Llegada la cuarta manga la mejora del equipo de La Roda en ataque y la falta de 
 En el set decisivo un inexplicable nerviosismo tomó las riendas del equipo miguelturreño impidiendo a las jugadoras desarrollar un buen juego dada la indecisión en cada una de las jugadas, no se pudo hacer mucho ante tal situación y el equipo caía por 12-15 perdiendo ante un equipo al que ya habían ganado claramente en 3 ocasiones y con la más absoluta decepción puesto que, a pesar de las numerosas bajas y rotaciones en las posiciones el juego fue muy pobre en cuanto a lucha y esfuerzo en la mayor parte del partido, lo que condujo a la derrota por 2-3.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202013-09-29%2023%3A31%3A29.png"> 
-<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202013-09-29%2023%3A31%3A29.png"/> </a>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202013-09-29%2023%3A31%3A29.png"> 
+<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202013-09-29%2023%3A31%3A29.png"/> </a>
 </center>
 
 

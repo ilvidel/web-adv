@@ -39,8 +39,8 @@ La última manga fue la que albergó el mejor juego de las miguelturreñas, gran
 Nueva victoria de pretemporada que se suma a las logradas ante CV Pinto, CV San Clemente y CV Puertollano, el próximo sábado, junto a los senior, las juveniles se desplazan a devolver la visita a las de Puertollano y esperan continuar con el buen juego iniciado en Almagro.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202013-10-14%2000%3A48%3A47.png"> 
-<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202013-10-14%2000%3A48%3A47.png"/> </a>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202013-10-14%2000%3A48%3A47.png"> 
+<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202013-10-14%2000%3A48%3A47.png"/> </a>
 </center>
 
 

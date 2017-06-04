@@ -12,8 +12,8 @@
 }
 
 <center>
-<a href="http://www.advmiguelturra.org/drupal/sites/default/files/DSC_0300.JPG">
-<img alt="Equipo Senior Masculino" width="100%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/DSC_0300.JPG"/> </a>
+<a href="http://www.advmiguelturra.org/img/banners/DSC_0300.JPG">
+<img alt="Equipo Senior Masculino" width="100%" align="center" src="http://www.advmiguelturra.org/img/banners/DSC_0300.JPG"/> </a>
 </center>
 
 <p>&nbsp;</p>

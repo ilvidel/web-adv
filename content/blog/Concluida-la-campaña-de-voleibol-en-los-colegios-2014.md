@@ -15,8 +15,8 @@
 Por tercer año consecutivo desde el ADV Miguelturra ponemos fin a la campaña de voleibol en los colegios tras dos semanas impartiendo clases de voleibol a los cursos de 5º y 6º en todos los centros de enseñanza primaria de Miguelturra a falta del ya tradicional torneo interescolar que se celebrará el próximo viernes 20 de junio en colaboración con la Concejalía de Deportes de Miguelturra.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20-%20150614%20-%2014%3A33%3A25.png"> 
-<img width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20-%20150614%20-%2014%3A33%3A25.png"/> </a>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20-%20150614%20-%2014%3A33%3A25.png"> 
+<img width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20-%20150614%20-%2014%3A33%3A25.png"/> </a>
 </center>
 
 El objetivo de esta campaña que se empezó a llevar a cabo en 2012, es dar a los alumnos y alumnas de nuestra localidad la oportunidad de probar un deporte como el Voleibol acerca del cual en muchos casos los alumnos tienen un gran desconocimiento del mismo al no ser tan mediático como otras disciplinas deportivas.

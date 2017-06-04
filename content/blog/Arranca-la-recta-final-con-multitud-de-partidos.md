@@ -27,6 +27,6 @@ Las cadetes se encuentran en la misma tesitura que las juveniles, partido de ida
 Finalmente, cabe señalar que las infantiles se jugarán el sábado el 3º y 4º puesto provincial en Puertollano ante EDM Socuéllamos.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20270215%20-%2001%3A09%3A39.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20270215%20-%2001%3A09%3A39.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20270215%20-%2001%3A09%3A39.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20270215%20-%2001%3A09%3A39.png"/> </a> </center>
 

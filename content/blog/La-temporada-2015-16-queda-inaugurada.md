@@ -20,8 +20,8 @@ Inicio también en las ligas escolares regionales cadete e infantil femenino. En
 El equipo juvenil femenino A:
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/AtzxYO7PITVoBf9mvKQaGG_8VfNygbGXE94kmYfsiMIf.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/AtzxYO7PITVoBf9mvKQaGG_8VfNygbGXE94kmYfsiMIf.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/AtzxYO7PITVoBf9mvKQaGG_8VfNygbGXE94kmYfsiMIf.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/AtzxYO7PITVoBf9mvKQaGG_8VfNygbGXE94kmYfsiMIf.jpg"/> </a> </center>
 
 
 

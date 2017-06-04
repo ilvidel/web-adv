@@ -23,6 +23,6 @@ Un buen resultado en todo un Campeonato de España quedando décimo terceros y d
 Desde el ADV Miguelturra agradecer a la Concejalía de Deportes y a todas las empresas locales colaboradoras su apoyo imprescindible para permitir la participación del equipo en el campeonato: Distribuidora Hervás Maján, Certrade, Viajes Rodrigo, Asesoría Yébenes, Neumáticos Miguelturra, Allianz, Dental Sonria, Deycor Muebles, Mapfre, Pascual Pérez, Calzados León, Axa y Prieto Automóviles.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20-%20200814%20-%2018%3A46%3A16.png"> 
-<img alt="Trio VP" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20-%20200814%20-%2018%3A46%3A16.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20-%20200814%20-%2018%3A46%3A16.png"> 
+<img alt="Trio VP" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20-%20200814%20-%2018%3A46%3A16.png"/> </a> </center>
 

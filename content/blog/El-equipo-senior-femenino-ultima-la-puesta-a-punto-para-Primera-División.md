@@ -20,6 +20,6 @@ Según manifestaciones del entrenador "el equipo es consciente de la dificultad 
 El 24 de Octubre a las 19:00 h, nuestras chicas comenzaran la liga en Miguelturra (Pabellón Municipal) contra el conjunto murciano AD. Algar Surmenor, fecha en la que el equipo confía en estar en buenas condiciones para afrontar el inicio de la temporada de la mejor manera posible. 
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202015-09-28%2002%3A29%3A34.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202015-09-28%2002%3A29%3A34.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202015-09-28%2002%3A29%3A34.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202015-09-28%2002%3A29%3A34.png"/> </a> </center>
 

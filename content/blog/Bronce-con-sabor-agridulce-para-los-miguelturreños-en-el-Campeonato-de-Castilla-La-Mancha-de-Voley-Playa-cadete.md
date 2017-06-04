@@ -15,8 +15,8 @@
 El pasado sábado tuvimos una muestra más del buen nivel que se está alcanzando en nuestra localidad en Voley Playa. En el torneo regional los cadetes Manuel García, Alberto Loro y Christopher Morcillo quedaron en 3ª posición quedando muy cerca de lograr el pase al Campeonato de España. La misma posición consiguieron en categoría femenina Alba Hervás y Lorena Sánchez demostrando ambos equipos en la cancha el esfuerzo realizado a lo largo de esta temporada.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/IMG-20140609-WA0005.jpg"> 
-<img width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/IMG-20140609-WA0005.jpg"/> </a>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/IMG-20140609-WA0005.jpg"> 
+<img width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/IMG-20140609-WA0005.jpg"/> </a>
 </center>
 
 Esta edición del torneo regional tuvo lugar en el Parque Rivas Moreno de Miguelturra así nuestros chicos y chicas contaron también con el apoyo de la afición local, pudiendo verse a las mejores parejas escolares de nuestra región peleando por conseguir la ansiada clasificación al torneo nacional.

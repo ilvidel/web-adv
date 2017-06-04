@@ -26,6 +26,6 @@ Estas parejas son un ejemplo más del crecimiento del nivel de este deporte en M
 
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20060715%20-%2000%3A51%3A17.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20060715%20-%2000%3A51%3A17.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20060715%20-%2000%3A51%3A17.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20060715%20-%2000%3A51%3A17.png"/> </a> </center>
 

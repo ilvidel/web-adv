@@ -25,6 +25,6 @@ Infantil Femenino: Amelia Briñas / Raquel Ávila.
 Los primeros clasificados conseguirán el pase a los campeonatos nacionales, el cadete será en julio en Dumbría (A Coruña), mientras que el infantil será en agosto en Lorca (Murcia).
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/IMG_20160513_165053.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/IMG_20160513_165053.jpg"/> </a> </center> 
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/IMG_20160513_165053.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/IMG_20160513_165053.jpg"/> </a> </center> 
 

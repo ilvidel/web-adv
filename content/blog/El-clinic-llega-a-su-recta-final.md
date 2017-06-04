@@ -21,6 +21,6 @@ Entre todas las actividades cabe destacar la visita de la exjugadora profesional
 La clausura del clínic se realizará el sábado con la entrega de diplomas y hasta ese momento estaremos realizando el tradicional torneo de fin de clínic en el que los chicos y chicas competirán entre ellos para ver lo aprendido en estos días.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/IMG_2324.JPG"> 
-<img alt="Trio VP" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/IMG_2324.JPG"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/IMG_2324.JPG"> 
+<img alt="Trio VP" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/IMG_2324.JPG"/> </a> </center>
 

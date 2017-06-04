@@ -23,8 +23,8 @@ El sábado hace falta el apoyo de todo el público miguelturreño en lo que podr
 Os esperamos!!
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/concentracionCadeteInfantil.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/concentracionCadeteInfantil.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/concentracionCadeteInfantil.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/concentracionCadeteInfantil.jpg"/> </a> </center>
 
 
 

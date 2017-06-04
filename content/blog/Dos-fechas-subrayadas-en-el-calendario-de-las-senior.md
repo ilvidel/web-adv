@@ -22,7 +22,7 @@ El sábado 11 será Universitario Guadalajara el equipo que se desplace a nuestr
 Difíciles objetivos los planteados por las nuestras que, sin embargo, tienen tiempo y calidad suficiente para lograrlos, contando además con el apoyo de todo el club.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/IMG-20161218-WA0010.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/IMG-20161218-WA0010.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/IMG-20161218-WA0010.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/IMG-20161218-WA0010.jpg"/> </a> </center>
 
 

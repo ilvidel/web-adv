@@ -40,6 +40,6 @@ Del mismo modo los rivales con los que tendrán que verse las caras en el Grupo 
 ¡¡Esto promete!!
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/IMG-20150821-WA0013.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/IMG-20150821-WA0013.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/IMG-20150821-WA0013.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/IMG-20150821-WA0013.jpg"/> </a> </center>
 

@@ -18,9 +18,9 @@ En esta edición estarán presentes dos jugadoras y dos jugadores miguelturreño
 Por su parte las jugadoras del ADV Miguelturra Alba Peco y Laura Mora competirán en categoría sub-19 tras haber obtenido la plaza regional. La joven pareja ya cuenta con varias victorias en torneos provinciales como el sub-21 de Calzada en 2012 y 2013, sub-21 en Ciudad Real Playas del Vicario en 2012 y sub-19 en Miguelturra 2013. 
 
 <center>
-<img src="http://www.advmiguelturra.org/drupal/sites/default/files/vp3.png" height="360" width="480"/> </center>
+<img src="http://www.advmiguelturra.org/img/banners/vp3.png" height="360" width="480"/> </center>
 
 <center>
-<img src="http://www.advmiguelturra.org/drupal/sites/default/files/vp4.png" height="500" width="350"/> </center>
+<img src="http://www.advmiguelturra.org/img/banners/vp4.png" height="500" width="350"/> </center>
 
 

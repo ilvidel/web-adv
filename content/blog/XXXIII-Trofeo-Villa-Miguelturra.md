@@ -23,6 +23,6 @@ Por la mañana serán las juveniles las que abran esta edición del Villa recibi
 Otro año más animamos a todos los miguelturreños a que se pasen por el Pabellón Municipal a disfrutar del espectáculo de los equipos churriegos. 
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20180914%20-%2009%3A42%3A04.png"> 
-<img alt="Trio VP" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20180914%20-%2009%3A42%3A04.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20180914%20-%2009%3A42%3A04.png"> 
+<img alt="Trio VP" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20180914%20-%2009%3A42%3A04.png"/> </a> </center>
 

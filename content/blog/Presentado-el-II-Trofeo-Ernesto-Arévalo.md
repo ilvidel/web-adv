@@ -19,7 +19,7 @@ Será una jornada completa que tendrá lugar en el Pabellón Municipal y a la qu
 Animamos a todos aquellos que hayan formado parte de la familia del voleibol a continuar participando en este evento anual, así como ofrecemos a todos los aficionados al deporte los partidos de nuestros equipos federados a la espera también de confirmar un posible partido de categoría senior femenino. Agradecemos también a los clubes visitantes su colaboración en tan entrañable cita de reunión de antiguos compañeros y de merecido homenaje a Ernesto.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20-%20220414%20-%2011%3A46%3A49.png"> 
-<img width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20-%20220414%20-%2011%3A46%3A49.png"/> </a>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20-%20220414%20-%2011%3A46%3A49.png"> 
+<img width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20-%20220414%20-%2011%3A46%3A49.png"/> </a>
 </center>
 

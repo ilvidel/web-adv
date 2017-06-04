@@ -12,8 +12,8 @@
 }
 
 <center>
-<img src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202013-05-22%2000%3A03%3A58.png" height="535" width="800"/> </center>
+<img src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202013-05-22%2000%3A03%3A58.png" height="535" width="800"/> </center>
 
 <center>
-<img src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202013-06-14%2000%3A52%3A45.png" height="535" width="800"/> </center>
+<img src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202013-06-14%2000%3A52%3A45.png" height="535" width="800"/> </center>
 

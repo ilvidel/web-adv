@@ -24,7 +24,7 @@ Cerrarán también su liga los juveniles que reciben al ADEVA sin jugarse nada p
 Finalmente, señalar también que el sábado se disputarán en Ciudad Real los cuartos de final provinciales alevín con varios de nuestros equipos peleando por entrar en las semis.
 
 <center>
-<img alt="Remontada ADV" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/IMG-20150316-WA0005.jpg"/> </center>
+<img alt="Remontada ADV" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/IMG-20150316-WA0005.jpg"/> </center>
 
 
 

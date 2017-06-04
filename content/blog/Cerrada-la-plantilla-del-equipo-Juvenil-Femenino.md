@@ -25,6 +25,6 @@ Toda la información del equipo ya está disponible en la sección http://www.ad
 
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/copia%20de%20DSC_0669.jpg"> 
-<img alt="Trio VP" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/copia%20de%20DSC_0669.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/copia%20de%20DSC_0669.jpg"> 
+<img alt="Trio VP" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/copia%20de%20DSC_0669.jpg"/> </a> </center>
 

@@ -21,7 +21,7 @@ Por su parte, las juveniles serán el único equipo que juegue en casa. Reciben 
 
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/18-01-14.jpg"> 
-<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/18-01-14.jpg"/> </a>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/18-01-14.jpg"> 
+<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/18-01-14.jpg"/> </a>
 </center>
 

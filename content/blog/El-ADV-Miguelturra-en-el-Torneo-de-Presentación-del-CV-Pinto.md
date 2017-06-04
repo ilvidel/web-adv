@@ -19,7 +19,7 @@ El ADV viajará con las secciones senior masculino y senior femenino que disputa
 Será una buena jornada de voleibol en la que nos alegramos de participar y compartir con el resto de clubes asistentes.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202013-09-24%2016%3A04%3A57.png"> 
-<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202013-09-24%2016%3A04%3A57.png"/> </a>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202013-09-24%2016%3A04%3A57.png"> 
+<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202013-09-24%2016%3A04%3A57.png"/> </a>
 </center>
 

@@ -27,12 +27,12 @@ Toda la información del torneo está disponible en la web oficial:
 http://www.cevp2016.com/
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202016-07-12%2016%3A44%3A53.png"> 
-<img alt="Imagen del partido" width="60%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202016-07-12%2016%3A44%3A53.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202016-07-12%2016%3A44%3A53.png"> 
+<img alt="Imagen del partido" width="60%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202016-07-12%2016%3A44%3A53.png"/> </a> </center>
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/WhatsApp-Image-20160712%20%281%29.jpg"> 
-<img alt="Imagen del partido" width="60%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/WhatsApp-Image-20160712%20%281%29.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/WhatsApp-Image-20160712%20%281%29.jpg"> 
+<img alt="Imagen del partido" width="60%" align="center" src="http://www.advmiguelturra.org/img/banners/WhatsApp-Image-20160712%20%281%29.jpg"/> </a> </center>
 
 
 

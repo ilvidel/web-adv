@@ -21,6 +21,6 @@ El equipo cadete masculino es una de las secciones en las que más esperanzas ha
 Hasta la fecha el equipo está demostrando estar a gran nivel aunque lo más difícil será demostrarlo en la pista, en cualquier caso, es más que recomendable aprovechar este sábado para disfrutar de su juego, ya que será la única de las cinco concentraciones en la que los nuestros jugarán en Miguelturra, así que no te lo pienses, la mañana del sábado vente al Pabellón Municipal, y si lo haces disfrazado recuerda que tendrás 3x2 en cafetería.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/DSC_0782.JPG"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/DSC_0782.JPG"/> </a> </center> 
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/DSC_0782.JPG"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/DSC_0782.JPG"/> </a> </center> 
 

@@ -12,8 +12,8 @@
 }
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202013-10-07%2021%3A51%3A14_0.png"> 
-<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202013-10-07%2021%3A51%3A14_0.png"/> </a>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202013-10-07%2021%3A51%3A14_0.png"> 
+<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202013-10-07%2021%3A51%3A14_0.png"/> </a>
 </center>
 
 Tras mes y medio de pretemporada, la pasada semana quedaron cerradas las 12 fichas que entran en la plantilla juvenil masculino del ADV Miguelturra. 

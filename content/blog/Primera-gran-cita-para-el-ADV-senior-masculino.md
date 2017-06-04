@@ -20,6 +20,6 @@ La pasada campaña Miguelturra superó claramente en casa a los de Albacete, qui
 Sin duda será imprescindible también el apoyo de la afición, el equipo quiere volver a ilusionar a los seguidores y a conseguir que la gente que se acerque al Pabellón Municipal quiera volver a repetir la visita. De momento la cita más importante, el próximo sábado a las 19:00, no os la perdáis!!
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/cartelADVadeva.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/cartelADVadeva.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/cartelADVadeva.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/cartelADVadeva.jpg"/> </a> </center>
 

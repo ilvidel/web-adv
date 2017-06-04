@@ -26,10 +26,10 @@ Otro importante resultado fue el de las cadetes de liga regional. En la ida de l
 Finalmente los juveniles viajaban junto al senior B a enfrentarse con sus homólogos de Voley Guada. Los juveniles no pudieron sumar otra victoria cayendo por un 3-0 bastante igualado, dejando escapar la 3ª plaza de la liga regional, el próximo sábado terminarán la liga ante ADEVA. Al filial senior masculino le faltó muy poco para traerse un triunfo de la alcarria, 3-2 en el marcador final con un triste 15-13 en el tanteo del último set, que en cualquier caso muestra la buena evolución hacia mejor de este nuevo conjunto del ADV Miguelturra.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/20150317105207.jpg"> 
-<img alt="Remontada ADV" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/20150317105207.jpg"/> </a>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/IMG-20150316-WA0008.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/IMG-20150316-WA0008.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/20150317105207.jpg"> 
+<img alt="Remontada ADV" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/20150317105207.jpg"/> </a>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/IMG-20150316-WA0008.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/IMG-20150316-WA0008.jpg"/> </a> </center>
 
 
 

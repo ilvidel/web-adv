@@ -18,33 +18,33 @@ Más de 15 entrenadores, jugadores y miembros del ADV Miguelturra han colaborado
 Para poner fin a esta Campaña este sábado 22 tendremos el II Torneo Interescolar de Voleibol donde cada colegio será representado por un equipo de alumnos y otro de alumnas que competirán con el resto de centros:
 
 <center>
-<img src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202013-06-21%2000%3A43%3A24.png" height="335" width="500"/> </center>
+<img src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202013-06-21%2000%3A43%3A24.png" height="335" width="500"/> </center>
 
 Os dejamos algunas fotos de nuestro paso por los colegios:
 
 -CP El Pradillo
 
 <center>
-<img src="http://www.advmiguelturra.org/drupal/sites/default/files/IMG-20130612-WA0001.jpg" height="350" width="500"/> </center>
+<img src="http://www.advmiguelturra.org/img/banners/IMG-20130612-WA0001.jpg" height="350" width="500"/> </center>
 
 -CP Clara Campoamor 
 
 <center>
-<img src="http://www.advmiguelturra.org/drupal/sites/default/files/IMG-20130605-WA0001.jpg" height="350" width="500"/> </center>
+<img src="http://www.advmiguelturra.org/img/banners/IMG-20130605-WA0001.jpg" height="350" width="500"/> </center>
 
 -CEIP Ntra. Sra. de la Merced
 
 <center>
-<img src="http://www.advmiguelturra.org/drupal/sites/default/files/IMG-20130612-WA0000.jpg" height="350" width="500"/> </center>
+<img src="http://www.advmiguelturra.org/img/banners/IMG-20130612-WA0000.jpg" height="350" width="500"/> </center>
 
 -CP Benito Pérez Galdós 
 
 <center>
-<img src="http://www.advmiguelturra.org/drupal/sites/default/files/IMG-20130607-WA0000.jpg" height="350" width="500"/> </center>
+<img src="http://www.advmiguelturra.org/img/banners/IMG-20130607-WA0000.jpg" height="350" width="500"/> </center>
 
 -CP Stmo. Cristo 
 
 <center>
-<img src="http://www.advmiguelturra.org/drupal/sites/default/files/IMG-20130605-WA0002.jpg" height="350" width="500"/> </center>
+<img src="http://www.advmiguelturra.org/img/banners/IMG-20130605-WA0002.jpg" height="350" width="500"/> </center>
 
 

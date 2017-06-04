@@ -23,7 +23,7 @@ Para cerrar, de vuelta al Bloody Mary a terminar la fiesta y poner la guinda a o
 Foto de familia de los equipos escolares con Ernesto:
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/IMG-20150425-WA0006.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/IMG-20150425-WA0006.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/IMG-20150425-WA0006.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/IMG-20150425-WA0006.jpg"/> </a> </center>
 
 

@@ -19,6 +19,6 @@ La plaza para la fase nacional ha recaído en las miguelturreñas Alba Peco y La
 Así las dos parejas miguelturreñas que alcanzaron las semifinales solventaron sin grandes dificultades sus respectivas eliminatorias alcanzando la final donde se decidía el pase al Campeonato de España. La experiencia decantó la balanza del lado de Alba y Laura quienes representarán a Castilla-La Mancha en el torneo de Orihuela. Por su parte la restante pareja miguelturreña formada por Alba Muñoz y Elena García cayeron en los cuartos de final después de superar la fase de grupos en una eliminatoria igualadísima ante una pareja almagreña.
 
 <center>
-<img src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202013-07-14%2020%3A30%3A42.png" height="240" width="400"/> </center>
+<img src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202013-07-14%2020%3A30%3A42.png" height="240" width="400"/> </center>
 
 

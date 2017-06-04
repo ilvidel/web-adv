@@ -21,14 +21,14 @@ Los juveniles se despidieron con victoria 3-0 ante CV Puertollano y finalizan la
 También en Puertollano disputaron su último encuentro los chicos del senior B. Derrota 3-0 en un buen partido y fin de liga en 7ª posición tras una campaña plagada de altibajos, con algunos partidos jugando a un gran nivel que no se supo mantener en otros. La entrenadora Maria José Céspedes ya ha trasladado al club su disponibilidad para el siguiente curso y todo apunta a que el año que viene nuestro club seguirá contando con dos equipos en esta categoría.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/WhatsApp%20Image%202017-03-27%20at%2012.44.45.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/WhatsApp%20Image%202017-03-27%20at%2012.44.45.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/WhatsApp%20Image%202017-03-27%20at%2012.44.45.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/WhatsApp%20Image%202017-03-27%20at%2012.44.45.jpg"/> </a> </center>
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/WhatsApp%20Image%202017-03-27%20at%2012.44.47.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/WhatsApp%20Image%202017-03-27%20at%2012.44.47.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/WhatsApp%20Image%202017-03-27%20at%2012.44.47.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/WhatsApp%20Image%202017-03-27%20at%2012.44.47.jpg"/> </a> </center>
 <center>
 
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/C2unc-fXUAABjRe.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/C2unc-fXUAABjRe.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/C2unc-fXUAABjRe.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/C2unc-fXUAABjRe.jpg"/> </a> </center>
 

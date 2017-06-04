@@ -22,6 +22,6 @@ Un año más el objetivo del torneo es promocionar el voley playa entre los más
 A continuación dejamos los horarios de los tres primeros días del torneo:
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/subir.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/subir.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/subir.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/subir.jpg"/> </a> </center>
 

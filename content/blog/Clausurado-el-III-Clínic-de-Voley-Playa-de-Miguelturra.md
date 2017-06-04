@@ -22,6 +22,6 @@ Los objetivos se han visto logrados con creces y, como ya es habitual, muchos se
 Por último volver agradecer a los colaboradores que han hecho posible el desarrollo del clínic con su apoyo como son Eroski, E. Leclerc, Simply, Sacra Distribuciones, Agua San Joaquín y Refrescos del Atlántico además de a todos los monitores del ADV Miguelturra quienes un año tras otro acuden a trabajar de forma prácticamente altruista en este clínic de Voley Playa en el que tanta ilusión se deposita cada verano.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20-%20210714%20-%2012%3A15%3A42.png"> 
-<img alt="Trio VP" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20-%20210714%20-%2012%3A15%3A42.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20-%20210714%20-%2012%3A15%3A42.png"> 
+<img alt="Trio VP" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20-%20210714%20-%2012%3A15%3A42.png"/> </a> </center>
 

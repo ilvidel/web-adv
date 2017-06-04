@@ -27,8 +27,8 @@ Las cadetes de liga regional también inician segunda vuelta en la que aspiran a
 También cabe señalar que este sábado inician la fase regional los equipos cadete e  infantil masculino, los cuales se desplazarán a Cuenca a la primera concentración regional. Desde el club hay muchas esperanzas depositadas en estos equipos y los entrenadores harán lo posible por estar lo más cerca de la primera plaza en sus respectivas ligas a pesar del buen nivel de la región.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20171214%20-%2017%3A10%3A43.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20171214%20-%2017%3A10%3A43.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20171214%20-%2017%3A10%3A43.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20171214%20-%2017%3A10%3A43.png"/> </a> </center>
 
 
 

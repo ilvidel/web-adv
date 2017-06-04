@@ -26,7 +26,7 @@ En el caso de los equipos alevines (los tres femeninos y el masculino) comenzar�
 Desde la dirección de la escuela, a nivel general, se muestran grandes esperanzas en los más de 100 niños y niñas inscritos en competición con la plena convicción de que será una competición apasionante, llena de éxitos y que todos disfrutarán.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/IMG-20131209-WA0002.jpg"> 
-<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/IMG-20131209-WA0002.jpg"/> </a>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/IMG-20131209-WA0002.jpg"> 
+<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/IMG-20131209-WA0002.jpg"/> </a>
 </center>
 

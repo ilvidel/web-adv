@@ -22,7 +22,7 @@ Para el partido del sábado el entrenador Joaquín González no podrá contar co
 El equipo confía en la victoria y para ello necesitan todo el apoyo del público, por lo que desde el club animamos a todos los miguelturreños a disfrutar de un buen partido de voleibol y animar al equipo local. Os esperamos el sábado en el Pabellón Municipal a partir de las 18:30!!
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/jornada21-12-13.jpg"> 
-<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/jornada21-12-13.jpg"/> </a>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/jornada21-12-13.jpg"> 
+<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/jornada21-12-13.jpg"/> </a>
 </center>
 

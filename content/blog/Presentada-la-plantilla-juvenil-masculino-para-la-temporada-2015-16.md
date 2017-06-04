@@ -23,6 +23,6 @@ El 14 de Noviembre arrancará la liga por lo que aún hay tiempo para ponerse a 
 
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202015-09-18%2016%3A46%3A48.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202015-09-18%2016%3A46%3A48.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202015-09-18%2016%3A46%3A48.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202015-09-18%2016%3A46%3A48.png"/> </a> </center>
 

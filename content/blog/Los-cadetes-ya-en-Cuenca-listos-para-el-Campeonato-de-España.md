@@ -21,8 +21,8 @@ Todo el club está pendiente de este equipo que ha hecho volver al ADV a un Camp
 Toda la información disponible en la página web de la RFEVB http://www.rfevb.com/campeonato-de-espana-cadete-masculino-2015
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/cadetes_07.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/cadetes_07.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/cadetes_07.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/cadetes_07.jpg"/> </a> </center>
 
 
 

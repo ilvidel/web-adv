@@ -27,10 +27,10 @@ Gran agradecimiento también a los colaboradores institucionales Ayuntamiento y 
 No te quedes fuera!!
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/PortadaClinic2016.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/PortadaClinic2016.jpg"/> </a> </center> 
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/PortadaClinic2016.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/PortadaClinic2016.jpg"/> </a> </center> 
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/contraClinic_0.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/contraClinic_0.jpg"/> </a> </center> 
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/contraClinic_0.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/contraClinic_0.jpg"/> </a> </center> 
 

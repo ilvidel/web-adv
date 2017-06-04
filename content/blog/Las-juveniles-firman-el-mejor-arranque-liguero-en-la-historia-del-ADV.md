@@ -20,7 +20,7 @@ Las jugadoras aspiran a mantener este ritmo y llegar en el mejor estado de forma
 De momento este sábado visitarán a CV Puertollano donde esperan sumar otra victoria más. Solo queda seguir apoyando a estas chicas, confiar en su equipo técnico y esperar a que sigan aportando éxitos a nuestro club.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202016-12-01%2016-47-28.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202016-12-01%2016-47-28.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202016-12-01%2016-47-28.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202016-12-01%2016-47-28.png"/> </a> </center>
 
 

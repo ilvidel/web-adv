@@ -22,6 +22,6 @@ Posteriormente, tras la fusión entre ADV y Campus, vino a jugar a Miguelturra s
 El equipo ha sufrido bajas importantes de jugadores con mucha experiencia (especialmente dolorosa la de Diego Moreno que continúa recuperándose de su fractura de radio), sin embargo, todos los jugadores que continúan vienen cargados de ganas de trabajar y han depositado toda su confianza en su nuevo entrenador, al que han dado carta blanca para empezar de cero. La comunión entre jugadores y equipo técnico está garantizada y se confía en poder lograr poco a poco el objetivo marcado de volver a Primera División.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/AiL3jizpVfEFfk-Rdn2N0LkzZ_dON8U1lL0jpfDnAAhk.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/AiL3jizpVfEFfk-Rdn2N0LkzZ_dON8U1lL0jpfDnAAhk.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/AiL3jizpVfEFfk-Rdn2N0LkzZ_dON8U1lL0jpfDnAAhk.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/AiL3jizpVfEFfk-Rdn2N0LkzZ_dON8U1lL0jpfDnAAhk.jpg"/> </a> </center>
 

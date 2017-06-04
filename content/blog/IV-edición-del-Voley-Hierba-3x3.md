@@ -24,6 +24,6 @@ Junto a este torneo, el XXXIV Trofeo Villa Miguelturra que se celebrará el sáb
 Por último, pero no menos importante, mencionar en este caso a “Casa Loren” que se ha convertido en el patrocinador del evento, dando como recompensa al ganador del torneo en la categoría Absoluta una cena en su restaurante.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Voley%20hierba%20cartel%202015.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Voley%20hierba%20cartel%202015.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Voley%20hierba%20cartel%202015.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Voley%20hierba%20cartel%202015.jpg"/> </a> </center>
 

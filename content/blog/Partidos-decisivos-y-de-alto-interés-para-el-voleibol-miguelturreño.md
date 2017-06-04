@@ -28,6 +28,6 @@ El partido más importante para las escuelas sin lugar a dudas será el que disp
 También habrá partidos en la fase local de alevín femenino mientras que los equipos alevín masculino esperan aún para conocer sus rivales de la fase provincial. Los chicos cadetes e infantiles preparan la próxima y decisiva concentración que tendrá lugar el 28 de Febrero en Miguelturra.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20180215%20-%2021%3A06%3A53.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20180215%20-%2021%3A06%3A53.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20180215%20-%2021%3A06%3A53.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20180215%20-%2021%3A06%3A53.png"/> </a> </center>
 

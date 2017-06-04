@@ -21,6 +21,6 @@ Mucha ilusión y mucho trabajo por parte del equipo que garantizan el espectácu
 
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/14715683_10207126614511857_3264361841059627040_o.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/14715683_10207126614511857_3264361841059627040_o.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/14715683_10207126614511857_3264361841059627040_o.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/14715683_10207126614511857_3264361841059627040_o.jpg"/> </a> </center>
 

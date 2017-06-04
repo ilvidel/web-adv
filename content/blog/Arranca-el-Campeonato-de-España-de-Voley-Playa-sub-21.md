@@ -21,6 +21,6 @@ Laura y Alba ya tienen experiencia en los campeonatos de España habiendo disput
 Los difíciles tiempos que corren hacen que las deportistas tengan que recurrir a numerosos colaboradores para poder desplazarse a competir por lo que agradecen su apoyo tanto económico como deportivo a las firmas Talleres Meycar, Dulce Almacén, Real Audiovisuales, A&T así como a la Federación de Voleibol Castilla-La Mancha y la Concejalía de Deportes del Ayuntamiento de Miguelturra y al ADV Miguelturra, club al que pertenecen.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/IMG-20140717-WA0016.jpg"> 
-<img alt="Trio VP" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/IMG-20140717-WA0016.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/IMG-20140717-WA0016.jpg"> 
+<img alt="Trio VP" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/IMG-20140717-WA0016.jpg"/> </a> </center>
 

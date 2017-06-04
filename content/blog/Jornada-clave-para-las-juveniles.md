@@ -22,8 +22,8 @@ Esta campaña el equipo quiere volver a reeditar estas victorias y la primera op
 El espectáculo está garantizado y una vez más animamos a todos los aficionados al voleibol y al deporte en general a acercarse a apoyar al equipo en un partido tan decisivo en el que tendrán la oportunidad de poder dejar de compartir liderato.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20101214%20-%2017%3A00%3A25.png"> 
-<img alt="Imagen del partido" width="100%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20101214%20-%2017%3A00%3A25.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20101214%20-%2017%3A00%3A25.png"> 
+<img alt="Imagen del partido" width="100%" align="center" src="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20101214%20-%2017%3A00%3A25.png"/> </a> </center>
 
 
 

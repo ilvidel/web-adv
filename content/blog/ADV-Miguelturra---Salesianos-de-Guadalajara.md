@@ -51,7 +51,7 @@ A pesar del cansancio, las chicas no estaban dispuestas a dejar escapar el 5º s
 Finalmente felicitar a todas las jugadoras que a día de hoy forman parte de este equipo por el magnífico trabajo que están haciendo esta temporada: Laura, Paula, Elena, Tamara, Ángela, Alba Muñoz, Lucía, Inma, Alba Hervás, Lorena, Eva  y en especial esta vez a Alba Peco por el gran partido que realizó el sábado y deseándole también una pronta recuperación porque hoy hemos sabido que ha caído lesionada por rotura del metacarpo de la mano derecha, lesión con la que sorprendentemente disputó el partido completo y que sin embargo le impedirá jugar el partido de vuelta y el resto de temporada uniéndose a las bajas que ya conocemos de Vanesa, Lucía Rubio y Mónica confirmándose que este año no hemos tenido suerte con las lesiones.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/IMG_20140322_223218.jpg"> 
-<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/IMG_20140322_223218.jpg"/> </a>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/IMG_20140322_223218.jpg"> 
+<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/IMG_20140322_223218.jpg"/> </a>
 </center>
 

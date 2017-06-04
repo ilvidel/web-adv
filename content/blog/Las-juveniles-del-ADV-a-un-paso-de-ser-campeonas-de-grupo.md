@@ -22,6 +22,6 @@ Conseguir la primera plaza este fin de semana es una tarea importante que, adem�
 Las chicas continúan trabajando duro centradas en la meta principal de la temporada que es volver a meter al club en una fase final regional, algo que no sucede desde hace más de 10 años. Por el momento, toca concentrarse en obtener la victoria ante el equipo rodense y para ello el equipo también confía en el apoyo de la afición miguelturreña ,que tan importante está siendo a lo largo de esta gran temporada del equipo juvenil. 
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/10958322_1687744914785914_6857531567758279438_o.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/10958322_1687744914785914_6857531567758279438_o.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/10958322_1687744914785914_6857531567758279438_o.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/10958322_1687744914785914_6857531567758279438_o.jpg"/> </a> </center>
 

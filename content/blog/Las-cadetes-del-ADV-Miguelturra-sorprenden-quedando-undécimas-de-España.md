@@ -23,8 +23,8 @@ En el caso de los chicos los resultados no han sido tan positivos en un torneo e
 Gran experiencia en cualquier caso para nuestro club que continúa llevando el nombre de Miguelturra por toda la geografía española, y agradecer una vez más a todas las firmas que han colaborado con este proyecto: Hervás Maján, Certrade, Fundición Dúctil Molina, Neumáticos Miguelturra, Clínica Dental Sonría, PuntoDidot, Tecnofactory, Multiópticas, Knauf, Casa Loren y Dulce Almacén, además de la Diputación Provincial de Ciudad Real y el Ayuntamiento de Miguelturra.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/IMG-20150725-WA0008.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/IMG-20150725-WA0008.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/IMG-20150725-WA0008.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/IMG-20150725-WA0008.jpg"/> </a> </center>
 
 <center>
 

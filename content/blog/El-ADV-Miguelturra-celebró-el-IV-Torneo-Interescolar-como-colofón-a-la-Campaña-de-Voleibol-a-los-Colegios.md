@@ -25,6 +25,6 @@ Agradecimientos para todos los monitores/as que han estado visitando los colegio
 
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20140615%20-%2016%3A28%3A46.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20140615%20-%2016%3A28%3A46.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20140615%20-%2016%3A28%3A46.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20140615%20-%2016%3A28%3A46.png"/> </a> </center>
 

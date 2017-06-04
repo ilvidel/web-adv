@@ -18,7 +18,7 @@ Esta asociación con varios miembros de nuestra localidad y creada en busca de u
 Desde el ADV a lo largo de las jornadas se dio oportunidad a los familiares y allegados de los deportistas del club de colaborar con esta asociación que tan importante labor lleva a cabo, a través de una rifa de material del club. La participación fue muy satisfactoria y confiamos en poder seguir colaborando con este tipo de actividades para cumplir con esa responsabilidad social que tenemos los clubes deportivos en la sociedad actual.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20-%20210114%20-%2000%3A34%3A52.png"> 
-<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20-%20210114%20-%2000%3A34%3A52.png"/> </a>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20-%20210114%20-%2000%3A34%3A52.png"> 
+<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20-%20210114%20-%2000%3A34%3A52.png"/> </a>
 </center>
 

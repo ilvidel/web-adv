@@ -32,6 +32,6 @@ Iniciación (no compiten): Anabel Ramírez
 Los monitores junto a los ayudantes que colaboran a la vez que se forman como entrenadores, serán los encargados de que, un año más, todos los que han optado por Voleibol disfruten, aprendan, hagan amistades y, sobre todo, que les queden ganas de continuar practicando este deporte.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/IMG-20131210-WA0000_2.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/IMG-20131210-WA0000_2.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/IMG-20131210-WA0000_2.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/IMG-20131210-WA0000_2.jpg"/> </a> </center>
 

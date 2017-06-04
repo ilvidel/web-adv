@@ -18,7 +18,7 @@ El equipo parte con la baja de la colocadora Laura Mora que aún no está recupe
 La semifinal la jugarán a las 11:30 en el pabellón de la Nueva Ciudad Deportiva de Tomelloso. En caso de jugar la final sería a las 18:30, por su parte el 3º y 4º puesto se jugará a las 16:30.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202013-09-24%2013%3A15%3A26.png"> 
-<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202013-09-24%2013%3A15%3A26.png"/> </a>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202013-09-24%2013%3A15%3A26.png"> 
+<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202013-09-24%2013%3A15%3A26.png"/> </a>
 </center>
 

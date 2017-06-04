@@ -32,8 +32,8 @@ Foto: Concejalía de Deportes de Miguelturra
 
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/lote-1-gala-deportivos-2015-fuente-area-de-comunicacion-municipal-082.jpg"> 
-<img alt="Imagen del partido" width="40%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/lote-1-gala-deportivos-2015-fuente-area-de-comunicacion-municipal-082.jpg"/> </a> </center> 
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/lote-1-gala-deportivos-2015-fuente-area-de-comunicacion-municipal-082.jpg"> 
+<img alt="Imagen del partido" width="40%" align="center" src="http://www.advmiguelturra.org/img/banners/lote-1-gala-deportivos-2015-fuente-area-de-comunicacion-municipal-082.jpg"/> </a> </center> 
 
 
 

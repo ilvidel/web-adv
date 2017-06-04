@@ -27,6 +27,6 @@ Las cadetes de liga regional también notaron el peso de las bajas en el partido
 En el senior B no terminó de verse la mejor versión de este equipo ante un rival al que esperaban poner mayores dificultades y por el que finalmente se vieron superados por 0-3 (12-25, 18-25, 25-27). Juego flojo con muchos errores en el primer set con leve mejora en el segundo y sobre todo en el tercer set en el que solo la suerte hizo que los miguelturreños no se hicieran con la manga tras haber dispuesto de dos puntos de sets.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/B5UpIXhIIAEM9M-.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/B5UpIXhIIAEM9M-.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/B5UpIXhIIAEM9M-.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/B5UpIXhIIAEM9M-.jpg"/> </a> </center>
 

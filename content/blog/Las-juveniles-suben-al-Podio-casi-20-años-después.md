@@ -24,6 +24,6 @@ Foto: Anabel Ramírez
 
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/7b67f50d-6a17-42d2-8967-ac021032855b.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/7b67f50d-6a17-42d2-8967-ac021032855b.jpg"/> </a> </center> 
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/7b67f50d-6a17-42d2-8967-ac021032855b.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/7b67f50d-6a17-42d2-8967-ac021032855b.jpg"/> </a> </center> 
 

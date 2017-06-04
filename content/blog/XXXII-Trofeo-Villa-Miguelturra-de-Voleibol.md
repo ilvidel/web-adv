@@ -22,5 +22,5 @@ Desde la organización la intención es recuperar poco a poco este histórico tr
 
 Toda la información la dejamos en el cartel adjunto:
 
-<center><img src="http://www.advmiguelturra.org/drupal/sites/default/files/CARTEL_VILLA.jpg" height="600" width="440"/></center>
+<center><img src="http://www.advmiguelturra.org/img/banners/CARTEL_VILLA.jpg" height="600" width="440"/></center>
 

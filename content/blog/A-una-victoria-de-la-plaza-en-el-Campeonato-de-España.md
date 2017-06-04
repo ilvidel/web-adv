@@ -16,6 +16,6 @@ Con todo victorias por 3-0, excepto una derrota 3-2 ante Cuenca A, con quienes e
 El equipo cadete, el cual se ha caracterizado hasta ahora por un gran juego de defensa con numerosos recursos tácticos gracias a su espíritu de lucha, continúa entrenando duro para mantener intactas sus señas de identidad y así volver un año más a jugar en la máxima competición del país.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202016-03-11%2015%3A36%3A18.png"> 
-<img alt="Imagen del partido" width="40%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202016-03-11%2015%3A36%3A18.png"/> </a> </center> 
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202016-03-11%2015%3A36%3A18.png"> 
+<img alt="Imagen del partido" width="40%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202016-03-11%2015%3A36%3A18.png"/> </a> </center> 
 

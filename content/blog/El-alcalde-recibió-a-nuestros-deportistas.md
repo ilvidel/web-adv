@@ -17,12 +17,12 @@ El pasado miércoles 19 en el teatro-cine Paz de Miguelturra se llevó a cabo el
 Por un lado fueron recibidas las jugadoras del equipo infantil femenino de Miriam Sánchez que esta temporada quedaron campeonas provinciales. 
 
 <center>
-<img src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202013-06-20%2018%3A57%3A47.png" height="350" width="600"/> </center>
+<img src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202013-06-20%2018%3A57%3A47.png" height="350" width="600"/> </center>
 
 También fueron premiados los infantiles Alejandro Fernández, Miguel López y Ramón Céspedes por ser campeones provinciales y subcampeones regionales en voley playa.
 
 <center>
-<img src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202013-06-20%2018%3A58%3A27.png" height="380" width="450"/> </center>
+<img src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202013-06-20%2018%3A58%3A27.png" height="380" width="450"/> </center>
 
 Todos los deportistas premiados recibieron un diploma y un obsequio por parte de la Concejalía de Deportes.
 

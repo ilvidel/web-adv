@@ -24,6 +24,6 @@ Toda una experiencia para estas jugadoras tan jóvenes que esperemos que les sir
 Más info en https://www.facebook.com/EUROBOL.ALAGondomar
 
 <center>
-<img alt="Remontada ADV" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/1423573326_10960210_1073925272632868_3005758196389658317_o.jpg"/> </center>
+<img alt="Remontada ADV" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/1423573326_10960210_1073925272632868_3005758196389658317_o.jpg"/> </center>
 
 

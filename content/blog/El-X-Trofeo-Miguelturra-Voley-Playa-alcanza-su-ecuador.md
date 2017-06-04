@@ -22,6 +22,6 @@ Por la parte de las categorías Pro, el masculino y el mixto volverán a dejarno
 No hay excusa, esta noche toca Voley Playa, os esperamos en el parque más fresquito del pueblo con el mejor ambiente, música y deporte.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20040815%20-%2017%3A27%3A16.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20040815%20-%2017%3A27%3A16.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20040815%20-%2017%3A27%3A16.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20040815%20-%2017%3A27%3A16.png"/> </a> </center>
 

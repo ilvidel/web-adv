@@ -15,7 +15,7 @@
 El pasado sábado 8 de junio nos desplazábamos a Cuenca para disputar la fase regional de voley playa escolar, en la que cinco equipos de Miguelturra habían conseguido plaza: uno en infantil femenino, cadete femenino y cadete masculino y dos en categoría infantil masculino, categoría en la cual el equipo formado por Alejandro Fernández, Miguel López y Ramón Céspedes consiguieron la plata regional.
 
 <center>
-<img src="http://www.advmiguelturra.org/drupal/sites/default/files/image%20%281%29.jpg" height="360" width="480"/> </center>
+<img src="http://www.advmiguelturra.org/img/banners/image%20%281%29.jpg" height="360" width="480"/> </center>
 
 Al comienzo de la mañana nos llegaba la primera mala noticia cuando la pareja cadete masculino tenía que retirarse del torneo por indisponibilidad para jugar de uno de los miembros de la pareja. Sin embargo el resto de equipos siguieron adelante.
 
@@ -28,7 +28,7 @@ En la final no se pudieron llevar la victoria los churriegos por muy poco, a pes
 Dejando a un lado los resultados fue una gran jornada de voley playa en la que todos pudimos disfrutar del buen juego de nuestros jugadores y jugadoras.
 
 <center>
-<img src="http://www.advmiguelturra.org/drupal/sites/default/files/931320_10201384929210655_1617002588_n.jpg" height="360" width="480"/> </center>
+<img src="http://www.advmiguelturra.org/img/banners/931320_10201384929210655_1617002588_n.jpg" height="360" width="480"/> </center>
 
 
 

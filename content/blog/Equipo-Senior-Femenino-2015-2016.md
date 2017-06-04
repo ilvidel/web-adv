@@ -12,8 +12,8 @@
 }
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/SF.JPG">
-<img alt="El equipo senior femenino" width="80%" src="http://www.advmiguelturra.org/drupal/sites/default/files/SF.JPG"/>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/SF.JPG">
+<img alt="El equipo senior femenino" width="80%" src="http://www.advmiguelturra.org/img/banners/SF.JPG"/>
 </a>
 </center>
 

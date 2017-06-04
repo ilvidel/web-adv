@@ -48,8 +48,8 @@ Email: direccion@advmiguelturra.org
 
 Camiseta oficial:
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/AmWx7tYb3BZ4tbYCGn_4Hz_-1tIiiJZ-B2Lw7Qb5BYNO_0.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/AmWx7tYb3BZ4tbYCGn_4Hz_-1tIiiJZ-B2Lw7Qb5BYNO_0.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/AmWx7tYb3BZ4tbYCGn_4Hz_-1tIiiJZ-B2Lw7Qb5BYNO_0.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/AmWx7tYb3BZ4tbYCGn_4Hz_-1tIiiJZ-B2Lw7Qb5BYNO_0.jpg"/> </a> </center>
 
 
 

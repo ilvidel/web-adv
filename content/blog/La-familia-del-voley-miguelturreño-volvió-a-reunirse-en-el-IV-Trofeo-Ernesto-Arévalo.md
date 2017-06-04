@@ -27,6 +27,6 @@ También fueron reconocidos todos los equipos miguelturreños que cosecharon éx
 Para terminar, cena de hermandad poniendo punto y final a otra gran jornada de deporte y convivencia.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202016-05-11%2022%3A58%3A09.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202016-05-11%2022%3A58%3A09.png"/> </a> </center> 
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202016-05-11%2022%3A58%3A09.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202016-05-11%2022%3A58%3A09.png"/> </a> </center> 
 

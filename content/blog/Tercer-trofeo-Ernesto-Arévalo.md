@@ -24,7 +24,7 @@ Para cerrar las actividades deportivas, a las 19:00 recibiremos la visita de nue
 Al mediodía, y tras los encuentros de la tarde, acompañaremos todo el deporte con la 1ª Feria de Abril del ADV Senior Femenino organizada por el Pub Bloody Mary en colaboración con el ADV y en la que parte de los beneficios irán destinados a sufragar los gastos de la ya mencionada fase de ascenso. Por la noche y para cerrar, en el mismo lugar, también celebraremos el ascenso a 1ª División de nuestro equipo senior masculino, para lo que animamos a todo el mundo a acercarse a festejar tan importante logro junto a todos nosotros.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20210415%20-%2013%3A29%3A18.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20210415%20-%2013%3A29%3A18.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20210415%20-%2013%3A29%3A18.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20210415%20-%2013%3A29%3A18.png"/> </a> </center>
 
 

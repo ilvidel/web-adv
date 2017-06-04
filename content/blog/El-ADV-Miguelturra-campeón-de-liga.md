@@ -26,6 +26,6 @@ Las cadetes no pudieron conseguir la difícil remontada que debían lograr en Al
 Finalmente indicar que nuestros equipos Alevín Masculino A y Alevín Femenino A se han colado en las semis provinciales de su categoría que tendrán lugar el 18 de abril, el Alevín Femenino D queda a la espera de su enfrentamiento el próximo viernes con Tomelloso para ver si se cuelan también en las semis.
 
 <center>
-<img alt="Remontada ADV" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/20150323082054.jpg"/> </center>
+<img alt="Remontada ADV" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/20150323082054.jpg"/> </center>
 
 

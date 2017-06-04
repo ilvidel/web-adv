@@ -20,6 +20,6 @@ En el caso del senior masculino B será María José Céspedes quien se encargue
 El resto de la jornada lo completan las senior con el importante viaje a Guadalajara para enfrentarse con Universitario, líder provisional. También jugará juvenil fem A en Membrilla y el B recibirá a Almagro.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202016-11-10%2016-47-47.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202016-11-10%2016-47-47.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202016-11-10%2016-47-47.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202016-11-10%2016-47-47.png"/> </a> </center>
 

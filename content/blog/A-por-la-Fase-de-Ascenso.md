@@ -20,6 +20,6 @@ Tras la derrota ante Sf Motor Villaseca de la Sagra todo apunta a que las toleda
 Las senior necesitan el apoyo del público más que en ningún otro partido de la temporada. El espectáculo y el buen juego son seguros y es por ello que os animamos a todos a acudir al Pabellón Municipal.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/WhatsApp%20Image%202017-02-07%20at%2023.00.43.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/WhatsApp%20Image%202017-02-07%20at%2023.00.43.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/WhatsApp%20Image%202017-02-07%20at%2023.00.43.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/WhatsApp%20Image%202017-02-07%20at%2023.00.43.jpg"/> </a> </center>
 

@@ -25,6 +25,6 @@ También cabe destacar la realización de una rifa solidaria en la que se consig
 Desde el club se agradece enormemente la colaboración altruista e imprescindible de los voluntarios en esta actividad organizada por el ADV Miguelturra y las Escuelas Deportivas Municipales con la colaboración de la Concejalía de Deportes.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20050115%20-%2017%3A41%3A58.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20050115%20-%2017%3A41%3A58.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20050115%20-%2017%3A41%3A58.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20050115%20-%2017%3A41%3A58.png"/> </a> </center>
 

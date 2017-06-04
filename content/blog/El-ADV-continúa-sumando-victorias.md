@@ -25,6 +25,6 @@ Las cadetes de liga regional también consiguieron sumar otro triunfo, en este c
 Finalmente el filial senior masculino calló derrotado en Talavera de la Reina por 3-1 en un partido con numerosos altibajos pero con fases de juego muy buenas del equipo miguelturreño que hacen creer que este equipo dará mucho ruido en lo que queda de liga.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/senmasc.jpg"> 
-<img alt="Imagen del partido" width="100%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/senmasc.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/senmasc.jpg"> 
+<img alt="Imagen del partido" width="100%" align="center" src="http://www.advmiguelturra.org/img/banners/senmasc.jpg"/> </a> </center>
 

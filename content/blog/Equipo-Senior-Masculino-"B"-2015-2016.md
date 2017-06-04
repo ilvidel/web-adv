@@ -12,9 +12,9 @@
 }
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/senior-masc-b-1415.jpg">
-<img src="http://www.advmiguelturra.org/drupal/sites/default/files/no-photo-yet.png" width="100%" alt="Equipo Senior Masculino B"/>
-<!--img src="http://www.advmiguelturra.org/drupal/sites/default/files/senior-masc-b-1415" width="100%" alt="Equipo Senior Masculino B"/-->
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/senior-masc-b-1415.jpg">
+<img src="http://www.advmiguelturra.org/img/banners/no-photo-yet.png" width="100%" alt="Equipo Senior Masculino B"/>
+<!--img src="http://www.advmiguelturra.org/img/banners/senior-masc-b-1415" width="100%" alt="Equipo Senior Masculino B"/-->
 </center>
 
 

@@ -12,8 +12,8 @@
 }
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202015-09-18%2016%3A46%3A48.png">
-<img src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202015-09-18%2016%3A46%3A48.png" width="100%" alt="Equipo Juvenil Masculino"/>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202015-09-18%2016%3A46%3A48.png">
+<img src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202015-09-18%2016%3A46%3A48.png" width="100%" alt="Equipo Juvenil Masculino"/>
 </a>
 </center>
 

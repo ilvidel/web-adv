@@ -11,7 +11,7 @@
   "title": "Club"
 }
 
-<div style="background: url('http://www.advmiguelturra.org/drupal/sites/default/files/escudo-watermark.png'); background-size: 100% Auto; background-repeat: no-repeat">
+<div style="background: url('http://www.advmiguelturra.org/img/banners/escudo-watermark.png'); background-size: 100% Auto; background-repeat: no-repeat">
 <h2> Qué es el ADV Miguelturra</h2>
 <p align="justify">Es una asociación deportiva dedicada al voleibol y al voley playa fundada en 1982 en Miguelturra (Ciudad Real) para unificar toda la práctica de voleibol de la localidad en un club. El objetivo principal de la asociación en sus inicios era proporcionar a los jóvenes de la localidad una alternativa deportiva para el tiempo libre, en una época de transición en la que las posibilidades de ocio en los pueblos eran aún muy reducidas. Para salir adelante, la asociación se planteó sin ánimo de lucro pensada para funcionar gracias a la colaboración altruista y desinteresada de los socios.</p>
 
@@ -57,9 +57,9 @@ Es el modelo de actividad que más ha crecido en los últimos años siendo numer
 <h3> Directiva</h3>
 <p align="justify">La junta directiva del club está formada por el presidente, vicepresidente, tesorero, secretario y ocho vocales. Se convocan elecciones a presidente cada dos años (correspondiendo las próximas a junio de 2015) a las que se puede presentar cualquier socio/a mayor de 18 años y pueden votar todos los socios mayores de 16 años. El presidente elegido nombra vicepresidente, tesorero, secretario y cuatro vocales, los cuatro vocales restantes corresponden a los delegados de las secciones federadas uno por cada una (juvenil y senior tanto femenino como masculino), los cuales deben ser elegidos por mayoría dentro de sus propios equipos.</p>
 <p align="justify">La junta se reúne de forma ordinaria una vez cada trimestre y de forma extraordinaria para tratar asuntos de urgencia. Actualmente la junta directiva se compone de la siguiente manera:</p>
-<img src="http://www.advmiguelturra.org/drupal/sites/default/files/20160119085747.jpg" alt="Junta Directiva" width="100%"/>
+<img src="http://www.advmiguelturra.org/img/banners/20160119085747.jpg" alt="Junta Directiva" width="100%"/>
 
 <!--h3>Organigrama de funcionamiento y responsables de área.</h3>
-<img src="http://www.advmiguelturra.org/drupal/sites/default/files/organ-nombres.png" alt="Organigrama de Responsables de Área" width="100%"/-->
+<img src="http://www.advmiguelturra.org/img/banners/organ-nombres.png" alt="Organigrama de Responsables de Área" width="100%"/-->
 </div>
 

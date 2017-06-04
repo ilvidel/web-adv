@@ -22,6 +22,6 @@ La vista está puesta principalmente en el Sf Motor Villaseca de la Sagra, reci�
 Aún así, es grande la incertidumbre acerca de las jugadoras que competirán por la parte de los diferentes clubes de la región, por lo que la idea que plantea el equipo miguelturreño será basarse en su propio juego y llegar a cada jornada lo mejor preparadas posible para sumar victorias en cada encuentro.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202016-10-13%2001-18-04.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202016-10-13%2001-18-04.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202016-10-13%2001-18-04.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202016-10-13%2001-18-04.png"/> </a> </center>
 

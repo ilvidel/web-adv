@@ -26,6 +26,6 @@ Agradecimientos a las instituciones que hacen posible este evento: Concejalía d
 Contamos contigo!!
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/13533195_10208112670512009_1565445474566880113_n.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/13533195_10208112670512009_1565445474566880113_n.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/13533195_10208112670512009_1565445474566880113_n.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/13533195_10208112670512009_1565445474566880113_n.jpg"/> </a> </center>
 

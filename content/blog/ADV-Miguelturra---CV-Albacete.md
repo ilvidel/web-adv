@@ -44,7 +44,7 @@ El ultimo set, el equipo local  volvió a realizar varios cambios, saliendo a la
 Esta semana el equipo Miguelturreño se desplaza a la localidad de Almagro, donde intentará mantener el liderato de la clasificación ante el equipo almagreño en el Pabellón Jose Manuel Roldán el sábado 30 de Noviembre a las 17:00 h.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/PlantillaSeniorFemenino.jpg"> 
-<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/PlantillaSeniorFemenino.jpg"/> </a>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/PlantillaSeniorFemenino.jpg"> 
+<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/PlantillaSeniorFemenino.jpg"/> </a>
 </center>
 

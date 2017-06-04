@@ -21,8 +21,8 @@ Este año el torneo ha recaído en nuestra localidad por iniciativa del ADV Migu
 Con todo esto, el sábado el espectáculo está garantizado y una vez más queremos invitar a todos los aficionados al deporte a que se pasen por el Parque Rivas Moreno donde habrá buen ambiente, música, barra con refrescos y bocadillos y, sobre todo, mucho deporte.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20-%20210514%20-%2017%3A00%3A31.png"> 
-<img width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20-%20210514%20-%2017%3A00%3A31.png"/> </a>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20-%20210514%20-%2017%3A00%3A31.png"> 
+<img width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20-%20210514%20-%2017%3A00%3A31.png"/> </a>
 </center>
 
 

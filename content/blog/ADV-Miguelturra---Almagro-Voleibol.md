@@ -47,7 +47,7 @@ En el tercer set, el CV Almagro llegó a ponerse por delante en el tanteo por pr
 En el próximo enfrentamiento  nuestras chicas tendrán que desplazarse a Puertollano, para intentar vencer y dejar prácticante sentenciada la liga a falta de dos jornadas para su finalización.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20-%20240214%20-%2014%3A43%3A33.png"> 
-<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20-%20240214%20-%2014%3A43%3A33.png"/> </a>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20-%20240214%20-%2014%3A43%3A33.png"> 
+<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20-%20240214%20-%2014%3A43%3A33.png"/> </a>
 </center>
 

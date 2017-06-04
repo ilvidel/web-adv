@@ -27,7 +27,7 @@ Tras el partido los jugadores de la ADV fueron invitados a un refresco en la caf
 Desde la dirección de la ADV Miguelturra y en nombre de todos los que formamos parte de la gran familia del voleibol, reiteramos nuestro agradecimiento a la dirección y al resto de funcionarios del CP de Herrera de la Mancha,  por su predisposición a que estas iniciativas se lleven a cabo. 
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202013-10-23%2020%3A59%3A01.png"> 
-<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20de%202013-10-23%2020%3A59%3A01.png"/> </a>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202013-10-23%2020%3A59%3A01.png"> 
+<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202013-10-23%2020%3A59%3A01.png"/> </a>
 </center>
 

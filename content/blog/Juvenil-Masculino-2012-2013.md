@@ -12,8 +12,8 @@
 }
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/juv-masc-12-13.png">
-<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/juv-masc-12-13.png"/> </a>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/juv-masc-12-13.png">
+<img alt="El equipo juvenil masculino" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/juv-masc-12-13.png"/> </a>
 </center>
 
 <p>&nbsp;</p>

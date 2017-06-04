@@ -20,7 +20,7 @@ El conjunto miguelturreño ha realizado una primera fase histórica con una supe
 Las chicas no descansan en el trabajo para pelear por seguir avanzando en las eliminatorias y estar en los puestos de arriba de Castilla-La Mancha, desde el club se confía en que la buena labor del equipo continúe dando éxitos esta temporada y se anima a la afición a seguir apoyando al conjunto.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20080215%20-%2020%3A11%3A03.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20080215%20-%2020%3A11%3A03.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20080215%20-%2020%3A11%3A03.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20080215%20-%2020%3A11%3A03.png"/> </a> </center>
 
 

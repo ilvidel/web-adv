@@ -22,6 +22,6 @@ Más que recomendable la presencia en nuestro Pabellón este sábado, en un part
 Anima a los juveniles del ADV!!
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/WhatsApp%20Image%202017-01-26%20at%2011.24.18.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/WhatsApp%20Image%202017-01-26%20at%2011.24.18.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/WhatsApp%20Image%202017-01-26%20at%2011.24.18.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/WhatsApp%20Image%202017-01-26%20at%2011.24.18.jpg"/> </a> </center>
 

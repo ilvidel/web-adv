@@ -17,8 +17,8 @@ La edición de nuestro torneo para este 2015 echa a andar. De momento os dejamos
 Animamos a todo el mundo a participar y a poder tener de nuevo 10 días cargados con Voley Playa de máxima intensidad!! Las 140 parejas son posibles.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Dibujo.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Dibujo.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Dibujo.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Dibujo.jpg"/> </a> </center>
 
 
 

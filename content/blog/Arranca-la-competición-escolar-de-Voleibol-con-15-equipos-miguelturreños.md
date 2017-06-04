@@ -18,6 +18,6 @@ Del total de 15 equipos habrá 2 cadete femenino, 1 cadete masculino, 3 infantil
 El primer equipo en debutar este año será el Cadete Femenino A dirigido por Miriam Sánchez, quienes se enfrentarán al EMD Las Pedroñeras el próximo viernes a las 17:30 en el Pabellón Municipal en la primera jornada de la Liga Regional Cadete, competición en la que consiguieron plaza tras quedar campeonas provinciales el pasado año. El equipo ha quedado encuadrado en el grupo C junto a Motilla, La Roda, Toledo y Cuenca además de Pedroñeras, el objetivo es quedar en la mitad alta del grupo para obtener un cruce asequible de octavos de final regional. La confianza está depositada en una generación que ya venían de ser campeonas provinciales en infantiles y que este año parece ser el momento ideal para hacer un buen papel también a nivel regional.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/IMG-20131210-WA0000.jpg"> 
-<img alt="Trio VP" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/IMG-20131210-WA0000.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/IMG-20131210-WA0000.jpg"> 
+<img alt="Trio VP" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/IMG-20131210-WA0000.jpg"/> </a> </center>
 

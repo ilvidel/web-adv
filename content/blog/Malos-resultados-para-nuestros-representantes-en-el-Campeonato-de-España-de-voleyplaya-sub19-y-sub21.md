@@ -29,5 +29,5 @@ Estos malos resultados esperemos que sirvan para dar un toque de atención tanto
 Por suerte, han recibido ayudas por parte de empresas como Hervás Maján, Jacinto Jaramillo y Comercial Muela (Victorinox), sin los cuales Castilla-La Mancha no habría tenido representación en este campeonato de un deporte tan seguido en nuestra provincia como es el voleyplaya. Cabe citar también la ayuda del Ayuntamiento de Miguelturra y la Federación de voleibol de Castilla-La Mancha.
 
 <center>
-<img src="http://www.advmiguelturra.org/drupal/sites/default/files/1238918_216383068521449_83953759_n.jpg" height="450" width="600"/> </center>
+<img src="http://www.advmiguelturra.org/img/banners/1238918_216383068521449_83953759_n.jpg" height="450" width="600"/> </center>
 

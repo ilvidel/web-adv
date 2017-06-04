@@ -22,6 +22,6 @@ La actividad se prolongará hasta el sábado 18 con descanso el domingo, días e
 El clinic es organizado por el ADV Miguelturra en colaboración con el Ayuntamiento de Miguelturra y las empresas colaboradoras Eroski, E. Leclerc, Simply, Central de Frutas del Hoyo, Clesa, Agua San Joaquín, Refrescos del Atlántico, Carnicería Satur, PuntoDidot y Bravo Bus.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20100715%20-%2018%3A55%3A40.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20100715%20-%2018%3A55%3A40.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20100715%20-%2018%3A55%3A40.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20100715%20-%2018%3A55%3A40.png"/> </a> </center>
 

@@ -30,8 +30,8 @@ En categoría Aficionado por su parte, toca esperar a la gran final del domingo,
 También os dejamos la FOTO DEL JUEVES, en este caso realizada por Fran Sánchez que se ha ganado una cena gratis.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20070815%20-%2017%3A22%3A42.png"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Screenshot%20-%20070815%20-%2017%3A22%3A42.png"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20070815%20-%2017%3A22%3A42.png"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Screenshot%20-%20070815%20-%2017%3A22%3A42.png"/> </a> </center>
 
 
 

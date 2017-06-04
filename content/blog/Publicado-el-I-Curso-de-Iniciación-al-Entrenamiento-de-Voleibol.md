@@ -21,8 +21,8 @@ Las clases teóricas serán impartidas en el Centro Joven de Miguelturra y la pa
 El curso es una gran oportunidad de entrar en contacto con el trabajo del entrenador de voleibol no solo para jugadores de voleibol, sino para todo tipo de aficionados al deporte y, todo esto, a través de entrenadores de gran éxito nacional en deporte escolar.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20-%20180314%20-%2012%3A33%3A08.png"> 
-<img alt="Cartel del curso" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/Captura%20de%20pantalla%20-%20180314%20-%2012%3A33%3A08.png"/> </a>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20-%20180314%20-%2012%3A33%3A08.png"> 
+<img alt="Cartel del curso" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20-%20180314%20-%2012%3A33%3A08.png"/> </a>
 </center>
 
 

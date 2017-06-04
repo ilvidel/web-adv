@@ -21,6 +21,6 @@ Las chicas que dirige Sergi Domínguez se quedaron a las puertas de estar en la 
 Este equipo podrá estar junto al alevín masculino A, que entrena Javier Nieto, en la primera edición del Campeonato de España Alevín, que se celebrará en Valladolid los próximos 24 a 26 de Junio, en categoría tanto masculina como femenina, y en el que podrán jugar frente a las mejores jóvenes promesas de todo el país en una cita tan novedosa ahora como posiblemente histórica en un futuro al ser la primera vez que se celebra.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/WhatsApp-Image-20160522%20%283%29.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/WhatsApp-Image-20160522%20%283%29.jpg"/> </a> </center> 
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/WhatsApp-Image-20160522%20%283%29.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/WhatsApp-Image-20160522%20%283%29.jpg"/> </a> </center> 
 

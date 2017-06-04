@@ -43,7 +43,7 @@ Estar fuertes en cualquier faceta de juego y durante todo el partido es algo bá
 Si claro, como en cada viaje, sólo hay que ponerse en contacto con alguien del entorno del equipo.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/JF_a-.JPG"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/JF_a-.JPG"/> </a> </center> 
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/JF_a-.JPG"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/JF_a-.JPG"/> </a> </center> 
 
 

@@ -26,7 +26,7 @@ En categoría alevín femenino los cinco equipos miguelturreños se han enfrenta
 La fase local alevín masculino ya ha quedado finalizada con triunfo del equipo A de Javier Nieto. Por detrás han quedado los equipo C y B que dirige Jesús Nieto tras algunos partidos realmente entretenidos para la edad de los chavales. Al igual que las alevines los tres equipos esperan rivales para la fase provincial.
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/drupal/sites/default/files/IMG-20131210-WA0000_0.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/drupal/sites/default/files/IMG-20131210-WA0000_0.jpg"/> </a> </center>
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/IMG-20131210-WA0000_0.jpg"> 
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/IMG-20131210-WA0000_0.jpg"/> </a> </center>
 
 
