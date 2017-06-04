@@ -1,8 +1,11 @@
 *~
-*.jpg
-*.pdf
 makefile
 cgi-bin
-*.png
 dia*.html
 *clasif.html
+vplaya/torneo/torneo*.html
+vplaya/torneo/clasif-torneo-*.html
+vplaya/torneo/cuadro-*.png
+vplaya/torneo/cuadro-*.pdf
+public/
+themes/

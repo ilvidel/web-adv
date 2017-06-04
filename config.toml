@@ -1,0 +1,143 @@
+baseurl = "http://www.advmiguelturra.org/"
+title = "ADV Miguelturra"
+theme = "hugo-universal-theme"
+
+# Site language. Available translations in the theme's `/i18n` directory.
+defaultContentLanguage = "es"
+languageCode = "es-ES"
+
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = "UA-56289011-1"
+
+# Define the number of posts per page
+paginate = 10
+
+[menu]
+
+[[menu.main]]
+    name = "Inicio"
+    url  = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Blog"
+    url  = "/blog/"
+    weight = 2
+
+[[menu.main]]
+    name = "Fotos"
+    url  = "https://www.flickr.com/photos/advmiguelturra/albums/"
+    weight = 3
+
+[[menu.main]]
+    name = "Voley Playa"
+    url  = "/vplaya/"
+    weight = 4
+
+[[menu.main]]
+    name = "Contacto"
+    url  = "/contacto/"
+    weight = 5
+
+[params]
+    viewMorePostLink = "/blog/"
+    author = "Joaquín"
+
+    # Google Maps API key (if not set will default to not passing a key.)
+    googleMapsApiKey = ""
+
+    # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
+    style = "blue"
+
+    # Since this template is static, the contact form uses www.formspree.io as a
+    # proxy. The form makes a POST request to their servers to send the actual
+    # email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your email address under 'email' below
+    # - upload the generated site to your server
+    # - send a dummy email yourself to confirm your account
+    # - click the confirm link in the email from www.formspree.io
+    # - you're done. Happy mailing!
+    #
+    # Enable the contact form by entering your Formspree.io email
+    email = "direccion@advmiguelturra.org"
+
+    about_us = "<p>Somos un club deportivo con sede en Miguelturra. Nuestra pasión es el voleibol y lo practicamos y fomentamos tanto en pista como en playa y de cualquier otra forma que se nos ocurra.</p>"
+    copyright = "Copyright (c) 2017, ADV Miguelturra; todos los derechos reservados."
+
+    # Format dates with Go's time formatting
+    date_format = "02 01 2006"
+
+    logo = "img/logo.png"
+    address = """<p><strong>ADV Miguelturra</strong>
+        <br>Calle de la Juventud, s/n
+        <br>13170
+        <br>Miguelturra
+        <br>Ciudad Real
+        <br>
+        <strong>España</strong>
+      </p>
+      """
+    latitude = "38.957849"
+    longitude = "-3.886916"
+
+[Permalinks]
+    blog = "/blog/:year/:month/:day/:filename/"
+
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    categories = true
+    tags = true
+    search = false
+
+[params.carousel]
+    # All carousel items are defined in their own files. You can find example items
+    # at 'exampleSite/data/carousel'.
+    # For more informtion take a look at the README.
+    enable = true
+
+[params.features]
+    # All features are defined in their own files. You can find example items
+    # at 'exampleSite/data/features'.
+    # For more informtion take a look at the README.
+    enable = false
+
+[params.equipos]
+    # describe in 'data/equipos/*yml'
+    enable = false
+
+[params.testimonials]
+    # All testimonials are defined in their own files. You can find example items
+    # at 'exampleSite/data/testimonials'.
+    # For more informtion take a look at the README.
+    enable = true
+    title = "Nosotros"
+    subtitle = "Son muchas las personas involucradas en la gestión de la ADV, y que dedican su tiempo y esfuerzo para sacar las cosas adelante. Entrenadores, monitores de EEDD y ayudantes forman parte esencial del trabajo diario del Club. A nivel institucional, la ADV está representada por la Junta Directiva. Éstos son sus principales miembros:"
+
+[params.see_more]
+    enable = true
+    icon = "fa fa-newspaper-o"
+    title = "¿Quieres saber más?"
+    subtitle = "Visita nuestro blog y lee sobre todos nuestros eventos, partidos, torneos, noticias, etc…"
+    link_url = "blog/"
+    link_text = "Blog del ADV"
+
+[params.clients]
+    enable = true
+    # All clients are defined in their own files. You can find example items
+    # at 'exampleSite/data/clients'.
+    # For more informtion take a look at the README.
+    title = "Enlaces"
+    #subtitle = "Instituciones y organizaciones relacionadas con nosotros y con el voleibol"
+    subtitle = ""
+
+[params.recent_posts]
+    enable = true
+    title = "Publicaciones recientes"
+    #subtitle = "Últimas entradas y noticias en nuestro blog"
+    subtitle = ""
