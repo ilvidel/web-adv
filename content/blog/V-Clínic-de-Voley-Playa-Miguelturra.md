@@ -1,14 +1,14 @@
 {
-  "author": "Joaqu\u00edn", 
-  "banner": "img/banners/contraClinic_0.jpg", 
+  "author": "Joaqu\u00edn",
+  "banner": "img/banners/contraClinic_0.jpg",
   "categories": [
     "noticia"
-  ], 
-  "date": "2016-06-09 17:27:51", 
+  ],
+  "date": "2016-06-09 17:27:51",
   "tags": [
-    "Voley Playa", 
+    "Voley Playa",
     "Clinic"
-  ], 
+  ],
   "title": "V Cl\u00ednic de Voley Playa Miguelturra"
 }
 
@@ -27,10 +27,9 @@ Gran agradecimiento también a los colaboradores institucionales Ayuntamiento y 
 No te quedes fuera!!
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/img/banners/PortadaClinic2016.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/PortadaClinic2016.jpg"/> </a> </center> 
+<a target="_new" href="http://www.advmiguelturra.org/vplaya/img/PortadaClinic2016.jpg">
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/vplaya/img/PortadaClinic2016.jpg"/> </a> </center>
 
 <center>
-<a target="_new" href="http://www.advmiguelturra.org/img/banners/contraClinic_0.jpg"> 
-<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/contraClinic_0.jpg"/> </a> </center> 
-
+<a target="_new" href="http://www.advmiguelturra.org/img/banners/contraClinic_0.jpg">
+<img alt="Imagen del partido" width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/contraClinic_0.jpg"/> </a> </center>
