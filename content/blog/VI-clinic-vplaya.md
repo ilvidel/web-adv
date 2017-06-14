@@ -12,26 +12,26 @@
   "title": "VI Clínic de Voley-Playa"
 }
 
-La sexta edición del *Clínic de Voley Playa Miguelturra* ya está aquí,
-en esta ocasión estrenando la nueva instalación del *Parque Rivas
-Moreno* en la que un año más tendrá lugar nuestro evento veraniego más
+La sexta edición del **Clínic de Voley Playa Miguelturra** ya está aquí,
+en esta ocasión estrenando la nueva instalación del **Parque Rivas
+Moreno** en la que un año más tendrá lugar nuestro evento veraniego más
 esperado por los más jóvenes.
 
-Este año *comenzaremos el jueves 6 de Julio* con la inauguración en el
-Pabellón Municipal y continuaremos *hasta el sábado 15*, en el que nos
+Este año **comenzaremos el jueves 6 de Julio** con la inauguración en el
+Pabellón Municipal y continuaremos **hasta el sábado 15**, en el que nos
 despediremos con la ya habitual fiesta de clausura en Playa
 Park. Tanto los nuevos en este deporte, como los ya experimentados,
 tendremos un puñado de días para aprender y disfrutar con nuestro
 deporte favorito de verano.
 
-El equipo de monitores del ADV, compuesto por *más de 20 miembros*, ya
+El equipo de monitores del ADV, compuesto por **más de 20 miembros**, ya
 se encuentra trabajando en el proyecto fieles al compromiso con
-nuestros valores: *la participación, el compañerismo y la convivencia*,
+nuestros valores: **la participación, el compañerismo y la convivencia**,
 los cuales serán las claves para que los chicos y chicas puedan
 disfrutar al máximo estos días.
 
-*La inscripción se abre el próximo 12 de Junio para los alumnos de la
-Escuela de Voleibol y el 14 de Junio para el resto de interesados*.
+**La inscripción se abre el próximo 12 de Junio para los alumnos de la
+Escuela de Voleibol y el 14 de Junio para el resto de interesados**.
 Como siempre, la inscripción incluye camiseta y mochila personalizada,
 además de gorra y cantimplora para cada participante. También
 contaremos con almuerzo saludable a media mañana y agua mineral,
