@@ -1,6 +1,6 @@
 {
   "author": "Joaquín",
-  "banner": "img/banners/",
+  "banner": "img/banners/presentacion-clinic-2017.jpg",
   "categories": [
     "noticia"
   ],
