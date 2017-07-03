@@ -70,10 +70,10 @@ Ramón, Bar Katxis, Foto Encarni, Peluquería Roque, Papelería El
 Cristo, Jardín de la Armonía y Motos Julio.
 
 <center>
-	<a target="photo" href="http://www.advmiguelturra.org/img/banners/">
+	<a target="photo" href="http://www.advmiguelturra.org/img/banners/cto-espana-alevin-2017-fem.jpg">
 	<img width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/cto-espana-alevin-2017-fem.jpg"/>
 	</a>
-	<a target="photo" href="http://www.advmiguelturra.org/img/banners/">
+	<a target="photo" href="http://www.advmiguelturra.org/img/banners/cto-espana-alevin-2017-masc.jpg">
 	<img width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/cto-espana-alevin-2017-masc.jpg"/>
 	</a>
 </center>
