@@ -59,11 +59,10 @@ textarea {
 body {
     font: 16px/26px Helvetica, Helvetica Neue, Verdana, Arial, sans-serif;
 	background-image: url('http://www.advmiguelturra.org/img/canguro-watermark.png');
-	background-position: 0 100px;
+	background-position: right bottom;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	background-position-y: 96;
-	background-size: 25%;
+	background-size: 256pt;
 }
 
 .wrapper {
