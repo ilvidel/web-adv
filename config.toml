@@ -46,19 +46,19 @@ paginate = 10
 [[menu.topbar]]
     weight = 1
     name = "Flickr"
-    url = "https://github.com/devcows/hugo-universal-theme"
-    pre = "<i class='fa fa-2x fa-github'></i>"
+    url = "https://www.flickr.com/photos/advmiguelturra/albums"
+    pre = "<i class='fa fa-2x fa-flickr'></i>"
 
 [[menu.topbar]]
     weight = 2
     name = "Facebook"
-    url = "http://facebook.com"
+    url = "https://www.facebook.com/ADVMiguelturra"
     pre = "<i class='fa fa-2x fa-facebook'></i>"
 
 [[menu.topbar]]
     weight = 3
     name = "Twitter"
-    url = "http://twitter.com"
+    url = "http://twitter.com/advmiguelturra"
     pre = "<i class='fa fa-2x fa-twitter'></i>"
 
 #[[menu.topbar]]
@@ -116,6 +116,9 @@ paginate = 10
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
 
+[params.topbar]
+    enable = true
+    text = ""
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]

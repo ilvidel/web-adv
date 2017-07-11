@@ -19,18 +19,17 @@
                     {{ range .Site.Data.testimonials }}
                     <li class="item">
                         <div class="testimonial same-height-always">
-                            <div class="text">
-                                <p>{{ .text | markdownify }}</p>
-                            </div>
-                            <div class="bottom">
-                                <div class="icon"><i class="fa fa-quote-left"></i>
-                                </div>
-                                <div class="name-picture">
-                                    <img class="" alt="" src="{{ .avatar | absURL }}">
-                                    <h5>{{ .name }}</h5>
-                                    <p>{{ .position }}</p>
-                                </div>
-                            </div>
+							<div class="name-picture">
+							  <img src="{{ .avatar }}" alt="{{ .alt }}">
+							</div>
+							<h3>{{ .name | markdownify }}</h3>
+							<span class="fh5co-position"><strong>{{ .position }}</strong></span>
+							<p>{{ .description | markdownify }}</p>
+							<ul class="social social-circle">
+							  {{ range .social }}
+							  <li><a href="{{ index . 1 }}"><i class="{{ index .  0 }}"></i></a></li>
+							  {{ end }}
+							</ul>
                         </div>
                     </li>
                     {{ end }}
