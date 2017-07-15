@@ -15,3 +15,10 @@ deploy:
     skip_cleanup: true
     on:
       branch: master
+
+notifications:
+  email:
+    recipients:
+      - jglez_arriaga@hotmail.com
+    on_success: always # default: change
+    on_failure: always # default: always
