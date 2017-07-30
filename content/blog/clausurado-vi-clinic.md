@@ -1,6 +1,6 @@
 {
   "author": "Joaquín",
-  "banner": "img/banners/clausuara-vi-clinic.jpg",
+  "banner": "img/banners/clausura-vi-clinic.jpg",
   "categories": [
     "noticia"
   ],
