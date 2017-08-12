@@ -6,7 +6,7 @@
   ],
   "date": "2017-08-03 12:00:00",
   "tags": [
-    "Campeonatos de españa",
+    "Campeonato de españa",
 	"voley-playa"
   ],
   "title": "Juanma Ruiz y Sergio Sobrino inician los Campeonatos de España para las parejas miguelturreñas."
@@ -44,4 +44,3 @@ Sendarrubias y Suministros Garrido. Desde el ADV también hemos querido
 apoyar a los chicos: a pesar de ser una competición independiente de
 nuestro club, nos corresponde implicarnos en el crecimiento de nuestros
 chicos y chicas como jugadores.
-

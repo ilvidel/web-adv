@@ -6,7 +6,7 @@
   ],
   "date": "2017-08-04 16:00:00",
   "tags": [
-    "torneos",
+    "campeonato de españa",
 	"voley-playa"
   ],
   "title": "Buena experiencia de Juanma y Sergio en Lorca representando a Castilla-La Mancha"
