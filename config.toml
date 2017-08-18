@@ -38,7 +38,7 @@ paginate = 10
 
 [[menu.main]]
     name = "Contacto"
-    url  = "/contacto/"
+    url  = "/contact/"
     weight = 5
 
 # Top bar social links menu
@@ -60,6 +60,12 @@ paginate = 10
     name = "Twitter"
     url = "http://twitter.com/advmiguelturra"
     pre = "<i class='fa fa-2x fa-twitter'></i>"
+
+[[menu.topbar]]
+    weight = 4
+    name = "YouTube"
+    url = "https://www.youtube.com/user/advmiguelturratv"
+    pre = "<i class='fa fa-2x fa-youtube'></i>"
 
 #[[menu.topbar]]
 #    weight = 4
@@ -101,13 +107,10 @@ paginate = 10
     date_format = "02 01 2006"
 
     logo = "img/logo.png"
-    address = """<p><strong>ADV Miguelturra</strong>
+    address = """<p><strong>Pabellón Municipal de Miguelturra</strong>
         <br>Calle de la Juventud, s/n
-        <br>13170
-        <br>Miguelturra
+        <br>13170 Miguelturra
         <br>Ciudad Real
-        <br>
-        <strong>España</strong>
       </p>
       """
     latitude = "38.957849"
