@@ -4,7 +4,7 @@
   "categories": [
     "noticia"
   ],
-  "date": "2017-06-24 13:00:00",
+  "date": "2017-08-24 13:00:00",
   "tags": [
     "Campeonato de España",
 	"Voley Playa"
