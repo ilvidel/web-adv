@@ -17,7 +17,7 @@ Un año más el técnico del conjunto juvenil será Manuel León, por mutuo acue
 
 <center>
 	<a target="photo" href="http://www.advmiguelturra.org/img/banners/ManuLeon.jpg">
-	<img width="80%" align="center" src="http://www.advmiguelturra.org/img/banners/ManuLeon.jpg"/>
+	<img width="50%" align="center" src="http://www.advmiguelturra.org/img/banners/ManuLeon.jpg"/>
 	</a>
 </center>
 
