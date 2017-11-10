@@ -133,7 +133,7 @@ paginate = 10
     # All carousel items are defined in their own files. You can find example items
     # at 'exampleSite/data/carousel'.
     # For more informtion take a look at the README.
-    enable = true
+    enable = false
 
 [params.features]
     # All features are defined in their own files. You can find example items
@@ -169,6 +169,11 @@ paginate = 10
     title = "Enlaces"
     #subtitle = "Instituciones y organizaciones relacionadas con nosotros y con el voleibol"
     subtitle = ""
+
+[params.sponsors]
+    enable = true
+    title = "Patrocinadores"
+    #subtitle = "Empresas que colaboran con nosotros"
 
 [params.recent_posts]
     enable = true
