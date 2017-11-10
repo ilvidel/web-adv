@@ -172,8 +172,8 @@ paginate = 10
 
 [params.sponsors]
     enable = true
-    title = "Patrocinadores"
-    #subtitle = "Empresas que colaboran con nosotros"
+    title = "Agradecimientos"
+ 	subtitle = "Estas son algunas de las empresas que nos patrocinan durante la liga o colaboran con nosotros de manera especial en la organización de nuestras actividades"
 
 [params.recent_posts]
     enable = true
