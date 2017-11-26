@@ -1,0 +1,48 @@
+{{ if isset .Site.Params "staff" }}
+{{ if .Site.Params.staff.enable }}
+{{ if gt (len .Site.Data.staff) 0 }}
+<section class="bar background-pentagon no-mb">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="heading text-center">
+                    <h2>{{ .Site.Params.staff.title }}</h2>
+                </div>
+
+                <p class="lead">
+                  {{ .Site.Params.staff.subtitle | markdownify }}
+                </p>
+
+                <!-- *** STAFF CAROUSEL *** -->
+
+                <ul class="owl-carousel testimonials same-height-row">
+                    {{ range .Site.Data.staff }}
+                    <li class="item">
+                        <div class="testimonial same-height-always">
+							<div class="name-picture">
+							  <img src="{{ .avatar }}" alt="{{ .alt }}">
+							</div>
+							<h3>{{ .name | markdownify }}</h3>
+							<span class="fh5co-position"><strong>{{ .position }}</strong></span>
+							<p>{{ .description | markdownify }}</p>
+							<ul class="social social-circle">
+							  {{ range .social }}
+							  <li><a href="{{ index . 1 }}"><i class="{{ index .  0 }}"></i></a></li>
+							  {{ end }}
+							</ul>
+                        </div>
+                    </li>
+                    {{ end }}
+                </ul>
+                <!-- /.owl-carousel -->
+
+                <!-- *** STAFF CAROUSEL END *** -->
+            </div>
+
+        </div>
+    </div>
+</section>
+<!-- /.bar -->
+{{ end }}
+{{ end }}
+{{ end }}

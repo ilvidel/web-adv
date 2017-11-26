@@ -133,7 +133,7 @@ paginate = 10
     # All carousel items are defined in their own files. You can find example items
     # at 'exampleSite/data/carousel'.
     # For more informtion take a look at the README.
-    enable = false
+    enable = true
 
 [params.features]
     # All features are defined in their own files. You can find example items
@@ -152,6 +152,11 @@ paginate = 10
     enable = true
     title = "Nosotros"
     subtitle = "Son muchas las personas involucradas en la gestión de la ADV, y que dedican su tiempo y esfuerzo para sacar las cosas adelante. Entrenadores, monitores de EEDD y ayudantes forman parte esencial del trabajo diario del Club. A nivel institucional, la ADV está representada por la Junta Directiva. Éstos son sus principales miembros:"
+
+[params.staff]
+    enable = true
+    title = "Entrenadores Federados"
+    subtitle = ""
 
 [params.see_more]
     enable = true
