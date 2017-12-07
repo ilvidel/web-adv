@@ -162,9 +162,9 @@ paginate = 10
     enable = true
     icon = "fa fa-newspaper-o"
     title = "¿Quieres saber más?"
-    subtitle = "Visita nuestro blog y lee sobre todos nuestros eventos, partidos, torneos, noticias, etc…"
-    link_url = "blog/"
-    link_text = "Blog del ADV"
+    subtitle = "Historia del club, actividades que realizamos y componentes de la junta directiva"
+    link_url = "el-club/"
+    link_text = "El Club"
 
 [params.clients]
     enable = true

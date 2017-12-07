@@ -12,3 +12,11 @@
 img {
 	width: 100%;
 }
+
+td,th {
+	padding: 0 0.5em;
+}
+
+.lead {
+	text-align: center;
+}
