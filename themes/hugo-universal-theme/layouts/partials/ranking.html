@@ -1,0 +1,29 @@
+{{ if isset .Site.Params "ranking" }}
+{{ if .Site.Params.ranking.enable }}
+<section class="bar background-image-fixed-1 no-mb color-white text-center">
+  <div class="dark-mask"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="icon icon-lg"><i class="{{ .Site.Params.ranking.icon }}"></i>
+        </div>
+        <h3 class="text-uppercase">{{ .Site.Params.ranking.title }}</h3>
+        <p class="lead">{{ .Site.Params.ranking.subtitle }}</p>
+
+        <p class="text-center">
+          <a href="clasif/seniorfemenino.html" class="btn btn-template-main btn-lg">Senior Femenino</a>
+          <a href="clasif/seniorfemenino.html" class="btn btn-template-main btn-lg">Senior Masculino</a>
+          <a href="clasif/seniorfemenino.html" class="btn btn-template-main btn-lg">Senior Nazarín</a>
+        </p>
+        <p class="text-center">
+          <a href="clasif/seniorfemenino.html" class="btn btn-template-main btn-lg">Juvenil Femenino</a>
+          <a href="clasif/seniorfemenino.html" class="btn btn-template-main btn-lg">advmiguelturra.org</a>
+          <a href="clasif/seniorfemenino.html" class="btn btn-template-main btn-lg">Juvenil Masculino</a>
+        </p>
+      </div>
+
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
