@@ -166,6 +166,12 @@ paginate = 10
     link_url = "el-club/"
     link_text = "El Club"
 
+[params.ranking]
+    enable = true
+    icon = "fa fa-trophy"
+    title = "Clasificaciones"
+    subtitle = "Consulta la clasificación de nuestros equipos en la liga regular federada"
+
 [params.clients]
     enable = true
     # All clients are defined in their own files. You can find example items
