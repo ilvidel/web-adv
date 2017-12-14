@@ -27,19 +27,24 @@ paginate = 10
     weight = 2
 
 [[menu.main]]
+    name = "Clasificaciones"
+    url  = "http://www.advmiguelturra.org/clasif/"
+    weight = 3
+
+[[menu.main]]
     name = "Fotos"
     url  = "https://www.flickr.com/photos/advmiguelturra/albums/"
-    weight = 3
+    weight = 4
 
 [[menu.main]]
     name = "Voley Playa"
     url  = "/vplaya/"
-    weight = 4
+    weight = 5
 
 [[menu.main]]
     name = "Contacto"
     url  = "/contact/"
-    weight = 5
+    weight = 6
 
 # Top bar social links menu
 
@@ -146,9 +151,7 @@ paginate = 10
     enable = false
 
 [params.testimonials]
-    # All testimonials are defined in their own files. You can find example items
-    # at 'exampleSite/data/testimonials'.
-    # For more informtion take a look at the README.
+    # describe in 'data/testimonials/*yml'
     enable = true
     title = "Nosotros"
     subtitle = "Son muchas las personas involucradas en la gestión de la ADV, y que dedican su tiempo y esfuerzo para sacar las cosas adelante. Entrenadores, monitores de EEDD y ayudantes forman parte esencial del trabajo diario del Club. A nivel institucional, la ADV está representada por la Junta Directiva. Éstos son sus principales miembros:"
