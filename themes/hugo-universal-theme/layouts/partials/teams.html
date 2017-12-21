@@ -19,11 +19,11 @@
             {{ if .url }}
             <a href="{{ .url }}" target="_blank">
               <!-- <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" /> -->
-              <img src="img/portfolio-2.jpg" alt="{{ .name }}" class="img-responsive" />
+              <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
             </a>
             {{ else }}
             <!-- <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" /> -->
-            <img src="img/portfolio-2.jpg" alt="{{ .name }}" class="img-responsive" />
+            <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
             {{ end }}
 			<h3> {{ .name }} </h3>
 			<p> {{ .league }} </p>
