@@ -132,7 +132,7 @@ paginate = 10
 [params.widgets]
     categories = true
     tags = true
-    search = false
+    search = true
 
 [params.carousel]
     # All carousel items are defined in their own files. You can find example items
@@ -146,9 +146,11 @@ paginate = 10
     # For more informtion take a look at the README.
     enable = false
 
-[params.equipos]
-    # describe in 'data/equipos/*yml'
-    enable = false
+[params.teams]
+    # describe in 'data/teams/*yml'
+    enable = true
+	title = "Equipos"
+	subtitle = ""
 
 [params.testimonials]
     # describe in 'data/testimonials/*yml'
