@@ -15,13 +15,13 @@
 
 Dorsal | Nombre 				 | Posición
 :----: | ------ 				 | --------
-2	   | 						 | 
+2	   | GARCÍA-CONSUEGRA, Elena | Líbero
 4 	   | SÁNCHEZ, Virginia 		 | Receptora
 5 	   | RUÍZ-MOROTE, Marian 	 | Central
 6 	   | RUEDAS, Irene 			 | Receptora
 7 	   | CASTELLANOS, Brenda 	 | Colocadora
 8 	   | RUÍZ, Marina 			 | Opuesta
-10 	   |  						 | 
+10 	   | ARROYO, Laura			 | Opuesta
 11 	   | LÓPEZ, Marina 			 | Receptora
 12 	   | DÍEZ, Itziar 			 | Receptora
 13 	   | MUÑOZ, Andrea 			 | Receptora

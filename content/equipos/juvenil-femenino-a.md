@@ -11,7 +11,7 @@
   "title": "Juvenil Femenino A (2017/2018)"
 }
 
-![Senior Masculino](../../img/equipos/jfa-1718.jpg)
+![Foto de Equipo](../../img/equipos/jfa-1718.jpg)
 
 Dorsal | Nombre 				 | Posición
 :----: | ------ 				 | --------

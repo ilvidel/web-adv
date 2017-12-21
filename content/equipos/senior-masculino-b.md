@@ -11,7 +11,7 @@
   "title": "Senior Masculino Nazarín (2017/2018)"
 }
 
-![Senior Masculino](../../img/equipos/smb-1718.jpg)
+![Foto de Equipo](../../img/equipos/smb-1718.jpg)
 
 Dorsal | Nombre 			   | Posición
 :----: | ------ 			   | --------

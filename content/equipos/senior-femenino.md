@@ -11,7 +11,7 @@
   "title": "Senior Femenino (2017/2018)"
 }
 
-![Senior Masculino](../../img/equipos/sf-1718.jpg)
+![Foto de Equipo](../../img/equipos/sf-1718.jpg)
 
 Dorsal | Nombre 			   	   | Posición
 :----: | ------ 			   	   | --------
