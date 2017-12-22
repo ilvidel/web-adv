@@ -18,33 +18,125 @@ paginate = 10
 
 [[menu.main]]
     name = "Inicio"
-    url  = "/"
+    url = "/"
     weight = 1
 
 [[menu.main]]
     name = "Blog"
-    url  = "/blog/"
-    weight = 2
+    url = "/blog/"
+    weight = 10
+
+[[menu.main]]
+    name = "Equipos"
+	identifier = "teams"
+	hasChildren = "yes"
+    weight = 20
+
+[[menu.main]]
+	name = "Senior Femenino"
+	parent = "teams"
+    url = "equipos/senior-femenino/"
+	weight = 1
+
+[[menu.main]]
+	name = "Senior Masculino"
+	parent = "teams"
+    url = "equipos/senior-masculino-a/"
+	weight = 2
+
+[[menu.main]]
+	name = "Senior Masculino Nazarín"
+	parent = "teams"
+    url = "equipos/senior-masculino-b/"
+	weight = 3
+
+[[menu.main]]
+	name = "Juvenil Femenino"
+	parent = "teams"
+    url = "equipos/juvenil-femenino-a/"
+	weight = 4
+
+[[menu.main]]
+	name = "advmiguelturra.org"
+	parent = "teams"
+    url = "equipos/juvenil-femenino-b/"
+	weight = 5
+
+[[menu.main]]
+	name = "Juvenil Masculino"
+	parent = "teams"
+    url = "equipos/juvenil-masculino/"
+	weight = 6
 
 [[menu.main]]
     name = "Clasificaciones"
-    url  = "http://www.advmiguelturra.org/clasif/"
-    weight = 3
+	identifier = "clasif"
+	hasChildren = "yes"
+	url = "clasif/"
+    weight = 30
+
+# [[menu.main]]
+# 	name = "Senior Femenino"
+# 	parent = "clasif"
+#     url = "clasif/seniorfemenino.html"
+# 	weight = 1
+
+# [[menu.main]]
+# 	name = "Senior Masculino"
+# 	parent = "clasif"
+#     url = "clasif/seniormasculino.html"
+# 	weight = 2
+
+# [[menu.main]]
+# 	name = "Juvenil Femenino"
+# 	parent = "clasif"
+#     url = "clasif/juvenilfemenino.html"
+# 	weight = 3
+
+# [[menu.main]]
+# 	name = "JF - Eliminatorias"
+# 	parent = "clasif"
+#     url = "clasif/juvenilfemenino-play-offs.html"
+# 	weight = 4
+
+# [[menu.main]]
+# 	name = "Juvenil Masculino"
+# 	parent = "clasif"
+#     url = "clasif/juvenilmasculino.html"
+# 	weight = 5
+
+# [[menu.main]]
+# 	name = "Liga Regional Cadete Femenina"
+# 	parent = "clasif"
+#     url = "clasif/regionalcadetefemeninohtml"
+# 	weight = 6
+
+# [[menu.main]]
+# 	name = "LRCF - Eliminatoria"
+# 	parent = "clasif"
+#     url = "clasif/rcfemenino-play-off.html"
+# 	weight = 7
+
+# [[menu.main]]
+# 	name = "Liga Regional Infantil Femenina"
+# 	parent = "clasif"
+#     url = "clasif/regionalinfantilfemenino.html"
+# 	weight = 8
 
 [[menu.main]]
     name = "Fotos"
-    url  = "https://www.flickr.com/photos/advmiguelturra/albums/"
-    weight = 4
+    url = "https://www.flickr.com/photos/advmiguelturra/albums/"
+    weight = 40
 
 [[menu.main]]
     name = "Voley Playa"
-    url  = "/vplaya/"
-    weight = 5
+    url = "/vplaya/"
+    weight = 50
 
 [[menu.main]]
     name = "Contacto"
-    url  = "/contact/"
-    weight = 6
+    url = "/contact/"
+    weight = 60
 
 # Top bar social links menu
 
