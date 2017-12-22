@@ -8,8 +8,10 @@
   "tags": [
     "Senior Masculino"
   ],
-  "title": "Senior Masculino Nazarín (2017/2018)"
+  "title": "Senior Masculino (2017/2018)"
 }
+
+# Nazarín
 
 ![Foto de Equipo](../../img/equipos/smb-1718.jpg)
 

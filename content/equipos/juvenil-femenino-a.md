@@ -8,8 +8,10 @@
   "tags": [
     "Juvenil Femenino"
   ],
-  "title": "Juvenil Femenino A (2017/2018)"
+  "title": "Juvenil Femenino (2017/2018)"
 }
+
+# ADV Miguelturra
 
 ![Foto de Equipo](../../img/equipos/jfa-1718.jpg)
 

@@ -8,8 +8,10 @@
   "tags": [
     "Senior Masculino"
   ],
-  "title": "Senior Masculino A (2017/2018)"
+  "title": "Senior Masculino (2017/2018)"
 }
+
+# ADV Miguelturra
 
 ![Foto de Equipo](../../img/equipos/sma-1718.jpg)
 

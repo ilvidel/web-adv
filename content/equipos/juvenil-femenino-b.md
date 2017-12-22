@@ -8,8 +8,10 @@
   "tags": [
     "Juvenil Femenino"
   ],
-  "title": "Juvenil Femenino advmiguelturra.org (2017/2018)"
+  "title": "Juvenil Femenino (2017/2018)"
 }
+
+# advmiguelturra.org
 
 ![Foto de Equipo](../../img/equipos/jfb-1718.jpg)
 
