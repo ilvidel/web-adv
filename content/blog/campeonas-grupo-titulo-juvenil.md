@@ -1,6 +1,6 @@
 {
 "author": "Joaquín",
-  "banner": "",
+  "banner": "img/equipos/jfa-1718.jpg",
   "categories": [
     "noticia"
   ],
@@ -17,6 +17,8 @@ _Aceites la Guijarrera Vbol. Tomelloso A_ cerrando una primera fase
 casi impoluta, con pleno de victorias y un solo set en contra, lo que
 las clasifica para la fase final en la que pelearán por ser campeonas
 regionales y tratar de clasificar para el Campeonato de España.
+
+![Equipo Juvenil Femenino](../../../../../img/equipos/jfa-1718.jpg)
 
 El equipo de Sergi y Joseman tendrá que afrontar un nuevo formato de
 fase final que se implanta este año. Será una liga a una vuelta en la
