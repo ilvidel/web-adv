@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/Captura_de_pantalla_de_2013-06-14_00%3A52%3A45_0.png", 
   "categories": [
     "noticia"
@@ -10,7 +10,7 @@
     "EEDD", 
     "EEDD"
   ], 
-  "title": "Presentado el Cl\u00ednic de Voley Playa 2013"
+  "title": "Presentado el Clíic de Voley Playa 2013"
 }
 
 El pasado lunes 24 se presentó en el salón de plenos del Ayuntamiento de Miguelturra la nueva edición del clínic con la asistencia del concejal de deportes, Eduardo Zurita; la gerente del supermercado colaborador Simply Market, Raquel Salido; el presidente del ADV Miguelturra, Manuel de la Torre y el director del clínic, Joaquín González. 

@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/Captura_de_pantalla_-_180314_-_12%3A33%3A08.png", 
   "categories": [
     "noticia"
@@ -9,7 +9,7 @@
     "Club", 
     "Actividades"
   ], 
-  "title": "Publicado el I Curso de Iniciaci\u00f3n al Entrenamiento de Voleibol."
+  "title": "Publicado el I Curso de Iniciación al Entrenamiento de Voleibol."
 }
 
 Para los interesados en iniciarse en el mundo del entrenamiento, principalmente de categorías inferiores, desde el ADV Miguelturra os ofrecemos este curso libre y gratuito que se impartirá el sábado 12 de abril en horario de 10:00 a 14:00 y 17:00 a 21:00.

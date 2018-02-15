@@ -8,7 +8,7 @@
   "tags": [
     "Senior Masculino"
   ], 
-  "title": "CV Ciudad de la Cer\u00e1mica - ADV Miguelturra"
+  "title": "CV Ciudad de la Cerámica - ADV Miguelturra"
 }
 
 Primer objetivo cumplido por parte de los senior del ADV.

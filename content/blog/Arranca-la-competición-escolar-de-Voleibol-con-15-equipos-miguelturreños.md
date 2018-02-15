@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/IMG-20131210-WA0000.jpg", 
   "categories": [
     "noticia"
@@ -8,7 +8,7 @@
   "tags": [
     "EEDD"
   ], 
-  "title": "Arranca la competici\u00f3n escolar de Voleibol con 15 equipos miguelturre\u00f1os."
+  "title": "Arranca la competición escolar de Voleibol con 15 equipos miguelturreños."
 }
 
 Esta semana comenzará la competición escolar de voleibol en la cual este curso serán un total de 15 los equipos miguelturreños participantes. Cifra casi récord permitida por los 165 niños y niñas que han elegido este deporte para la temporada que comienza, señal del gran trabajo que están haciendo nuestros monitores en las escuelas deportivas.

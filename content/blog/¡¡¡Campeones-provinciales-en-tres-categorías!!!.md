@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/TresCampeones.png", 
   "categories": [
     "noticia"
@@ -9,7 +9,7 @@
     "EEDD", 
     "Voley Playa"
   ], 
-  "title": "\u00a1\u00a1\u00a1Campeones provinciales en tres categor\u00edas!!!"
+  "title": "¡¡¡Campeones provinciales en tres categorías!!!"
 }
 
 Si el pasado año hablábamos de éxito de nuestros escolares en el voley playa, esta campaña ha estado cerca de la perfección con victorias miguelturreñas en tres de las cuatro categorías escolares (cadete masculino y femenino e infantil masculino) en las que se realiza la prueba provincial de voley playa clasificatoria para el campeonato regional, actuando los nuestros como anfitriones en esta edición en los torneos realizados en el Parque Rivas Moreno.

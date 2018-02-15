@@ -1,12 +1,12 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/DSC_0758.JPG", 
   "categories": [
     "noticia"
   ], 
   "date": "2015-12-20 16:37:57", 
   "tags": [
-    "Res\u00famenes"
+    "Resúenes"
   ], 
   "title": "Paso de gigante de las senior hacia la permanencia."
 }

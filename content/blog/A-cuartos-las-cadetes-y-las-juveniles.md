@@ -1,12 +1,12 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/Screenshot_-_080315_-_23%3A01%3A16.png", 
   "categories": [
     "noticia"
   ], 
   "date": "2015-03-08 22:16:40", 
   "tags": [
-    "Res\u00famenes"
+    "Resúenes"
   ], 
   "title": "A cuartos las cadetes y las juveniles."
 }

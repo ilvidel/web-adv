@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/20160307052118.jpg", 
   "categories": [
     "noticia"
@@ -8,7 +8,7 @@
   "tags": [
     "Juvenil Femenino"
   ], 
-  "title": "Ya est\u00e1n aqu\u00ed las semifinales para las juveniles."
+  "title": "Ya están aquí las semifinales para las juveniles."
 }
 
 Las juveniles estarán en la Fase Final tras solventar con más facilidad de la esperada su eliminatoria contra Cuenca, consiguiendo la victoria a domicilio en el partido de vuelta por 1-3. 

@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/Captura_de_pantalla_de_2013-07-29_01%3A10%3A41.png", 
   "categories": [
     "noticia"
@@ -9,7 +9,7 @@
     "EEDD", 
     "EEDD"
   ], 
-  "title": "Clausurado el II Cl\u00ednic de Voley Playa en Miguelturra"
+  "title": "Clausurado el II Clíic de Voley Playa en Miguelturra"
 }
 
 El pasado miércoles 24 de julio con la entrega de diplomas se ponía punto y final al II Clínic de Voley Playa, organizado por la ADV Miguelturra.

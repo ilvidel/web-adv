@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/10914805_427556370733005_2260183147455217816_o.jpg", 
   "categories": [
     "noticia"
@@ -7,7 +7,7 @@
   "date": "2015-01-18 19:48:34", 
   "tags": [
     "Club", 
-    "Res\u00famenes"
+    "Resúenes"
   ], 
   "title": "Victorias de los equipos femeninos y derrota de los masculinos."
 }

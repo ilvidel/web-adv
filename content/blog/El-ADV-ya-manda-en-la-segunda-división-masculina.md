@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/B5UpIXhIIAEM9M-.jpg", 
   "categories": [
     "noticia"
@@ -7,9 +7,9 @@
   "date": "2014-12-22 14:54:29", 
   "tags": [
     "Club", 
-    "Res\u00famenes"
+    "Resúenes"
   ], 
-  "title": "El ADV ya manda en la segunda divisi\u00f3n masculina."
+  "title": "El ADV ya manda en la segunda división masculina."
 }
 
 La última jornada del año quedó marcada por la llegada del equipo senior masculino a la primera plaza que pone la nota más positiva para el club entre otros muchos altibajos.

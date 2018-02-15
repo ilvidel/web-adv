@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/Screenshot_-_140615_-_16%3A28%3A46.png", 
   "categories": [
     "noticia"
@@ -8,9 +8,9 @@
   "tags": [
     "EEDD", 
     "Torneo Interescolar", 
-    "Campa\u00f1a en Colegios"
+    "Campaña en Colegios"
   ], 
-  "title": "El ADV Miguelturra celebr\u00f3 el IV Torneo Interescolar como colof\u00f3n a la Campa\u00f1a de Voleibol a los Colegios"
+  "title": "El ADV Miguelturra celebró el IV Torneo Interescolar como colofón a la Campaña de Voleibol a los Colegios"
 }
 
 El sábado 13 se celebró en el Pabellón Municipal la cuarta edición del Torneo Interescolar de Voleibol organizado por el ADV Miguelturra en colaboración con la Concejalía de Deportes para poner el punto y final a la Campaña 2015 de Voleibol en los Colegios.

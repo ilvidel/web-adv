@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/Captura_de_pantalla_de_2016-04-10_22%3A44%3A22.png", 
   "categories": [
     "noticia"
@@ -9,7 +9,7 @@
     "Cadete Masculino", 
     "EEDD"
   ], 
-  "title": "El ADV Miguelturra cadete masculino subcampe\u00f3n regional y billete al Campeonato de Espa\u00f1a."
+  "title": "El ADV Miguelturra cadete masculino subcampeón regional y billete al Campeonato de España."
 }
 
 Los cadetes miguelturreños han finalizado la fase regional consiguiendo la medalla de plata y la clasificación para el Campeonato de España de su categoría que se celebrará en Junio en Murcia.

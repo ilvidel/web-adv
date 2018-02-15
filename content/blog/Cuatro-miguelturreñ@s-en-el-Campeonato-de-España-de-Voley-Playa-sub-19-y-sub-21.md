@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/vp4.png", 
   "categories": [
     "noticia"
@@ -8,7 +8,7 @@
   "tags": [
     "EEDD"
   ], 
-  "title": "Cuatro miguelturre\u00f1@s en el Campeonato de Espa\u00f1a de Voley Playa sub-19 y sub-21"
+  "title": "Cuatro miguelturreñ@s en el Campeonato de España de Voley Playa sub-19 y sub-21"
 }
 
 Los próximos días del 5 al 8 de septiembre se va a celebrar en Orihuela (Alicante) el Campeonato de España de Voley Playa sub-19 y sub-21 en categorías masculino y femenino donde acuden las mejores parejas de cada Comunidad Autónoma.

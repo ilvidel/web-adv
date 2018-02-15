@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/1238918_216383068521449_83953759_n.jpg", 
   "categories": [
     "noticia"
@@ -8,7 +8,7 @@
   "tags": [
     "EEDD"
   ], 
-  "title": "Malos resultados para nuestros representantes en el Campeonato de Espa\u00f1a de voleyplaya sub19 y sub21."
+  "title": "Malos resultados para nuestros representantes en el Campeonato de España de voleyplaya sub19 y sub21."
 }
 
 Por Pablo Pozo.

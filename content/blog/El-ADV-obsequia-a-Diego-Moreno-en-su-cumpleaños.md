@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/Captura_de_pantalla_de_2013-10-06_17%3A07%3A04.png", 
   "categories": [
     "noticia"
@@ -8,7 +8,7 @@
   "tags": [
     "Club"
   ], 
-  "title": "El ADV obsequia a Diego Moreno en su cumplea\u00f1os."
+  "title": "El ADV obsequia a Diego Moreno en su cumpleaños."
 }
 
 La noche del pasado sábado 5 de octubre tras la jornada amistosa de voleibol en que nos visitarón la ADV Miajadas y el CV Puertollano, varios miembros del ADV Miguelturra hicieron entrega en nombre del club de dos obsequios a nuestro compañero Diego Moreno.

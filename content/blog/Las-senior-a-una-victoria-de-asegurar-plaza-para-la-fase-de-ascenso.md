@@ -1,12 +1,12 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/Screenshot_-_220215_-_23%3A37%3A35.png", 
   "categories": [
     "noticia"
   ], 
   "date": "2015-02-22 23:07:54", 
   "tags": [
-    "Res\u00famenes", 
+    "Resúenes", 
     "Club"
   ], 
   "title": "Las senior a una victoria de asegurar plaza para la fase de ascenso."

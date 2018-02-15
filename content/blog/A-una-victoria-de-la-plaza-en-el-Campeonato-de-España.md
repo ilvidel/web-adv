@@ -1,12 +1,12 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/Captura_de_pantalla_de_2016-03-11_15%3A36%3A18.png", 
   "categories": [
     "noticia"
   ], 
   "date": "2016-03-11 16:01:10", 
   "tags": [], 
-  "title": "A una victoria de la plaza en el Campeonato de Espa\u00f1a."
+  "title": "A una victoria de la plaza en el Campeonato de España."
 }
 
 Los cadetes viajan mañana a Albacete para disputar la cuarta concentración del Campeonato Regional, allí se enfrentarán a ADEVA y Hervás Cuenca B tratando de cerrar su billete a Murcia para la fase nacional.

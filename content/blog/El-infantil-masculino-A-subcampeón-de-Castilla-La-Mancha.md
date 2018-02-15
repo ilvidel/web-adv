@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/WhatsApp_Image_2017-03-19_at_17.20.16.jpg", 
   "categories": [
     "noticia"
@@ -7,9 +7,9 @@
   "date": "2017-03-19 16:28:18", 
   "tags": [
     "EEDD", 
-    "Campeonato de Espa\u00f1a"
+    "Campeonato de España"
   ], 
-  "title": "El infantil masculino A subcampe\u00f3n de Castilla-La Mancha"
+  "title": "El infantil masculino A subcampeón de Castilla-La Mancha"
 }
 
 El equipo infantil masculino A del ADV Miguelturra se proclamó subcampeón de Castilla-La Mancha el pasado sábado 18 en la última Jornada Regional que se celebró en el Pabellón Municipal de Miguelturra y que contó con la presencia del concejal de deportes de Miguelturra Diego Rodríguez y el delegado provincial de la FVCM Domingo González.

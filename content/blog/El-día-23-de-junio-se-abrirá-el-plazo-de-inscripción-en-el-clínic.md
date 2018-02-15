@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/Captura_de_pantalla_-_160614_-_15%3A06%3A23.png", 
   "categories": [
     "noticia"
@@ -9,7 +9,7 @@
     "EEDD", 
     "Voley Playa"
   ], 
-  "title": "El d\u00eda 23 de junio se abrir\u00e1 el plazo de inscripci\u00f3n en el cl\u00ednic."
+  "title": "El día 23 de junio se abrirá el plazo de inscripción en el clíic."
 }
 
 Por tercer año y dado el éxito de las dos ediciones anteriores, desde el ADV Miguelturra en colaboración con la Concejalía de Deportes de Miguelturra volvemos a ofrecer a los más jóvenes de Miguelturra la oportunidad de participar en el Clínic de Voley Playa 2014.

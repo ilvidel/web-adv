@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/gala-premios-deportivos-miguelturra-2013-2014-03-28-fuente-area-de-comunicacion-municipal-202.jpg", 
   "categories": [
     "noticia"

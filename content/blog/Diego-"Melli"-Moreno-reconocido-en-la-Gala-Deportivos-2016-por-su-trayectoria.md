@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/gala-deportivos-miguelturra-2016-fuente-imagen-area-comunicacion-ayuntamiento-miguelturra-086.jpg", 
   "categories": [
     "noticia"

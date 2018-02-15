@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/cartel-partidos-finde_%281%29.png", 
   "categories": [
     "noticia"
@@ -8,7 +8,7 @@
   "tags": [
     "Previa Jornadas"
   ], 
-  "title": "Este s\u00e1bado todos los partidos en casa."
+  "title": "Este sábado todos los partidos en casa."
 }
 
 Sábado cargado de partidos de Voleibol en el Pabellón Municipal desde por la mañana temprano hasta la noche con el primer derbi Juvenil Femenino y la visita del equipo Senior Femenino del CV Valencia, uno de los más importantes de Primera División.

@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/WhatsApp_Image_2017-01-27_at_19.17.59.jpg", 
   "categories": [
     "noticia"

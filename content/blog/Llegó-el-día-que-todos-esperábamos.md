@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/Screenshot_-_070815_-_17%3A22%3A42.png", 
   "categories": [
     "noticia"
@@ -10,7 +10,7 @@
     "Voley Playa", 
     "Voley Playa"
   ], 
-  "title": "Lleg\u00f3 el d\u00eda que todos esper\u00e1bamos."
+  "title": "Llegó el día que todos esperábamos."
 }
 
 Aunque el cielo se presenta amenazante nada impedirá que disfrutemos de uno de los días más esperados de nuestro X Torneo Voley Playa Miguelturra.

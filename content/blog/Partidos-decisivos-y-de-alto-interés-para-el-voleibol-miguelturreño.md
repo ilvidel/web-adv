@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/Screenshot_-_180215_-_21%3A06%3A53.png", 
   "categories": [
     "noticia"
@@ -10,7 +10,7 @@
     "Previa Jornadas", 
     "EEDD"
   ], 
-  "title": "Partidos decisivos y de alto inter\u00e9s para el voleibol miguelturre\u00f1o."
+  "title": "Partidos decisivos y de alto interés para el voleibol miguelturreño."
 }
 
 El próximo fin de semana no solo viene marcado como la segunda parte de nuestro idolatrado carnaval miguelturreño, si no que también nos trae una buena lista de partidos de Voleibol que garantizan una mezcla perfecta.

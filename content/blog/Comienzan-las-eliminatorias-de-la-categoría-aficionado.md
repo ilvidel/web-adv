@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/Screenshot_-_050815_-_15%3A56%3A08.png", 
   "categories": [
     "noticia"
@@ -10,7 +10,7 @@
     "Voley Playa", 
     "Voley Playa"
   ], 
-  "title": "Comienzan las eliminatorias de la categor\u00eda aficionado."
+  "title": "Comienzan las eliminatorias de la categoría aficionado."
 }
 
 La jornada de hoy destaca por el inicio de los octavos de final de la categoría aficionado donde los 16 mejores equipos de los 40 que comenzaron la competición se verán las caras a vida o muerte en los 8 partidos de cruces.

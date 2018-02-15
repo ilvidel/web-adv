@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/WhatsApp-Image-20160522_%283%29.jpg", 
   "categories": [
     "noticia"
@@ -7,11 +7,11 @@
   "date": "2016-05-24 15:56:28", 
   "tags": [
     "EEDD", 
-    "Campeonato de Espa\u00f1a", 
+    "Campeonato de España", 
     "EEDD", 
     "EEDD"
   ], 
-  "title": "Bronce para el equipo alev\u00edn femenino A en el Campeonato Regional celebrado en Albacete."
+  "title": "Bronce para el equipo aleví femenino A en el Campeonato Regional celebrado en Albacete."
 }
 
 El pasado sábado 28 tuvo lugar en el Complejo Deportivo Universitario de Albacete el Campeonato Regional Alevín. El equipo alevín femenino A terminó en una meritoria 3ª plaza entre los 36 equipos participantes y es probable que tengan la plaza en el I Campeonato de España Alevín que tendrá lugar en Valladolid, campeonato en el que también tendrán hueco los chicos del alevín masculino A, al ser primeros en su categoría.

@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/17880544_1286192591458998_9024627478045190960_o.jpg", 
   "categories": [
     "noticia"
@@ -8,7 +8,7 @@
   "tags": [
     "Voley Playa"
   ], 
-  "title": "Josema S\u00e1nchez y \u00c1lex Fern\u00e1ndez en las Jornadas de Supervisi\u00f3n de Deportistas del CIVP"
+  "title": "Josema Sánchez y Álex Fernández en las Jornadas de Supervisión de Deportistas del CIVP"
 }
 
 Los pasados 7 a 11 de abril los jugadores de nuestro club Alejandro Fernández y José Manuel Sánchez se desplazaron al Centro Internacional de Voley Playa de Lorca (Murcia) donde fueron admitidos para participar en las Jornadas de Supervisión de Deportistas las cuales se realizan con objeto de detectar jugadores que puedan conformar las Selecciones Nacionales de Voley Playa.

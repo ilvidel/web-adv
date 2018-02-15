@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/Captura_de_pantalla_-_200814_-_18%3A46%3A16.png", 
   "categories": [
     "noticia"
@@ -9,7 +9,7 @@
     "Voley Playa", 
     "EEDD"
   ], 
-  "title": "Buena actuaci\u00f3n de los infantiles en el Campeonato de Espa\u00f1a de Voley Playa"
+  "title": "Buena actuación de los infantiles en el Campeonato de España de Voley Playa"
 }
 
 Del 1 al 3 de agosto los infantiles miguelturreños Alejandro Fernández, Miguel López, Jose Manuel Sánchez y Sergio Sobrino se desplazaron a la localidad coruñesa de Boiro a disputar el Campeonato de España de Voley Playa para el que habían obtenido la clasificación tras ser subcampeones de Castilla-La Mancha. Recordamos que en esta categoría en Voley Playa se compite 3 contra 3 además de contar con un suplente.

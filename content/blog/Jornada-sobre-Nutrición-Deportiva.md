@@ -6,7 +6,7 @@
   ], 
   "date": "2014-02-07 18:54:32", 
   "tags": [], 
-  "title": "Jornada sobre Nutrici\u00f3n Deportiva"
+  "title": "Jornada sobre Nutrición Deportiva"
 }
 
 Nuestra amiga y jugadora Dianela Paz impartirá el sábado día 8 de Febrero una serie de charlas sobre <strong>nutrición deportiva</strong>, para ayudarnos a mantener una dieta sana y equilibrada acorde con la actividad deportiva.

@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/Captura_de_pantalla_de_2013-05-08_00%3A10%3A50.png", 
   "categories": [
     "noticia"
@@ -8,7 +8,7 @@
   "tags": [
     "Senior Femenino"
   ], 
-  "title": "El equipo femenino de la ADV Miguelturra jugar\u00e1 la fase de ascenso a 1\u00aa Nacional"
+  "title": "El equipo femenino de la ADV Miguelturra jugará la fase de ascenso a 1ª Nacional"
 }
 
 <center>

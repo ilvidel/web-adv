@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/Captura_de_pantalla_de_2016-05-16_12%3A04%3A21.png", 
   "categories": [
     "noticia"
@@ -9,7 +9,7 @@
     "Voley Playa", 
     "EEDD"
   ], 
-  "title": "Nueve medallas para las parejas miguelturre\u00f1as en los provinciales de Voley Playa."
+  "title": "Nueve medallas para las parejas miguelturreñas en los provinciales de Voley Playa."
 }
 
 Tres medallas de oro, cuatro de plata y dos de bronce fueron a caer en manos de las parejas de nuestro pueblo en el Campeonato Provincial de Voley Playa que tuvo lugar en Almagro los pasados 13 y 14 de Mayo, superando de este modo el récord de ocho medallas conseguidas en la anterior edición.

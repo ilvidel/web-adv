@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn",
+  "author": "Joaquín",
   "banner": "img/banners/IMG_20150716_221834.jpg",
   "categories": [
     "noticia"
@@ -7,9 +7,9 @@
   "date": "2015-07-17 15:02:16",
   "tags": [
     "Voley Playa",
-    "Campeonato de Espa\u00f1a"
+    "Campeonato de España"
   ],
-  "title": "Josema y \u00c1lex cerca de dar la sorpresa en Lorca."
+  "title": "Josema y Álex cerca de dar la sorpresa en Lorca."
 }
 
 Los miguelturreños Josema Sánchez y Álex Fernández ya han comenzado su andadura en el Campeonato de España de Voley Playa sub-19 que se celebra en el recien estrenado Centro Internacional de Voley Playa en Lorca (Murcia).

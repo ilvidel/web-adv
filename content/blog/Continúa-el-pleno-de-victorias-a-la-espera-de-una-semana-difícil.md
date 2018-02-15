@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/Screenshot_-_171114_-_14%3A33%3A00.png", 
   "categories": [
     "noticia"
@@ -8,7 +8,7 @@
   "tags": [
     "Club"
   ], 
-  "title": "Contin\u00faa el pleno de victorias a la espera de una semana dif\u00edcil."
+  "title": "Continúa el pleno de victorias a la espera de una semana difícil."
 }
 
 Las tres secciones femeninas del ADV de competición femenina volvieron a lograr otro pleno de victorias este fin de semana manteniéndose líderes tanto el equipo senior como el juvenil y el cadete regional.

@@ -1,15 +1,15 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/IMG_20160730_191204asdf.jpg", 
   "categories": [
     "noticia"
   ], 
   "date": "2016-08-01 12:11:01", 
   "tags": [
-    "Campeonato de Espa\u00f1a", 
+    "Campeonato de España", 
     "Voley Playa"
   ], 
-  "title": "Novenos de Espa\u00f1a en Voley Playa sub-17"
+  "title": "Novenos de España en Voley Playa sub-17"
 }
 
 El equipo sub-17 de Voley Playa del ADV Miguelturra formado por Álex Fernández, Iván García-Pardo, Josema Sánchez y Sergio Sobrino ha conseguido la novena posición en el Campeonato de España sub-17 que se ha celebrado en Dumbría (A Coruña) los pasados 29 a 31 de Agosto, consiguiendo la mejor posición de una pareja miguelturreña en una competición nacional hasta la fecha.

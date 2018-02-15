@@ -8,7 +8,7 @@
   "tags": [
     "Senior Masculino"
   ], 
-  "title": "Lo \u00fanico positivo del mal partido del ADV Miguelturra masculino fue la victoria"
+  "title": "Lo único positivo del mal partido del ADV Miguelturra masculino fue la victoria"
 }
 
 Crónica por Pablo Pozo.

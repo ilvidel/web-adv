@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/IMG_20151121_231359.jpg", 
   "categories": [
     "noticia"
@@ -8,7 +8,7 @@
   "tags": [
     "Senior Masculino"
   ], 
-  "title": "El senior masculino confirma su consolidaci\u00f3n."
+  "title": "El senior masculino confirma su consolidación."
 }
 
 Tras las numerosas bajas sufridas este verano por esta sección, así como incorporaciones para cubrir dichas bajas, surgían numerosas dudas del tiempo que tardaría el equipo en responder y si el nivel del mismo se mantendría a la altura del papel realizado la anterior campaña.

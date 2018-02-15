@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/Captura_de_pantalla_-_100214_-_17%3A34%3A47.png", 
   "categories": [
     "cronicas"
@@ -8,7 +8,7 @@
   "tags": [
     "Senior Femenino"
   ], 
-  "title": "ADV Miguelturra - CV Herv\u00e1s Cuenca"
+  "title": "ADV Miguelturra - CV Hervás Cuenca"
 }
 
 (por Miguel Astilleros)

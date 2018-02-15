@@ -1,12 +1,12 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "", 
   "categories": [
     "noticia"
   ], 
   "date": "2014-11-24 21:09:26", 
   "tags": [
-    "Res\u00famenes", 
+    "Resúenes", 
     "Club"
   ], 
   "title": "Buen debut de los equipos masculinos."

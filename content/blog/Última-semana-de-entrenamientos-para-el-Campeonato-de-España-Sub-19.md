@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/WhatsApp-Image-20160712_%281%29.jpg", 
   "categories": [
     "noticia"
@@ -7,9 +7,9 @@
   "date": "2016-07-12 23:40:32", 
   "tags": [
     "Voley Playa", 
-    "Campeonato de Espa\u00f1a"
+    "Campeonato de España"
   ], 
-  "title": "\u00daltima semana de entrenamientos para el Campeonato de Espa\u00f1a Sub-19"
+  "title": "Última semana de entrenamientos para el Campeonato de España Sub-19"
 }
 
 La pareja formada por Alejandro Fernández y Josema Sánchez y la formada por Cristina Arroyo y Lorena Sánchez aprovechan los últimos días de trabajo antes de viajar a Arona (Tenerife) para disputar el Campeonato de España de Voley Playa sub-19.

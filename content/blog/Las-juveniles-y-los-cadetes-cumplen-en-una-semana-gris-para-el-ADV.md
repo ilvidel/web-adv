@@ -1,12 +1,12 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/Captura_de_pantalla_de_2016-02-22_11%3A24%3A23.png", 
   "categories": [
     "noticia"
   ], 
   "date": "2016-02-22 10:46:25", 
   "tags": [
-    "Res\u00famenes"
+    "Resúenes"
   ], 
   "title": "Las juveniles y los cadetes cumplen en una semana gris para el ADV."
 }

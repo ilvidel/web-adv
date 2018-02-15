@@ -9,7 +9,7 @@
     "Club", 
     "Senior Femenino"
   ], 
-  "title": "Fase Final de Segunda Divisi\u00f3n Femenina"
+  "title": "Fase Final de Segunda División Femenina"
 }
 
 Durante el fin de semana del 9 al 11 de Mayo se celebró en Miguelturra la Fase Final de la 2ª División Femenina de voleibol. Esta competición pone el broche final a la liga regular, y reune a los mejores equipos de distintas comunidades para competir por el ascenso a la 1ª División Nacional.

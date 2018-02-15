@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/Screenshot_-_171214_-_17%3A10%3A43.png", 
   "categories": [
     "noticia"
@@ -7,7 +7,7 @@
   "date": "2014-12-17 16:11:20", 
   "tags": [
     "Club", 
-    "Res\u00famenes"
+    "Resúenes"
   ], 
   "title": "El equipo senior masculino a prueba ante el ADEVA."
 }

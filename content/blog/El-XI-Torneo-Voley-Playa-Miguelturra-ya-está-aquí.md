@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/13533195_10208112670512009_1565445474566880113_n.jpg", 
   "categories": [
     "noticia"
@@ -8,7 +8,7 @@
   "tags": [
     "Voley Playa"
   ], 
-  "title": "El XI Torneo Voley Playa Miguelturra ya est\u00e1 aqu\u00ed."
+  "title": "El XI Torneo Voley Playa Miguelturra ya está aquí."
 }
 
 Como no podía ser menos el Voley Playa volverá a llenar el Parque Rivas Moreno con la undécima edición de nuestro torneo que abarcará del 29 de Julio al 7 de Agosto.

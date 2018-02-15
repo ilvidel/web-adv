@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/Captura_de_pantalla_de_2016-07-11_19%3A22%3A16.png", 
   "categories": [
     "noticia"
@@ -9,7 +9,7 @@
     "Voley Playa", 
     "Voley Playa"
   ], 
-  "title": "S\u00e9ptima edici\u00f3n del Torneo Voley Playa de la Juventud."
+  "title": "Séptima edición del Torneo Voley Playa de la Juventud."
 }
 
 Un año más también llega el Torneo de la Juventud, donde el espectáculo viene de la mano de los más jóvenes. Tendrá lugar en el mismo Parque Rivas Moreno del 25 al 28 de Agosto y servirá para ir calentando motores de cara al Torneo Absoluto.

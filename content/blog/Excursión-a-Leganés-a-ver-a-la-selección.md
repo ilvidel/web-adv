@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/cartel_excursion.jpg", 
   "categories": [
     "noticia"
@@ -9,7 +9,7 @@
     "Club", 
     "EEDD"
   ], 
-  "title": "Excursi\u00f3n a Legan\u00e9s a ver a la selecci\u00f3n."
+  "title": "Excursión a Leganés a ver a la selección."
 }
 
 El próximo Domingo 29 de Diciembre la selección absoluta masculina se enfrentará a su homónima de Portugal en la localidad madrileña de Leganés, desde el ADV queremos facilitaros la asistencia a la gran cita y para ello organizamos una excursión para disfrutar de este evento tan espectacular.

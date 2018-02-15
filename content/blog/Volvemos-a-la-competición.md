@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/18-01-14.jpg", 
   "categories": [
     "noticia"
@@ -8,7 +8,7 @@
   "tags": [
     "Club"
   ], 
-  "title": "Volvemos a la competici\u00f3n."
+  "title": "Volvemos a la competición."
 }
 
 Esta semana todas las secciones del ADV retoman la competición oficial tras el parón navideño.

@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/Captura_de_pantalla_de_2013-09-24_16%3A04%3A57.png", 
   "categories": [
     "noticia"
@@ -9,7 +9,7 @@
     "Senior Masculino", 
     "Senior Femenino"
   ], 
-  "title": "El ADV Miguelturra en el Torneo de Presentaci\u00f3n del CV Pinto."
+  "title": "El ADV Miguelturra en el Torneo de Presentación del CV Pinto."
 }
 
 Este sábado partirá una expedición del ADV a la ciudad madrileña de Pinto para devolver la visita que nos hicieron el pasado sábado disputando del Torneo de Presentación del CV Pinto.

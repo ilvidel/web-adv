@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/IMG_20150718_131938.jpg", 
   "categories": [
     "noticia"
@@ -7,9 +7,9 @@
   "date": "2015-07-20 15:41:04", 
   "tags": [
     "Voley Playa", 
-    "Campeonato de Espa\u00f1a"
+    "Campeonato de España"
   ], 
-  "title": "Buen papel de \u00c1lex Fern\u00e1ndez y Josema S\u00e1nchez en el Campeonato de Espa\u00f1a sub-19."
+  "title": "Buen papel de Álex Fernández y Josema Sánchez en el Campeonato de España sub-19."
 }
 
 El pasado domingo concluía el Campeonato de España de Voley Playa sub-19 que tuvo lugar en el Centro Internacional de Voley Playa en Lorca (Murcia) y en el que los locales Álejandro Fernández y José Manuel Sánchez participaban en calidad de campeones de Castilla-La Mancha.

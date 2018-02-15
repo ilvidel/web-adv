@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn",
+  "author": "Joaquín",
   "banner": "img/banners/contraClinic_0.jpg",
   "categories": [
     "noticia"
@@ -9,7 +9,7 @@
     "Voley Playa",
     "Clinic"
   ],
-  "title": "V Cl\u00ednic de Voley Playa Miguelturra"
+  "title": "V Clíic de Voley Playa Miguelturra"
 }
 
 Un verano más vuelve el Clínic de Voley Playa del ADV Miguelturra. Nuestro evento veraniego más divertido vuelve a abrir sus puertas a los practicantes voleyplayeros más jóvenes.

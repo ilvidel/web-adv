@@ -8,7 +8,7 @@
   "tags": [
     "Club"
   ], 
-  "title": "Abiertos los plazos de inscripci\u00f3n"
+  "title": "Abiertos los plazos de inscripción"
 }
 
 Ya están abiertos los plazos de inscripción para el V Torneo de la Juventud y el IX Torneo Miguelturra de Voley-Playa.

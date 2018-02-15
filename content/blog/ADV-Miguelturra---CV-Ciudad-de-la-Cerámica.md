@@ -8,7 +8,7 @@
   "tags": [
     "Senior Masculino"
   ], 
-  "title": "ADV Miguelturra - CV Ciudad de la Cer\u00e1mica"
+  "title": "ADV Miguelturra - CV Ciudad de la Cerámica"
 }
 
 Por Pedro Arévalo

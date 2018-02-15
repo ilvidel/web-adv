@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/Captura_de_pantalla_-_210114_-_00%3A34%3A52.png", 
   "categories": [
     "noticia"
@@ -8,7 +8,7 @@
   "tags": [
     "Club"
   ], 
-  "title": "Entregada la recaudaci\u00f3n de la rifa de navidad a Sonrisas y Monta\u00f1as."
+  "title": "Entregada la recaudación de la rifa de navidad a Sonrisas y Montañas."
 }
 
 El pasado sábado antes del comienzo del encuentro juvenil femenino entre Miguelturra y Tomelloso se realizó entrega de la recaudación de la rifa solidaria realizada en las jornadas de navidad a José Luis Romero como representante de la asociación Sonrisas y Montañas.

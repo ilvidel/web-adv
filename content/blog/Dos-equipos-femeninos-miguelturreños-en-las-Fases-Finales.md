@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/C6BuCY2WgAI9zt6.jpg", 
   "categories": [
     "noticia"
@@ -9,7 +9,7 @@
     "Juvenil Femenino", 
     "EEDD"
   ], 
-  "title": "Dos equipos femeninos miguelturre\u00f1os en las Fases Finales"
+  "title": "Dos equipos femeninos miguelturreños en las Fases Finales"
 }
 
 Este sábado tendrán lugar en Iniesta las Fases Finales de las ligas regionales femeninas y si el año pasado se hacía historia con la clasificación de las juveniles para dicha fase, este año seguimos creciendo ya que a las juveniles, que se han vuelto a clasificar, se unirá el equipo infantil femenino A que se coloca entre los cuatro mejores equipos de Castilla-La Mancha muchos años después.

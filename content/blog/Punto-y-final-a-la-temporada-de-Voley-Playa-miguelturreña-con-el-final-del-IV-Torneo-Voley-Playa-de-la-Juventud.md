@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/Captura_de_pantalla_de_2013-08-20_18%3A03%3A47.png", 
   "categories": [
     "noticia"
@@ -9,7 +9,7 @@
     "EEDD", 
     "EEDD"
   ], 
-  "title": "Punto y final a la temporada de Voley Playa miguelturre\u00f1a con el final del IV Torneo Voley Playa de la Juventud"
+  "title": "Punto y final a la temporada de Voley Playa miguelturreña con el final del IV Torneo Voley Playa de la Juventud"
 }
 
 A lo largo de la pasada semana, una vez concluído el torneo absoluto, arrancaba el habitual torneo de voley playa dirigido a los más jóvenes, en este caso en las categorías alevín mixto 4x4 , infantil masculino3x3 , infantil femenino 3x3  y cadete masculino 2x2.

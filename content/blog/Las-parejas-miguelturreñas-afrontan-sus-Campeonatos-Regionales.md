@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/IMG_20160513_165053.jpg", 
   "categories": [
     "noticia"
@@ -8,7 +8,7 @@
   "tags": [
     "EEDD"
   ], 
-  "title": "Las parejas miguelturre\u00f1as afrontan sus Campeonatos Regionales."
+  "title": "Las parejas miguelturreñas afrontan sus Campeonatos Regionales."
 }
 
 Mañana tendrán lugar los Campeonatos de Castilla-La Mancha en categorías cadete e infantil tanto masculino como femenino. Un total de 9 parejas miguelturreñas estarán compitiendo en Hellín (torneos cadetes) y Cuenca (torneos infantiles) tratando de lograr el pase a sus respectivos Campeonatos de España.

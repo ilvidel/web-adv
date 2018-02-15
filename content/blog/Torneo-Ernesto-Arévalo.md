@@ -8,7 +8,7 @@
   "tags": [
     "Club"
   ], 
-  "title": "Torneo Ernesto Ar\u00e9valo"
+  "title": "Torneo Ernesto Arévalo"
 }
 
 El día 4 de Mayo se celebrará el torneo Ernesto Arévalo, en el pabellón municipal de Miguelturra. Habrá varios partidos de diferentes categorías, y se recuperará a algunos veteranos y viejas glorias para un partido de exhibición. 

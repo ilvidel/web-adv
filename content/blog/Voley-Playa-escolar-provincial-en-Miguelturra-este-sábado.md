@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/Captura_de_pantalla_-_210514_-_17%3A00%3A31.png", 
   "categories": [
     "noticia"
@@ -9,7 +9,7 @@
     "Voley Playa", 
     "EEDD"
   ], 
-  "title": "Voley Playa escolar provincial en Miguelturra este s\u00e1bado."
+  "title": "Voley Playa escolar provincial en Miguelturra este sábado."
 }
 
 El próximo sábado 24 de Mayo tendrá lugar en el Parque Rivas Moreno de Miguelturra el torneo provincial de Voley Playa organizado por la JCCM en colaboración con la Federación de Voleibol de Castilla-La Mancha, el ADV Miguelturra y el Ayuntamiento de Miguelturra que da la clasificación para el campeonato regional (también en Miguelturra el 7 de junio) a los mejores clasificados de cada categoría.

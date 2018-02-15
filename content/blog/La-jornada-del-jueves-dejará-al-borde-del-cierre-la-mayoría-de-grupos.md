@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/Screenshot_-_060815_-_18%3A41%3A36.png", 
   "categories": [
     "noticia"
@@ -10,7 +10,7 @@
     "Voley Playa", 
     "Voley Playa"
   ], 
-  "title": "La jornada del jueves dejar\u00e1 al borde del cierre la mayor\u00eda de grupos."
+  "title": "La jornada del jueves dejará al borde del cierre la mayoría de grupos."
 }
 
 Solo quedan cuatro días para que termine el torneo y todos nos sentimos apesadumbrados porque no queremos que esto acabe pero lo cierto es que lo mejor aún está por llegar y la tarde de hoy se presenta cargada con artillería pesada desde las 19:30 hasta las 00:30.

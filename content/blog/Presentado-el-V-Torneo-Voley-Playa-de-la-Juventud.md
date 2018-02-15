@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/VTorneoJuventudCartel.jpg", 
   "categories": [
     "noticia"

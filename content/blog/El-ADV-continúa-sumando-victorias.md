@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/senmasc.jpg", 
   "categories": [
     "noticia"
@@ -7,9 +7,9 @@
   "date": "2014-12-15 21:04:34", 
   "tags": [
     "Club", 
-    "Res\u00famenes"
+    "Resúenes"
   ], 
-  "title": "El ADV contin\u00faa sumando victorias."
+  "title": "El ADV continúa sumando victorias."
 }
 
 El pasado fin de semana nos deja un balance muy positivo con victorias claras en senior masculino, senior femenino y juvenil femenino y derrota del senior B pero estrenando el contador de sets.

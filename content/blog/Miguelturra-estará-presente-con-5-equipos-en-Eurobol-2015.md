@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/1423573326_10960210_1073925272632868_3005758196389658317_o.jpg", 
   "categories": [
     "noticia"
@@ -10,7 +10,7 @@
     "Eventos", 
     "Torneos"
   ], 
-  "title": "Miguelturra estar\u00e1 presente con 5 equipos en Eurobol 2015."
+  "title": "Miguelturra estará presente con 5 equipos en Eurobol 2015."
 }
 
 Los próximos 2, 3 y 4 varios equipos escolares del ADV Miguelturra competirán en la localidad portuguesa de Gondomar en el Torneo Europeo de Voleibol Juvenil Eurobol 2015.

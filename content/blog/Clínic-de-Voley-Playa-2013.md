@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/Captura_de_pantalla_de_2013-06-14_00%3A52%3A45.png", 
   "categories": [
     "noticia"
@@ -8,7 +8,7 @@
   "tags": [
     "EEDD"
   ], 
-  "title": "Cl\u00ednic de Voley Playa 2013"
+  "title": "Clíic de Voley Playa 2013"
 }
 
 <center>

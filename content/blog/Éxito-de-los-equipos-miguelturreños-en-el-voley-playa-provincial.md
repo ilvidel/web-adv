@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/Captura_de_pantalla_de_2013-05-26_17%3A26%3A03.png", 
   "categories": [
     "noticia"
@@ -9,7 +9,7 @@
     "EEDD", 
     "EEDD"
   ], 
-  "title": "\u00c9xito de los equipos miguelturre\u00f1os en el voley playa provincial."
+  "title": "Éxito de los equipos miguelturreños en el voley playa provincial."
 }
 
 El pasado 25 de mayo se disputo en Playas del Vicario (Ciudad Real) la prueba provincial de voley playa donde se decidían los equipos que clasificaban para la fase regional.

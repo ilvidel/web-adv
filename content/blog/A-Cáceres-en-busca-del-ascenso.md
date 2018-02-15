@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/Screenshot_-_070515_-_00%3A06%3A24.png", 
   "categories": [
     "noticia"
@@ -9,7 +9,7 @@
     "Senior Femenino", 
     "Fase de Ascenso"
   ], 
-  "title": "A C\u00e1ceres en busca del ascenso."
+  "title": "A Cáceres en busca del ascenso."
 }
 
 Las senior que dirige Miguel Astilleros parten hoy jueves rumbo a Cáceres donde durante los tres días siguientes tratarán de pelear por el ascenso a Primera División.

@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/Ako17K02x02jXbBks67mVvoeDXxvR5RL0KorIhpCYQs4.jpg", 
   "categories": [
     "noticia"
@@ -7,9 +7,9 @@
   "date": "2015-06-21 19:31:30", 
   "tags": [
     "EEDD", 
-    "Campeonato de Espa\u00f1a"
+    "Campeonato de España"
   ], 
-  "title": "Resultados negativos para el ADV entre muchos aspectos positivos en el Campeonato de Espa\u00f1a Cadete Masculino"
+  "title": "Resultados negativos para el ADV entre muchos aspectos positivos en el Campeonato de España Cadete Masculino"
 }
 
 Los cadetes ya vuelven a casa tras 5 días en el Campeonato de España en Cuenca.

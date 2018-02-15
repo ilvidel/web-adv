@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/torneo_femenino_2013.jpg", 
   "categories": [
     "noticia"

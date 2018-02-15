@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/15-03-14.JPG", 
   "categories": [
     "noticia"
@@ -8,7 +8,7 @@
   "tags": [
     "Club"
   ], 
-  "title": "Los senior y los juveniles se enfrentan a los l\u00edderes de sus ligas."
+  "title": "Los senior y los juveniles se enfrentan a los líderes de sus ligas."
 }
 
 Mañana tendremos una gran cita con el voleibol en Miguelturra puesto que podremos disfrutar de la visita del líder de la Segunda División Masculina y del primer clasificado (campeón matemático ya) de la Liga Regional Juvenil Masculina, siendo en ambos casos equipos pertenecientes al ADEVA de Albacete.

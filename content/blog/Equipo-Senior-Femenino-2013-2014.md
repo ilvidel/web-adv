@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn",
+  "author": "Joaquín",
   "banner": "img/banners/PlantillaSeniorFemenino_0.jpg",
   "categories": [
     "equipos"

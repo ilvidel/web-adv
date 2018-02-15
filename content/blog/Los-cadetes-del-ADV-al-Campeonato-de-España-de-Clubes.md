@@ -1,12 +1,12 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/CadetesMig.png", 
   "categories": [
     "noticia"
   ], 
   "date": "2015-03-19 17:24:26", 
   "tags": [], 
-  "title": "Los cadetes del ADV al Campeonato de Espa\u00f1a de Clubes."
+  "title": "Los cadetes del ADV al Campeonato de España de Clubes."
 }
 
 El pasado 14 de Marzo en la quinta y última concentración regional de voleibol cadete masculino nuestros cadetes consiguieron sumar las dos victorias que necesitaban para lograr la plaza para el Campeonato Nacional. Lo hicieron ante Voley La Roda y ante el líder, CV Hervás Cuenca, ambas por 3-0.

@@ -1,12 +1,12 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/AmMSeLkItujLSpa9fRfyMOZEbWjsT_tl-R3m-kck1-aZ.jpg", 
   "categories": [
     "noticia"
   ], 
   "date": "2015-08-20 16:24:54", 
   "tags": [], 
-  "title": "Buena actuaci\u00f3n de Laura y Alba en el Campeonato de Espa\u00f1a sub-21."
+  "title": "Buena actuación de Laura y Alba en el Campeonato de España sub-21."
 }
 
 Las miguelturreñas Alba Peco y Laura Mora ya han vuelto del Campeonato de España de Voley Playa que se ha celebrado en el Centro Internacional de Voley Playa de Lorca (Murcia) entre el 17 y el 19 de Agosto y al que concurrían tras proclamarse campeonas en su categoría en el Campeonato de Castilla-La Mancha.

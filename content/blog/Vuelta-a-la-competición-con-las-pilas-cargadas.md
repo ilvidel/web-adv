@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/14-01-16.jpg", 
   "categories": [
     "noticia"
@@ -8,7 +8,7 @@
   "tags": [
     "Previa Jornadas"
   ], 
-  "title": "Vuelta a la competici\u00f3n con las pilas cargadas"
+  "title": "Vuelta a la competición con las pilas cargadas"
 }
 
 Este sábado nuestros equipos retoman sus ligas tras el parón navideño, los entrenamientos vuelven a la normalidad de cara a tratar de seguir aspirando a lograr los objetivos marcados.

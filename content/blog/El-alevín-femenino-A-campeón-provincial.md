@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/IMG-20150428-WA0002.jpg", 
   "categories": [
     "noticia"
@@ -8,7 +8,7 @@
   "tags": [
     "EEDD"
   ], 
-  "title": "El alev\u00edn femenino A campe\u00f3n provincial."
+  "title": "El aleví femenino A campeón provincial."
 }
 
 El pasado sábado tuvo lugar la final provincial alevín entre Miguelturra Fem. A y Miguelturra Masc. A en la que finalmente las chicas consiguieron la medalla de oro tras imponerse por 2-1.

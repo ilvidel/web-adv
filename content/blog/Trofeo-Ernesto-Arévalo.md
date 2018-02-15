@@ -1,12 +1,12 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/trofeoErnestoArevalo.jpg", 
   "categories": [
     "noticia"
   ], 
   "date": "2013-04-24 22:50:46", 
   "tags": [], 
-  "title": "Trofeo Ernesto Ar\u00e9valo"
+  "title": "Trofeo Ernesto Arévalo"
 }
 
 Con motivo de homenajear a nuestro expresidente, exentrenador y miembro fundador del club el 4 de mayo realizaremos un torneo en su honor y con su nombre. 

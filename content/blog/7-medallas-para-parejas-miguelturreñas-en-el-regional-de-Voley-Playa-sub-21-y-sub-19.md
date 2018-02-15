@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/Screenshot_-_050715_-_17%3A18%3A13.png", 
   "categories": [
     "noticia"
@@ -9,7 +9,7 @@
     "Voley Playa", 
     "Torneos"
   ], 
-  "title": "7 medallas para parejas miguelturre\u00f1as en el regional de Voley Playa sub-21 y sub-19."
+  "title": "7 medallas para parejas miguelturreñas en el regional de Voley Playa sub-21 y sub-19."
 }
 
 Magnífico balance para las parejas miguelturreñas en este Campeonato de Voley Playa de Castilla-La Mancha sub-19 y sub-21 celebrado en Miguelturra los pasados 3 y 4 de julio con un total de 2 oros, 2 platas y 3 bronces.

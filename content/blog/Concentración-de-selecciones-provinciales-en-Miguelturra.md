@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "", 
   "categories": [
     "noticia"
@@ -8,7 +8,7 @@
   "tags": [
     "EEDD"
   ], 
-  "title": "Concentraci\u00f3n de selecciones provinciales en Miguelturra"
+  "title": "Concentración de selecciones provinciales en Miguelturra"
 }
 
 Este sábado tendrá lugar en el pabellón municipal de Miguelturra una de las concentraciones de las selecciones provinciales infantiles y cadetes preparatorias para el torneo de selecciones provinciales de Castilla-La Mancha que tendrá lugar el 4 de mayo en Toledo (infantil masculino y femenino) y el 11 de mayo en Almagro (cadete masculino y femenino).

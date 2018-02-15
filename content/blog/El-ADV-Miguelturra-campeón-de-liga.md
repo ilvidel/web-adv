@@ -1,14 +1,14 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/20150323082054.jpg", 
   "categories": [
     "noticia"
   ], 
   "date": "2015-03-23 15:28:41", 
   "tags": [
-    "Res\u00famenes"
+    "Resúenes"
   ], 
-  "title": "El ADV Miguelturra campe\u00f3n de liga."
+  "title": "El ADV Miguelturra campeón de liga."
 }
 
 Los senior consiguieron superar a Puertollano y conseguir el título, cuatro años después volverán a pelear por regresar a Primera División. Las juveniles rozaron la heroica ganando 3-0 y quedaron eliminadas por 4 puntos.

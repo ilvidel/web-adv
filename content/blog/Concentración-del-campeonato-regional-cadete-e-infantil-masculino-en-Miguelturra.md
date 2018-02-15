@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/concentracionCadeteInfantil.jpg", 
   "categories": [
     "noticia"
@@ -9,7 +9,7 @@
     "EEDD", 
     "Eventos"
   ], 
-  "title": "Concentraci\u00f3n del campeonato regional cadete e infantil masculino en Miguelturra."
+  "title": "Concentración del campeonato regional cadete e infantil masculino en Miguelturra."
 }
 
 Un año más los partidos de la fase regional masculina vienen a Miguelturra en las categorías infantil y cadete, será este sábado a partir de las 10:00 en el Pabellón Municipal y en la cita podrán salir algunos de los clasificados definitivos para el Campeonato de España.

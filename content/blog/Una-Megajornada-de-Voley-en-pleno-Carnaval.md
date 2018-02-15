@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn",
+  "author": "Joaquín",
   "banner": "img/banners/concentracionCadeteInfantil2016_%28copia%29.jpg",
   "categories": [
     "noticia"

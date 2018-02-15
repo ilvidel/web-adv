@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/SF.JPG", 
   "categories": [
     "noticia"
@@ -7,7 +7,7 @@
   "date": "2016-03-13 17:14:28", 
   "tags": [
     "Senior Femenino", 
-    "Res\u00famenes"
+    "Resúenes"
   ], 
   "title": "Fin de temporada para las senior."
 }

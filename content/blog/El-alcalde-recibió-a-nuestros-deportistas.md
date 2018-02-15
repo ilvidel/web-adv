@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/Captura_de_pantalla_de_2013-06-20_18%3A58%3A27.png", 
   "categories": [
     "noticia"
@@ -9,7 +9,7 @@
     "Club", 
     "EEDD"
   ], 
-  "title": "El alcalde recibi\u00f3 a nuestros deportistas."
+  "title": "El alcalde recibió a nuestros deportistas."
 }
 
 El pasado miércoles 19 en el teatro-cine Paz de Miguelturra se llevó a cabo el acto de recepción del alcalde Román Rivero a los deportistas con éxitos en esta temporada entre los cuáles se encontraban algunos de nuestros jugadores y jugadoras.

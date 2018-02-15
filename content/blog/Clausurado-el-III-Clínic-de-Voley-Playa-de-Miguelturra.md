@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/Captura_de_pantalla_-_210714_-_12%3A15%3A42.png", 
   "categories": [
     "noticia"
@@ -10,7 +10,7 @@
     "Clinic", 
     "EEDD"
   ], 
-  "title": "Clausurado el III Cl\u00ednic de Voley Playa de Miguelturra"
+  "title": "Clausurado el III Clíic de Voley Playa de Miguelturra"
 }
 
 El pasado sábado 19 de julio se clausuraba la tercera edición del Clínic de Voley Playa organizado por el ADV Miguelturra en colaboración con la Concejalía de Deportes de Miguelturra, con la tradicional entrega de diplomas a los participantes, tras nueve jornadas cargadas de deporte y diversión.

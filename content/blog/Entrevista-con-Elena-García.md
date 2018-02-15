@@ -6,7 +6,7 @@
   ], 
   "date": "2014-11-07 10:06:21", 
   "tags": [], 
-  "title": "Entrevista con Elena Garc\u00eda"
+  "title": "Entrevista con Elena García"
 }
 
 	Entrevista a Elena García, una de las capitanas del ADV Miguelturra juvenil femenino y ya veterana en esta categoría. Las juveniles comienzan su andadura en la Liga Regional este sábado día 8 ante Nuevo Impacto Tomelloso y queremos conocer cuales serán las claves de la competición para este equipo del que tanto se espera este año; qué mejor para ello que contar con una de las jugadoras del conjunto miguelturreño.

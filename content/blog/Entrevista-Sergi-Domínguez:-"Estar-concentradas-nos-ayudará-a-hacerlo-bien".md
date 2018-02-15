@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/JF_a-.JPG", 
   "categories": [
     "noticia"
@@ -9,7 +9,7 @@
     "Juvenil Femenino", 
     "Entrevistas"
   ], 
-  "title": "Entrevista Sergi Dom\u00ednguez: \"Estar concentradas nos ayudar\u00e1 a hacerlo bien\"."
+  "title": "Entrevista Sergi Domíguez: \"Estar concentradas nos ayudará a hacerlo bien\"."
 }
 
 A dos días de la Fase Final Regional Juvenil Femenino, Sergio Domínguez, entrenador asistente del ADV Miguelturra en esa categoría, responde a nuestras preguntas sobre el estado del equipo de cara a afrontar dicha fase a la que el club miguelturreño no accedía desde hace más de quince años, habiendo logrado el pase con resultados excepcionales en fase de grupos y eliminatorias.

@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/vp2.jpg", 
   "categories": [
     "noticia"
@@ -8,7 +8,7 @@
   "tags": [
     "EEDD"
   ], 
-  "title": "Apote\u00f3sico final del Torneo Cruzcampo Voley Playa Miguelturra 2013."
+  "title": "Apoteósico final del Torneo Cruzcampo Voley Playa Miguelturra 2013."
 }
 
 Por Manuel de la Torre.

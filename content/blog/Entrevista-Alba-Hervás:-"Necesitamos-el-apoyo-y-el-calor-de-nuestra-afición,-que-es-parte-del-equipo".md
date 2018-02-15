@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "", 
   "categories": [
     "noticia"
@@ -9,7 +9,7 @@
     "Entrevistas", 
     "Juvenil Femenino"
   ], 
-  "title": "Entrevista Alba Herv\u00e1s: \"Necesitamos el apoyo y el calor de nuestra afici\u00f3n, que es parte del equipo\""
+  "title": "Entrevista Alba Hervás: \"Necesitamos el apoyo y el calor de nuestra afición, que es parte del equipo\""
 }
 
 Hoy entrevistamos a Alba Hervás, jugadora y capitana del equipo juvenil femenino formando parte también del equipo senior femenino de Primera División en el que, a pesar de su juventud, se ha convertido en pieza imprescindible desde la pasada Fase de Ascenso, donde realizó una gran actuación.

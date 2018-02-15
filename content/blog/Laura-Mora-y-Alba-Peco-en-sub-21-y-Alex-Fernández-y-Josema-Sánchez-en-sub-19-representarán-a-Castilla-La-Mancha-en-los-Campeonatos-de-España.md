@@ -1,5 +1,5 @@
 {
-  "author": "Joaqu\u00edn", 
+  "author": "Joaquín", 
   "banner": "img/banners/Screenshot_-_060715_-_00%3A51%3A17.png", 
   "categories": [
     "noticia"
@@ -7,9 +7,9 @@
   "date": "2015-07-05 23:41:14", 
   "tags": [
     "Voley Playa", 
-    "Campeonato de Espa\u00f1a"
+    "Campeonato de España"
   ], 
-  "title": "Laura Mora y Alba Peco en sub-21 y Alex Fern\u00e1ndez y Josema S\u00e1nchez en sub-19 representar\u00e1n a Castilla-La Mancha en los Campeonatos de Espa\u00f1a."
+  "title": "Laura Mora y Alba Peco en sub-21 y Alex Fernández y Josema Sánchez en sub-19 representarán a Castilla-La Mancha en los Campeonatos de España."
 }
 
 Tras el Campeonato Regional celebrado en Miguelturra estas dos parejas pelearán en los campeonatos nacionales que tendrán lugar en Lorca.
