@@ -43,4 +43,4 @@ De izquierda a derecha: (arriba) Álex Rodríguez, Marcos, Iván, David,
 Chule, Javi, Manuel, Kevin, Álex Arévalo; (abajo) Louis, Antonio,
 Dani, Diego, Carlos, Cameron.
 
-<img width="100%" src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202017-05-15%2023-57-43.jpg"/>
+![Foto Equipo](../../../../../img/banners/Captura_de_pantalla_de_2017-05-15_23-57-43.jpg)
