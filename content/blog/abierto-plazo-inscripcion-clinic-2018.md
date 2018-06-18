@@ -1,13 +1,13 @@
 +++
 author = "Joaquín"
-banner = "vplaya/img/cartel_clinic.jpg"
+banner = "vplaya/img/cartel-clinic.jpg"
 tags = ["voley-playa", "clinic"]
 categories = ["noticia"]
 date = "2018-06-04 17:00:00"
 title = "Abierto el plazo de inscripción del Clínic de Voley Playa"
 +++
 
-![Cartel del clinic](http://www.advmiguelturra.org/vplaya/img/cartel_clinic.jpg)
+![Cartel del clinic](http://www.advmiguelturra.org/vplaya/img/cartel-clinic.jpg)
 
 El evento veraniego favorito de los más jóvenes vuelve un año más: por
 supuesto nos referimos al **VII Clínic de Voley Playa**, que este 2018
