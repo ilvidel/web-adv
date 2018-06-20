@@ -1,13 +1,9 @@
 *~
 makefile
 cgi-bin
-dia*.html
-*clasif.html
-vplaya/torneo/torneo*.html
-vplaya/torneo/clasif-torneo-*.html
-vplaya/torneo/cuadro-*.png
-vplaya/torneo/cuadro-*.pdf
 public/
 vplaya/public/
 themes/universal-original/
 clasif/
+vplaya-old/
+backup-aruba/
