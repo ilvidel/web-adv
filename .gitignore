@@ -1,4 +1,3 @@
-backup-aruba/
 *~
 makefile
 cgi-bin
@@ -9,5 +8,6 @@ vplaya/torneo/clasif-torneo-*.html
 vplaya/torneo/cuadro-*.png
 vplaya/torneo/cuadro-*.pdf
 public/
+vplaya/public/
 themes/universal-original/
 clasif/
