@@ -7,57 +7,69 @@ type: "post"
 ## Participantes Miguelturreños
 
 #### SENIOR MASCULINO
+
 - Víctor Muñoz / Miguel Astilleros
-- José Antonio Beldad / Christian Rodado
-- Juan Miguel Toribio / Pedro Arévalo
-- Sergio Domínguez / Christopher Morcillo
-- David Romero / Javier de la Cruz
+- Agustín García / Cristian Rodado
+- Sergio Sobrino / Christopher Morcillo
 - Alejandro Fernández / Josema Sánchez
-- Juanma Ruiz / Sergio Sobrino
 
 #### SENIOR FEMENINO
-- Isabel Rojas / Ana María Díaz
 
-#### SUB-21 MASCULINO
-- Christopher Morcillo / David Planas
-- Manu León / Saúl Villa
-
-#### SUB-19 MASCULINO
-- Álex Fernández / Josema Sánchez
-- Juanma Ruiz / Sergio Sobrino
-- Alberto Muñoz / Rubén Roco
-- Jesús Rodrigo / Jaime Sánchez (sólo Tomelloso)
-- Saúl Villa / Ulises Hervás (sólo El Vicario)
-
-#### SUB-19 FEMENINO
 - Lorena Sánchez / Marta Gómez
 - Ana de la Beldad / Pilar Briñas
-- Marina López / Laura Grande
-- Lola Albiñana / Andrea Carrillo (sólo Tomelloso)
-- Marina Ramos / Brenda Castellanos (sólo Tomelloso)
-- Almudena Vellón / Clara Rojas (sólo Tomelloso)
-- Marina Pérez / Irene Román (sólo Tomelloso)
-- Elvira Yébenes / Ainhoa Cerro (sólo Tomelloso)
-- Lola Albiñana / Andrea Carrillo (sólo El Vicario)
-- Carmen Vidal / Tania Muñoz (sólo El Vicario)
-- Amelia Briñas / Raquel Ávila (sólo El Vicario)
-- Elsa Moraja / Lucía Vidal (sólo El Vicario)
 
-#### CADETE MASCULINO
-- Rubén Roco / Jesús Rodrigo
-- Álex León / Pablo Rodrigo
-- Roberto Arranz / Carlos Fernández
+#### SUB-21 MASCULINO
 
-#### CADETE FEMENINO
-- Carmen Vidal / Marina Ramos
-- Lola Albiñana / Tania Muñoz
+- Christopher Morcillo / Sergio Sobrino
+- David Planas / Saúl Villa
+- Álex Fernández / Josema Sánchez
+- Juanma Ruiz / Ulises Hervás
 
-#### INFANTIL MASCULINO
-- Marcos Moncada / Dani Muñoz
-- Álex Rodríguez / Iván de la Cruz
-- Kevin Díaz / Cameron J. Howard
+#### SUB-21 FEMENINO
 
-#### INFANTIL FEMENINO
+- Lorena Sánchez / Marta Gómez
+- Ana de la Beldad / Pilar Briñas
+
+#### SUB-19 MASCULINO
+
+- Álex Fernández / Josema Sánchez (solo Miguelturra)
+- Jesús Rodrigo / Sergio Sobrino (solo Miguelturra)
+- Alberto Muñoz / Rubén Roco
+- Alejandro Rodríguez / Marcos Moncada
+- Roberto Arranz / Ulises Hervás (solo Miguelturra)
+
+#### SUB-19 FEMENINO
+
+- Lola Albiñana / Andrea Carrillo
+- Marina Pérez / Irene Ruedas (solo Miguelturra)
+- Elvira Yébenes / Ainhoa Cerro
+- Carmen Vidal / Tania Muñoz 
 - Amelia Briñas / Raquel Ávila
 - Elsa Moraga / Lucía Vidal
-- Cristina Ruda / Sonia Briñas
+- Sonia Briñas / Ainhoa Albiñana
+- Lorena Rubio / Araceli Yébenes
+- Marina Rivera / Andrea Rodrigo (solo Miguelturra)
+
+#### CADETE MASCULINO
+
+- Marcos Moncada / Alejandro Rodríguez
+- Álex León / Pablo Rodrigo
+
+#### CADETE FEMENINO
+
+- Carmen Vidal / Tania Muñoz
+- Amelia Briñas / Raquel Ávila
+- Lorena Rubio / Araceli Yébenes
+
+#### INFANTIL MASCULINO
+
+- Carlos Sobrino / Dani Muñoz
+- Antonio González / Donovan Martín
+- Lewis L. / Cameron J. Howard
+- Diego Mora / Sergio Romero
+
+#### INFANTIL FEMENINO
+
+- Elsa Moraga / Lucía Vidal
+- Ainhoa Albiñana / Sonia Briñas
+- Victoria Briñas / Ainhoa Cerro
