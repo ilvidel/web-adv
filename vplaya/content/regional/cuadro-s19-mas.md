@@ -30,8 +30,20 @@ DESCANSO |                   |       |                   |       |
 14       | Arranz/Hervás     | vs    | Rodríguez/Moncada | 19:40 | PISTA 2 |
 15       | Sobrino/Rodrigo   | vs    | Lorenzo/Cristóbal | 20:00 | PISTA 2 |
 
-<style>
-table tbody tr:nth-child(3) {
-    background-color: gray;
-}
-<style>
+
+## Tomelloso, 14 de julio de 2018
+
+### Grupo I
+
+\# | EQUIPO 1          | vs | EQUIPO 2           | HORA  | CANCHA
+:-:| ---:              |:-: | :---               | :---: | :---:
+1  | Roco/Muñoz        | vs | Fernández/Castillo | 13:20 | PISTA 2
+2  | Lorenzo/Cristóbal | vs | Albaladejo/Yébana  | 13:40 | PISTA 2
+3  | Rodríguez/Moncada | vs | Fernández/Castillo | 14:00 | PISTA 2
+4  | Lorenzo/Cristóbal | vs | Fernández/Castillo | 15:00 | PISTA 2
+5  | Rodríguez/Moncada | vs | Albaladejo/Yébana  | 15:20 | PISTA 2
+6  | Roco/Muñoz        | vs | Lorenzo/Cristóbal  | 18:00 | PISTA 2
+7  | Albaladejo/Yébana | vs | Fernández/Castillo | 18:20 | PISTA 2
+8  | Roco/Muñoz        | vs | Rodríguez/Moncada  | 19:40 | PISTA 2
+9  | Lorenzo/Cristóbal | vs | Rodríguez/Moncada  | 20:00 | PISTA 2
+10 | Roco/Muñoz        | vs | Albaladejo/Yébana  | 20:20 | PISTA 2

@@ -10,6 +10,12 @@ type: "post"
 
 [Cuadro S19 Femenino](cuadro-s19-fem/)
 
+[Cuadro S21 Masculino](cuadro-s21-mas/)
+
+[Cuadro S21 Femenino](cuadro-s21-fem/)
+
+[Cuadro Senior Masculino](cuadro-senior-mas/)
+
 <!-- <a style="display: inline-block; margin: 1em;" href="cuadro-regional-senior-femenino-2017.pdf"> -->
 <!-- <img src="http://www.advmiguelturra.org/img/icon-pdf.svg"/>Senior Femenino -->
 <!-- </a> -->
