@@ -1,0 +1,30 @@
+---
+title: "Hazte Socio 2019"
+date: 2018-07-25T21:41:39+01:00
+banner: img/banners/hazte-socio-2019.jpg
+author: Joaquín
+categories:
+- page
+---
+
+# APOYA AL ADV HACIENDOTE SOCIO PROTECTOR PARA LA TEMPORADA 2018-19
+
+![Cartel Hazte Socio](../../../../../img/banners/hazte-socio-2019.jpg)
+
+A partir del próximo viernes 27 y hasta el domingo 5 de Agosto, durante
+el torneo de Voley Playa **se abre el plazo para el pago de cuotas de
+socio protector para la temporada 2018-19**.
+
+La cuota se mantiene en 15€ y se podrá abonar en el Parque Rivas
+Moreno durante las horas de torneo, tanto para los nuevos socios como
+para quienes renuevan su carnet.
+
+**El proyecto del ADV es ambicioso** y quiere dar cabida a todos los
+que quieran practicar voleibol en Miguelturra, como se demuestra año
+tras año. **Todo lo que se recibe se traduce en el buen funcionamiento
+de nuestros equipos y en facilitar a los deportistas una práctica
+deportiva digna** y que les permita desarrollarse plenamente.
+
+Quedamos enormemente agradecidos a todas aquellas personas que deciden
+poner su granito de arena para que el ADV Miguelturra siga creciendo
+cada temporada.
