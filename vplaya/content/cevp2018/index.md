@@ -1,7 +1,7 @@
 ---
 title: "CEVP 2018"
 date: "2018-07-25 18:00:00"
-type: "post"
+type: "cevp2018"
 ---
 
 <aside>
