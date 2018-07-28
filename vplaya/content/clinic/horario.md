@@ -2,6 +2,7 @@
 title: "Horario"
 date: "2018-06-11 20:00:00"
 type: "post"
+draft: true
 ---
 
 ## Horario de Actividades

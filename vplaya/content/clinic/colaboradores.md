@@ -8,10 +8,11 @@ draft: false
 ## Empresas Colaboradoras
 
 <center>
-<img height="96px" style="display: inline-block; margin: 1em;" alt="Agua San Joaquín" src="http://www.advmiguelturra.org/logos/agua-san-joaquin.gif"/>
-<img height="96px" style="display: inline-block; margin: 1em;" alt="Aquílice Cocinas" src="http://www.advmiguelturra.org/logos/aquilice.jpg"/>
+<img height="96px" style="display: inline-block; margin: 1em;" alt="Agua San Joaquín" src="http://www.advmiguelturra.org/logos/aguasdesanjoaquin.png"/>
+<img height="96px" style="display: inline-block; margin: 1em;" alt="Aquílice Cocinas" src="http://www.advmiguelturra.org/logos/aquilice_cocinas.jpg"/>
 <img height="96px" style="display: inline-block; margin: 1em;" alt="Ayuntamiento de Miguelturra" src="http://www.advmiguelturra.org/logos/ayto-miguelturra.svg"/>
 <img height="96px" style="display: inline-block; margin: 1em;" alt="Carnicería Satur" src="http://www.advmiguelturra.org/logos/carniceria-satur.jpg"/>
+<img height="96px" style="display: inline-block; margin: 1em;" alt="Carrefour" src="http://www.advmiguelturra.org/logos/carrefour.jpg"/>
 <img height="96px" style="display: inline-block; margin: 1em;" alt="Comercial Ulimancha" src="http://www.advmiguelturra.org/logos/comercial-ulimancha.jpg"/>
 <img height="96px" style="display: inline-block; margin: 1em;" alt="Diputación de Ciudad Real" src="http://www.advmiguelturra.org/logos/diputacion.svg"/>
 <img height="96px" style="display: inline-block; margin: 1em;" alt="E. Leclerc" src="http://www.advmiguelturra.org/logos/e-leclerc.jpg"/>

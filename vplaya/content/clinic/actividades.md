@@ -2,6 +2,7 @@
 title: "Actividades"
 date: "2018-06-11 18:00:00"
 type: "post"
+draft: true
 ---
 
 ## Actividades

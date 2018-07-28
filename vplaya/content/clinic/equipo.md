@@ -2,6 +2,7 @@
 title: "Equipo"
 date: "2018-06-11 19:00:00"
 type: "post"
+draft: true
 ---
 
 ## Equipo Técnico
