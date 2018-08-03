@@ -1,8 +1,7 @@
 ---
 title: "Colaboradores"
-date: "2018-06-11 17:00:00"
+date: "2018-06-12 10:00:00"
 type: "post"
-draft: false
 ---
 
 ## Empresas Colaboradoras
@@ -28,7 +27,6 @@ draft: false
 <img height="96px" style="display: inline-block; margin: 1em;" alt="Difunde" src="http://www.advmiguelturra.org/logos/difunde.png"/>
 <img height="96px" style="display: inline-block; margin: 1em;" alt="Ayuntamiento de Miguelturra" src="http://www.advmiguelturra.org/logos/ayto-miguelturra.svg"/>
 <img height="96px" style="display: inline-block; margin: 1em;" alt="JCCM Deporte" src="http://www.advmiguelturra.org/logos/jccm-deporte.jpg"/>
-
 <img height="96px" style="display: inline-block; margin: 1em;" alt="Optica Lara" src="http://www.advmiguelturra.org/logos/optica-lara.svg"/>
 <img height="96px" style="display: inline-block; margin: 1em;" alt="Las Tejas" src="http://www.advmiguelturra.org/logos/meson-las-tejas.png"/>
 <img height="96px" style="display: inline-block; margin: 1em;" alt="Tresa" src="http://www.advmiguelturra.org/logos/tresa-automocion.png"/>
@@ -40,4 +38,3 @@ draft: false
 <img height="96px" style="display: inline-block; margin: 1em;" alt="sendarrubias" src="http://www.advmiguelturra.org/logos/sendarrubias.png"/>
 <img height="96px" style="display: inline-block; margin: 1em;" alt="loterias" src="http://www.advmiguelturra.org/logos/loterias.jpg"/>
 </center>
-
