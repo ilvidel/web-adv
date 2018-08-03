@@ -22,7 +22,7 @@ a <a href="mailto:vplaya@advmiguelturra.org">vplaya@advmiguelturra.org</a>
 # XIII Torneo Miguelturra de Voley-Playa - 2018
 
 
-<!-- ![Cartel del Torneo](cartel-torneo.jpg) -->
+![Cartel del Torneo](cartel-torneo.jpg)
 
 <!-- La duodécima edición del Torneo Miguelturra de Voley-Playa se -->
 <!-- celebrará este año del 28 de Julio al 6 de Agosto de 2017. Contaremos -->
@@ -41,10 +41,6 @@ a <a href="mailto:vplaya@advmiguelturra.org">vplaya@advmiguelturra.org</a>
 <!-- competirán en Miguelturra por el derecho a representar a Castilla-La -->
 <!-- Mancha en el Campeonato nacional. -->
 
-Preparándolo todo…
-
-Permaneced atentos también a nuestro Twitter ([@advmiguelturra](http://twitter.com/advmiguelturra)), donde
-iremos informando de todo.  
 
 <!--
 ## Inscripción
