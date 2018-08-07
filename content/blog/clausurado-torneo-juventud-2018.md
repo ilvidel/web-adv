@@ -1,7 +1,7 @@
 ---
 title: "clausurado el ix torneo voley playa de la juventud"
 date: 2018-07-27T20:16:45+01:00
-banner: img/torneo-juventud-2018-3.jpg
+banner: img/banners/torneo-juventud-2018-3.jpg
 categories:
 - noticia
 tags:
