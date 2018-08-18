@@ -1,7 +1,7 @@
 ---
 title: "CEVP 2018"
 date: "2018-07-25 18:00:00"
-type: "cevp2018"
+type: "post"
 ---
 
 <aside>
@@ -26,3 +26,6 @@ href="https://www.facebook.com/advmiguelturra">Facebook</a></p>
 ![Cartel del Campeonato](cartel-cevp2018.jpg)
 
 
+## Cuadro de Competición
+
+[![icono](http://www.advmiguelturra.org/logos/pdficon.png) Sub 19 Masculino](sub19m.pdf)
