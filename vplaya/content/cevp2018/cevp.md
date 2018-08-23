@@ -14,7 +14,7 @@ href="https://www.facebook.com/advmiguelturra">Facebook</a></p-->
 
 <p><a href="#participantes">Participantes</a></p>
 <!-- <p><a href="#grupos">Grupos</a></p> -->
-<!-- <p><a href="#resultados">Resultados</a></p> -->
+<p><a href="#resultados">Resultados</a></p>
 <p><a href="#fotos">Fotos</a></p>
 <!-- <p><a href="#streaming">Streaming</a></p> -->
 <!-- <p><a href="#instalaciones">Instalaciones</a></p> -->
@@ -28,4 +28,4 @@ href="https://www.facebook.com/advmiguelturra">Facebook</a></p-->
 
 ## Cuadro de Competición
 
-[![icono](http://www.advmiguelturra.org/logos/pdficon.png) Sub 19 Masculino](sub19m.pdf)
+[![icono](http://www.advmiguelturra.org/logos/pdficon.png) Cuadro Sub 19 Masculino](http://rfevb.com/RFEVB/Files/vplaya/cevp/sub19_clubes/2018/sub19m.pdf)
