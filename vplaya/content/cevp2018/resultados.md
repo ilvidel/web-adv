@@ -38,3 +38,16 @@ type: "post"
 26   | III   | 19:50 | UBE Lilla Grau / CVA2               | CD Cádiz 2012 / AND1                | **0-2**  12-21  16-21
 27   | III   | 18:50 | CVP Arenys / CAT                    | Jealsa Boiro / GAL                  | **1-2**  21-16  16-21  8 -15
 28   | III   | 18:00 | Vóley Laredo / CNT1                 | CV Artá / BAL1                      | **1-2**  17-21  21-19  11-15
+
+## Jueves 23 de Agosto
+
+\#   | Ronda | Hora  | Equipo 1                            | Equipo 2                            | Resultado
+:--: | :--:  | :--:  | --------                            | --------                            | ---------
+29   | 13    | 9:00  | Servigroup Playas Benidorm / CVA4   | CUV Alcorcón / MAD1                 | **2-0**  21-11  21-19
+30   | 13    | 9:00  | CV La Roda / CLM1                   | MC San José CN Almería / AND2       | **0-2**  13-21  5 -21
+31   | 13    | 9:40  | CV Manacor / BAL2                   | ADV Miguelturra / ORG               | **2-0**  21-18  21-17
+32   | 13    | 9:40  | CV Oviedo / AST                     | Servigroup Poniente Benidorm / CVA3 | **0-2**  15-21  11-21
+33   | 9     | 11:20 | Servigroup Playas Benidorm / CVA4   | UBE Lilla Grau / CVA2               | **2-0**  22-20  22-20
+34   | 9     | 11:20 | MC San José CN Almería / AND2       | AD Eliocroca / MUR                  | **1-2**  21-17  19-21  13-15
+35   | 9     | 12:10 | CV Manacor / BAL2                   | Vóley Laredo / CNT1                 | **1-2**  21-18  16-21  14-16
+36   | 9     | 12:10 | Servigroup Poniente Benidorm / CV3  | CVP Arenys / CAT                    | **2-0**  21-13  21-12
