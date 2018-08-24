@@ -44,10 +44,25 @@ type: "post"
 \#   | Ronda | Hora  | Equipo 1                            | Equipo 2                            | Resultado
 :--: | :--:  | :--:  | --------                            | --------                            | ---------
 29   | 13    | 9:00  | Servigroup Playas Benidorm / CVA4   | CUV Alcorcón / MAD1                 | **2-0**  21-11  21-19
-30   | 13    | 9:00  | CV La Roda / CLM1                   | MC San José CN Almería / AND2       | **0-2**  13-21  5 -21
+30   | 13    | 9:00  | CV La Roda / CLM1                   | MC San José CN Almería / AND2       | **0-2**  13-21  5-21
 31   | 13    | 9:40  | CV Manacor / BAL2                   | ADV Miguelturra / ORG               | **2-0**  21-18  21-17
 32   | 13    | 9:40  | CV Oviedo / AST                     | Servigroup Poniente Benidorm / CVA3 | **0-2**  15-21  11-21
 33   | 9     | 11:20 | Servigroup Playas Benidorm / CVA4   | UBE Lilla Grau / CVA2               | **2-0**  22-20  22-20
 34   | 9     | 11:20 | MC San José CN Almería / AND2       | AD Eliocroca / MUR                  | **1-2**  21-17  19-21  13-15
 35   | 9     | 12:10 | CV Manacor / BAL2                   | Vóley Laredo / CNT1                 | **1-2**  21-18  16-21  14-16
 36   | 9     | 12:10 | Servigroup Poniente Benidorm / CV3  | CVP Arenys / CAT                    | **2-0**  21-13  21-12
+37   | IV    | 17:00 | CV San Juan / CVA1                  | CD Cádiz 2012 / AND1                | **0-2**  14-21  21-23
+38   | IV    | 17:40 | Jealsa Boiro / GAL                  | CV Artá / BAL1                      | **0-2**  17-21  10-21
+39   | 7     | 17:40 | Servigroup Playas Benidorm / CVA4   | AD Eliocroca / MUR                  | **0-2**  12-21  14-21
+40   | 7     | 17:00 | Vóley Laredo / CNT1                 | Servigroup Poniente Benidorm / CVA3 | **0-2**  13-21  27-29
+41   | 5     | 20:00 | AD Eliocroca / MUR                  | Jealsa Boiro / GAL                  | **1-2**  26-24  15-21  9-15
+42   | 5     | 19:20 | Servigroup Poniente Benidorm / CVA3 | CV San Juan / CVA1                  | **1-2**  22-24  21-18  11-15
+
+## Viernes 24 de Agosto
+
+\#   | Ronda | Hora  | Equipo 1             | Equipo 2           | Resultado
+:--: | :--:  | :--:  | --------             | --------           | ---------
+43   | SF    | 9:00  | CD Cádiz 2012 / AND1 | Jealsa Boiro / GAL | **2-0**  21-15  21-12
+44   | SF    | 9:00  | CV Artá / BAL1       | CV San Juan / CVA1 | **1-2**  18-21  21-16  13-15
+45   | 3/4   | 11:00 | Jealsa Boiro / GAL   | CV Artá / BAL1     | **0-2**  9-21   12-21
+46   | F     | 12:00 | CD Cádiz 2012 / AND1 | CV San Juan / CVA1 | **0-2**  11-21  14-21

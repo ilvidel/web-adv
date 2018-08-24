@@ -12,8 +12,8 @@ pendientes de nuestras cuentas en <a
 href="https://www.twitter.com/advmiguelturra">Twitter</a> y <a
 href="https://www.facebook.com/advmiguelturra">Facebook</a></p-->
 
+<p><a href="#cuadro-de-competición">Cuadro de Competición</a></p>
 <p><a href="#participantes">Participantes</a></p>
-<!-- <p><a href="#grupos">Grupos</a></p> -->
 <p><a href="#resultados">Resultados</a></p>
 <p><a href="#fotos">Fotos</a></p>
 <!-- <p><a href="#streaming">Streaming</a></p> -->
