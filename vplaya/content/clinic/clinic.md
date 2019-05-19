@@ -4,7 +4,7 @@ date: "2018-06-11 22:00:00"
 type: "post"
 ---
 
-# Clinic de Voley-Playa 2018
+# Clinic de Voley-Playa 2019
 
 
 <!--aside>
@@ -34,4 +34,3 @@ type: "post"
 <!-- despedida en el parque acuático Playa Park de Ciudad Real, y -->
 <!-- posteriormente el acto de clausura a las 20:00 horas en el Parque -->
 <!-- Rivas Moreno. -->
-
