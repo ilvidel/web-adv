@@ -4,6 +4,7 @@ date: "2018-06-12 10:00:00"
 type: "post"
 ---
 
+<!--
 ## Empresas Colaboradoras
 
 <center>
@@ -38,3 +39,4 @@ type: "post"
 <img height="96px" style="display: inline-block; margin: 1em;" alt="sendarrubias" src="http://www.advmiguelturra.org/logos/sendarrubias.png"/>
 <img height="96px" style="display: inline-block; margin: 1em;" alt="loterias" src="http://www.advmiguelturra.org/logos/loterias.jpg"/>
 </center>
+!-->
