@@ -10,7 +10,7 @@ draft: false
 <center>
 <img height="96px" style="display: inline-block; margin: 1em;" alt="" src="http://www.advmiguelturra.org/logos/trio.svg"/>
 <img height="96px" style="display: inline-block; margin: 1em;" alt="Diputación de Ciudad Real" src="http://www.advmiguelturra.org/logos/diputacion.svg"/>
-<img height="96px" style="display: inline-block; margin: 1em;" alt="BravoBus" src="http://www.advmiguelturra.org/logos/brabobus.png"/>
+<img height="96px" style="display: inline-block; margin: 1em;" alt="BravoBus" src="http://www.advmiguelturra.org/logos/bravobus.png"/>
 <img height="96px" style="display: inline-block; margin: 1em;" alt="PanReal" src="http://www.advmiguelturra.org/logos/panreal.png"/>
 <img height="96px" style="display: inline-block; margin: 1em;" alt="Difunde" src="http://www.advmiguelturra.org/logos/difunde.png"/>
 <img height="96px" style="display: inline-block; margin: 1em;" alt="ProPlus" src="http://www.advmiguelturra.org/logos/proplus.png"/>

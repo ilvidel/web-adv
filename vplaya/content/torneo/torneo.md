@@ -19,7 +19,7 @@ a <a href="mailto:vplaya@advmiguelturra.org">vplaya@advmiguelturra.org</a>
 </aside>
 -->
 
-# XIII Torneo Miguelturra de Voley-Playa - 2018
+# XIV Torneo Miguelturra de Voley-Playa - 2018
 
 
 ![Cartel del Torneo](cartel-torneo.jpg)
