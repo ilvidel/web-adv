@@ -23,13 +23,12 @@ href="https://www.facebook.com/advmiguelturra">Facebook</a></p>
 -->
 </aside>
 
-# Campeonato de España sub19 de Voley-Playa 2019
+# Campeonato de España de Voley-Playa Sub21 :: 2019
 
-<!-- ![Cartel del Campeonato](cartel-cevp2019.jpg) -->
+![Cartel del Campeonato](cartel.jpg)
 
 
 ## Cuadro de Competición
 
 Por confirmar
 <!-- [![icono](http://www.advmiguelturra.org/logos/pdficon.png) Cuadro Sub 19 Masculino](http://rfevb.com/RFEVB/Files/vplaya/cevp/sub19_clubes/2018/sub19m.pdf) -->
-

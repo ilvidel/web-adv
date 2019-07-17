@@ -21,8 +21,7 @@ a <a href="mailto:vplaya@advmiguelturra.org">vplaya@advmiguelturra.org</a>
 
 # XIV Torneo Miguelturra de Voley-Playa - 2019
 
-
-![Cartel del Torneo](cartel-torneo.jpg)
+<img src="cartel-torneo.jpg" width="640">
 
 <!-- La duodécima edición del Torneo Miguelturra de Voley-Playa se -->
 <!-- celebrará este año del 28 de Julio al 6 de Agosto de 2017. Contaremos -->
@@ -42,22 +41,23 @@ a <a href="mailto:vplaya@advmiguelturra.org">vplaya@advmiguelturra.org</a>
 <!-- Mancha en el Campeonato nacional. -->
 
 
-<!--
 ## Inscripción
 
-El plazo de inscripción queda abierto, hasta el próximo día 27, un día
-antes del torneo. Para inscribirte, deberás entregarnos (bien en mano
-o por email):
+El plazo de inscripción queda abierto, hasta el próximo día 24 para
+categorías aficionadas, y hasta el día 29 para las categorías
+_pro_. Para inscribirte, deberás entregarnos (bien en mano o por
+email):
 
-- la [hoja de inscripción](inscripcion.jpg) rellena
+- la [hoja de inscripción](TRIPTICOvp2019.pdf) rellena
 - una copia del resguardo bancario justificando el ingreso de la cuota
 
 Todos los datos están detallados en la hoja de inscripción.
 
+<!--
 Cuotas de inscripción:
 
  - Masculino y Femenino Pro: 30€ por pareja
- - Resto de categorías: 20€ por pareja
+ - Resto de categorías: 24€ por pareja
 
 ## Categorías
 
