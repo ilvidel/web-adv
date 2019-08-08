@@ -28,7 +28,14 @@ href="https://www.facebook.com/advmiguelturra">Facebook</a></p>
 ![Cartel del Campeonato](cartel.jpg)
 
 
-## Cuadro de Competición
+## Dossier Informativo
 
-Por confirmar
-<!-- [![icono](http://www.advmiguelturra.org/logos/pdficon.png) Cuadro Sub 19 Masculino](http://rfevb.com/RFEVB/Files/vplaya/cevp/sub19_clubes/2018/sub19m.pdf) -->
+Puedes descargar el [dossier informativo](DossierParticipantes.pdf)
+para jugadores, con toda la información relevante para los
+participantes.
+
+
+<!-- ## Cuadro de Competición -->
+
+<!-- Por confirmar -->
+<!-- <\!-- [![icono](http://www.advmiguelturra.org/logos/pdficon.png) Cuadro Sub 19 Masculino](http://rfevb.com/RFEVB/Files/vplaya/cevp/sub19_clubes/2018/sub19m.pdf) -\-> -->
