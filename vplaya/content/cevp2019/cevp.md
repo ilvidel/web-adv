@@ -34,6 +34,11 @@ Puedes descargar el [dossier informativo](DossierParticipantes.pdf)
 para jugadores, con toda la información relevante para los
 participantes.
 
+## Streaming
+<video poster="poster.png" id="player" playsinline controls>
+<!-- <source src="../../../../../Documentos/voleibol/cancha.mp4" type="video/mp4" /> -->
+<source src="http://185.57.204.17/1.ts" type="video/MP2T" />
+</video>
 
 <!-- ## Cuadro de Competición -->
 
