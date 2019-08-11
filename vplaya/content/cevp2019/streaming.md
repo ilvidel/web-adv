@@ -1,11 +1,11 @@
 ---
 title: "Streaming"
-date: "2018-07-25 13:00:00"
+date: "2019-08-08 13:00:00"
 type: "post"
-draft: true
 ---
 
 ## Streaming
-
-En construcción
-
+<video poster="poster.png" id="player" playsinline controls>
+<!-- <source src="../../../../../Documentos/voleibol/cancha.mp4" type="video/mp4" /> -->
+<source src="http://185.57.204.17/1.ts" type="video/MP2T" />
+</video>

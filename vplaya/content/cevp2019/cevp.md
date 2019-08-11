@@ -1,26 +1,24 @@
 ---
-title: "CEVP 2018"
-date: "2018-07-25 18:00:00"
+title: "CEVP 2019"
+date: "2019-08-11 18:00:00"
 type: "post"
 ---
 
 <aside>
 <h2>Secciones</h2>
 
-<p>En breve iremos añadiendo más información. Mientras tanto, estad
-pendientes de nuestras cuentas en <a
-href="https://www.twitter.com/advmiguelturra">Twitter</a> y <a
-href="https://www.facebook.com/advmiguelturra">Facebook</a></p>
-
-<!--
-<p><a href="#cuadro-de-competición">Cuadro de Competición</a></p>
-<p><a href="#participantes">Participantes</a></p>
-<p><a href="#resultados">Resultados</a></p>
-<p><a href="#fotos">Fotos</a></p>
+<p><a href="#dossier-informativo">Dossier Informativo</a></p>
 <p><a href="#streaming">Streaming</a></p>
-<p><a href="#instalaciones">Instalaciones</a></p>
-<p><a href="#colaboradores">Colaboradores</a></p>
--->
+<p><a href="#participantes">Participantes</a></p>
+<p><a href="#redes-sociales">Redes Sociales</a></p>
+
+
+<!-- <p><a href="#cuadro-de-competición">Cuadro de Competición</a></p> -->
+<!-- <p><a href="#resultados">Resultados</a></p> -->
+<!-- <p><a href="#fotos">Fotos</a></p> -->
+<!-- <p><a href="#instalaciones">Instalaciones</a></p> -->
+<!-- <p><a href="#colaboradores">Colaboradores</a></p> -->
+
 </aside>
 
 # Campeonato de España de Voley-Playa Sub21 :: 2019
@@ -28,17 +26,6 @@ href="https://www.facebook.com/advmiguelturra">Facebook</a></p>
 ![Cartel del Campeonato](cartel.jpg)
 
 
-## Dossier Informativo
-
-Puedes descargar el [dossier informativo](DossierParticipantes.pdf)
-para jugadores, con toda la información relevante para los
-participantes.
-
-## Streaming
-<video poster="poster.png" id="player" playsinline controls>
-<!-- <source src="../../../../../Documentos/voleibol/cancha.mp4" type="video/mp4" /> -->
-<source src="http://185.57.204.17/1.ts" type="video/MP2T" />
-</video>
 
 <!-- ## Cuadro de Competición -->
 
