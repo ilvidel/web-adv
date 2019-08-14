@@ -6,7 +6,7 @@ type: "post"
 
 ## Redes Sociales
 
-<a href="https://www.twitter.com/advmiguelturra">
+<a href="https://www.twitter.com/cevpmiguelturra">
 <img src="logo-twitter.png" height=64px/><br/>Twitter
 </a>
 
