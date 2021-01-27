@@ -2,7 +2,7 @@
   "author": "Administrador", 
   "banner": "", 
   "categories": [
-    "noticia"
+    "noticias"
   ], 
   "date": "2013-02-08 19:10:32", 
   "tags": [

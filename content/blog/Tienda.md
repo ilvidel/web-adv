@@ -1,11 +1,8 @@
 {
-  "author": "Administrador", 
-  "banner": "img/banners/camiseta-vplaya-14.jpg", 
-  "categories": [
-    "page"
-  ], 
-  "date": "2014-12-01 14:57:05", 
-  "tags": [], 
+  "author": "Administrador",
+  "banner": "img/banners/camiseta-vplaya-14.jpg",
+  "date": "2014-12-01 14:57:05",
+  "tags": [],
   "title": "Tienda"
 }
 
@@ -260,6 +257,3 @@
 				</td>
 			</tr>
 		</table>
-
-
-

@@ -1,13 +1,10 @@
 {
-  "author": "Administrador", 
-  "banner": "img/banners/20160119085747.jpg", 
-  "categories": [
-    "page"
-  ], 
-  "date": "2014-01-05 11:12:28", 
+  "author": "Administrador",
+  "banner": "img/banners/20160119085747.jpg",
+  "date": "2014-01-05 11:12:28",
   "tags": [
     "Club"
-  ], 
+  ],
   "title": "Club"
 }
 
@@ -62,4 +59,3 @@ Es el modelo de actividad que más ha crecido en los últimos años siendo numer
 <!--h3>Organigrama de funcionamiento y responsables de área.</h3>
 <img src="http://www.advmiguelturra.org/img/banners/organ-nombres.png" alt="Organigrama de Responsables de Área" width="100%"/-->
 </div>
-

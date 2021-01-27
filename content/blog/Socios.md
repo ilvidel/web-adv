@@ -1,11 +1,8 @@
 {
-  "author": "Administrador", 
-  "banner": "img/banners/cartel-hazte-socio.png", 
-  "categories": [
-    "page"
-  ], 
-  "date": "2015-01-15 09:50:34", 
-  "tags": [], 
+  "author": "Administrador",
+  "banner": "img/banners/cartel-hazte-socio.png",
+  "date": "2015-01-15 09:50:34",
+  "tags": [],
   "title": "Socios"
 }
 
@@ -22,4 +19,3 @@ Si te gusta lo que hacemos y quieres colaborar con nosotros, puedes formar parte
 Para convertirte en socio protector del ADV Miguelturra, <a href="/drupal/contacto/">ponte en contacto con nosotros</a>.
 
 <img width="100%" src="http://www.advmiguelturra.org/img/banners/cartel-hazte-socio.png" alt="cartel hazte socio"/>
-
