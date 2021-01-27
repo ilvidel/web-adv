@@ -195,7 +195,7 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "direccion@advmiguelturra.org"
+	#email = "direccion@advmiguelturra.org"
 
     about_us = "<p>Somos un club deportivo con sede en Miguelturra. Nuestra pasión es el voleibol y lo practicamos y fomentamos tanto en pista como en playa y de cualquier otra forma que se nos ocurra.</p>"
     copyright = "Copyright (c) 2017, ADV Miguelturra; todos los derechos reservados."
@@ -275,8 +275,7 @@ paginate = 10
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
     title = "Enlaces"
-    #subtitle = "Instituciones y organizaciones relacionadas con nosotros y con el voleibol"
-    subtitle = ""
+	subtitle = "Instituciones y organizaciones relacionadas con nosotros y con el voleibol"
 
 [params.sponsors]
     enable = true
@@ -286,5 +285,4 @@ paginate = 10
 [params.recent_posts]
     enable = true
     title = "Publicaciones recientes"
-    #subtitle = "Últimas entradas y noticias en nuestro blog"
-    subtitle = ""
+    subtitle = "Últimas entradas y noticias en nuestro blog"

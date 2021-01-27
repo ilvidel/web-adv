@@ -7,7 +7,7 @@ id = "contact"
 
 * en Twitter: [@advmiguelturra](http://www.twitter.com/advmiguelturra)
 * en Facebook: [ADVMiguelturra](https://www.facebook.com/ADVMiguelturra)
-* por e-mail: [direccion@advmiguelturra.org](mailto:direccion@advmiguelturra.org)
+* por e-mail: direccion (arroba) advmiguelturra.org
 * en YouTube: [ADV Miguelturra TV](https://www.youtube.com/user/advmiguelturratv)
 * o usa el formulario de abajo para dejarnos un mensaje.
 
