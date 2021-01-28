@@ -35,25 +35,25 @@ paginate = 10
 [[menu.main]]
 	name = "Senior Femenino"
 	parent = "teams"
-    url = "/equipos/senior-femenino/"
+    url = "/equipos/senior-femenino_20-21/"
 	weight = 3
 
 [[menu.main]]
 	name = "Senior Masculino Nacional"
 	parent = "teams"
-    url = "/equipos/senior-masculino-nac/"
+    url = "/equipos/senior-masculino-nac_20-21/"
 	weight = 1
 
 [[menu.main]]
 	name = "Senior Masculino Regional"
 	parent = "teams"
-    url = "/equipos/senior-masculino-reg/"
+    url = "/equipos/senior-masculino-reg_20-21/"
 	weight = 2
 
 [[menu.main]]
 	name = "Juvenil Femenino"
 	parent = "teams"
-    url = "/equipos/juvenil-femenino/"
+    url = "/equipos/juvenil-femenino_20-21/"
 	weight = 4
 
 # [[menu.main]]
@@ -65,7 +65,7 @@ paginate = 10
 [[menu.main]]
 	name = "Juvenil Masculino"
 	parent = "teams"
-    url = "/equipos/juvenil-masculino/"
+    url = "/equipos/juvenil-masculino_20-21/"
 	weight = 6
 
 [[menu.main]]
