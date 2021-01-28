@@ -1,15 +1,13 @@
-{
-  "author": "Administrador",
-  "banner": "img/banners/SF.JPG",
-  "categories": [
-    "equipos"
-  ],
-  "date": "2014-11-27 17:52:48",
-  "tags": [
-    "Senior Femenino"
-  ],
-  "title": "Senior Femenino (2015/2016)"
-}
+---
+author: admin
+banner: img/banners/SF.JPG
+categories:
+- equipos
+date: 2014-11-27
+tags:
+- Senior Femenino
+title: Senior Femenino (2015/2016)
+---
 
 <center>
 <a target="_new" href="http://www.advmiguelturra.org/img/banners/SF.JPG">

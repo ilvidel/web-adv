@@ -1,15 +1,13 @@
-{
-  "author": "Administrador",
-  "banner": "img/banners/senior-fem-12-13.jpg",
-  "categories": [
-    "equipos"
-  ],
-  "date": "2013-02-09 17:39:09",
-  "tags": [
-    "Senior Femenino"
-  ],
-  "title": "Senior Femenino (2012/2013)"
-}
+---
+author: admin
+banner: img/banners/senior-fem-12-13.jpg
+categories:
+- equipos
+date: 2013-02-09
+tags:
+- Senior Femenino
+title: Senior Femenino (2012/2013)
+---
 
 <center>
 <a target="_new" href="http://www.advmiguelturra.org/img/banners/senior-fem-12-13.jpg">

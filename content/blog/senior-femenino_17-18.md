@@ -1,15 +1,13 @@
-{
-  "author": "admin",
-  "banner": "img/equipos/sf-1718.jpg",
-  "categories": [
-    "equipos"
-  ],
-  "date": "2017-12-21 19:00:00",
-  "tags": [
-    "Senior Femenino"
-  ],
-  "title": "Senior Femenino (2017/2018)"
-}
+---
+author: admin
+banner: img/equipos/sf-1718.jpg
+categories:
+- equipos
+date: 2017-12-21
+tags:
+- Senior Femenino
+title: Senior Femenino (2017/2018)
+---
 
 # ADV Miguelturra
 

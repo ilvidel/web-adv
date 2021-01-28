@@ -1,15 +1,13 @@
-{
-  "author": "Administrador",
-  "banner": "img/banners/juv-masc-12-13.png",
-  "categories": [
-    "equipos"
-  ],
-  "date": "2013-06-05 19:16:19",
-  "tags": [
-    "Juvenil Masculino"
-  ],
-  "title": "Juvenil Masculino (2012/2013)"
-}
+---
+author: admin
+banner: img/banners/juv-masc-12-13.png
+categories:
+- equipos
+date: 2013-06-05
+tags:
+- Juvenil Masculino
+title: Juvenil Masculino (2012/2013)
+---
 
 <center>
 <a target="_new" href="http://www.advmiguelturra.org/img/banners/juv-masc-12-13.png">

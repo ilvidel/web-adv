@@ -1,15 +1,13 @@
-{
-  "author": "Administrador",
-  "banner": "img/banners/senior-masc-a-1516.jpg",
-  "categories": [
-    "equipos"
-  ],
-  "date": "2014-11-27 17:30:18",
-  "tags": [
-    "Senior Masculino"
-  ],
-  "title": "Senior Masculino A (2015/2016)"
-}
+---
+author: admin
+banner: img/banners/senior-masc-a-1516.jpg
+categories:
+- equipos
+date: 2014-11-27
+tags:
+- Senior Masculino
+title: Senior Masculino A (2015/2016)
+---
 
 <center>
 <a target="_new" href="http://www.advmiguelturra.org/img/banners/senior-masc-a-1516.jpg">

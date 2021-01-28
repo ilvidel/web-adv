@@ -1,15 +1,13 @@
-{
-  "author": "Administrador",
-  "banner": "img/banners/juvfem-15-16.jpg",
-  "categories": [
-    "equipos"
-  ],
-  "date": "2014-09-04 15:24:36",
-  "tags": [
-    "Juvenil Femenino"
-  ],
-  "title": "Juvenil Femenino (2015/2016)"
-}
+---
+author: admin
+banner: img/banners/juvfem-15-16.jpg
+categories:
+- equipos
+date: 2014-09-04
+tags:
+- Juvenil Femenino
+title: Juvenil Femenino (2015/2016)
+---
 
 <center>
 <a target="_new" href="http://www.advmiguelturra.org/img/banners/juvfem-15-16.jpg">

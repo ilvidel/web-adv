@@ -35,37 +35,37 @@ paginate = 10
 [[menu.main]]
 	name = "Senior Femenino"
 	parent = "teams"
-    url = "equipos/senior-femenino/"
+    url = "/equipos/senior-femenino/"
+	weight = 3
+
+[[menu.main]]
+	name = "Senior Masculino Nacional"
+	parent = "teams"
+    url = "/equipos/senior-masculino-nac/"
 	weight = 1
 
 [[menu.main]]
-	name = "Senior Masculino"
+	name = "Senior Masculino Regional"
 	parent = "teams"
-    url = "equipos/senior-masculino-a/"
+    url = "/equipos/senior-masculino-reg/"
 	weight = 2
-
-[[menu.main]]
-	name = "Senior Masculino Nazarín"
-	parent = "teams"
-    url = "equipos/senior-masculino-b/"
-	weight = 3
 
 [[menu.main]]
 	name = "Juvenil Femenino"
 	parent = "teams"
-    url = "equipos/juvenil-femenino-a/"
+    url = "/equipos/juvenil-femenino/"
 	weight = 4
 
-[[menu.main]]
-	name = "advmiguelturra.org"
-	parent = "teams"
-    url = "equipos/juvenil-femenino-b/"
-	weight = 5
+# [[menu.main]]
+# 	name = "advmiguelturra.org"
+# 	parent = "teams"
+#     url = "/equipos/juvenil-femenino-b/"
+# 	weight = 5
 
 [[menu.main]]
 	name = "Juvenil Masculino"
 	parent = "teams"
-    url = "equipos/juvenil-masculino/"
+    url = "/equipos/juvenil-masculino/"
 	weight = 6
 
 [[menu.main]]

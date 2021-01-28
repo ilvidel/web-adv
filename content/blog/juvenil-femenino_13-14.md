@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín",
-  "banner": "img/banners/Captura_de_pantalla_de_2013-09-18_16%3A40%3A00.png",
-  "categories": [
-    "equipos"
-  ],
-  "date": "2013-09-18 15:42:14",
-  "tags": [
-    "Juvenil Femenino"
-  ],
-  "title": "Juvenil Femenino (2013/2014)"
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_de_2013-09-18_16%3A40%3A00.png
+categories:
+- equipos
+date: 2013-09-18
+tags:
+- Juvenil Femenino
+title: Juvenil Femenino (2013/2014)
+---
 
 <center>
 <a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202013-09-18%2016%3A40%3A00.png">

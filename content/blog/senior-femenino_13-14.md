@@ -1,16 +1,13 @@
-{
-  "author": "Joaquín",
-  "banner": "img/banners/PlantillaSeniorFemenino_0.jpg",
-  "categories": [
-    "equipos"
-  ],
-  "date": "2013-11-25 09:46:00",
-  "tags": [
-    "Senior Femenino"
-  ],
-  "title": "Senior Femenino (2013/2014)"
-}
-
+---
+author: admin
+banner: img/banners/PlantillaSeniorFemenino_0.jpg
+categories:
+- equipos
+date: 2013-11-25
+tags:
+- Senior Femenino
+title: Senior Femenino (2013/2014)
+---
 <center>
 <a target="_new" href="http://www.advmiguelturra.org/img/banners/PlantillaSeniorFemenino_0.jpg">
 <img alt="El equipo senior femenino" width="80%" src="http://www.advmiguelturra.org/img/banners/PlantillaSeniorFemenino_0.jpg"/> </a>
