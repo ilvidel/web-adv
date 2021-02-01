@@ -9,93 +9,21 @@ tags:
 title: Juvenil Masculino (2015/2016)
 ---
 
-<center>
-<a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202015-09-18%2016%3A46%3A48.png">
-<img src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202015-09-18%2016%3A46%3A48.png" width="100%" alt="Equipo Juvenil Masculino"/>
-</a>
-</center>
+![Equipo Juvenil Masculino](/img/banners/Captura%20de%20pantalla%20de%202015-09-18%2016%3A46%3A48.png)
 
-<p>&nbsp;</p>
 
-<table align="center">
-  <tr>
-	<th>Dorsal</th>
-	<th>Nombre</th>
-	<th>Posición</th>
-  </tr>
-
-  <tr>
-	<td>2</td>
-	<td>David Rodrigo</td>
-	<td>Opuesto</td>
-  </tr>
-
-  <tr>
-	<td>13</td>
-	<td>Saúl Villa</td>
-	<td>Receptor</td>
-  </tr>
-
-  <tr>
-	<td>6</td>
-	<td>Manuel León</td>
-	<td>Central</td>
-  </tr>
-
-  <tr>
-	<td>12</td>
-	<td>Raúl Rivero</td>
-	<td>Central</td>
-  </tr>
-
-  <tr>
-	<td></td>
-	<td>Jesús Miguel Huertas</td>
-	<td>Opuesto</td>
-  </tr>
-
-  <tr>
-	<td>10</td>
-	<td>Alberto Loro</td>
-	<td>Colocador</td>
-  </tr>
-
-  <tr>
-	<td>2</td>
-	<td>Alejandro Gómez</td>
-	<td>Opuesto</td>
-  </tr>
-
-  <tr>
-	<td>7</td>
-	<td>Christopher Morcillo</td>
-	<td>Receptor</td>
-  </tr>
-
-  <tr>
-	<td>14</td>
-	<td>Juan Martín Ruiz</td>
-	<td>Receptor</td>
-  </tr>
-
-  <tr>
-	<td>16</td>
-	<td>Héctor González</td>
-	<td>Central</td>
-  </tr>
-
-  <tr>
-	<td>17</td>
-	<td>Emilio Rodrigo</td>
-	<td>Central</td>
-  </tr>
-
-  <tr>
-	<td>18</td>
-	<td>Manuel García</td>
-	<td>Receptor</td>
-  </tr>
-
-  <tr>	<th colspan="2">Entrenador: Joaquín González</td>  </tr>
-  <tr>	<th colspan="2">Asistente: Jesús Nieto</td>  </tr>
-</table>
+Dorsal | Nombre | Posición
+2 | Alejandro Gómez | Opuesto
+2 | David Rodrigo | Opuesto
+6 | Manuel León | Central
+7 | Christopher Morcillo | Receptor
+10 | Alberto Loro | Colocador
+12 | Raúl Rivero | Central
+13 | Saúl Villa | Receptor
+14 | Juan Martín Ruiz | Receptor
+16 | Héctor González | Central
+17 | Emilio Rodrigo | Central
+18 | Manuel García | Receptor
+? | Jesús Miguel Huertas | Opuesto
+Entrenador | Joaquín González
+Asistente | Jesús Nieto

@@ -9,66 +9,15 @@ tags:
 title: Senior Masculino B (2015/2016)
 ---
 
-<center>
-<a target="_new" href="http://www.advmiguelturra.org/img/banners/senior-masc-b-1415.jpg">
-<img src="http://www.advmiguelturra.org/img/banners/no-photo-yet.png" width="100%" alt="Equipo Senior Masculino B"/>
-<!--img src="http://www.advmiguelturra.org/img/banners/senior-masc-b-1415" width="100%" alt="Equipo Senior Masculino B"/-->
-</center>
+![Equipo Senior Masculino B](/img/banners/no-photo-yet.png)
 
-
-
-<p>&nbsp;</p>
-
-<table style="width: 500;">
-  <tr>
-	<th width="50">Dorsal</th>
-	<th width="*">Nombre</th>
-	<th width="150">Posición</th>
-  </tr>
-
-  <tr>
-	<td>5</td>
-	<td>Sebastián Alonso</td>
-	<td>Receptor</td>
-  </tr>
-  <tr>
-	<td>8</td>
-	<td>Ignacio Díez</td>
-	<td>Central</td>
-  </tr>
-  <tr>
-	<td>10</td>
-	<td>Jesús Nieto</td>
-	<td>Colocador</td>
-  </tr>
-  <tr>
-	<td>11</td>
-	<td>Carlos Carrillo</td>
-	<td>Receptor</td>
-  </tr>
-  <tr>
-	<td>13</td>
-	<td>Nacho Ponsoda</td>
-	<td>Líbero</td>
-  </tr>
-  <tr>
-	<td>15</td>
-	<td>Diego Moreno</td>
-	<td>Central</td>
-  </tr>
-  <tr>
-	<td>17</td>
-	<td>Joaquín González</td>
-	<td>Opuesto</td>
-  </tr>
-  <tr>
-	<td>20</td>
-	<td>Ramón López</td>
-	<td>Líbero</td>
-  </tr>
-
-  <tr>
-	<th colspan="2">Entrenador: Jesús Nieto</td>
-</tr>
-</table>
-<!-- break -->
+Dorsal | Nombre | Posición
+5 | Sebastián Alonso | Receptor
+8 | Ignacio Díez | Central
+10 | Jesús Nieto | Colocador
+11 | Carlos Carrillo | Receptor
+13 | Nacho Ponsoda | Líbero
+15 | Diego Moreno | Central
+17 | Joaquín González | Opuesto
+20 | Ramón López | Líbero
+Entrenador| Jesús Nieto

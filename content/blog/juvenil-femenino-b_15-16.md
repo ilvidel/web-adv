@@ -4,91 +4,23 @@ banner: img/banners/juvfem-b-15-16.jpg
 categories:
 - equipos
 date: 2015-11-23
-tags: 
+tags:
 - Juvenil Femenino
 title: Juvenil Femenino B (2015/2016)
 ---
 
-<center>
-<a target="_new" href="http://www.advmiguelturra.org/img/banners/juvfem-b-15-16.jpg">
-<!--img alt="El equipo juvenil femenino" width="100%" align="center" src="http://www.advmiguelturra.org/img/banners/no-photo-yet.png"/-->
-<img alt="El equipo juvenil femenino" width="100%" align="center" src="http://www.advmiguelturra.org/img/banners/juvfem-b-15-16.jpg"/>
-</a>
-</center>
+![Equipo Juvenil Femenino](/img/banners/juvfem-b-15-16.jpg)
 
-<p>&nbsp;</p>
-
-<table align="center" >
-  <tr>
-	<th >Dorsal</th>
-	<th >Nombre</th>
-	<th >Posición</th>
-  </tr>
-
-  <tr>
-	<td>17</td>
-	<td>María Rodríguez</td>
-	<td>Colocadora</td>
-  </tr>
-
-  <tr>
-	<td>16</td>
-	<td>Alba María Ramos</td>
-	<td>Líbero</td>
-  </tr>
-
-  <tr>
-	<td>9</td>
-	<td>Andrea Carrillo</td>
-	<td>Colocadora</td>
-  </tr>
-
-  <tr>
-	<td>13</td>
-	<td>Andrea Muñoz</td>
-	<td>Receptora</td>
-  </tr>
-
-  <tr>
-	<td>18</td>
-	<td>Andrea Romero</td>
-	<td>Central</td>
-  </tr>
-
-  <tr>
-	<td></td>
-	<td>Rocío Candelario</td>
-	<td>Receptora</td>
-  </tr>
-
-  <tr>
-	<td>8</td>
-	<td>Marina Ruiz</td>
-	<td>Central</td>
-  </tr>
-
-  <tr>
-	<td>15</td>
-	<td>Elena Pradillo</td>
-	<td>Opuesta</td>
-  </tr>
-
-  <tr>
-	<td></td>
-	<td>Sandra Madrid</td>
-	<td></td>
-  </tr>
-
-  <tr>
-	<td>3</td>
-	<td>Almudena Vellón</td>
-	<td>Central</td>
-  </tr>
-
-  <tr>
-	<th colspan="2">Entrenador: Ignacio Ponsoda</th>
-  </tr>
-  <tr>
-	<th colspan="2">Asistente: Carlos Carrillo</th>
-  </tr>
-</table>
+Dorsal | Nombre | Posición
+3 | Almudena Vellón | Central
+8 | Marina Ruiz | Central
+9 | Andrea Carrillo | Colocadora
+13 | Andrea Muñoz | Receptora
+15 | Elena Pradillo | Opuesta
+16 | Alba María Ramos | Líbero
+17 | María Rodríguez | Colocadora
+18 | Andrea Romero | Central
+ | Rocío Candelario | Receptora
+ | Sandra Madrid |
+**Entrenador** | Ignacio Ponsoda
+**Asistente** | Carlos Carrillo
