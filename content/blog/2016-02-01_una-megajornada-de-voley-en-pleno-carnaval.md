@@ -1,17 +1,15 @@
-{
-  "author": "Joaquín",
-  "banner": "img/banners/concentracionCadeteInfantil2016_%28copia%29.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2016-02-01 15:34:39",
-  "tags": [
-    "Club",
-    "EEDD",
-    "Carnaval"
-  ],
-  "title": "Una Megajornada de Voley en pleno Carnaval"
-}
+---
+author: Joaquín
+banner: img/banners/concentracionCadeteInfantil2016_%28copia%29.jpg
+categories:
+- noticias
+date: '2016-02-01 15:34:39'
+tags:
+- Club
+- EEDD
+- Carnaval
+title: Una Megajornada de Voley en pleno Carnaval
+---
 
 El próximo sábado 6 de Febrero, señalado en el calendario de todo miguelturreño por ser el primer sábado de Carnaval, vendrá repleto de partidos decisivos para el ADV Miguelturra. Conscientes de ello, desde el club no quieren perder la oportunidad de aprovechar tan señaladas fechas para atraer al público más carnavalero incluso con promociones para los asistentes disfrazados.
 

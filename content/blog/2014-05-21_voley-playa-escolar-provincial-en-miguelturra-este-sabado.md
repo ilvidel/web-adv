@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín",
-  "banner": "img/banners/Captura_de_pantalla_-_210514_-_17%3A00%3A31.png",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2014-05-21 16:21:11",
-  "tags": [
-    "Voley Playa",
-    "EEDD"
-  ],
-  "title": "Voley Playa escolar provincial en Miguelturra este sábado."
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_-_210514_-_17%3A00%3A31.png
+categories:
+- noticias
+date: '2014-05-21 16:21:11'
+tags:
+- Voley Playa
+- EEDD
+title: Voley Playa escolar provincial en Miguelturra este sábado.
+---
 
 El próximo sábado 24 de Mayo tendrá lugar en el Parque Rivas Moreno de
 Miguelturra el torneo provincial de Voley Playa organizado por la JCCM

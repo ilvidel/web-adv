@@ -1,18 +1,16 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/CARTEL_VILLA.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2013-09-17 16:22:51", 
-  "tags": [
-    "Club", 
-    "Juvenil Femenino", 
-    "Senior Masculino", 
-    "Cadete Femenino"
-  ], 
-  "title": "XXXII Trofeo Villa Miguelturra de Voleibol"
-}
+---
+author: Joaquín
+banner: img/banners/CARTEL_VILLA.jpg
+categories:
+- noticias
+date: '2013-09-17 16:22:51'
+tags:
+- Club
+- Juvenil Femenino
+- Senior Masculino
+- Cadete Femenino
+title: XXXII Trofeo Villa Miguelturra de Voleibol
+---
 
 Este sábado 21 de septiembre con motivo de las Ferias y Fiestas de Miguelturra se va a disputar la trigésimo segunda edición del Trofeo Villa Miguelturra.
 

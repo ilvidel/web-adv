@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Captura_de_pantalla_-_130714_-_18%3A22%3A25.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2014-07-13 17:26:19", 
-  "tags": [
-    "Voley Playa", 
-    "Clinic"
-  ], 
-  "title": "Día de descanso en el clíic de voley playa."
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_-_130714_-_18%3A22%3A25.png
+categories:
+- noticias
+date: '2014-07-13 17:26:19'
+tags:
+- Voley Playa
+- Clinic
+title: Día de descanso en el clíic de voley playa.
+---
 
 El pasado jueves 10 de julio se iniciaba la tercera edición del clínic de Voley Playa de Miguelturra. Un total de 98 niños y niñas junto a los 23 monitores de la organización se concentraron en el Parque Rivas Moreno para comenzar con la actividad que se alargará hasta el 19 de julio.
 

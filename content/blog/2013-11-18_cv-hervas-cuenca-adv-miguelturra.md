@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Captura_de_pantalla_de_2013-11-18_15%3A39%3A33.png", 
-  "categories": [
-    "crónicas"
-  ], 
-  "date": "2013-11-18 14:53:11", 
-  "tags": [
-    "Senior Femenino"
-  ], 
-  "title": "CV Hervás Cuenca - ADV Miguelturra"
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_de_2013-11-18_15%3A39%3A33.png
+categories:
+- crónicas
+date: '2013-11-18 14:53:11'
+tags:
+- Senior Femenino
+title: CV Hervás Cuenca - ADV Miguelturra
+---
 
 Gran comienzo de liga del senior femenino
 

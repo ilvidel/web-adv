@@ -1,16 +1,15 @@
-{
-  "author": "Joaquín",
-  "banner": "img/banners/regional-tomelloso-3.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2017-07-03 19:00:00",
-  "tags": [
-    "voley playa",
-	"sub19", "sub21"
-  ],
-  "title": "Se confirma en Tomelloso la hegemonía miguelturreña en el Voley Playa regional"
-}
+---
+author: Joaquín
+banner: img/banners/regional-tomelloso-3.jpg
+categories:
+- noticias
+date: '2017-07-03 19:00:00'
+tags:
+- voley playa
+- sub19
+- sub21
+title: Se confirma en Tomelloso la hegemonía miguelturreña en el Voley Playa regional
+---
 
 El pasado fin de semana se celebraba en la Ciudad Deportiva de
 Tomelloso el **Campeonato Regional de Voley Playa sub-19 y sub-21** donde

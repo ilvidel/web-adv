@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/WhatsApp_Image_2016-08-09_at_16.50.33.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2016-08-09 16:43:38", 
-  "tags": [
-    "Voley Playa", 
-    "Voley Playa"
-  ], 
-  "title": "Clausurado el XI Torneo Voley Playa Miguelturra"
-}
+---
+author: Joaquín
+banner: img/banners/WhatsApp_Image_2016-08-09_at_16.50.33.jpg
+categories:
+- noticias
+date: '2016-08-09 16:43:38'
+tags:
+- Voley Playa
+- Voley Playa
+title: Clausurado el XI Torneo Voley Playa Miguelturra
+---
 
 El pasado domingo día 7, se puso punto y final a la undécima edición de nuestro, ya tradicional, torneo de Voley Playa con las finales más espectaculares vistas en el Parque Rivas Moreno de Miguelturra en los últimos años.
 

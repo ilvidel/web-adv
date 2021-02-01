@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/WhatsApp_Image_2016-10-19_at_15.28.34.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2016-10-20 11:53:24", 
-  "tags": [
-    "Juvenil Femenino"
-  ], 
-  "title": "El Juvenil Femenino B sorprende en su debut en liga."
-}
+---
+author: Joaquín
+banner: img/banners/WhatsApp_Image_2016-10-19_at_15.28.34.jpg
+categories:
+- noticias
+date: '2016-10-20 11:53:24'
+tags:
+- Juvenil Femenino
+title: El Juvenil Femenino B sorprende en su debut en liga.
+---
 
 No podía empezar la liga mejor para el Juvenil Femenino B, con un golpe en la mesa superando a Tomelloso en el primer partido para dejar claro que también van a dar ruido esta temporada.
 

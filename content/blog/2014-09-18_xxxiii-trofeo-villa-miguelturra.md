@@ -1,18 +1,16 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Screenshot_-_180914_-_09%3A42%3A04.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2014-09-18 08:42:53", 
-  "tags": [
-    "Club", 
-    "Senior Masculino", 
-    "Juvenil Femenino", 
-    "Eventos"
-  ], 
-  "title": "XXXIII Trofeo Villa Miguelturra."
-}
+---
+author: Joaquín
+banner: img/banners/Screenshot_-_180914_-_09%3A42%3A04.png
+categories:
+- noticias
+date: '2014-09-18 08:42:53'
+tags:
+- Club
+- Senior Masculino
+- Juvenil Femenino
+- Eventos
+title: XXXIII Trofeo Villa Miguelturra.
+---
 
 El próximo sábado tendrá lugar la XXXIII edición del histórico Trofeo Villa Miguelturra de Voleibol con motivo de las ferias y fiestas de la localidad, poniendo punto y final a las mismas por parte del ADV Miguelturra. 
 

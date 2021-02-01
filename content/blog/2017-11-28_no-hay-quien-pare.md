@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín",
-  "banner": "img/banners/no-hay-quien-pare.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2017-11-28 20:00:00",
-  "tags": [
-    "club"
-  ],
-  "title": "No hay quien pare a estas chicas"
-}
+---
+author: Joaquín
+banner: img/banners/no-hay-quien-pare.jpg
+categories:
+- noticias
+date: '2017-11-28 20:00:00'
+tags:
+- club
+title: No hay quien pare a estas chicas
+---
 
 ![](../../../../../img/banners/no-hay-quien-pare.jpg)
 

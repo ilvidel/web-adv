@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín",
-  "banner": "img/banners/podio-juventud-2017.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2017-07-27 19:00:00",
-  "tags": [
-    "torneos",
-	"voley-playa"
-  ],
-  "title": "Finalizado el VIII Torneo Voley Playa de la Juventud"
-}
+---
+author: Joaquín
+banner: img/banners/podio-juventud-2017.jpg
+categories:
+- noticias
+date: '2017-07-27 19:00:00'
+tags:
+- torneos
+- voley-playa
+title: Finalizado el VIII Torneo Voley Playa de la Juventud
+---
 
 <center>
 	<a target="photo" href="http://www.advmiguelturra.org/img/banners/podio-juventud-2017.jpg">

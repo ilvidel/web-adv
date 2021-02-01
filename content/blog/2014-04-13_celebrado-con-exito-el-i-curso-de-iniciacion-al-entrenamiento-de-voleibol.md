@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Captura_de_pantalla_-_130414_-_21%3A46%3A58_0.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2014-04-13 20:52:13", 
-  "tags": [
-    "Club", 
-    "EEDD"
-  ], 
-  "title": "Celebrado con éxito el I Curso de Iniciación al Entrenamiento de Voleibol"
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_-_130414_-_21%3A46%3A58_0.png
+categories:
+- noticias
+date: '2014-04-13 20:52:13'
+tags:
+- Club
+- EEDD
+title: Celebrado con éxito el I Curso de Iniciación al Entrenamiento de Voleibol
+---
 
 El pasado sábado 12 de abril se celebró en nuestra localidad una nueva actividad desarrollada por la ADV Miguelturra en colaboración con la concejalía de deportes. En este caso se trataba de un Curso para Entrenadores pero orientado a personas sin experiencia en esta materia con objeto de facilitar el aprendizaje a los futuros entrenadores de Voleibol aprovechando el alto grado de experiencia de algunos exentrenadores del ADV como Manuel Casas y Ernesto Arévalo, quienes colaboraron en esta primera edición del curso.
 

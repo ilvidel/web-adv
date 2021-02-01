@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/BhJ_CuxIgAEoNU_.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2014-02-23 22:54:27", 
-  "tags": [
-    "Club"
-  ], 
-  "title": "Las juveniles terminan campeonas de la fase provincial."
-}
+---
+author: Joaquín
+banner: img/banners/BhJ_CuxIgAEoNU_.jpg
+categories:
+- noticias
+date: '2014-02-23 22:54:27'
+tags:
+- Club
+title: Las juveniles terminan campeonas de la fase provincial.
+---
 
 Tras un larguísimo partido en un pabellón a rebosar de aficionados al voleibol, las juveniles consiguieron imponerse por 2-3 al EM Socuéllamos que hasta ese momento era el único equipo que podía arrancarles la primera posición en la tabla. Al equipo miguelturreño le bastaba con lograr dos sets para set matemáticamente campeonas, de esta forma una vez cumplido el objetivo pudieron tener entrada en el campo las jugadoras menos habituales quienes aún así casi consiguen la victoria en el cuarto set en el que fueron por delante hasta el final cuando los errores de saque y las faltas técnicas dieron el triunfo en la manga a las locales.
 

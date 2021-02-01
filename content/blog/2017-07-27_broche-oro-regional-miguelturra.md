@@ -1,15 +1,14 @@
-{
-  "author": "Joaquín",
-  "banner": "img/banners/broche-oro-regional-miguelturra.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2017-07-27 19:00:00",
-  "tags": [
-	"voley-playa"
-  ],
-  "title": "Broche de oro al éxito regional miguelturreño en el Campeonato Senior de CLM"
-}
+---
+author: Joaquín
+banner: img/banners/broche-oro-regional-miguelturra.jpg
+categories:
+- noticias
+date: '2017-07-27 19:00:00'
+tags:
+- voley-playa
+title: Broche de oro al éxito regional miguelturreño en el Campeonato Senior de
+  CLM
+---
 
 El pasado sábado tuvo lugar en Miguelturra la última competición
 regional de Voley Playa de este año y que deja paso a los Campeonatos

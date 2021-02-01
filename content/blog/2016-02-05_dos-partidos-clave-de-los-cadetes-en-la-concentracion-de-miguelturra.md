@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/DSC_0782.JPG", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2016-02-05 15:06:18", 
-  "tags": [
-    "Cadete Masculino", 
-    "EEDD"
-  ], 
-  "title": "Dos partidos clave de los cadetes en la concentración de Miguelturra."
-}
+---
+author: Joaquín
+banner: img/banners/DSC_0782.JPG
+categories:
+- noticias
+date: '2016-02-05 15:06:18'
+tags:
+- Cadete Masculino
+- EEDD
+title: Dos partidos clave de los cadetes en la concentración de Miguelturra.
+---
 
 Los cadetes del ADV Miguelturra afrontan su segunda concentración, esta vez en Miguelturra, donde tendrán que aprovechar el factor cancha para superar los dos partidos de máxima relevancia que se encontrarán este sábado.
 

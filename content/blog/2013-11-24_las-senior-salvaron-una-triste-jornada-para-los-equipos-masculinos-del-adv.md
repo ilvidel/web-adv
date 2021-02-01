@@ -1,18 +1,16 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/seniorFemeninoContraAlbacete.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2013-11-24 23:21:50", 
-  "tags": [
-    "Senior Femenino", 
-    "Senior Masculino", 
-    "Juvenil Masculino", 
-    "Club"
-  ], 
-  "title": "Las senior salvaron una triste jornada para los equipos masculinos del ADV."
-}
+---
+author: Joaquín
+banner: img/banners/seniorFemeninoContraAlbacete.png
+categories:
+- noticias
+date: '2013-11-24 23:21:50'
+tags:
+- Senior Femenino
+- Senior Masculino
+- Juvenil Masculino
+- Club
+title: Las senior salvaron una triste jornada para los equipos masculinos del ADV.
+---
 
 La segunda jornada de competición se iniciaba de la mejor manera posible al imponerse el equipo senior femenino por 3-0 al CV Albacete, uno de los rivales más temidos por las locales. Una victoria contundente ante uno de los equipos con más peso en la liga confirma las claras aspiraciones de este equipo, creando buenas expectativas a los aficionados de que el ADV Miguelturra vuelva a ser primer clasificado en la Segunda División.
 

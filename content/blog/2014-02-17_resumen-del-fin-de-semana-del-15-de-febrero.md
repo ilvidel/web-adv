@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/IMG_1657_%28Small%29.JPG", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2014-02-17 18:54:16", 
-  "tags": [
-    "Club"
-  ], 
-  "title": "Resumen del fin de semana del 15 de febrero."
-}
+---
+author: Joaquín
+banner: img/banners/IMG_1657_%28Small%29.JPG
+categories:
+- noticias
+date: '2014-02-17 18:54:16'
+tags:
+- Club
+title: Resumen del fin de semana del 15 de febrero.
+---
 
 Los senior volvieron a la senda de la victoria el pasado domingo imponiéndose por 1-3 al CV Cuenca tras un largo viaje que partía a las 6:00 a.m. hacia la capital conquense. El equipo miguelturreño necesitaba la victoria para recuperar la confianza tras la derrota de la jornada anterior y así fue, consiguiendo un merecido triunfo ante el joven equipo rival. Con esta victoria el ADV pasa a ocupar la tercera plaza de la tabla por detrás de ADEVA y Hervás Cuenca y no será hasta el 8 de marzo en plenos carnavales cuando vuelvan a jugar en su desplazamiento a Puertollano en el derbi provincial.
 

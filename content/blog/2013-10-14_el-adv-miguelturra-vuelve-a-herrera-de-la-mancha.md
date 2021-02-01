@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Captura_de_pantalla_de_2013-10-14_23%3A37%3A10.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2013-10-14 22:56:04", 
-  "tags": [
-    "Club", 
-    "Senior Masculino"
-  ], 
-  "title": "El ADV Miguelturra vuelve a Herrera de La Mancha"
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_de_2013-10-14_23%3A37%3A10.png
+categories:
+- noticias
+date: '2013-10-14 22:56:04'
+tags:
+- Club
+- Senior Masculino
+title: El ADV Miguelturra vuelve a Herrera de La Mancha
+---
 
 Como ya se hiciera en abril de 2012, la sección senior masculino del ADV Miguelturra vuelve a viajar a la prisión de Herrera de La Mancha el próximo sábado 18 de Octubre para llevar a cabo una jornada integradora a través de la práctica del voleibol con los internos, en colaboración con la dirección del centro penitenciario.
 

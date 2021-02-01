@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Captura_de_pantalla_de_2013-09-18_16%3A55%3A37.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2013-09-18 16:10:54", 
-  "tags": [
-    "Juvenil Femenino"
-  ], 
-  "title": "Presentado el equipo Juvenil Femenino para la temporada 2013/2014"
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_de_2013-09-18_16%3A55%3A37.png
+categories:
+- noticias
+date: '2013-09-18 16:10:54'
+tags:
+- Juvenil Femenino
+title: Presentado el equipo Juvenil Femenino para la temporada 2013/2014
+---
 
 <center>
 <a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202013-09-18%2016%3A55%3A37.png"> 

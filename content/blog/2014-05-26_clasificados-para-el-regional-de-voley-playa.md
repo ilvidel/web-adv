@@ -1,15 +1,13 @@
-{
-  "author": "Administrador", 
-  "banner": "img/banners/DSC_0210.JPG", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2014-05-26 11:01:56", 
-  "tags": [
-    "Club"
-  ], 
-  "title": "Clasificados para el Regional de Voley-Playa"
-}
+---
+author: Administrador
+banner: img/banners/DSC_0210.JPG
+categories:
+- noticias
+date: '2014-05-26 11:01:56'
+tags:
+- Club
+title: Clasificados para el Regional de Voley-Playa
+---
 
 <p>No solo de fútbol vive el ser humano, y el pasado sábado 24 de Mayo estaba marcado en rojo para muchos de los chicos y chicas que practican voleibol, ya que se celebraba el <em>Campeonato Provincial de Voley-Playa Escolar</em> en categorías infantil y cadete. Este deporte, cada vez con más presencia en los municipios de Ciudad Real, supone el cambio de mentalidad de todos los jugadores de voleibol en pista, un cambio relacionado con el verano, la competición, la música, nuevas amistades, el ocio, etc., lo que explica el motivo por lo que resulta tan atractivo.</p>
 

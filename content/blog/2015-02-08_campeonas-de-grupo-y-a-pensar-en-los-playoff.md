@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Screenshot_-_080215_-_20%3A11%3A03.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-02-08 22:11:30", 
-  "tags": [
-    "Juvenil Femenino"
-  ], 
-  "title": "Campeonas de grupo y a pensar en los playoff."
-}
+---
+author: Joaquín
+banner: img/banners/Screenshot_-_080215_-_20%3A11%3A03.png
+categories:
+- noticias
+date: '2015-02-08 22:11:30'
+tags:
+- Juvenil Femenino
+title: Campeonas de grupo y a pensar en los playoff.
+---
 
 El pasado sábado las juveniles del ADV Miguelturra se impusieron por un claro 3-0 al CV La Roda, consiguiendo asegurar matemáticamente la primera plaza del grupo C a falta del último partido del día 14 ante Socuéllamos.
 

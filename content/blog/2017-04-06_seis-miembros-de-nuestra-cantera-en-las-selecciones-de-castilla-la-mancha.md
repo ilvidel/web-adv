@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/WhatsApp_Image_2017-04-06_at_17.54.51.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2017-04-06 16:56:33", 
-  "tags": [
-    "Selecciones"
-  ], 
-  "title": "Seis miembros de nuestra cantera en las Selecciones de Castilla-La Mancha"
-}
+---
+author: Joaquín
+banner: img/banners/WhatsApp_Image_2017-04-06_at_17.54.51.jpg
+categories:
+- noticias
+date: '2017-04-06 16:56:33'
+tags:
+- Selecciones
+title: Seis miembros de nuestra cantera en las Selecciones de Castilla-La Mancha
+---
 
 Tras varias concentraciones preparatorias, serán varios los jugadores y jugadoras miguelturreños que formarán parte de las selecciones castellanomanchegas que competirán en el próximo Campeonato de España de Selecciones Autonómicas.
 

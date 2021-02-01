@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Screenshot_-_060315_-_13%3A41%3A18.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-03-06 12:42:00", 
-  "tags": [
-    "Previa Jornadas"
-  ], 
-  "title": "Juvenil y cadete femenino pelean por el pase a cuartos regionales."
-}
+---
+author: Joaquín
+banner: img/banners/Screenshot_-_060315_-_13%3A41%3A18.png
+categories:
+- noticias
+date: '2015-03-06 12:42:00'
+tags:
+- Previa Jornadas
+title: Juvenil y cadete femenino pelean por el pase a cuartos regionales.
+---
 
 El sábado las juveniles tratarán de volver a alcanzar los cuartos de final regional. Lo harán en nuestro Pabellón Municipal a las 17:00 ante el CV Ciudad de la Cerámica de Talavera de la Reina con una buena parte del trabajo ya hecha, tras el 1-3 conseguido en la ida, con amplia diferencia en los parciales, a las miguelturreñas prácticamente les valdrá con hacer un solo set.
 

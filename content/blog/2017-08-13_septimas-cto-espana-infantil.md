@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín",
-  "banner": "img/banners/septimas-cto-espana-infantil.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2017-08-13 16:00:00",
-  "tags": [
-    "campeonato de españa",
-	"voley-playa"
-  ],
-  "title": "Séptimas en el Campeonato de España Infantil"
-}
+---
+author: Joaquín
+banner: img/banners/septimas-cto-espana-infantil.jpg
+categories:
+- noticias
+date: '2017-08-13 16:00:00'
+tags:
+- campeonato de españa
+- voley-playa
+title: Séptimas en el Campeonato de España Infantil
+---
 
 
 El equipo infantil femenino del ADV Miguelturra, formado por Amelia

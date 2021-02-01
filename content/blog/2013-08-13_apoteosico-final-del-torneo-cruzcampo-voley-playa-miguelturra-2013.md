@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/vp2.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2013-08-13 09:15:33", 
-  "tags": [
-    "EEDD"
-  ], 
-  "title": "Apoteósico final del Torneo Cruzcampo Voley Playa Miguelturra 2013."
-}
+---
+author: Joaquín
+banner: img/banners/vp2.jpg
+categories:
+- noticias
+date: '2013-08-13 09:15:33'
+tags:
+- EEDD
+title: Apoteósico final del Torneo Cruzcampo Voley Playa Miguelturra 2013.
+---
 
 Por Manuel de la Torre.
 

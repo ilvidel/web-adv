@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/IMG-20131210-WA0000_0.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-01-28 17:15:06", 
-  "tags": [
-    "EEDD"
-  ], 
-  "title": "Balance muy positivo de nuestros equipos escolares a mitad de temporada."
-}
+---
+author: Joaquín
+banner: img/banners/IMG-20131210-WA0000_0.jpg
+categories:
+- noticias
+date: '2015-01-28 17:15:06'
+tags:
+- EEDD
+title: Balance muy positivo de nuestros equipos escolares a mitad de temporada.
+---
 
 El mes de enero se acerca a su fin, toca descanso por el puente de la enseñanza y las distintas competiciones van dilucidando resultados y acercándose a las segundas fases y fases regionales.
 

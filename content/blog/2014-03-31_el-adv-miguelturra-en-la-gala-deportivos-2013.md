@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/gala-premios-deportivos-miguelturra-2013-2014-03-28-fuente-area-de-comunicacion-municipal-202.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2014-03-31 22:48:29", 
-  "tags": [
-    "Club"
-  ], 
-  "title": "El ADV Miguelturra en la Gala Deportivos 2013."
-}
+---
+author: Joaquín
+banner: img/banners/gala-premios-deportivos-miguelturra-2013-2014-03-28-fuente-area-de-comunicacion-municipal-202.jpg
+categories:
+- noticias
+date: '2014-03-31 22:48:29'
+tags:
+- Club
+title: El ADV Miguelturra en la Gala Deportivos 2013.
+---
 
 El ADV estuvo muy presente en esta edición de los Deportivos, además de la aportación habitual de nominados en todas las categorías (algo que solo nuestro club hizo este año), también fueron compañeros y compañeras de nuestro club los voluntarios de organización de la gala, hubo menciones especiales para miembros del ADV y, siete años después, una jugadora de nuestro club volvió a ser finalista para sorpresa de todos.
 

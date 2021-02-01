@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/931320_10201384929210655_1617002588_n.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2013-06-10 23:18:31", 
-  "tags": [
-    "EEDD", 
-    "EEDD"
-  ], 
-  "title": "Subcampeones regionales de voleyplaya."
-}
+---
+author: Joaquín
+banner: img/banners/931320_10201384929210655_1617002588_n.jpg
+categories:
+- noticias
+date: '2013-06-10 23:18:31'
+tags:
+- EEDD
+- EEDD
+title: Subcampeones regionales de voleyplaya.
+---
 
 El pasado sábado 8 de junio nos desplazábamos a Cuenca para disputar la fase regional de voley playa escolar, en la que cinco equipos de Miguelturra habían conseguido plaza: uno en infantil femenino, cadete femenino y cadete masculino y dos en categoría infantil masculino, categoría en la cual el equipo formado por Alejandro Fernández, Miguel López y Ramón Céspedes consiguieron la plata regional.
 

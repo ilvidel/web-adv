@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Captura_de_pantalla_de_2016-01-12_15%3A54%3A41.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2016-01-12 15:24:34", 
-  "tags": [
-    "Club", 
-    "Previa Jornadas"
-  ], 
-  "title": "Los equipos se preparan para empezar el 2016 con buen pie."
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_de_2016-01-12_15%3A54%3A41.png
+categories:
+- noticias
+date: '2016-01-12 15:24:34'
+tags:
+- Club
+- Previa Jornadas
+title: Los equipos se preparan para empezar el 2016 con buen pie.
+---
 
 Aunque prácticamente no han tenido descanso en vacaciones de fin de año, las distintas secciones del ADV se preparan a conciencia esta semana para entrar con fuerza en los primeros partidos de 2016.
 

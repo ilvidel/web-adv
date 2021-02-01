@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín",
-  "banner": "img/banners/LorenaMartaCtosub192017.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2017-08-24 13:00:00",
-  "tags": [
-    "Campeonato de España",
-	"Voley Playa"
-  ],
-  "title": "Lorena y Marta siguen haciendo historia para nuestro club"
-}
+---
+author: Joaquín
+banner: img/banners/LorenaMartaCtosub192017.jpg
+categories:
+- noticias
+date: '2017-08-24 13:00:00'
+tags:
+- Campeonato de España
+- Voley Playa
+title: Lorena y Marta siguen haciendo historia para nuestro club
+---
 
 
 Desde el pasado domingo hasta el día de ayer nuestras jugadoras Lorena Sánchez y Marta Gómez han estado en el Centro Internacional de Voley Playa de Lorca participando en el Campeonato de España sub-19 por Clubes donde han vuelto a superarse a sí mismas poniendo a nuestro club 7º de España.

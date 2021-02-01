@@ -1,15 +1,13 @@
-{
-"author": "Joaquín",
-  "banner": "img/banners/comienzo-arrollador.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2018-02-15 18:00:00",
-  "tags": [
-  "infantil masculino"
-  ],
-  "title": "Comienzo arrollador de los infantiles en el Campeonato Regional"
-}
+---
+author: Joaquín
+banner: img/banners/comienzo-arrollador.jpg
+categories:
+- noticias
+date: '2018-02-15 18:00:00'
+tags:
+- infantil masculino
+title: Comienzo arrollador de los infantiles en el Campeonato Regional
+---
 
 Cuatro victorias en cuatro partidos -y sin ceder ningún set- para el _ADV
 Miguelturra A_ en la Liga Regional Infantil Masculina, en la cual se

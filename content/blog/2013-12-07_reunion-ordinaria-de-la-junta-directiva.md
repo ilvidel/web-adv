@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2013-12-07 19:22:15", 
-  "tags": [
-    "Club"
-  ], 
-  "title": "Reunión ordinaria de la junta directiva."
-}
+---
+author: Joaquín
+banner: ''
+categories:
+- noticias
+date: '2013-12-07 19:22:15'
+tags:
+- Club
+title: Reunión ordinaria de la junta directiva.
+---
 
 El pasado miércoles 4 de Diciembre tuvo lugar en el Hotel de Asociaciones del complejo deportivo Candelario León la reunión ordinaria trimestral del ADV Miguelturra.
 

@@ -1,17 +1,16 @@
-{
-  "author": "Joaquín",
-  "banner": "img/banners/pilar-ana-lorca.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2017-08-11 16:00:00",
-  "tags": [
-    "torneos",
-	"campeonato de españa",
-	"voley-playa"
-  ],
-  "title": "Pilar Briñas y Ana de la Beldad de menos a más en el Campeonato de España Sub-19"
-}
+---
+author: Joaquín
+banner: img/banners/pilar-ana-lorca.jpg
+categories:
+- noticias
+date: '2017-08-11 16:00:00'
+tags:
+- torneos
+- campeonato de españa
+- voley-playa
+title: Pilar Briñas y Ana de la Beldad de menos a más en el Campeonato de España
+  Sub-19
+---
 
 
 <center>

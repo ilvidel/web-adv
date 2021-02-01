@@ -1,15 +1,14 @@
-{
-  "author": "Joaquín",
-  "banner": "img/banners/Captura_de_pantalla_-_220614_-_18%3A31%3A32.png",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2014-06-22 17:38:11",
-  "tags": [
-    "Voley Playa"
-  ],
-  "title": "Nuevos éxitos miguelturreños en voley playa en el campeonato sub-19 y sub-21 de Castilla-La Mancha"
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_-_220614_-_18%3A31%3A32.png
+categories:
+- noticias
+date: '2014-06-22 17:38:11'
+tags:
+- Voley Playa
+title: Nuevos éxitos miguelturreños en voley playa en el campeonato sub-19 y sub-21
+  de Castilla-La Mancha
+---
 
 El pasado sábado 21 de junio se celebraba en el Complejo Playas del
 Vicario de Ciudad Real el campeonato regional de voley playa sub-19 y

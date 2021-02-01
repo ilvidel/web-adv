@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/copia_de_DSC_0669.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2014-09-18 16:48:54", 
-  "tags": [
-    "Juvenil Femenino"
-  ], 
-  "title": "Cerrada la plantilla del equipo Juvenil Femenino."
-}
+---
+author: Joaquín
+banner: img/banners/copia_de_DSC_0669.jpg
+categories:
+- noticias
+date: '2014-09-18 16:48:54'
+tags:
+- Juvenil Femenino
+title: Cerrada la plantilla del equipo Juvenil Femenino.
+---
 
 Definitivamente ha quedado cerrada la plantilla que compondrá el equipo juvenil femenino del ADV Miguelturra para la campaña 2014/15 a dos días de jugar su primer amistoso.
 

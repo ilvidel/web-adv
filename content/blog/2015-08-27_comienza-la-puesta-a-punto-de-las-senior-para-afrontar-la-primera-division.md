@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/IMG-20150821-WA0013.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-08-27 21:39:53", 
-  "tags": [
-    "Senior Femenino", 
-    "Primera División"
-  ], 
-  "title": "Comienza la puesta a punto de las senior para afrontar la Primera División."
-}
+---
+author: Joaquín
+banner: img/banners/IMG-20150821-WA0013.jpg
+categories:
+- noticias
+date: '2015-08-27 21:39:53'
+tags:
+- Senior Femenino
+- Primera División
+title: Comienza la puesta a punto de las senior para afrontar la Primera División.
+---
 
 El equipo senior femenino del ADV, que este año militará en Primera División tras lograr el ascenso, ha comenzado esta semana su pretemporada de cara a conseguir un nivel óptimo para afrontar el regreso a la división de bronce del voleibol nacional cinco temporadas después.
 

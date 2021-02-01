@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/14-01-16.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2017-01-11 15:27:28", 
-  "tags": [
-    "Previa Jornadas"
-  ], 
-  "title": "Vuelta a la competición con las pilas cargadas"
-}
+---
+author: Joaquín
+banner: img/banners/14-01-16.jpg
+categories:
+- noticias
+date: '2017-01-11 15:27:28'
+tags:
+- Previa Jornadas
+title: Vuelta a la competición con las pilas cargadas
+---
 
 Este sábado nuestros equipos retoman sus ligas tras el parón navideño, los entrenamientos vuelven a la normalidad de cara a tratar de seguir aspirando a lograr los objetivos marcados.
 

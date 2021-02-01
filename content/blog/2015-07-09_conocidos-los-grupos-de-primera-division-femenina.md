@@ -1,15 +1,13 @@
-{
-  "author": "Nacho", 
-  "banner": "", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-07-09 12:10:16", 
-  "tags": [
-    "Senior Femenino"
-  ], 
-  "title": "Conocidos los Grupos de Primera División Femenina"
-}
+---
+author: Nacho
+banner: ''
+categories:
+- noticias
+date: '2015-07-09 12:10:16'
+tags:
+- Senior Femenino
+title: Conocidos los Grupos de Primera División Femenina
+---
 
 Ya conocemos los rivales a los que se enfrentarán el año que viene nuestras chicas en la competición de Primera División Nacional. Los equipos componentes del Grupo C serán:
 

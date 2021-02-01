@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín",
-  "banner": "img/banners/adv-suma-sigue.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2017-11-07 19:00:00",
-  "tags": [
-    "resúmenes"
-  ],
-  "title": "El ADV suma y sigue"
-}
+---
+author: Joaquín
+banner: img/banners/adv-suma-sigue.jpg
+categories:
+- noticias
+date: '2017-11-07 19:00:00'
+tags:
+- resúmenes
+title: El ADV suma y sigue
+---
 
 Gran victoria de las senior este fin de semana por un inesperado 3-0
 ante Club Voleibol Toletum Villaseca, actual campeón de liga, donde se

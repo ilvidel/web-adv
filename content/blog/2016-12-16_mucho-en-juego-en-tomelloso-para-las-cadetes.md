@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Captura_de_pantalla_de_2016-12-16_12-13-14.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2016-12-16 11:43:35", 
-  "tags": [
-    "Cadete Femenino"
-  ], 
-  "title": "Mucho en juego en Tomelloso para las cadetes"
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_de_2016-12-16_12-13-14.png
+categories:
+- noticias
+date: '2016-12-16 11:43:35'
+tags:
+- Cadete Femenino
+title: Mucho en juego en Tomelloso para las cadetes
+---
 
 El equipo cadete femenino de Liga Regional se desplaza el próximo sábado a Tomelloso para disputar un encuentro que marcará en gran medida los puestos a repartir en la Fase de Grupos.
 

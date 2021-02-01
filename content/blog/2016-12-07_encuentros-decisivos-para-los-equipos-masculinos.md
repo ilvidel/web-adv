@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Captura_de_pantalla_de_2016-12-08_11-30-36.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2016-12-07 15:51:10", 
-  "tags": [
-    "Juvenil Masculino", 
-    "Senior Masculino"
-  ], 
-  "title": "Encuentros decisivos para los equipos masculinos."
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_de_2016-12-08_11-30-36.png
+categories:
+- noticias
+date: '2016-12-07 15:51:10'
+tags:
+- Juvenil Masculino
+- Senior Masculino
+title: Encuentros decisivos para los equipos masculinos.
+---
 
 La jornada del próximo sábado marcará un antes y un después para los conjuntos senior y juvenil masculino de nuestro club que recibirán al CV Hervás Cuenca a las 19:00 y 17:00 respectivamente.
 

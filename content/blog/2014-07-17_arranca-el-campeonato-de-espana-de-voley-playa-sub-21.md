@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/IMG-20140717-WA0016.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2014-07-17 18:14:39", 
-  "tags": [
-    "Voley Playa", 
-    "Campeonato de España"
-  ], 
-  "title": "Arranca el Campeonato de España de Voley Playa sub-21"
-}
+---
+author: Joaquín
+banner: img/banners/IMG-20140717-WA0016.jpg
+categories:
+- noticias
+date: '2014-07-17 18:14:39'
+tags:
+- Voley Playa
+- Campeonato de España
+title: Arranca el Campeonato de España de Voley Playa sub-21
+---
 
 Esta mañana arrancaba el Campeonato de España sub-19 y sub-21 en Las Palmas de Gran Canaria con la participación de las miguelturreñas Laura Mora y Alba Peco en categoría sub-21 femenina representando a Castilla-La Mancha tras haberse impuesto en junio en el campeonato regional.
 

@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/08-02-14.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2014-02-05 13:24:59", 
-  "tags": [
-    "Club"
-  ], 
-  "title": "Jornada decisiva para el ADV."
-}
+---
+author: Joaquín
+banner: img/banners/08-02-14.jpg
+categories:
+- noticias
+date: '2014-02-05 13:24:59'
+tags:
+- Club
+title: Jornada decisiva para el ADV.
+---
 
 La jornada de este sábado marcará un antes y un después en nuestros equipos federados, especialmente en la sección senior femenino.
 

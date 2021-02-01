@@ -1,17 +1,15 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/WhatsApp-Image-20160610.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2016-06-23 15:18:34", 
-  "tags": [
-    "EEDD", 
-    "EEDD", 
-    "Campeonato de España"
-  ], 
-  "title": "Aleví Masculino y Femenino al Campeonato de España"
-}
+---
+author: Joaquín
+banner: img/banners/WhatsApp-Image-20160610.jpg
+categories:
+- noticias
+date: '2016-06-23 15:18:34'
+tags:
+- EEDD
+- EEDD
+- Campeonato de España
+title: Aleví Masculino y Femenino al Campeonato de España
+---
 
 Hoy parten rumbo a Valladolid los equipos A del ADV Miguelturra tanto masculino como femenino de categoría alevín. Allí se disputará el Campeonato de España de las dos categorías los próximos 24 a 26 de Junio.
 

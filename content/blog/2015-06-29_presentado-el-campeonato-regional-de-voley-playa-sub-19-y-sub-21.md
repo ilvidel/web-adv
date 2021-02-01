@@ -1,17 +1,15 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/cartelVPsub21.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-06-29 16:23:11", 
-  "tags": [
-    "Voley Playa", 
-    "Eventos", 
-    "Torneos"
-  ], 
-  "title": "Presentado el Campeonato Regional de Voley Playa sub-19 y sub-21."
-}
+---
+author: Joaquín
+banner: img/banners/cartelVPsub21.jpg
+categories:
+- noticias
+date: '2015-06-29 16:23:11'
+tags:
+- Voley Playa
+- Eventos
+- Torneos
+title: Presentado el Campeonato Regional de Voley Playa sub-19 y sub-21.
+---
 
 Este año el Campeonato Regional de Voley Playa sub-19 y sub-21 tendrá lugar en Miguelturra. El Parque Rivas Moreno acogerá los próximos 3 y 4 de Julio el torneo oficial más importante de Castilla-La Mancha del que saldrán los representantes de nuestra comunidad autónoma para los Campeonatos de España que tendrán lugar en Lorca (Murcia).
 

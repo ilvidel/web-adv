@@ -1,16 +1,15 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Captura_de_pantalla_de_2016-03-08_16%3A50%3A40.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2016-03-08 15:54:46", 
-  "tags": [
-    "Senior Masculino", 
-    "Juvenil Masculino"
-  ], 
-  "title": "Los equipos masculino despiden sus temporadas con la vista puesta en la próxima campaña."
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_de_2016-03-08_16%3A50%3A40.png
+categories:
+- noticias
+date: '2016-03-08 15:54:46'
+tags:
+- Senior Masculino
+- Juvenil Masculino
+title: Los equipos masculino despiden sus temporadas con la vista puesta en la próxima
+  campaña.
+---
 
 El pasado sábado terminaba la andadura de nuestros equipos equipos federados masculinos dejando paso a la temporada de voley playa y a la preparación del siguiente curso.
 

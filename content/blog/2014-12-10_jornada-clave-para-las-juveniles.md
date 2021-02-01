@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Screenshot_-_101214_-_17%3A00%3A25.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2014-12-10 16:01:16", 
-  "tags": [
-    "Juvenil Femenino"
-  ], 
-  "title": "Jornada clave para las juveniles."
-}
+---
+author: Joaquín
+banner: img/banners/Screenshot_-_101214_-_17%3A00%3A25.png
+categories:
+- noticias
+date: '2014-12-10 16:01:16'
+tags:
+- Juvenil Femenino
+title: Jornada clave para las juveniles.
+---
 
 Este sábado las juveniles jugarán el último partido de la primera vuelta en un encuentro que por segundo año consecutivo tiene la peculiaridad de enfrentar a los dos únicos equipos invictos del grupo, una vez más ADV Miguelturra y CV Socuéllamos pelearán por la primera plaza de la tabla en enfrentamiento directo.
 

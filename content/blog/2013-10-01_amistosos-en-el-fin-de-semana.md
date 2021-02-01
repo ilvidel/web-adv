@@ -1,17 +1,15 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/cartelTriangularMiajadas.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2013-10-01 23:27:24", 
-  "tags": [
-    "Senior Masculino", 
-    "Senior Femenino", 
-    "Juvenil Femenino"
-  ], 
-  "title": "Amistosos en el fin de semana."
-}
+---
+author: Joaquín
+banner: img/banners/cartelTriangularMiajadas.jpg
+categories:
+- noticias
+date: '2013-10-01 23:27:24'
+tags:
+- Senior Masculino
+- Senior Femenino
+- Juvenil Femenino
+title: Amistosos en el fin de semana.
+---
 
 
 Este sábado de nuevo podremos disfrutar de variedad de partidos de voleibol en diversas categorías.

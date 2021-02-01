@@ -1,17 +1,15 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/IMG611.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2013-10-28 09:57:33", 
-  "tags": [
-    "Senior Masculino", 
-    "Juvenil Femenino", 
-    "Juvenil Masculino"
-  ], 
-  "title": "El ADV Miguelturra en Cuenca"
-}
+---
+author: Joaquín
+banner: img/banners/IMG611.jpg
+categories:
+- noticias
+date: '2013-10-28 09:57:33'
+tags:
+- Senior Masculino
+- Juvenil Femenino
+- Juvenil Masculino
+title: El ADV Miguelturra en Cuenca
+---
 
 El pasado sábado 26 de octubre el ADV se desplazaba a Cuenca con las secciones senior y juvenil masculino, juvenil femenino y el equipo escolar cadete masculino para disputar varios amistosos con los clubes de la localidad.
 

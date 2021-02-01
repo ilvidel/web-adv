@@ -1,15 +1,15 @@
-{
-  "author": "Joaquín",
-  "banner": "img/banners/pelea-billete-cto-infantil.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2018-04-04 18:00:00",
-  "tags": [
-    "Infantil Masculino", "campeonato de españa"
-  ],
-  "title": "La pelea por el billete al Campeonato de España infantil será este sábado en Miguelturra"
-}
+---
+author: Joaquín
+banner: img/banners/pelea-billete-cto-infantil.jpg
+categories:
+- noticias
+date: '2018-04-04 18:00:00'
+tags:
+- Infantil Masculino
+- campeonato de españa
+title: La pelea por el billete al Campeonato de España infantil será este sábado
+  en Miguelturra
+---
 
 En la mañana del próximo sábado tendrá lugar en Miguelturra un nuevo
 evento autonómico. En este caso, será la **Fase Final del Campeonato

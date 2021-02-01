@@ -1,17 +1,15 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/lote-2-gala-deportivos-2015-fuente-area-de-comunicacion-municipal-048.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2016-03-14 15:36:06", 
-  "tags": [
-    "Gala Deportivos", 
-    "Eventos", 
-    "Juvenil Femenino"
-  ], 
-  "title": "Alba Hervás nombrada mejor deportista local en la Gala Deportivos 2015"
-}
+---
+author: Joaquín
+banner: img/banners/lote-2-gala-deportivos-2015-fuente-area-de-comunicacion-municipal-048.jpg
+categories:
+- noticias
+date: '2016-03-14 15:36:06'
+tags:
+- Gala Deportivos
+- Eventos
+- Juvenil Femenino
+title: Alba Hervás nombrada mejor deportista local en la Gala Deportivos 2015
+---
 
 El pasado viernes se celebró en el Teatro-Cine Paz de Miguelturra la Gala Deportivos 2015 organizada por la Concejalía de Deportes y en la que finalmente, la jugadora juvenil de nuestro club, Alba Hervás, fue galardonada con el reconocimiento a Mejor Deportista Local junto a la taekwondista Natalia Ruedas.
 

@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Dibujo.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-07-16 15:42:05", 
-  "tags": [
-    "Voley Playa", 
-    "Voley Playa"
-  ], 
-  "title": "Arrancamos con el X Torneo Voley Playa Miguelturra"
-}
+---
+author: Joaquín
+banner: img/banners/Dibujo.jpg
+categories:
+- noticias
+date: '2015-07-16 15:42:05'
+tags:
+- Voley Playa
+- Voley Playa
+title: Arrancamos con el X Torneo Voley Playa Miguelturra
+---
 
 La edición de nuestro torneo para este 2015 echa a andar. De momento os dejamos el cartel y mucha info en la sección de la web http://www.advmiguelturra.org/vplaya/torneo.html.
 

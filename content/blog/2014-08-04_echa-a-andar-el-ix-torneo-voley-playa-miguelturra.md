@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Inauguracion.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2014-08-04 12:33:39", 
-  "tags": [
-    "Voley Playa"
-  ], 
-  "title": "Echa a andar el IX Torneo Voley Playa Miguelturra."
-}
+---
+author: Joaquín
+banner: img/banners/Inauguracion.jpg
+categories:
+- noticias
+date: '2014-08-04 12:33:39'
+tags:
+- Voley Playa
+title: Echa a andar el IX Torneo Voley Playa Miguelturra.
+---
 
 El pasado viernes 1 de agosto se iniciaba en el Parque Rivas Moreno el IX Trofeo Voley Playa Miguelturra organizado por la ADV Miguelturra en colaboración con el Ayuntamiento de Miguelturra y patrocinado por Amstel Radler y Distribuciones Sacra.
 

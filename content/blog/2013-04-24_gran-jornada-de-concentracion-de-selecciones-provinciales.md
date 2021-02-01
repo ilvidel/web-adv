@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Captura_de_pantalla_de_2013-04-22_23%3A51%3A12.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2013-04-24 22:28:26", 
-  "tags": [
-    "EEDD"
-  ], 
-  "title": "Gran jornada de concentración de selecciones provinciales."
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_de_2013-04-22_23%3A51%3A12.jpg
+categories:
+- noticias
+date: '2013-04-24 22:28:26'
+tags:
+- EEDD
+title: Gran jornada de concentración de selecciones provinciales.
+---
 
 El pasado sábado tuvo lugar en el Pabellón Municipal de Miguelturra una de las concentraciones de las selecciones provinciales de Ciudad Real destinadas a preparar los torneos de Castilla-La Mancha de los próximos 4 y 11 de mayo.
 

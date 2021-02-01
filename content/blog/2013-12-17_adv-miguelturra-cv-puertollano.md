@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "", 
-  "categories": [
-    "crónicas"
-  ], 
-  "date": "2013-12-17 09:38:32", 
-  "tags": [
-    "Senior Femenino"
-  ], 
-  "title": "ADV Miguelturra - CV Puertollano"
-}
+---
+author: Joaquín
+banner: ''
+categories:
+- crónicas
+date: '2013-12-17 09:38:32'
+tags:
+- Senior Femenino
+title: ADV Miguelturra - CV Puertollano
+---
 
 (Por Miguel Astilleros)
 

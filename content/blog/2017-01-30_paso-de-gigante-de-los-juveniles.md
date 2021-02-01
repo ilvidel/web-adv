@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/WhatsApp_Image_2017-01-30_at_15.00.18.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2017-01-30 20:01:04", 
-  "tags": [
-    "Juvenil Masculino"
-  ], 
-  "title": "Paso de gigante de los juveniles"
-}
+---
+author: Joaquín
+banner: img/banners/WhatsApp_Image_2017-01-30_at_15.00.18.jpg
+categories:
+- noticias
+date: '2017-01-30 20:01:04'
+tags:
+- Juvenil Masculino
+title: Paso de gigante de los juveniles
+---
 
 El pasado sábado en el Pabellón Municipal tuvimos la oportunidad de vivir uno de esos partidos que quedan para el recuerdo y es que el encuentro entre los juveniles del ADV y Voley Guada cumplía todos los requisitos para ello: partido decisivo, altísima intensidad, afición volcada con el equipo y, por supuesto, victoria 3-2 para los nuestros.
 

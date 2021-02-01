@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Screenshot_-_180215_-_16%3A53%3A28.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-02-18 15:55:21", 
-  "tags": [
-    "Eventos", 
-    "Carnaval"
-  ], 
-  "title": "El I Voleibol Enmascarado deja ganas de repetir el año próximo."
-}
+---
+author: Joaquín
+banner: img/banners/Screenshot_-_180215_-_16%3A53%3A28.png
+categories:
+- noticias
+date: '2015-02-18 15:55:21'
+tags:
+- Eventos
+- Carnaval
+title: El I Voleibol Enmascarado deja ganas de repetir el año próximo.
+---
 
 El pasado Domingo día 15 en plenos carnavales miguelturreños tuvo lugar el I Voleibol Enmascarado. Un total de 15 equipos se inscribieron en el torneo que congregó en el Parque Doctor Fleming  numeroso público asistente disfrutando del espectáculo y del buen tiempo. 
 

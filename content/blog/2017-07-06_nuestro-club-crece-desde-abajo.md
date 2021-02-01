@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín",
-  "banner": "img/banners/resumen-resultados-2017.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2017-07-06 19:00:00",
-  "tags": [
-    "club"
-  ],
-  "title": "Nuestro Club crece desde abajo"
-}
+---
+author: Joaquín
+banner: img/banners/resumen-resultados-2017.jpg
+categories:
+- noticias
+date: '2017-07-06 19:00:00'
+tags:
+- club
+title: Nuestro Club crece desde abajo
+---
 
 A pesar de estar metidos de lleno en la temporada de voley playa, tras
 el Campeonato de España Alevín que finalizaba la pasada semana

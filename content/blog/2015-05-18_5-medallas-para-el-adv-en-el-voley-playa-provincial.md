@@ -1,17 +1,15 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/IMG_20150517_200952.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-05-18 21:19:54", 
-  "tags": [
-    "EEDD", 
-    "Eventos", 
-    "Voley Playa"
-  ], 
-  "title": "5 medallas para el ADV en el voley playa provincial."
-}
+---
+author: Joaquín
+banner: img/banners/IMG_20150517_200952.jpg
+categories:
+- noticias
+date: '2015-05-18 21:19:54'
+tags:
+- EEDD
+- Eventos
+- Voley Playa
+title: 5 medallas para el ADV en el voley playa provincial.
+---
 
 El pasado domingo tuvo lugar el campeonato provincial de Voley Playa en categorías cadete femenino, cadete masculino e infantil femenino (infantil masculino se decidirá esta semana) correspondiente a deporte escolar, organizado por la JCCM en colaboración con la FVCM, la Concejalía de Deportes de Miguelturra y el ADV Miguelturra. El balance en estas categorías ha sido de dos oros, una plata y dos bronces para los equipos de las Escuelas Deportivas de Miguelturra, mejorando el balance del año anterior y garantizando la presencia de 5 equipos locales en la fase regional.
 

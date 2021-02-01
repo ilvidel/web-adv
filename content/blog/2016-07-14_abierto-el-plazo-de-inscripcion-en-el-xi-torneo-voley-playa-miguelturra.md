@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Cartel_definitivo_peq.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2016-07-14 19:36:08", 
-  "tags": [
-    "Voley Playa", 
-    "Voley Playa"
-  ], 
-  "title": "Abierto el plazo de inscripción en el XI Torneo Voley Playa Miguelturra"
-}
+---
+author: Joaquín
+banner: img/banners/Cartel_definitivo_peq.jpg
+categories:
+- noticias
+date: '2016-07-14 19:36:08'
+tags:
+- Voley Playa
+- Voley Playa
+title: Abierto el plazo de inscripción en el XI Torneo Voley Playa Miguelturra
+---
 
 Todo está a punto para nuestro torneo y las inscripciones ya se pueden formalizar. La información al completo está disponible en la sección del torneo:
 

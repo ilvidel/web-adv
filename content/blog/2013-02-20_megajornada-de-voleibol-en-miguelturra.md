@@ -1,13 +1,12 @@
-{
-  "author": "Nacho", 
-  "banner": "", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2013-02-20 09:00:11", 
-  "tags": [], 
-  "title": "MegaJornada de Voleibol en Miguelturra"
-}
+---
+author: Nacho
+banner: ''
+categories:
+- noticias
+date: '2013-02-20 09:00:11'
+tags: []
+title: MegaJornada de Voleibol en Miguelturra
+---
 
 El próximo sábado 2 de Marzo tendrá lugar en el Pabellón Municipal de Miguelturra una megajornada de voleibol, con 15 partidos de varias categorías.
 

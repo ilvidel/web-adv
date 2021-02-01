@@ -1,15 +1,13 @@
-{
-  "author": "Nacho", 
-  "banner": "", 
-  "categories": [
-    "crónicas"
-  ], 
-  "date": "2013-01-19 15:30:00", 
-  "tags": [
-    "Senior Masculino"
-  ], 
-  "title": "Lo único positivo del mal partido del ADV Miguelturra masculino fue la victoria"
-}
+---
+author: Nacho
+banner: ''
+categories:
+- crónicas
+date: '2013-01-19 15:30:00'
+tags:
+- Senior Masculino
+title: Lo único positivo del mal partido del ADV Miguelturra masculino fue la victoria
+---
 
 Crónica por Pablo Pozo.
 

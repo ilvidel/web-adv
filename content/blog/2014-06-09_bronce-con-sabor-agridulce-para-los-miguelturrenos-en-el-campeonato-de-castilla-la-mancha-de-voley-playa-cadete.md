@@ -1,16 +1,15 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/IMG-20140609-WA0005.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2014-06-09 15:17:28", 
-  "tags": [
-    "EEDD", 
-    "Voley Playa"
-  ], 
-  "title": "Bronce con sabor agridulce para los miguelturreños en el Campeonato de Castilla-La Mancha de Voley Playa cadete."
-}
+---
+author: Joaquín
+banner: img/banners/IMG-20140609-WA0005.jpg
+categories:
+- noticias
+date: '2014-06-09 15:17:28'
+tags:
+- EEDD
+- Voley Playa
+title: Bronce con sabor agridulce para los miguelturreños en el Campeonato de Castilla-La
+  Mancha de Voley Playa cadete.
+---
 
 El pasado sábado tuvimos una muestra más del buen nivel que se está alcanzando en nuestra localidad en Voley Playa. En el torneo regional los cadetes Manuel García, Alberto Loro y Christopher Morcillo quedaron en 3ª posición quedando muy cerca de lograr el pase al Campeonato de España. La misma posición consiguieron en categoría femenina Alba Hervás y Lorena Sánchez demostrando ambos equipos en la cancha el esfuerzo realizado a lo largo de esta temporada.
 

@@ -1,15 +1,13 @@
-{
-  "author": "Administrador", 
-  "banner": "", 
-  "categories": [
-    "crónicas"
-  ], 
-  "date": "2013-01-19 17:00:00", 
-  "tags": [
-    "Senior Femenino"
-  ], 
-  "title": "Novena victoria consecutiva del equipo senior femenino de Miguelturra"
-}
+---
+author: Administrador
+banner: ''
+categories:
+- crónicas
+date: '2013-01-19 17:00:00'
+tags:
+- Senior Femenino
+title: Novena victoria consecutiva del equipo senior femenino de Miguelturra
+---
 
 <table>
  <tr>

@@ -1,15 +1,13 @@
-{
-  "author": "Administrador", 
-  "banner": "", 
-  "categories": [
-    "crónicas"
-  ], 
-  "date": "2013-01-26 15:30:00", 
-  "tags": [
-    "Senior Masculino"
-  ], 
-  "title": "Batacazo del equipo senior masculino"
-}
+---
+author: Administrador
+banner: ''
+categories:
+- crónicas
+date: '2013-01-26 15:30:00'
+tags:
+- Senior Masculino
+title: Batacazo del equipo senior masculino
+---
 
 Crónica por Pablo Pozo, editada por Nacho.
 

@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "", 
-  "categories": [
-    "crónicas"
-  ], 
-  "date": "2013-09-23 12:51:33", 
-  "tags": [
-    "Senior Masculino"
-  ], 
-  "title": "ADV Miguelturra - CV Pinto"
-}
+---
+author: Joaquín
+banner: ''
+categories:
+- crónicas
+date: '2013-09-23 12:51:33'
+tags:
+- Senior Masculino
+title: ADV Miguelturra - CV Pinto
+---
 
 Derrota con ilusion. 
 

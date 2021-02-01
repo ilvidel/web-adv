@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2013-10-01 12:57:37", 
-  "tags": [
-    "EEDD"
-  ], 
-  "title": "Arrancan las escuelas deportivas de voleibol en Miguelturra."
-}
+---
+author: Joaquín
+banner: ''
+categories:
+- noticias
+date: '2013-10-01 12:57:37'
+tags:
+- EEDD
+title: Arrancan las escuelas deportivas de voleibol en Miguelturra.
+---
 
 Hoy martes 1 de octubre comienza el curso deportivo escolar para los más de 110 niños y niñas que han elegido practicar voleibol este año.
 

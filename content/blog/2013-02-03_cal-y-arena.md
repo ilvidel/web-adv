@@ -1,16 +1,14 @@
-{
-  "author": "Nacho", 
-  "banner": "", 
-  "categories": [
-    "crónicas"
-  ], 
-  "date": "2013-02-03 21:52:52", 
-  "tags": [
-    "Juvenil Masculino", 
-    "Senior Masculino"
-  ], 
-  "title": "Cal y Arena"
-}
+---
+author: Nacho
+banner: ''
+categories:
+- crónicas
+date: '2013-02-03 21:52:52'
+tags:
+- Juvenil Masculino
+- Senior Masculino
+title: Cal y Arena
+---
 
 La sección masculina del club se desplazó este domingo hasta la capital conquense para enfrentarse a los locales en las categorías juvenil y senior, volviendo a casa con una victoria y una derrota.
 

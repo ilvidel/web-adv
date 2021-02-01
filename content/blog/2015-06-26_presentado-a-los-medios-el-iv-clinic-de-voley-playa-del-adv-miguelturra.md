@@ -1,18 +1,16 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/contraClinic.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-06-26 16:03:10", 
-  "tags": [
-    "Club", 
-    "Clinic", 
-    "EEDD", 
-    "Voley Playa"
-  ], 
-  "title": "Presentado a los medios el IV Clinic de Voley Playa del ADV Miguelturra"
-}
+---
+author: Joaquín
+banner: img/banners/contraClinic.jpg
+categories:
+- noticias
+date: '2015-06-26 16:03:10'
+tags:
+- Club
+- Clinic
+- EEDD
+- Voley Playa
+title: Presentado a los medios el IV Clinic de Voley Playa del ADV Miguelturra
+---
 
 Tras el éxito de las últimas ediciones volvemos a presentar un año más el Clinic de Voley Playa, convertido ya en una de las actividades deportivas más importantes del verano miguelturreño en la que más de 20 monitores del ADV se pondrán al servicio del Voley Playa.
 

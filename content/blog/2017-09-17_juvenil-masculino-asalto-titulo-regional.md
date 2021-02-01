@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín",
-  "banner": "img/banners/jesus-nieto-entrenador-jm.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2017-09-17 19:00:00",
-  "tags": [
-	"juvenil masculino"
-  ],
-  "title": "El Juvenil Masculino al asalto del Título Regional de manos de Jesús Nieto"
-}
+---
+author: Joaquín
+banner: img/banners/jesus-nieto-entrenador-jm.jpg
+categories:
+- noticias
+date: '2017-09-17 19:00:00'
+tags:
+- juvenil masculino
+title: El Juvenil Masculino al asalto del Título Regional de manos de Jesús Nieto
+---
 
 <center>
 	<a target="photo" href="http://www.advmiguelturra.org/img/banners/juv-masc-17-18.jpg">

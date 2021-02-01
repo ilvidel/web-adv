@@ -1,13 +1,14 @@
-{
-  "author": "Joaquín",
-  "banner": "img/banners/recta-final-cadete-fem-regional.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2018-02-02 10:00:00",
-  "tags": [ "cadete femenino", "EEDD" ],
-  "title": "Recta final para el Cadete Femenino Regional en la Fase Final"
-}
+---
+author: Joaquín
+banner: img/banners/recta-final-cadete-fem-regional.jpg
+categories:
+- noticias
+date: '2018-02-02 10:00:00'
+tags:
+- cadete femenino
+- EEDD
+title: Recta final para el Cadete Femenino Regional en la Fase Final
+---
 
 Nuestro equipo cadete femenino de Liga Regional comienza este sábado
 la Fase Final en la que **pelearán por los puestos 1º al 6º** en una

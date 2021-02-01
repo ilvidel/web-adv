@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/WhatsApp_Image_2016-10-10_at_13.56.17.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2016-10-04 23:54:31", 
-  "tags": [
-    "Club"
-  ], 
-  "title": "Arranca una temporada clave para el ADV."
-}
+---
+author: Joaquín
+banner: img/banners/WhatsApp_Image_2016-10-10_at_13.56.17.jpg
+categories:
+- noticias
+date: '2016-10-04 23:54:31'
+tags:
+- Club
+title: Arranca una temporada clave para el ADV.
+---
 
 Nuestro club vuelve a la carga otro año con más ganas e ilusión que nunca por parte de los 6 equipos federados. Los dos equipos senior masculino, el juvenil masculino, el senior femenino y los dos equipos juvenil femenino afrontan sus respectivos retos en una de las temporadas de los últimos con mayor competitividad en las ligas castellano-manchegas.
 

@@ -1,15 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Captura_de_pantalla_-_030214_-_14%3A46%3A52.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2014-02-03 15:40:46", 
-  "tags": [
-    "EEDD"
-  ], 
-  "title": "Celebrada en Miguelturra la primera concentración regional infantil y cadete masculino."
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_-_030214_-_14%3A46%3A52.png
+categories:
+- noticias
+date: '2014-02-03 15:40:46'
+tags:
+- EEDD
+title: Celebrada en Miguelturra la primera concentración regional infantil y cadete
+  masculino.
+---
 
 El pasado sábado tuvo lugar en el Pabellón Municipal de Miguelturra la primera de las cuatro concentraciones regionales en las que se reparten los partidos de la fase regional de Castilla-La Mancha en categoría infantil y cadete masculino.
 <center>

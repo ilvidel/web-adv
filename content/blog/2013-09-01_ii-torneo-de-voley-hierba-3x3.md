@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Captura_de_pantalla_de_2013-08-30_18%3A31%3A22_0.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2013-09-01 16:24:41", 
-  "tags": [
-    "Club", 
-    "Actividades"
-  ], 
-  "title": "II Torneo de Voley Hierba 3x3"
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_de_2013-08-30_18%3A31%3A22_0.png
+categories:
+- noticias
+date: '2013-09-01 16:24:41'
+tags:
+- Club
+- Actividades
+title: II Torneo de Voley Hierba 3x3
+---
 
 Los próximos viernes 13 y sábado 14 de septiembre tendrá lugar la segunda edición de Voley Hierba 3x3. 
 

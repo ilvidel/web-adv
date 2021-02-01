@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Screenshot_-_211114_-_10%3A12%3A57.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2014-11-21 09:23:05", 
-  "tags": [
-    "Senior Masculino"
-  ], 
-  "title": "El ADV quiere el ascenso."
-}
+---
+author: Joaquín
+banner: img/banners/Screenshot_-_211114_-_10%3A12%3A57.png
+categories:
+- noticias
+date: '2014-11-21 09:23:05'
+tags:
+- Senior Masculino
+title: El ADV quiere el ascenso.
+---
 
 El equipo senior masculino comienza la temporada este domingo y el objetivo no es otro que conseguir la primera plaza y estar en la fase de ascenso, los encargados de guiar al equipo en esta tarea serán Pablo Muñoz y Jose M. Bastante al igual que la pasada campaña. No obstante, el equipo está renovado en varias de sus filas y todo el club confía en la plantilla.
 

@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Screenshot_-_130315_-_14%3A12%3A36.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-03-13 10:43:49", 
-  "tags": [
-    "Previa Jornadas"
-  ], 
-  "title": "El fin de semana clave para el ADV."
-}
+---
+author: Joaquín
+banner: img/banners/Screenshot_-_130315_-_14%3A12%3A36.png
+categories:
+- noticias
+date: '2015-03-13 10:43:49'
+tags:
+- Previa Jornadas
+title: El fin de semana clave para el ADV.
+---
 
 En estos dos días, senior tanto masculino como femenino además de las juveniles, se juegan conseguir sus primeros objetivos, las senior con más facilidades, los senior y las juveniles con partidos decisivos. También los cadetes tienen la última oportunidad de conseguir plaza para el campeonato nacional y las cadetes pelearán por el pase a semifinales regionales.
 

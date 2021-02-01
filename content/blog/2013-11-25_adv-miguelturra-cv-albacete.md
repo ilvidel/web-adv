@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/PlantillaSeniorFemenino.jpg", 
-  "categories": [
-    "crónicas"
-  ], 
-  "date": "2013-11-25 08:52:01", 
-  "tags": [
-    "Senior Femenino"
-  ], 
-  "title": "ADV Miguelturra - CV Albacete"
-}
+---
+author: Joaquín
+banner: img/banners/PlantillaSeniorFemenino.jpg
+categories:
+- crónicas
+date: '2013-11-25 08:52:01'
+tags:
+- Senior Femenino
+title: ADV Miguelturra - CV Albacete
+---
 
 Otra victoria clara para el equipo Senior Femenino (Por Miguel Astilleros)
 

@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Screenshot_-_171214_-_17%3A10%3A43.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2014-12-17 16:11:20", 
-  "tags": [
-    "Club", 
-    "Resúenes"
-  ], 
-  "title": "El equipo senior masculino a prueba ante el ADEVA."
-}
+---
+author: Joaquín
+banner: img/banners/Screenshot_-_171214_-_17%3A10%3A43.png
+categories:
+- noticias
+date: '2014-12-17 16:11:20'
+tags:
+- Club
+- Resúenes
+title: El equipo senior masculino a prueba ante el ADEVA.
+---
 
 Este fin de semana se presenta cargado de voleibol con algunos partidos que serán determinantes de cara el desenlace de las distintas ligas en las que comparece el ADV, principalmente el partido que enfrentará a los senior con sus compañeros en el liderato, el ADEVA de Albacete.
 

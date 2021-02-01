@@ -1,15 +1,14 @@
-{
-  "author": "Joaquín",
-  "banner": "img/banners/miguelturra-albergara-cto-espana-vplaya.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2018-04-01 18:00:00",
-  "tags": [
-    "voley-playa", "campeonato de españa"
-  ],
-  "title": "Miguelturra albergará el Campeonato de España de Voley Playa Sub-19 Masculino"
-}
+---
+author: Joaquín
+banner: img/banners/miguelturra-albergara-cto-espana-vplaya.jpg
+categories:
+- noticias
+date: '2018-04-01 18:00:00'
+tags:
+- voley-playa
+- campeonato de españa
+title: Miguelturra albergará el Campeonato de España de Voley Playa Sub-19 Masculino
+---
 
 
 Por fin podemos confirmar oficialmente que el **Campeonato de España de

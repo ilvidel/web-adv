@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/20160117074252.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2016-01-18 15:42:56", 
-  "tags": [
-    "Juvenil Femenino"
-  ], 
-  "title": "Las juveniles campeonas de grupo a falta de un partido."
-}
+---
+author: Joaquín
+banner: img/banners/20160117074252.jpg
+categories:
+- noticias
+date: '2016-01-18 15:42:56'
+tags:
+- Juvenil Femenino
+title: Las juveniles campeonas de grupo a falta de un partido.
+---
 
 Con la victoria del pasado domingo ante EMD Las Pedroñeras el ADV Miguelturra juvenil femenino se asegura la primera plaza de su grupo y, por tanto, el cruce más asequible de octavos de final regional.
 

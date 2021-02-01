@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/cartelVP.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2014-07-18 17:31:00", 
-  "tags": [
-    "Voley Playa", 
-    "Club"
-  ], 
-  "title": "IX Trofeo Miguelturra Voley Playa"
-}
+---
+author: Joaquín
+banner: img/banners/cartelVP.jpg
+categories:
+- noticias
+date: '2014-07-18 17:31:00'
+tags:
+- Voley Playa
+- Club
+title: IX Trofeo Miguelturra Voley Playa
+---
 
 Como ya se hiciera hace unos días con el V Trofeo Voley Playa de la Juventud, ya ha comenzado el plazo de inscripción para uno de los eventos claves del verano miguelturreño así como uno de los torneos de voley playa de interior más importantes por participación, extensión y afición el cual se celebrará entre el 1 y el 10 de agosto.
 

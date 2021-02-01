@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/jornada21-12-13.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2013-12-18 15:05:10", 
-  "tags": [
-    "Juvenil Femenino"
-  ], 
-  "title": "Partido clave para las juveniles."
-}
+---
+author: Joaquín
+banner: img/banners/jornada21-12-13.jpg
+categories:
+- noticias
+date: '2013-12-18 15:05:10'
+tags:
+- Juvenil Femenino
+title: Partido clave para las juveniles.
+---
 
 Este sábado se juega la última jornada de la primera vuelta de la Liga Regional Juvenil Femenina y en el grupo C de esta liga hay dos equipos que aún se mantienen invictos: ADV Miguelturra y EM Socuéllamos que precisamente se enfrentarán éste sábado en Miguelturra quedando como líder provisional el equipo que consiga la victoria.
 

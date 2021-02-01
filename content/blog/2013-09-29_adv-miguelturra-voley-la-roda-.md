@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Captura_de_pantalla_de_2013-09-29_23%3A31%3A29.png", 
-  "categories": [
-    "crónicas"
-  ], 
-  "date": "2013-09-29 22:34:13", 
-  "tags": [
-    "Juvenil Femenino"
-  ], 
-  "title": "ADV Miguelturra - Voley La Roda "
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_de_2013-09-29_23%3A31%3A29.png
+categories:
+- crónicas
+date: '2013-09-29 22:34:13'
+tags:
+- Juvenil Femenino
+title: 'ADV Miguelturra - Voley La Roda '
+---
 
 Las bajas, las variaciones en la alineación y la falta de lucha claves de la derrota en las semifinales del torneo de Tomelloso.
 

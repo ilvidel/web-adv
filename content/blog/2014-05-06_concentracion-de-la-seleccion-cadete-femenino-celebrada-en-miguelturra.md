@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Captura_de_pantalla_-_060514_-_23%3A03%3A24.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2014-05-06 22:05:16", 
-  "tags": [
-    "EEDD", 
-    "Selecciones"
-  ], 
-  "title": "Concentración de la selección cadete femenino celebrada en Miguelturra."
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_-_060514_-_23%3A03%3A24.png
+categories:
+- noticias
+date: '2014-05-06 22:05:16'
+tags:
+- EEDD
+- Selecciones
+title: Concentración de la selección cadete femenino celebrada en Miguelturra.
+---
 
 El pasado sábado de 10:00 de la mañana a 18:00 tuvieron lugar los entrenamientos de la primera concentración de la selección provincial cadete femenino preparatoria para el campeonato regional de selecciones provinciales femeninas que se celebrará el próximo sábado 17 de Mayo en Toledo.
 

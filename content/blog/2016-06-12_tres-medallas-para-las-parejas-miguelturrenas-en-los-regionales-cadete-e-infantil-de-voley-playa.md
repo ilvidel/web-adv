@@ -1,15 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/medRegVP.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2016-06-12 16:24:09", 
-  "tags": [
-    "EEDD"
-  ], 
-  "title": "Tres medallas para las parejas miguelturreñas en los regionales cadete e infantil de Voley Playa"
-}
+---
+author: Joaquín
+banner: img/banners/medRegVP.jpg
+categories:
+- noticias
+date: '2016-06-12 16:24:09'
+tags:
+- EEDD
+title: Tres medallas para las parejas miguelturreñas en los regionales cadete e infantil
+  de Voley Playa
+---
 
 El pasado sábado se celebraron los Campeonatos Regionales de Voley Playa en categorías infantil (Cuenca) y cadete (Hellín) tanto masculino como femenino. El balance final para Miguelturra fue de 1 oro, 1 plata y 1 bronce, un total de 3 medallas que hacen que el ADV y Miguelturra queden en lo más alto del medallero, por encima de todas las capitales de provincia.
 

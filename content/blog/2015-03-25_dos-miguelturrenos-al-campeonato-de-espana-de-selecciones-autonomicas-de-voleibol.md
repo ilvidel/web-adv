@@ -1,17 +1,16 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Screenshot_-_250315_-_10%3A44%3A49.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-03-25 09:46:13", 
-  "tags": [
-    "Selecciones", 
-    "Campeonato de España", 
-    "EEDD"
-  ], 
-  "title": "Dos miguelturreños al Campeonato de España de Selecciones Autonómicas de Voleibol."
-}
+---
+author: Joaquín
+banner: img/banners/Screenshot_-_250315_-_10%3A44%3A49.png
+categories:
+- noticias
+date: '2015-03-25 09:46:13'
+tags:
+- Selecciones
+- Campeonato de España
+- EEDD
+title: Dos miguelturreños al Campeonato de España de Selecciones Autonómicas de
+  Voleibol.
+---
 
 Alejandro Fernández Hernández y Juan Martín Ruiz González formarán parte de la expedición castellano-manchega a Valladolid para competir en el CESA 2015 durante los días 9 a 12 de abril.
 

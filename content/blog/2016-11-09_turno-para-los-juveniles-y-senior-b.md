@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Captura_de_pantalla_de_2016-11-10_16-47-47.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2016-11-09 15:23:57", 
-  "tags": [
-    "Juvenil Masculino"
-  ], 
-  "title": "Turno para los juveniles y senior B"
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_de_2016-11-10_16-47-47.png
+categories:
+- noticias
+date: '2016-11-09 15:23:57'
+tags:
+- Juvenil Masculino
+title: Turno para los juveniles y senior B
+---
 
 Los últimos dos equipos de nuestro club que aún no han debutado lo harán este sábado en un desplazamiento conjunto a Guadalajara.
 

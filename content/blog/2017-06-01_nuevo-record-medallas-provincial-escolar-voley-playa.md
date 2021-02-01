@@ -1,14 +1,14 @@
-{
-	"author": "Joaquín",
-	"categories": ["noticias"],
-	"date": "2017-06-01T12:13:00+02:00",
-	"tags": [
-		"Escuelas Deportivas",
-		"Voley-Playa"
-	],
-	"title": "Nuevo récord de medallas en el provincial escolar de Voley Playa",
-	"banner": "img/banners/IMG-20170601-WA0008.jpg"
-}
+---
+author: Joaquín
+banner: img/banners/IMG-20170601-WA0008.jpg
+categories:
+- noticias
+date: '2017-06-01T12:13:00+02:00'
+tags:
+- Escuelas Deportivas
+- Voley-Playa
+title: Nuevo récord de medallas en el provincial escolar de Voley Playa
+---
 
 El pasado sábado 27 de Mayo se celebraba en la nueva instalación de
 arena del Parque Rivas Moreno de Miguelturra el Campeonato Provincial

@@ -1,11 +1,13 @@
-{
-	"author": "Joaquín", 
-	"banner": "img/banners/entrevista-marta-gomez.jpg",
-	"categories": [ "entrevista" ], 
-	"date": "2017-10-12 18:00:00",
-	"tags": [ "juvenil femenino"],
-	"title": "Entrevista a Marta Gómez, capitana del ADV Miguelturra Juvenil Femenino"
-}
+---
+author: Joaquín
+banner: img/banners/entrevista-marta-gomez.jpg
+categories:
+- entrevista
+date: '2017-10-12 18:00:00'
+tags:
+- juvenil femenino
+title: Entrevista a Marta Gómez, capitana del ADV Miguelturra Juvenil Femenino
+---
 
 <img src="http://www.advmiguelturra.org/img/banners/entrevista-marta-gomez.jpg" width="100%"/>
 

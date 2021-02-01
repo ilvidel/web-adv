@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Captura_de_pantalla_de_2016-02-22_11%3A24%3A23.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2016-02-22 10:46:25", 
-  "tags": [
-    "Resúenes"
-  ], 
-  "title": "Las juveniles y los cadetes cumplen en una semana gris para el ADV."
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_de_2016-02-22_11%3A24%3A23.png
+categories:
+- noticias
+date: '2016-02-22 10:46:25'
+tags:
+- Resúenes
+title: Las juveniles y los cadetes cumplen en una semana gris para el ADV.
+---
 
 Las importantes victorias de cadete masculino y juvenil femenino ponen una nota de color en una semana donde los resultados no fueron favorables para nuestros equipos.
 

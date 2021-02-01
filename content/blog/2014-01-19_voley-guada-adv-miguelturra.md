@@ -1,16 +1,14 @@
-{
-  "author": "Administrador", 
-  "banner": "", 
-  "categories": [
-    "crónicas"
-  ], 
-  "date": "2014-01-19 19:30:46", 
-  "tags": [
-    "Senior Masculino", 
-    "Juvenil Masculino"
-  ], 
-  "title": "Voley Guada - ADV Miguelturra"
-}
+---
+author: Administrador
+banner: ''
+categories:
+- crónicas
+date: '2014-01-19 19:30:46'
+tags:
+- Senior Masculino
+- Juvenil Masculino
+title: Voley Guada - ADV Miguelturra
+---
 
 (por Pedro Arévalo)
 

@@ -1,12 +1,11 @@
-{
-  "author": "Administrador",
-  "banner": "",
-  "date": "2014-06-10 15:34:45",
-  "tags": [
-    "Club"
-  ],
-  "title": "Horarios de la Pista de Arena"
-}
+---
+author: Administrador
+banner: ''
+date: '2014-06-10 15:34:45'
+tags:
+- Club
+title: Horarios de la Pista de Arena
+---
 
 <style type="text/css" media="screen">
 td, th {

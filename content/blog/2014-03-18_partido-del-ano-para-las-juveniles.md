@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Captura_de_pantalla_-_180314_-_12%3A31%3A42.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2014-03-18 22:56:20", 
-  "tags": [
-    "Juvenil Femenino"
-  ], 
-  "title": "Partido del año para las juveniles."
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_-_180314_-_12%3A31%3A42.png
+categories:
+- noticias
+date: '2014-03-18 22:56:20'
+tags:
+- Juvenil Femenino
+title: Partido del año para las juveniles.
+---
 
 Este sábado podremos disfrutar en Miguelturra de todos nuestros equipos federados pero entre todos los encuentros toca destacar el de las juveniles.
 

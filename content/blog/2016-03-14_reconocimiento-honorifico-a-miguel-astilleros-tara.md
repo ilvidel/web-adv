@@ -1,17 +1,15 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/lote-1-gala-deportivos-2015-fuente-area-de-comunicacion-municipal-082.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2016-03-14 21:48:23", 
-  "tags": [
-    "Eventos", 
-    "Gala Deportivos", 
-    "Reconocimientos"
-  ], 
-  "title": "Reconocimiento honorífico a Miguel Astilleros \"Tara\"."
-}
+---
+author: Joaquín
+banner: img/banners/lote-1-gala-deportivos-2015-fuente-area-de-comunicacion-municipal-082.jpg
+categories:
+- noticias
+date: '2016-03-14 21:48:23'
+tags:
+- Eventos
+- Gala Deportivos
+- Reconocimientos
+title: Reconocimiento honorífico a Miguel Astilleros "Tara".
+---
 
 La Gala Deportivos 2015 también sirvió para reconocer a nuestro compañero Miguel Astilleros, más conocido por todos como "Tara", por toda su trayectoria deportiva en Voleibol y Voley Playa.
 

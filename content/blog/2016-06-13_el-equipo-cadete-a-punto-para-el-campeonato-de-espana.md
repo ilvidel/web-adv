@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Captura_de_pantalla_de_2016-06-13_17%3A15%3A21.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2016-06-13 16:40:13", 
-  "tags": [
-    "Cadete Masculino", 
-    "Campeonato de España"
-  ], 
-  "title": "El equipo cadete a punto para el Campeonato de España."
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_de_2016-06-13_17%3A15%3A21.png
+categories:
+- noticias
+date: '2016-06-13 16:40:13'
+tags:
+- Cadete Masculino
+- Campeonato de España
+title: El equipo cadete a punto para el Campeonato de España.
+---
 
 Desde que se conociera la noticia a primeros de abril de la clasificación para el Campeonato de España, el equipo cadete masculino del ADV Miguelturra no ha parado de entrenar en busca de llegar al mejor nivel a la cita nacional que tendrá lugar los próximos 15 a 19 de Junio en Murcia.
 

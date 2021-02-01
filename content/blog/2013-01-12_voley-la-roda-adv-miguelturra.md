@@ -1,15 +1,13 @@
-{
-  "author": "Administrador", 
-  "banner": "", 
-  "categories": [
-    "crónicas"
-  ], 
-  "date": "2013-01-12 16:30:00", 
-  "tags": [
-    "Juvenil Femenino"
-  ], 
-  "title": "Voley La Roda - ADV Miguelturra"
-}
+---
+author: Administrador
+banner: ''
+categories:
+- crónicas
+date: '2013-01-12 16:30:00'
+tags:
+- Juvenil Femenino
+title: Voley La Roda - ADV Miguelturra
+---
 
 Victoria con más complicaciones de las esperadas y polémica incluida.
 

@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/juvfem.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-03-02 20:48:39", 
-  "tags": [
-    "Resúenes", 
-    "Club"
-  ], 
-  "title": "Los equipos federados dan un paso más hacia sus objetivos."
-}
+---
+author: Joaquín
+banner: img/banners/juvfem.jpg
+categories:
+- noticias
+date: '2015-03-02 20:48:39'
+tags:
+- Resúenes
+- Club
+title: Los equipos federados dan un paso más hacia sus objetivos.
+---
 
 Los equipos senior masculino y femenino del ADV Miguelturra se posicionan muy cerca de conseguir la plaza para sus fases de ascenso tras la última jornada. Las juveniles encarrilan la eliminatoria tras el partido de ida en Talavera de la Reina.
 

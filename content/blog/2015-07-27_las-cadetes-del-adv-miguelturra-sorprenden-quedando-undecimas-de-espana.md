@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/IMG-20150725-WA0008.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-07-27 16:09:19", 
-  "tags": [
-    "Voley Playa", 
-    "Campeonato de España"
-  ], 
-  "title": "Las cadetes del ADV Miguelturra sorprenden quedando undécimas de España."
-}
+---
+author: Joaquín
+banner: img/banners/IMG-20150725-WA0008.jpg
+categories:
+- noticias
+date: '2015-07-27 16:09:19'
+tags:
+- Voley Playa
+- Campeonato de España
+title: Las cadetes del ADV Miguelturra sorprenden quedando undécimas de España.
+---
 
 Los pasados 24 a 26 de Julio tuvo lugar el Campeonato de España Cadete en Dumbría (A Coruña) donde las chicas del ADV consiguieron una magnífica 11ª posición mientras que los chicos terminaron en el puesto 17º.
 

@@ -1,15 +1,13 @@
-{
-  "author": "Nacho", 
-  "banner": "", 
-  "categories": [
-    "crónicas"
-  ], 
-  "date": "2013-02-24 12:29:35", 
-  "tags": [
-    "Senior Femenino"
-  ], 
-  "title": "ADV Miguelturra - CV Ciudad de Guadalajara"
-}
+---
+author: Nacho
+banner: ''
+categories:
+- crónicas
+date: '2013-02-24 12:29:35'
+tags:
+- Senior Femenino
+title: ADV Miguelturra - CV Ciudad de Guadalajara
+---
 
 El equipo senior femenino sumaba ayer una nueva victoria en casa contra el <em>CV Ciudad de Guadalajara</em>. Las chicas de Miguel Astilleros salían al campo sin líbero esta vez, en un cambio de estrategia que dió buenos resultados.
 

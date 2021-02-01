@@ -1,15 +1,13 @@
-{
-  "author": "Nacho", 
-  "banner": "", 
-  "categories": [
-    "crónicas"
-  ], 
-  "date": "2013-11-25 21:04:13", 
-  "tags": [
-    "Senior Masculino"
-  ], 
-  "title": "Segunda Derrota Consecutiva"
-}
+---
+author: Nacho
+banner: ''
+categories:
+- crónicas
+date: '2013-11-25 21:04:13'
+tags:
+- Senior Masculino
+title: Segunda Derrota Consecutiva
+---
 
 El equipo senior masculino se enfrentaba este fin de semana al conjunto del CV Cuenca, un club prácticamente nuevo, y con el que se enfrentaron unas semanas atrás en un amistoso en la capital de la serranía.
 

@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín",
-  "banner": "img/banners/presentacion-clinic-2017.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2017-06-19 20:00:00",
-  "tags": [
-    "Voley Playa",
-    "Clinic"
-  ],
-  "title": "Presentado el VI Clinic de Voley Playa"
-}
+---
+author: Joaquín
+banner: img/banners/presentacion-clinic-2017.jpg
+categories:
+- noticias
+date: '2017-06-19 20:00:00'
+tags:
+- Voley Playa
+- Clinic
+title: Presentado el VI Clinic de Voley Playa
+---
 
 
 El pasado miércoles fue presentado a los medios el **VI Clinic de

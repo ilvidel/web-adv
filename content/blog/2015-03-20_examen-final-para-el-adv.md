@@ -1,13 +1,12 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/IMG-20150316-WA0005.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-03-20 10:38:30", 
-  "tags": [], 
-  "title": "Examen final para el ADV."
-}
+---
+author: Joaquín
+banner: img/banners/IMG-20150316-WA0005.jpg
+categories:
+- noticias
+date: '2015-03-20 10:38:30'
+tags: []
+title: Examen final para el ADV.
+---
 
 Los equipos del ADV se la juegan a vida o muerte este fin de semana en categoría senior masculino, juvenil femenino y cadete femenino. También jugarán el resto de equipos federados y tendrán lugar los cuartos de final alevín.
 

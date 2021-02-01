@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/C2unc-fXUAABjRe.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2017-03-29 22:32:33", 
-  "tags": [
-    "Senior Masculino", 
-    "Juvenil Masculino"
-  ], 
-  "title": "Fin de temporada para los equipos masculinos"
-}
+---
+author: Joaquín
+banner: img/banners/C2unc-fXUAABjRe.jpg
+categories:
+- noticias
+date: '2017-03-29 22:32:33'
+tags:
+- Senior Masculino
+- Juvenil Masculino
+title: Fin de temporada para los equipos masculinos
+---
 
 El pasado fin de semana terminaba la competición para los equipos masculinos federados de nuestro club y en todos ellos ya se empieza a pensar en la próxima campaña.
 

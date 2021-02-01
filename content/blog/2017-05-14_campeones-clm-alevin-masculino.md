@@ -1,13 +1,14 @@
-{
-	"author": "Joaquín",
-	"categories": ["noticias"],
-	"date": "2017-05-14T14:07:00+02:00",
-	"tags": [
-		"Escuelas Deportivas", "Alevín Masculino"
-	],
-	"title": "Campeones de Castilla-La Mancha Alevin Masculino",
-	"banner": "img/banners/2.jpg"
-}
+---
+author: Joaquín
+banner: img/banners/2.jpg
+categories:
+- noticias
+date: '2017-05-14T14:07:00+02:00'
+tags:
+- Escuelas Deportivas
+- Alevín Masculino
+title: Campeones de Castilla-La Mancha Alevin Masculino
+---
 
 
 Los chicos del equipo alevín masculino A del ADV Miguelturra lograron

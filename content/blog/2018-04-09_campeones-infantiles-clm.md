@@ -1,15 +1,14 @@
-{
-  "author": "Joaquín",
-  "banner": "img/banners/campeon-infantil-clm.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2018-04-09 18:00:00",
-  "tags": [
-    "Infantil Masculino", "campeonato de españa"
-  ],
-  "title": "Campeones Infantiles De Castilla-La Mancha Y A Seguir Rompiendo Barreras"
-}
+---
+author: Joaquín
+banner: img/banners/campeon-infantil-clm.jpg
+categories:
+- noticias
+date: '2018-04-09 18:00:00'
+tags:
+- Infantil Masculino
+- campeonato de españa
+title: Campeones Infantiles De Castilla-La Mancha Y A Seguir Rompiendo Barreras
+---
 
 El pasado sábado 7 de abril **el equipo infantil masculino A se
 proclamaba campeón de Castilla-La Mancha** en la Fase Final de

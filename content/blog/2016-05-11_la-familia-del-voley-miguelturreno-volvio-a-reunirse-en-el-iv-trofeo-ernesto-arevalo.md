@@ -1,18 +1,17 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Captura_de_pantalla_de_2016-05-11_22%3A58%3A09.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2016-05-11 20:21:12", 
-  "tags": [
-    "Trofeo Ernesto", 
-    "Club", 
-    "Eventos", 
-    "Trofeo Ernesto"
-  ], 
-  "title": "La familia del voley miguelturreño volvió a reunirse en el IV Trofeo Ernesto Arévalo"
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_de_2016-05-11_22%3A58%3A09.png
+categories:
+- noticias
+date: '2016-05-11 20:21:12'
+tags:
+- Trofeo Ernesto
+- Club
+- Eventos
+- Trofeo Ernesto
+title: La familia del voley miguelturreño volvió a reunirse en el IV Trofeo Ernesto
+  Arévalo
+---
 
 El pasado 7 de Mayo en el Pabellón Municipal de Miguelturra tuvo lugar la cuarta edición del trofeo primaveral que cada año reúne a todo el voleibol miguelturreño bajo la tutela de nuestro Presidente de Honor Ernesto Arévalo. Diversos partidos, reconocimientos y homenajes tuvieron lugar en una jornada destacada por el buen ambiente presente en la instalación deportiva.
 

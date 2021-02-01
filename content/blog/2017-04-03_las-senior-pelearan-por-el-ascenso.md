@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/WhatsApp_Image_2017-04-02_at_13.29.05.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2017-04-03 14:20:33", 
-  "tags": [
-    "Senior Femenino"
-  ], 
-  "title": "Las senior pelearán por el ascenso"
-}
+---
+author: Joaquín
+banner: img/banners/WhatsApp_Image_2017-04-02_at_13.29.05.jpg
+categories:
+- noticias
+date: '2017-04-03 14:20:33'
+tags:
+- Senior Femenino
+title: Las senior pelearán por el ascenso
+---
 
 Hasta el último partido era imprescindible no encajar ningún set y así lo hicieron las chicas del ADV senior femenino, quienes tras tres necesarias victorias por 3-0 en un fatídico final de liga consiguen la plaza para la Fase de Ascenso.
 

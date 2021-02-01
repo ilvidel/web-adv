@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín",
-  "banner": "img/banners/momento-decisivo-infantil-femenino.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2018-03-21 18:00:00",
-  "tags": [
-    "Infantil Femenino"
-  ],
-  "title": "Llega el momento decisivo para el equipo Infantil Femenino Regional"
-}
+---
+author: Joaquín
+banner: img/banners/momento-decisivo-infantil-femenino.jpg
+categories:
+- noticias
+date: '2018-03-21 18:00:00'
+tags:
+- Infantil Femenino
+title: Llega el momento decisivo para el equipo Infantil Femenino Regional
+---
 
 El Infantil Femenino Regional comienza este sábado la **Fase Final
 Regional** de la que saldrán los equipos que representarán a Castilla-La

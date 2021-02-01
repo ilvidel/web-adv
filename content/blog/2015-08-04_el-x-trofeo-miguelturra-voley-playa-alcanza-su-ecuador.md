@@ -1,17 +1,15 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Screenshot_-_040815_-_17%3A27%3A16.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-08-04 16:32:28", 
-  "tags": [
-    "Voley Playa", 
-    "Voley Playa", 
-    "Voley Playa"
-  ], 
-  "title": "El X Trofeo Miguelturra Voley Playa alcanza su ecuador."
-}
+---
+author: Joaquín
+banner: img/banners/Screenshot_-_040815_-_17%3A27%3A16.png
+categories:
+- noticias
+date: '2015-08-04 16:32:28'
+tags:
+- Voley Playa
+- Voley Playa
+- Voley Playa
+title: El X Trofeo Miguelturra Voley Playa alcanza su ecuador.
+---
 
 En el día de hoy se llega a la mitad de nuestro torneo con toda la carne en el asador.
 

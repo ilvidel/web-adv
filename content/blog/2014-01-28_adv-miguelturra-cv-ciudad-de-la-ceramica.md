@@ -1,15 +1,13 @@
-{
-  "author": "Administrador", 
-  "banner": "", 
-  "categories": [
-    "crónicas"
-  ], 
-  "date": "2014-01-28 08:11:49", 
-  "tags": [
-    "Senior Masculino"
-  ], 
-  "title": "ADV Miguelturra - CV Ciudad de la Cerámica"
-}
+---
+author: Administrador
+banner: ''
+categories:
+- crónicas
+date: '2014-01-28 08:11:49'
+tags:
+- Senior Masculino
+title: ADV Miguelturra - CV Ciudad de la Cerámica
+---
 
 Por Pedro Arévalo
 

@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Captura_de_pantalla_-_220414_-_11%3A46%3A49.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2014-04-21 23:27:37", 
-  "tags": [
-    "Club", 
-    "Eventos"
-  ], 
-  "title": "Presentado el II Trofeo Ernesto Arévalo"
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_-_220414_-_11%3A46%3A49.png
+categories:
+- noticias
+date: '2014-04-21 23:27:37'
+tags:
+- Club
+- Eventos
+title: Presentado el II Trofeo Ernesto Arévalo
+---
 
 El próximo sábado 26 de abril se celebrará la segunda edición del torneo que nació el pasado año en honor al expresidente y exentrenador del ADV Miguelturra Ernesto Arévalo y que tan buena acogida tuvo reuniendo a todas las generaciones de nuestro club, desde los actuales miembros de las categorías inferiores hasta algunos de los primeros jugadores de voleibol de nuestra localidad.
 

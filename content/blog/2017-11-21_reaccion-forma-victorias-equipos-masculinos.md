@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín",
-  "banner": "img/banners/reaccion-victorias.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2017-11-21 20:00:00",
-  "tags": [
-    "club"
-  ],
-  "title": "Reacción en Forma de Victorias para los Equipos Masculinos"
-}
+---
+author: Joaquín
+banner: img/banners/reaccion-victorias.jpg
+categories:
+- noticias
+date: '2017-11-21 20:00:00'
+tags:
+- club
+title: Reacción en Forma de Victorias para los Equipos Masculinos
+---
 
 ![](../../../../../img/banners/reaccion-victorias.jpg)
 

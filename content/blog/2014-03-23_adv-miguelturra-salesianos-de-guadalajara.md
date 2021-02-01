@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/IMG_20140322_223218.jpg", 
-  "categories": [
-    "crónicas"
-  ], 
-  "date": "2014-03-23 22:17:46", 
-  "tags": [
-    "Juvenil Femenino"
-  ], 
-  "title": "ADV Miguelturra - Salesianos de Guadalajara"
-}
+---
+author: Joaquín
+banner: img/banners/IMG_20140322_223218.jpg
+categories:
+- crónicas
+date: '2014-03-23 22:17:46'
+tags:
+- Juvenil Femenino
+title: ADV Miguelturra - Salesianos de Guadalajara
+---
 
 Sábado 22 de Marzo de 2014, 20:00 Pabellón Municipal.
 

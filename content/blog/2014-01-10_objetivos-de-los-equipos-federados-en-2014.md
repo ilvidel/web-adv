@@ -1,19 +1,17 @@
-{
-  "author": "Joaquín", 
-  "banner": "", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2014-01-10 16:31:40", 
-  "tags": [
-    "Club", 
-    "Senior Femenino", 
-    "Senior Masculino", 
-    "Juvenil Masculino", 
-    "Juvenil Femenino"
-  ], 
-  "title": "Objetivos de los equipos federados en 2014."
-}
+---
+author: Joaquín
+banner: ''
+categories:
+- noticias
+date: '2014-01-10 16:31:40'
+tags:
+- Club
+- Senior Femenino
+- Senior Masculino
+- Juvenil Masculino
+- Juvenil Femenino
+title: Objetivos de los equipos federados en 2014.
+---
 
 Una vez dejado atrás 2013, toca plantearse nuevas metas para el año que entra, siempre teniendo en cuenta que estamos en mitad de la temporada y podemos permitirnos analizar la situación actual de nuestros equipos en el contexto de las ligas y competiciones en que participan.
 

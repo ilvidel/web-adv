@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/IMG-20130916-WA0000.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2013-09-16 16:16:14", 
-  "tags": [
-    "Club", 
-    "EEDD"
-  ], 
-  "title": "Fin del II Torneo de Voley Hierba."
-}
+---
+author: Joaquín
+banner: img/banners/IMG-20130916-WA0000.jpg
+categories:
+- noticias
+date: '2013-09-16 16:16:14'
+tags:
+- Club
+- EEDD
+title: Fin del II Torneo de Voley Hierba.
+---
 
 Con las semifinales y la final de categoría absoluta se ponía el cierre el pasado domingo 15 a esta segunda edición del torneo de Voley Hierba organizado por el ADV Miguelturra en el estadio municipal de fútbol-7.
 

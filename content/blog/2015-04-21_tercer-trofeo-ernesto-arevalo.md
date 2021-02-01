@@ -1,17 +1,15 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Screenshot_-_210415_-_13%3A29%3A18.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-04-21 12:45:44", 
-  "tags": [
-    "Eventos", 
-    "Trofeo Ernesto", 
-    "EEDD"
-  ], 
-  "title": "Tercer trofeo Ernesto Arévalo."
-}
+---
+author: Joaquín
+banner: img/banners/Screenshot_-_210415_-_13%3A29%3A18.png
+categories:
+- noticias
+date: '2015-04-21 12:45:44'
+tags:
+- Eventos
+- Trofeo Ernesto
+- EEDD
+title: Tercer trofeo Ernesto Arévalo.
+---
 
 Un año más, y ya van tres, repetimos torneo en homenaje a nuestro histórico ex-presidente y ex-entrenador, Ernesto Arévalo. Será este sábado 25 de abril y las actividades se alargarán a lo largo de toda la jornada.
 

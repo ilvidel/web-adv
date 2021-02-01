@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Screenshot_-_080315_-_23%3A01%3A16.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-03-08 22:16:40", 
-  "tags": [
-    "Resúenes"
-  ], 
-  "title": "A cuartos las cadetes y las juveniles."
-}
+---
+author: Joaquín
+banner: img/banners/Screenshot_-_080315_-_23%3A01%3A16.png
+categories:
+- noticias
+date: '2015-03-08 22:16:40'
+tags:
+- Resúenes
+title: A cuartos las cadetes y las juveniles.
+---
 
 El fin de semana se salda de la mejor manera posible con nuestros equipos juvenil y cadete femenino pasando de fase superando con claridad sus cruces de octavos de final.
 

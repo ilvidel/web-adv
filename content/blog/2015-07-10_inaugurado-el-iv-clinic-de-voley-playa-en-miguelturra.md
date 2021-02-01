@@ -1,17 +1,15 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Screenshot_-_100715_-_18%3A55%3A40.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-07-10 18:05:05", 
-  "tags": [
-    "Clinic", 
-    "Voley Playa", 
-    "EEDD"
-  ], 
-  "title": "Inaugurado el IV Clinic de Voley Playa en Miguelturra."
-}
+---
+author: Joaquín
+banner: img/banners/Screenshot_-_100715_-_18%3A55%3A40.png
+categories:
+- noticias
+date: '2015-07-10 18:05:05'
+tags:
+- Clinic
+- Voley Playa
+- EEDD
+title: Inaugurado el IV Clinic de Voley Playa en Miguelturra.
+---
 
 En la tarde del jueves 9 de Julio se inauguró la cuarta edición del Clinic de Voley Playa de Miguelturra a celebrar en el Parque Rivas Moreno con la participación de un total de 100 niños y niñas.
 

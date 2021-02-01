@@ -1,15 +1,13 @@
-{
-  "author": "Nacho", 
-  "banner": "img/banners/CLM-Voleibol-2014.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2014-04-24 08:27:57", 
-  "tags": [
-    "Club"
-  ], 
-  "title": "Toneladas de ilusión en las horas previas al CESA 2014"
-}
+---
+author: Nacho
+banner: img/banners/CLM-Voleibol-2014.jpg
+categories:
+- noticias
+date: '2014-04-24 08:27:57'
+tags:
+- Club
+title: Toneladas de ilusión en las horas previas al CESA 2014
+---
 
 El epicentro del voleibol nacional se traslada a Valladolid, donde desde este miércoles casi mil participantes estarán inmersos en el Campeonato de España de Voleibol 2014 de Selecciones Autonómicas Infantiles y Cadetes que se celebran en la localidad castellana, por segundo año consecutivo. 60 equipos culminarán su viaje para iniciar su participación en uno de los mayores acontecimientos del año, que tendrá como sedes a los recintos vallisoletanos del Polideportivo Pisuerga, el Polideportivo Parquesol, el Polideportivo Lalo García y el Polideportivo Río Esgueva.
 

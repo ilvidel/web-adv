@@ -1,15 +1,14 @@
-{
-  "author": "Joaquín",
-  "banner": "img/banners/ManuLeon.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2017-09-04 03:00:00",
-  "tags": [
-    "Juvenil Femenino B"
-  ],
-  "title": "Primer mes de pretemporada para el Juvenil Femenino B con Manu León renovado al frente del equipo"
-}
+---
+author: Joaquín
+banner: img/banners/ManuLeon.jpg
+categories:
+- noticias
+date: '2017-09-04 03:00:00'
+tags:
+- Juvenil Femenino B
+title: Primer mes de pretemporada para el Juvenil Femenino B con Manu León renovado
+  al frente del equipo
+---
 
 El equipo Juvenil Femenino B también ha comenzado su andadura de cara
 a preparar la temporada 2017-2018 y ya ha completado sus dos primeras

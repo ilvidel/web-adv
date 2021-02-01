@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Cuadro_femenino.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2014-06-04 14:15:31", 
-  "tags": [
-    "EEDD", 
-    "Voley Playa"
-  ], 
-  "title": "Torneo regional cadete de Voley Playa en Miguelturra."
-}
+---
+author: Joaquín
+banner: img/banners/Cuadro_femenino.jpg
+categories:
+- noticias
+date: '2014-06-04 14:15:31'
+tags:
+- EEDD
+- Voley Playa
+title: Torneo regional cadete de Voley Playa en Miguelturra.
+---
 
 Por primera vez viene a nuestra localidad el Campeonato cadete de Castilla-La Mancha y será en el Parque Rivas Moreno donde tendremos el placer de contar con las mejores parejas masculinas y femeninas de esta categoría de donde saldrán los representantes de nuestra comunidad autónoma en el Campeonato de España de Voley Playa. Este torneo organizado por la JCCM en colaboración con la FVCM, el ADV Miguelturra y la Concejalía de Deportes de Miguelturra se realizará este sábado a lo largo de todo el día en el Parque ya mencionado.
 

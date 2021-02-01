@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2014-02-19 18:19:16", 
-  "tags": [
-    "Juvenil Femenino"
-  ], 
-  "title": "Las juveniles disputarán la \"final\" provincial en Socuéllamos.                                     "
-}
+---
+author: Joaquín
+banner: ''
+categories:
+- noticias
+date: '2014-02-19 18:19:16'
+tags:
+- Juvenil Femenino
+title: 'Las juveniles disputarán la "final" provincial en Socuéllamos.                                     '
+---
 
 A pesar de que podría ser un partido más de liga, el partido que juegan nuestras chicas este sábado tiene la importancia de una final puesto que es la última jornada de la liguilla de grupos y los dos equipos que juegan son los únicos candidatos a quedar en primera posición.
 

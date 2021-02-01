@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/10958322_1687744914785914_6857531567758279438_o.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-02-01 22:37:14", 
-  "tags": [
-    "Juvenil Femenino"
-  ], 
-  "title": "Las juveniles del ADV a un paso de ser campeonas de grupo."
-}
+---
+author: Joaquín
+banner: img/banners/10958322_1687744914785914_6857531567758279438_o.jpg
+categories:
+- noticias
+date: '2015-02-01 22:37:14'
+tags:
+- Juvenil Femenino
+title: Las juveniles del ADV a un paso de ser campeonas de grupo.
+---
 
 El equipo juvenil femenino del ADV está muy cerca de lograr el primer objetivo de la temporada. Tras vencer el pasado sábado al CV Puertollano B por 1-3, un resultado favorable en la próxima jornada daría la primera plaza de forma matemática al conjunto miguelturreño.
 

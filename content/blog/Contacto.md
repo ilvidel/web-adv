@@ -1,15 +1,13 @@
-{
-  "author": "Administrador", 
-  "banner": "", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2013-02-08 19:10:32", 
-  "tags": [
-    "Club"
-  ], 
-  "title": "Contacto"
-}
+---
+author: Administrador
+banner: ''
+categories:
+- noticias
+date: '2013-02-08 19:10:32'
+tags:
+- Club
+title: Contacto
+---
 
 Puedes contactar con nosotros de varias maneras:
 

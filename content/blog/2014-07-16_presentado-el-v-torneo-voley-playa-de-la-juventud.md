@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/VTorneoJuventudCartel.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2014-07-16 18:51:35", 
-  "tags": [
-    "Voley Playa", 
-    "EEDD"
-  ], 
-  "title": "Presentado el V Torneo Voley Playa de la Juventud."
-}
+---
+author: Joaquín
+banner: img/banners/VTorneoJuventudCartel.jpg
+categories:
+- noticias
+date: '2014-07-16 18:51:35'
+tags:
+- Voley Playa
+- EEDD
+title: Presentado el V Torneo Voley Playa de la Juventud.
+---
 
 En esta semana queda presentado y abierto el plazo de inscripción para este torneo que ya llega a su 5º edición tratando, otro año más, de mejorar en la consecución del principal objetivo del torneo, acercar el voley playa a los más jóvenes.
 

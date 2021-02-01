@@ -1,15 +1,14 @@
-{
-  "author": "Administrador", 
-  "banner": "", 
-  "categories": [
-    "crónicas"
-  ], 
-  "date": "2013-01-19 15:00:00", 
-  "tags": [
-    "Juvenil Femenino"
-  ], 
-  "title": "Derrota con sabor agridulce tras un partido marcado por los problemas de la cancha"
-}
+---
+author: Administrador
+banner: ''
+categories:
+- crónicas
+date: '2013-01-19 15:00:00'
+tags:
+- Juvenil Femenino
+title: Derrota con sabor agridulce tras un partido marcado por los problemas de la
+  cancha
+---
 
 Crónica por Joaquín González.
 

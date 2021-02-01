@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/IMG-20130622-WA0000.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2013-06-23 22:26:59", 
-  "tags": [
-    "EEDD"
-  ], 
-  "title": "Mejorando la anterior edición clausuramos el II Torneo Interescolar."
-}
+---
+author: Joaquín
+banner: img/banners/IMG-20130622-WA0000.jpg
+categories:
+- noticias
+date: '2013-06-23 22:26:59'
+tags:
+- EEDD
+title: Mejorando la anterior edición clausuramos el II Torneo Interescolar.
+---
 
 El torneo tuvo lugar en la mañana del pasado sábado 22 de mayo en el Pabellón Municipal, donde más de 25 monitores miembros del ADV Miguelturra pusieron su empeño y esfuerzo en sacar adelante la segunda edición de este Torneo Interescolar.
 

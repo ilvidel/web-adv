@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Captura_de_pantalla_de_2013-05-08_00%3A10%3A50.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2013-05-07 23:14:13", 
-  "tags": [
-    "Senior Femenino"
-  ], 
-  "title": "El equipo femenino de la ADV Miguelturra jugará la fase de ascenso a 1ª Nacional"
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_de_2013-05-08_00%3A10%3A50.png
+categories:
+- noticias
+date: '2013-05-07 23:14:13'
+tags:
+- Senior Femenino
+title: El equipo femenino de la ADV Miguelturra jugará la fase de ascenso a 1ª Nacional
+---
 
 <center>
 <img src="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202013-05-08%2000%3A09%3A10.png" height="300" width="400"/> </center>   

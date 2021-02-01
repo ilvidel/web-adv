@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín",
-  "banner": "img/banners/presentacion-torneo-2017.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2017-07-20 19:00:00",
-  "tags": [
-    "torneos",
-	"voley-playa"
-  ],
-  "title": "Presentado oficialmente el XII Torneo Miguelturra de Voley Playa"
-}
+---
+author: Joaquín
+banner: img/banners/presentacion-torneo-2017.jpg
+categories:
+- noticias
+date: '2017-07-20 19:00:00'
+tags:
+- torneos
+- voley-playa
+title: Presentado oficialmente el XII Torneo Miguelturra de Voley Playa
+---
 
 La mañana del jueves quedó presentada ante los medios la que será la
 XII edición del Torneo Voley Playa Miguelturra el cual **abarcará del

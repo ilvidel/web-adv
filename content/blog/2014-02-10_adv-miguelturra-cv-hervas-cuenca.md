@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Captura_de_pantalla_-_100214_-_17%3A34%3A47.png", 
-  "categories": [
-    "crónicas"
-  ], 
-  "date": "2014-02-10 16:35:39", 
-  "tags": [
-    "Senior Femenino"
-  ], 
-  "title": "ADV Miguelturra - CV Hervás Cuenca"
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_-_100214_-_17%3A34%3A47.png
+categories:
+- crónicas
+date: '2014-02-10 16:35:39'
+tags:
+- Senior Femenino
+title: ADV Miguelturra - CV Hervás Cuenca
+---
 
 (por Miguel Astilleros)
 

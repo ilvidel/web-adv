@@ -1,14 +1,14 @@
-{
-	"author": "Joaquín",
-	"categories": ["noticias"],
-	"date": "2017-05-23T10:58:00+02:00",
-	"tags": [
-		"Escuelas Deportivas",
-		"Alevín Femenino"
-	],
-	"title": "Campeonas de Castilla-La Mancha y doblete alevín",
-	"banner": "img/banners/WhatsApp_Image_2017-05-20_at_13.59.26.jpg"
-}
+---
+author: Joaquín
+banner: img/banners/WhatsApp_Image_2017-05-20_at_13.59.26.jpg
+categories:
+- noticias
+date: '2017-05-23T10:58:00+02:00'
+tags:
+- Escuelas Deportivas
+- Alevín Femenino
+title: Campeonas de Castilla-La Mancha y doblete alevín
+---
 
 
 El pasado sábado nuestro equipo Alevín Femenino B logró la medalla de

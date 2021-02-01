@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "", 
-  "categories": [
-    "crónicas"
-  ], 
-  "date": "2013-09-30 10:07:41", 
-  "tags": [
-    "Senior Masculino"
-  ], 
-  "title": "ADV Miguelturra en Pinto"
-}
+---
+author: Joaquín
+banner: ''
+categories:
+- crónicas
+date: '2013-09-30 10:07:41'
+tags:
+- Senior Masculino
+title: ADV Miguelturra en Pinto
+---
 
 Primer partido:
 

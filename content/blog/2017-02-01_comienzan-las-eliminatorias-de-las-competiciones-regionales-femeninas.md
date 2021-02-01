@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/WhatsApp_Image_2017-01-27_at_19.17.59.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2017-02-01 15:55:08", 
-  "tags": [
-    "EEDD", 
-    "Juvenil Femenino"
-  ], 
-  "title": "Comienzan las eliminatorias de las competiciones regionales femeninas"
-}
+---
+author: Joaquín
+banner: img/banners/WhatsApp_Image_2017-01-27_at_19.17.59.jpg
+categories:
+- noticias
+date: '2017-02-01 15:55:08'
+tags:
+- EEDD
+- Juvenil Femenino
+title: Comienzan las eliminatorias de las competiciones regionales femeninas
+---
 
 Llega la fase decisiva para los equipos femeninos tanto juvenil como cadete e infantil de nuestro club que compiten en compiten en regional. Con la fase de grupos concluida toca dar paso a las eliminatorias donde los conjuntos miguelturreños se la juegan a vida o muerte en la lucha por estar en la Fase Final.
 

@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Captura_de_pantalla_de_2015-11-13_16%3A05%3A33.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-11-13 15:09:40", 
-  "tags": [
-    "Previa Jornadas"
-  ], 
-  "title": "Comienza la temporada para los equipos masculinos."
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_de_2015-11-13_16%3A05%3A33.png
+categories:
+- noticias
+date: '2015-11-13 15:09:40'
+tags:
+- Previa Jornadas
+title: Comienza la temporada para los equipos masculinos.
+---
 
 La jornada que arranca mañana trae como principal noticia el arranque de los equipos masculinos de nuestro club: los dos equipos senior masculino y el equipo juvenil. Las senior tendrán dos partidos en Alicante mientras que las juveniles descansan.
 

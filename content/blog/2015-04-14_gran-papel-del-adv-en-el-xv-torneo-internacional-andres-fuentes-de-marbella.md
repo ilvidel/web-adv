@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/11146508_472849499533761_5632991804977499035_o.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-04-14 15:20:20", 
-  "tags": [
-    "Eventos", 
-    "Torneos"
-  ], 
-  "title": "Gran papel del ADV en el XV Torneo Internacional Andrés Fuentes de Marbella"
-}
+---
+author: Joaquín
+banner: img/banners/11146508_472849499533761_5632991804977499035_o.jpg
+categories:
+- noticias
+date: '2015-04-14 15:20:20'
+tags:
+- Eventos
+- Torneos
+title: Gran papel del ADV en el XV Torneo Internacional Andrés Fuentes de Marbella
+---
 
 Los pasados 11 y 12 de Abril el ADV se desplazaba a la localidad malagueña de Marbella para participar en el XV Torneo Internacional Andrés Fuentes organizado por el club local CD Costa del Voley.
 

@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/WhatsApp_Image_2017-01-26_at_11.24.18.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2017-01-26 15:30:26", 
-  "tags": [
-    "Juvenil Masculino"
-  ], 
-  "title": "Todo listo para recibir al líder"
-}
+---
+author: Joaquín
+banner: img/banners/WhatsApp_Image_2017-01-26_at_11.24.18.jpg
+categories:
+- noticias
+date: '2017-01-26 15:30:26'
+tags:
+- Juvenil Masculino
+title: Todo listo para recibir al líder
+---
 
 Nueva gran cita en casa para los juveniles que recibirán al líder de la liga Voley Guada el próximo sábado a las 17:00 en el Pabellón Municipal, el cual esperamos que sea una olla a presión para acompañar a los nuestros a la victoria ante un equipo que aún permanece invicto.
 

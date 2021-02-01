@@ -1,13 +1,12 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/AtzxYO7PITVoBf9mvKQaGG_8VfNygbGXE94kmYfsiMIf.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-10-25 15:42:43", 
-  "tags": [], 
-  "title": "La temporada 2015/16 queda inaugurada."
-}
+---
+author: Joaquín
+banner: img/banners/AtzxYO7PITVoBf9mvKQaGG_8VfNygbGXE94kmYfsiMIf.jpg
+categories:
+- noticias
+date: '2015-10-25 15:42:43'
+tags: []
+title: La temporada 2015/16 queda inaugurada.
+---
 
 El balón ya ha comenzado a sobrepasar la red para el ADV Miguelturra y lo ha hecho con resultados muy dispares para nuestros equipos.
 

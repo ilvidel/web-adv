@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/14715683_10207126614511857_3264361841059627040_o.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2016-11-02 15:23:36", 
-  "tags": [
-    "Senior Masculino"
-  ], 
-  "title": "Inicio de liga en La Roda para el ADV senior masculino"
-}
+---
+author: Joaquín
+banner: img/banners/14715683_10207126614511857_3264361841059627040_o.jpg
+categories:
+- noticias
+date: '2016-11-02 15:23:36'
+tags:
+- Senior Masculino
+title: Inicio de liga en La Roda para el ADV senior masculino
+---
 
 El ADV Miguelturra senior masculino comienza su andadura en la Segunda División el próximo sábado ante Voley La Roda, club nuevo en esta categoría.
 

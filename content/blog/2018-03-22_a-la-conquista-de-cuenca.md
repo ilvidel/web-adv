@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín",
-  "banner": "img/banners/conquista-cuenca-1.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2018-03-22 18:00:00",
-  "tags": [
-    "Juvenil Masculino"
-  ],
-  "title": "A la conquista de Cuenca"
-}
+---
+author: Joaquín
+banner: img/banners/conquista-cuenca-1.jpg
+categories:
+- noticias
+date: '2018-03-22 18:00:00'
+tags:
+- Juvenil Masculino
+title: A la conquista de Cuenca
+---
 
 <center>
 <a href="../../../../../img/banners/conquista-cuenca-2.jpg">

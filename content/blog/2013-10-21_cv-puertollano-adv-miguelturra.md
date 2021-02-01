@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "", 
-  "categories": [
-    "crónicas"
-  ], 
-  "date": "2013-10-21 19:00:59", 
-  "tags": [
-    "Juvenil Femenino"
-  ], 
-  "title": "CV Puertollano - ADV Miguelturra"
-}
+---
+author: Joaquín
+banner: ''
+categories:
+- crónicas
+date: '2013-10-21 19:00:59'
+tags:
+- Juvenil Femenino
+title: CV Puertollano - ADV Miguelturra
+---
 
 Las juveniles vuelven a superarse a sí mismas.
 

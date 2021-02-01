@@ -1,16 +1,15 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Ajb-HpHTERaFNE6rf5m-kLUniBYTq3she0t4q0TM702b.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2016-01-06 17:08:37", 
-  "tags": [
-    "Navidad", 
-    "Eventos"
-  ], 
-  "title": "La clausura del Clinic de Tecnificación de Voleibol pone punto y final a las Jornadas de Navidad"
-}
+---
+author: Joaquín
+banner: img/banners/Ajb-HpHTERaFNE6rf5m-kLUniBYTq3she0t4q0TM702b.jpg
+categories:
+- noticias
+date: '2016-01-06 17:08:37'
+tags:
+- Navidad
+- Eventos
+title: La clausura del Clinic de Tecnificación de Voleibol pone punto y final a las
+  Jornadas de Navidad
+---
 
 Un año más el voley ha estado presente en las vacaciones de fin de año a través de las Jornadas de Navidad organizadas por la ADV Miguelturra y la Escuela de Voleibol.
 

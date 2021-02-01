@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Captura_de_pantalla_de_2015-12-07_14%3A12%3A02.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-12-06 23:06:25", 
-  "tags": [
-    "Juvenil Femenino"
-  ], 
-  "title": "Históricos resultados para las juveniles."
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_de_2015-12-07_14%3A12%3A02.png
+categories:
+- noticias
+date: '2015-12-06 23:06:25'
+tags:
+- Juvenil Femenino
+title: Históricos resultados para las juveniles.
+---
 
 Tras haber finalizado la primera vuelta, el equipo juvenil femenino A ha roto todos los registros que se recuerdan para esta categoría en el ADV obteniendo victorias en todos sus encuentros sin ceder un solo set.
 

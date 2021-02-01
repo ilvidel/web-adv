@@ -1,18 +1,16 @@
-{
-  "author": "Joaquín", 
-  "banner": "", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2013-11-17 16:52:07", 
-  "tags": [
-    "Club", 
-    "Juvenil Femenino", 
-    "Senior Masculino", 
-    "Senior Femenino"
-  ], 
-  "title": "Balance positivo en la primera jornada para el ADV"
-}
+---
+author: Joaquín
+banner: ''
+categories:
+- noticias
+date: '2013-11-17 16:52:07'
+tags:
+- Club
+- Juvenil Femenino
+- Senior Masculino
+- Senior Femenino
+title: Balance positivo en la primera jornada para el ADV
+---
 
 <br/>
 <br/>

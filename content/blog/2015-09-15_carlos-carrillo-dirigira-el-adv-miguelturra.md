@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/AiL3jizpVfEFfk-Rdn2N0LkzZ_dON8U1lL0jpfDnAAhk.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-09-15 23:25:47", 
-  "tags": [
-    "Senior Masculino"
-  ], 
-  "title": "Carlos Carrillo dirigirá el ADV Miguelturra."
-}
+---
+author: Joaquín
+banner: img/banners/AiL3jizpVfEFfk-Rdn2N0LkzZ_dON8U1lL0jpfDnAAhk.jpg
+categories:
+- noticias
+date: '2015-09-15 23:25:47'
+tags:
+- Senior Masculino
+title: Carlos Carrillo dirigirá el ADV Miguelturra.
+---
 
 La directiva ha alcanzado un acuerdo con el joven entrenador para que encabece el nuevo proyecto del equipo senior masculino. Carrillo tomará el relevo de Pablo Muñoz que deja el equipo tras tres años al frente del mismo.
 

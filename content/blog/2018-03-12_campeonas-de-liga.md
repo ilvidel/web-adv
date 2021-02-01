@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín",
-  "banner": "img/banners/campeonas-de-liga.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2018-03-12 20:00:00",
-  "tags": [
-    "Senior Femenino"
-  ],
-  "title": "Campeonas de Liga y a por la Fase de Ascenso"
-}
+---
+author: Joaquín
+banner: img/banners/campeonas-de-liga.jpg
+categories:
+- noticias
+date: '2018-03-12 20:00:00'
+tags:
+- Senior Femenino
+title: Campeonas de Liga y a por la Fase de Ascenso
+---
 
 Tras la victoria del domingo por 0-3 en Albacete, **nuestro equipo
 senior femenino se proclama matemáticamente campeón de liga** a falta

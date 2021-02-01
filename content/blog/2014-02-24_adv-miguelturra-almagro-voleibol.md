@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Captura_de_pantalla_-_240214_-_14%3A43%3A33.png", 
-  "categories": [
-    "crónicas"
-  ], 
-  "date": "2014-02-24 13:44:18", 
-  "tags": [
-    "Senior Femenino"
-  ], 
-  "title": "ADV Miguelturra - Almagro Voleibol"
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_-_240214_-_14%3A43%3A33.png
+categories:
+- crónicas
+date: '2014-02-24 13:44:18'
+tags:
+- Senior Femenino
+title: ADV Miguelturra - Almagro Voleibol
+---
 
 (por Miguel Astilleros)
 

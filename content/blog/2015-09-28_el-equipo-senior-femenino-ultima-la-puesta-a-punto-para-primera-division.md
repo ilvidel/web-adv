@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Captura_de_pantalla_de_2015-09-28_02%3A29%3A34.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-09-28 01:33:10", 
-  "tags": [
-    "Senior Femenino"
-  ], 
-  "title": "El equipo senior femenino ultima la puesta a punto para Primera División."
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_de_2015-09-28_02%3A29%3A34.png
+categories:
+- noticias
+date: '2015-09-28 01:33:10'
+tags:
+- Senior Femenino
+title: El equipo senior femenino ultima la puesta a punto para Primera División.
+---
 
 El equipo senior femenino del ADV, afronta este año la temporada con ilusión y muchas ganas, pero sobre todo con la satisfacción de poder competir después de tantos años en Primera División Nacional de voleibol, una liga con una exigencia deportiva muy alta y un ritmo de juego que seguro que hará crecer a nuestras chicas, en la que lucharan principalmente por afianzarse en esta competición. 
 

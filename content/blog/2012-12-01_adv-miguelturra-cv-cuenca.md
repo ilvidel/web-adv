@@ -1,15 +1,13 @@
-{
-  "author": "Administrador", 
-  "banner": "", 
-  "categories": [
-    "crónicas"
-  ], 
-  "date": "2012-12-01 15:30:00", 
-  "tags": [
-    "Senior Masculino"
-  ], 
-  "title": "ADV Miguelturra - CV Cuenca"
-}
+---
+author: Administrador
+banner: ''
+categories:
+- crónicas
+date: '2012-12-01 15:30:00'
+tags:
+- Senior Masculino
+title: ADV Miguelturra - CV Cuenca
+---
 
 Segunda y contundente victoria del ADV pese al mal sabor de boca por los errores cometidos. 
 

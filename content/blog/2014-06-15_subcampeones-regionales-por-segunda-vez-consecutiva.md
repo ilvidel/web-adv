@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/IMG-20140615-WA0008.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2014-06-15 23:34:45", 
-  "tags": [
-    "EEDD", 
-    "Voley Playa"
-  ], 
-  "title": "Subcampeones regionales por segunda vez consecutiva."
-}
+---
+author: Joaquín
+banner: img/banners/IMG-20140615-WA0008.jpg
+categories:
+- noticias
+date: '2014-06-15 23:34:45'
+tags:
+- EEDD
+- Voley Playa
+title: Subcampeones regionales por segunda vez consecutiva.
+---
 
 El pasado sábado tuvo lugar en Guadalajara el campeonato regional de Voley Playa en categoría infantil para el que habían conseguido el pase dos equipos de Miguelturra que buscaban alcanzar el primer puesto y así obtener plaza para el Campeonato de España de ésta modalidad.
 

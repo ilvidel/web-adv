@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/IMG-20131210-WA0000_2.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-09-30 19:25:52", 
-  "tags": [
-    "EEDD"
-  ], 
-  "title": "La Escuela Municipal de Voleibol arranca la temporada con 195 alumnos."
-}
+---
+author: Joaquín
+banner: img/banners/IMG-20131210-WA0000_2.jpg
+categories:
+- noticias
+date: '2015-09-30 19:25:52'
+tags:
+- EEDD
+title: La Escuela Municipal de Voleibol arranca la temporada con 195 alumnos.
+---
 
 El próximo 1 de octubre comenzará un nuevo curso para las Escuelas Deportivas Municipales organizadas por la Concejalía de Deportes. La Escuela de Voleibol de cuya coordinación se encarga el ADV Miguelturra ha batido un nuevo récord de inscripción con un total de 195 chicos y chicas que han optado por este deporte y por confiar en nuestra escuela. 
 

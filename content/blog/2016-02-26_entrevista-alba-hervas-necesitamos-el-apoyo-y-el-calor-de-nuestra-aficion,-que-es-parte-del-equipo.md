@@ -1,16 +1,15 @@
-{
-  "author": "Joaquín", 
-  "banner": "", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2016-02-26 10:54:32", 
-  "tags": [
-    "Entrevistas", 
-    "Juvenil Femenino"
-  ], 
-  "title": "Entrevista Alba Hervás: \"Necesitamos el apoyo y el calor de nuestra afición, que es parte del equipo\""
-}
+---
+author: Joaquín
+banner: ''
+categories:
+- noticias
+date: '2016-02-26 10:54:32'
+tags:
+- Entrevistas
+- Juvenil Femenino
+title: 'Entrevista Alba Hervás: "Necesitamos el apoyo y el calor de nuestra afición,
+  que es parte del equipo"'
+---
 
 Hoy entrevistamos a Alba Hervás, jugadora y capitana del equipo juvenil femenino formando parte también del equipo senior femenino de Primera División en el que, a pesar de su juventud, se ha convertido en pieza imprescindible desde la pasada Fase de Ascenso, donde realizó una gran actuación.
 	Para Alba, junto al resto de sus compañeras, ha llegado el momento clave de la liga, teniendo que cruzarse el próximo sábado con el CV Hervás Cuenca en la ida de los cuartos de final de la Liga Regional Juvenil (Pabellón Municipal, 17:00), aumentando la relevancia de la cita el hecho de que ya se cruzasen el pasado año en esta misma ronda, quedando eliminado el equipo miguelturreño por tan solo cuatro puntos. El equipo está preparando a fondo el cruce y entre entrenamientos y exámenes Alba ha sacado un hueco para responder a nuestras preguntas.

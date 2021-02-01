@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/IMG-20160124-WA0015.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2016-01-25 23:24:31", 
-  "tags": [
-    "Juvenil Masculino"
-  ], 
-  "title": "Todo en juego para los juveniles"
-}
+---
+author: Joaquín
+banner: img/banners/IMG-20160124-WA0015.jpg
+categories:
+- noticias
+date: '2016-01-25 23:24:31'
+tags:
+- Juvenil Masculino
+title: Todo en juego para los juveniles
+---
 
 Tras la victoria sumada en Puertollano los juveniles del ADV Miguelturra han alcanzado la segunda plaza de la tabla, puesto que tendrán que defender durante las próximas 5 semanas a lo largo de las cuales el equipo se las verá con sus rivales directos para definir el resultado final de la competición regional.
 

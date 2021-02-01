@@ -1,16 +1,15 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Captura_de_pantalla_de_2013-10-23_20%3A59%3A01.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2013-10-23 20:02:54", 
-  "tags": [
-    "Club", 
-    "Senior Masculino"
-  ], 
-  "title": "Emotiva visita del equipo senior masculino de la ADV Miguelturra al CP de Herrera de la Mancha."
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_de_2013-10-23_20%3A59%3A01.png
+categories:
+- noticias
+date: '2013-10-23 20:02:54'
+tags:
+- Club
+- Senior Masculino
+title: Emotiva visita del equipo senior masculino de la ADV Miguelturra al CP de Herrera
+  de la Mancha.
+---
 
 Como ya se hiciera en abril de 2012 y tras la buena acogida por parte de la dirección del CP, los internos y jugadores del equipo senior masculino de esta iniciativa, la sección senior masculino del ADV Miguelturra volvió el pasado 19 de octubre a viajar a la prisión de Herrera de La Mancha para llevar a cabo una jornada integradora a través de la práctica del voleibol con los internos del CP.
 

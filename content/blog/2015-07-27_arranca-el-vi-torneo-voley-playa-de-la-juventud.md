@@ -1,17 +1,15 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/subir.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-07-27 15:38:07", 
-  "tags": [
-    "Voley Playa", 
-    "Voley Playa", 
-    "EEDD"
-  ], 
-  "title": "Arranca el VI Torneo Voley Playa de la Juventud."
-}
+---
+author: Joaquín
+banner: img/banners/subir.jpg
+categories:
+- noticias
+date: '2015-07-27 15:38:07'
+tags:
+- Voley Playa
+- Voley Playa
+- EEDD
+title: Arranca el VI Torneo Voley Playa de la Juventud.
+---
 
 La tarde del lunes 27 a partir de las 18:00 será la encargada de abrir las puertas del VI Torneo Voley Playa de la Juventud que se alargará hasta el jueves 30 y que a su vez servirá de telonero para el X Trofeo Voley Playa Miguelturra, teniendo lugar ambos en el Parque Rivas Moreno de Miguelturra.
 

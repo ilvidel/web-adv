@@ -1,17 +1,15 @@
-{
-  "author": "Joaquín",
-  "banner": "img/banners/valladolid-espera-alevines.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2017-06-22 09:00:00",
-  "tags": [
-    "Escuelas Deportivas",
-    "Campeonato de España",
-	"alevín femenino"
-  ],
-  "title": "Valladolid espera a nuestras alevines"
-}
+---
+author: Joaquín
+banner: img/banners/valladolid-espera-alevines.jpg
+categories:
+- noticias
+date: '2017-06-22 09:00:00'
+tags:
+- Escuelas Deportivas
+- Campeonato de España
+- alevín femenino
+title: Valladolid espera a nuestras alevines
+---
 
 Ha llegado el día y esta misma tarde las jóvenes promesas del equipo
 alevín femenino B de nuestra escuela marchan rumbo a Valladolid junto

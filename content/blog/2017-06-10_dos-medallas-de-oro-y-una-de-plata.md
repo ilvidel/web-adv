@@ -1,11 +1,14 @@
-{
-   "categories": ["noticias"],
-   "date": "2017-06-10T15:55:43+01:00",
-   "tags": ["voley-playa", "escuelas deportivas"],
-   "title": "Dos medallas de oro y una de plata en el Regional de voley-playa",
-   "author": "Joaquín",
-   "banner": "img/banners/regional-vplaya-2017-infantil-fem-oro.jpg"
-}
+---
+author: Joaquín
+banner: img/banners/regional-vplaya-2017-infantil-fem-oro.jpg
+categories:
+- noticias
+date: '2017-06-10T15:55:43+01:00'
+tags:
+- voley-playa
+- escuelas deportivas
+title: Dos medallas de oro y una de plata en el Regional de voley-playa
+---
 
 
 Llegamos con un poco de retraso, pero nunca es tarde para reconocer el

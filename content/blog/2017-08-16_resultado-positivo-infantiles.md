@@ -1,16 +1,15 @@
-{
-  "author": "Joaquín",
-  "banner": "img/banners/infantil-masculino-lorca.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2017-08-16 22:00:00",
-  "tags": [
-    "campeonato de españa",
-	"voley-playa"
-  ],
-  "title": "Resultado positivo para los infantiles en su primer Campeonato de España de Voley Playa"
-}
+---
+author: Joaquín
+banner: img/banners/infantil-masculino-lorca.jpg
+categories:
+- noticias
+date: '2017-08-16 22:00:00'
+tags:
+- campeonato de españa
+- voley-playa
+title: Resultado positivo para los infantiles en su primer Campeonato de España de
+  Voley Playa
+---
 
 Los pasados 13 a 15 de Agosto se celebró el Campeonato de España
 Infantil Masculino en el Centro Internacional de Voley Playa de Lorca

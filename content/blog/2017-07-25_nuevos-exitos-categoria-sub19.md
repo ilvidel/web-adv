@@ -1,15 +1,14 @@
-{
-  "author": "Joaquín",
-  "banner": "img/banners/segunda-prueba-regional.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2017-07-25 20:00:00",
-  "tags": [
-    "Voley Playa", "Campeonato de españa"
-  ],
-  "title": "Nuevos éxitos en categoría sub19"
-}
+---
+author: Joaquín
+banner: img/banners/segunda-prueba-regional.jpg
+categories:
+- noticias
+date: '2017-07-25 20:00:00'
+tags:
+- Voley Playa
+- Campeonato de españa
+title: Nuevos éxitos en categoría sub19
+---
 
 
 El pasado sábado se celebraba en Playas del Vicario (Ciudad Real) la

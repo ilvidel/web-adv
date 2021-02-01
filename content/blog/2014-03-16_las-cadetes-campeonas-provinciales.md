@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Captura_de_pantalla_-_160314_-_23%3A59%3A34.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2014-03-16 23:22:37", 
-  "tags": [
-    "EEDD"
-  ], 
-  "title": "Las cadetes campeonas provinciales."
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_-_160314_-_23%3A59%3A34.png
+categories:
+- noticias
+date: '2014-03-16 23:22:37'
+tags:
+- EEDD
+title: Las cadetes campeonas provinciales.
+---
 
 El segundo logro de la temporada lo han conseguido las chicas del equipo cadete femenino que dirige Miriam Sánchez y lo lograron tras imponerse con claridad en las semifinales a Almagro y en la final a Socuéllamos el pasado sábado.
 

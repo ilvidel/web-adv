@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/cartel_28-11-15.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-11-27 15:54:22", 
-  "tags": [
-    "Previa Jornadas", 
-    "Senior Femenino"
-  ], 
-  "title": "CAI Teruel visita a las senior con mucho en juego."
-}
+---
+author: Joaquín
+banner: img/banners/cartel_28-11-15.jpg
+categories:
+- noticias
+date: '2015-11-27 15:54:22'
+tags:
+- Previa Jornadas
+- Senior Femenino
+title: CAI Teruel visita a las senior con mucho en juego.
+---
 
 Llega uno de los encuentros trascendentales de la temporada al Pabellón Municipal de Miguelturra donde las senior se verán las caras con el CAI Voleibol Teruel el sábado a las 19:00. Las juveniles también acuden el domingo a su importante cita ante EMD CV Motilla.
 

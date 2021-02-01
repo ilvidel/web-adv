@@ -1,15 +1,13 @@
-{
-  "author": "Administrador", 
-  "banner": "", 
-  "categories": [
-    "crónicas"
-  ], 
-  "date": "2012-11-17 18:00:00", 
-  "tags": [
-    "Juvenil Femenino"
-  ], 
-  "title": "ADV Miguelturra - CV La Roda"
-}
+---
+author: Administrador
+banner: ''
+categories:
+- crónicas
+date: '2012-11-17 18:00:00'
+tags:
+- Juvenil Femenino
+title: ADV Miguelturra - CV La Roda
+---
 
 Sábado 17 de Noviembre 19:00 en el Pabellón El Cristo.
 

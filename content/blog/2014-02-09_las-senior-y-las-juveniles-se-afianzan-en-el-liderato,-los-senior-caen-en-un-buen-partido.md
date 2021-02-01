@@ -1,15 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2014-02-09 19:01:33", 
-  "tags": [
-    "Club"
-  ], 
-  "title": "Las senior y las juveniles se afianzan en el liderato, los senior caen en un buen partido."
-}
+---
+author: Joaquín
+banner: ''
+categories:
+- noticias
+date: '2014-02-09 19:01:33'
+tags:
+- Club
+title: Las senior y las juveniles se afianzan en el liderato, los senior caen en un
+  buen partido.
+---
 
 La jornada vivida ayer en el Pabellón Municipal quedará para el recuerdo, no solo por la clarísima victoria de las senior ante el rival más directo de la liga, el CV Hervás Cuenca, sino por la actitud del público y el apoyo que brindó a nuestros equipos al ritmo de la Charanga El Bufón.
 

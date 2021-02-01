@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2014-01-20 00:10:46", 
-  "tags": [
-    "Club"
-  ], 
-  "title": "Resumen de la jornada del 18 de enero."
-}
+---
+author: Joaquín
+banner: ''
+categories:
+- noticias
+date: '2014-01-20 00:10:46'
+tags:
+- Club
+title: Resumen de la jornada del 18 de enero.
+---
 
 Buena jornada para los senior del ADV que logran una nueva victoria por 1-3, esta vez a domicilio y ante el colista Voley Guada que, a pesar de su posición, está poniendo muy complicadas las victorias a sus rivales dado su gran juego defensivo. Esta victoria devuelve la confianza que el equipo había perdido tras la anterior derrota ante ADEVA y dará una inyección de moral al equipo para tratar de batir el próximo sábado al segundo clasificado, en este caso el CV Ciudad de la Cerámica, de Talavera de la Reina. La nota negativa la aportó la lesión de Ginés; todos deseamos que nuestro central se recupere lo antes posible.
 

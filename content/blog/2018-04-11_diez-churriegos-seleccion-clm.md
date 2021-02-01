@@ -1,15 +1,14 @@
-{
-  "author": "Joaquín",
-  "banner": "img/banners/diez-churriegos-seleccion-clm.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2018-04-11 17:00:00",
-  "tags": [
-	"campeonato de españa"
-  ],
-  "title": "Diez miguelturreños representarán a Castilla-La Mancha en los Campeonatos de España por Selecciones Autonómicas"
-}
+---
+author: Joaquín
+banner: img/banners/diez-churriegos-seleccion-clm.jpg
+categories:
+- noticias
+date: '2018-04-11 17:00:00'
+tags:
+- campeonato de españa
+title: Diez miguelturreños representarán a Castilla-La Mancha en los Campeonatos
+  de España por Selecciones Autonómicas
+---
 
 Hoy comienza en Valladolid
 el [**Campeonato de España por Selecciones Autonómicas** (CESA)][CESA]

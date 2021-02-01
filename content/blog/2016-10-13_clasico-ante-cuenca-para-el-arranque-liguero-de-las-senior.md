@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Captura_de_pantalla_de_2016-10-13_01-18-04.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2016-10-13 00:22:14", 
-  "tags": [
-    "Senior Femenino"
-  ], 
-  "title": "Clásico ante Cuenca para el arranque liguero de las senior"
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_de_2016-10-13_01-18-04.png
+categories:
+- noticias
+date: '2016-10-13 00:22:14'
+tags:
+- Senior Femenino
+title: Clásico ante Cuenca para el arranque liguero de las senior
+---
 
 Faltan solo dos días para que arranque la Segunda División Femenina y el sorteo de calendarios quiso que en la primera jornada las senior del ADV Miguelturra se enfrentasen con el equipo con el que se repartieron la primera y segunda plaza de esta categoría durante las cuatro temporadas previas al paso por la Primera División.
 

@@ -1,17 +1,15 @@
-{
-  "author": "Joaquín", 
-  "banner": "", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2013-12-02 18:15:27", 
-  "tags": [
-    "Club", 
-    "Senior Femenino", 
-    "EEDD"
-  ], 
-  "title": "Fin de semana con un solo partido: Las senior se mantienen líderes."
-}
+---
+author: Joaquín
+banner: ''
+categories:
+- noticias
+date: '2013-12-02 18:15:27'
+tags:
+- Club
+- Senior Femenino
+- EEDD
+title: 'Fin de semana con un solo partido: Las senior se mantienen líderes.'
+---
 
 La jornada del 30 de Noviembre quedaba marcada por el aplazamiento del partido juvenil femenino  ante Almagro Voleibol para el 27 de Diciembre. De esta forma el único equipo federado con encuentros en este fin de semana era el senior femenino, que solventó sin exceso de problemas su visita a Almagro venciendo por 0-3 (23-25, 10-25, 17-25).
 

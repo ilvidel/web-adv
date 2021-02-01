@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/IMG-20161218-WA0010.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2017-01-03 17:05:00", 
-  "tags": [
-    "Senior Femenino"
-  ], 
-  "title": "Dos fechas subrayadas en el calendario de las senior"
-}
+---
+author: Joaquín
+banner: img/banners/IMG-20161218-WA0010.jpg
+categories:
+- noticias
+date: '2017-01-03 17:05:00'
+tags:
+- Senior Femenino
+title: Dos fechas subrayadas en el calendario de las senior
+---
 
 Comienza el nuevo año y el reto del equipo senior femenino está claro: conseguir plaza para la fase de ascenso. Para ello habrá dos citas clave que serán los enfrentamientos ante Sf Motor Villaseca de la Sagra y CV Universitario Guadalajara.
 

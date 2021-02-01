@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín",
-  "banner": "img/equipos/sf-1718.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2018-01-04 19:00:00",
-  "tags": [
-	"senior femenino"
-  ],
-  "title": "Tras un merecido descanso las senior vuelven a los entrenamientos"
-}
+---
+author: Joaquín
+banner: img/equipos/sf-1718.jpg
+categories:
+- noticias
+date: '2018-01-04 19:00:00'
+tags:
+- senior femenino
+title: Tras un merecido descanso las senior vuelven a los entrenamientos
+---
 
 Aprovechando el parón de fin de año y retomando la actividad de
 nuestros medios, os vamos a ir presentando los distintos equipos de

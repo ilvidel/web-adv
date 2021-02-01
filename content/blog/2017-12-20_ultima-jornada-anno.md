@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín",
-  "banner": "img/banners/ultima-jornada-anno.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2017-12-20 19:00:00",
-  "tags": [
-    "resúmenes"
-  ],
-  "title": "Nuevas victorias para nuestros equipos en la última jornada del año"
-}
+---
+author: Joaquín
+banner: img/banners/ultima-jornada-anno.jpg
+categories:
+- noticias
+date: '2017-12-20 19:00:00'
+tags:
+- resúmenes
+title: Nuevas victorias para nuestros equipos en la última jornada del año
+---
 
 ![Última jornada del año](../../../../../img/banners/ultima-jornada-anno.jpg)
 

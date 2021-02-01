@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/gala-deportivos-miguelturra-2016-fuente-imagen-area-comunicacion-ayuntamiento-miguelturra-086.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2017-03-27 23:47:47", 
-  "tags": [
-    "Gala Deportivos"
-  ], 
-  "title": "Diego \"Melli\" Moreno reconocido en la Gala Deportivos 2016 por su trayectoria"
-}
+---
+author: Joaquín
+banner: img/banners/gala-deportivos-miguelturra-2016-fuente-imagen-area-comunicacion-ayuntamiento-miguelturra-086.jpg
+categories:
+- noticias
+date: '2017-03-27 23:47:47'
+tags:
+- Gala Deportivos
+title: Diego "Melli" Moreno reconocido en la Gala Deportivos 2016 por su trayectoria
+---
 
 En la Gala Deportivos 2016 celebrada el pasado 24 de Marzo nuestro jugador senior Diego, más conocido por todos como "Melli", recibió una más que merecida mención por toda su trayectoria deportiva.
 

@@ -1,16 +1,15 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Captura_de_pantalla_de_2013-07-14_20%3A30%3A42.png", 
-  "categories": [
-    "crónicas"
-  ], 
-  "date": "2013-07-15 00:43:15", 
-  "tags": [
-    "Club", 
-    "EEDD"
-  ], 
-  "title": "Laura Mora y Alba Peco campeonas en Calzada de Cva. jugarán el Campeonato Nacional."
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_de_2013-07-14_20%3A30%3A42.png
+categories:
+- crónicas
+date: '2013-07-15 00:43:15'
+tags:
+- Club
+- EEDD
+title: Laura Mora y Alba Peco campeonas en Calzada de Cva. jugarán el Campeonato
+  Nacional.
+---
 
 El pasado sábado 13 de julio se celebraba el Torneo de Voley Playa sub-21 femenino de Calzada de Calatrava clasificatorio para el Campeonato Nacional que se celebrará en septiembre en Orihuela (Alicante).
 

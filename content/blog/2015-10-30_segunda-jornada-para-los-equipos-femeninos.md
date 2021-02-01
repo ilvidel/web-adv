@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/cartel-partidos-finde.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-10-30 15:51:20", 
-  "tags": [
-    "Club", 
-    "Previa Jornadas"
-  ], 
-  "title": "Segunda jornada para los equipos femeninos."
-}
+---
+author: Joaquín
+banner: img/banners/cartel-partidos-finde.png
+categories:
+- noticias
+date: '2015-10-30 15:51:20'
+tags:
+- Club
+- Previa Jornadas
+title: Segunda jornada para los equipos femeninos.
+---
 
 Los equipos juveniles y senior femeninos vuelven a la pista este fin de semana en lo que aún se puede considerar el arranque de liga.
 

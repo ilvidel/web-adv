@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "", 
-  "categories": [
-    "crónicas"
-  ], 
-  "date": "2014-01-20 15:54:32", 
-  "tags": [
-    "Senior Femenino"
-  ], 
-  "title": "CV Ciudad de Guadalajara - ADV Miguelturra "
-}
+---
+author: Joaquín
+banner: ''
+categories:
+- crónicas
+date: '2014-01-20 15:54:32'
+tags:
+- Senior Femenino
+title: 'CV Ciudad de Guadalajara - ADV Miguelturra '
+---
 
 (Por Miguel Astilleros)
 

@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Captura_de_pantalla_de_2016-06-27_17%3A24%3A23.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2016-06-27 16:42:25", 
-  "tags": [
-    "Voley Playa"
-  ], 
-  "title": "Finalizado el Campeonato Regional de Voley Playa sub-21 y sub-19."
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_de_2016-06-27_17%3A24%3A23.png
+categories:
+- noticias
+date: '2016-06-27 16:42:25'
+tags:
+- Voley Playa
+title: Finalizado el Campeonato Regional de Voley Playa sub-21 y sub-19.
+---
 
 Los pasados 24 y 25 de Junio tuvo lugar en Miguelturra el Campeonato de Castilla-La Mancha sub-21 y sub-19 en el que se debía decidir las parejas que representarían a nuestra comunidad en los distintos Campeonatos de España. 
 

@@ -1,17 +1,16 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Screenshot_-_210715_-_22%3A16%3A55.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-07-21 21:21:10", 
-  "tags": [
-    "Voley Playa", 
-    "Campeonato de España", 
-    "EEDD"
-  ], 
-  "title": "El ADV Miguelturra se desplaza con dos equipos al Campeonato de España Cadete de Voley Playa. "
-}
+---
+author: Joaquín
+banner: img/banners/Screenshot_-_210715_-_22%3A16%3A55.png
+categories:
+- noticias
+date: '2015-07-21 21:21:10'
+tags:
+- Voley Playa
+- Campeonato de España
+- EEDD
+title: 'El ADV Miguelturra se desplaza con dos equipos al Campeonato de España Cadete
+  de Voley Playa. '
+---
 
 El equipo masculino formado por Álex Fernández, Juanma Ruiz, Josema Sánchez y Sergio Sobrino y el equipo femenino formado por Ana de la Beldad, Marta Gómez, Rebeca Matas y Lorena Sánchez estarán en la localidad de Dumbría (A Coruña) del 24 al 26 de Julio peleando con las mejores parejas nacionales de su categoría.
 

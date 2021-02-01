@@ -1,16 +1,15 @@
-{
-  "author": "Joaquín",
-  "banner": "img/banners/sergio-juanma-lorca.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2017-08-03 12:00:00",
-  "tags": [
-    "Campeonato de españa",
-	"voley-playa"
-  ],
-  "title": "Juanma Ruiz y Sergio Sobrino inician los Campeonatos de España para las parejas miguelturreñas."
-}
+---
+author: Joaquín
+banner: img/banners/sergio-juanma-lorca.jpg
+categories:
+- noticias
+date: '2017-08-03 12:00:00'
+tags:
+- Campeonato de españa
+- voley-playa
+title: Juanma Ruiz y Sergio Sobrino inician los Campeonatos de España para las parejas
+  miguelturreñas.
+---
 
 El **Campeonato de España sub-19 por Selecciones Autonómicas** comienza
 hoy en el Centro Internacional de Voley Playa de Lorca y se extenderá

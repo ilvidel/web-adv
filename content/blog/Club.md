@@ -1,12 +1,11 @@
-{
-  "author": "Administrador",
-  "banner": "img/banners/20160119085747.jpg",
-  "date": "2014-01-05 11:12:28",
-  "tags": [
-    "Club"
-  ],
-  "title": "Club"
-}
+---
+author: Administrador
+banner: img/banners/20160119085747.jpg
+date: '2014-01-05 11:12:28'
+tags:
+- Club
+title: Club
+---
 
 # Qué es el ADV Miguelturra
 

@@ -1,15 +1,13 @@
-{
-  "author": "Administrador", 
-  "banner": "", 
-  "categories": [
-    "crónicas"
-  ], 
-  "date": "2012-11-25 10:30:00", 
-  "tags": [
-    "Senior Masculino"
-  ], 
-  "title": "CV Ciudad de la Cerámica - ADV Miguelturra"
-}
+---
+author: Administrador
+banner: ''
+categories:
+- crónicas
+date: '2012-11-25 10:30:00'
+tags:
+- Senior Masculino
+title: CV Ciudad de la Cerámica - ADV Miguelturra
+---
 
 Primer objetivo cumplido por parte de los senior del ADV.
 

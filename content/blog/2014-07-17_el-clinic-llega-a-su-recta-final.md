@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/IMG_2324.JPG", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2014-07-17 17:25:28", 
-  "tags": [
-    "Voley Playa", 
-    "Clinic"
-  ], 
-  "title": "El clinic llega a su recta final."
-}
+---
+author: Joaquín
+banner: img/banners/IMG_2324.JPG
+categories:
+- noticias
+date: '2014-07-17 17:25:28'
+tags:
+- Voley Playa
+- Clinic
+title: El clinic llega a su recta final.
+---
 
 Desde que arrancase el pasado jueves al clínic  de voley playa solo le restan dos días para su clausura y se puede decir que los chicos y chicas no han parado desde que empezamos.
 

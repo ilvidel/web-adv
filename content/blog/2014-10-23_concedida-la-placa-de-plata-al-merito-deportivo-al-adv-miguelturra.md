@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/logo_ADV_nuevo.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2014-10-23 17:48:43", 
-  "tags": [
-    "Club", 
-    "Eventos"
-  ], 
-  "title": "Concedida la Placa de Plata al Mérito Deportivo al ADV Miguelturra."
-}
+---
+author: Joaquín
+banner: img/banners/logo_ADV_nuevo.png
+categories:
+- noticias
+date: '2014-10-23 17:48:43'
+tags:
+- Club
+- Eventos
+title: Concedida la Placa de Plata al Mérito Deportivo al ADV Miguelturra.
+---
 
 El pasado martes se nos hizo saber y ayer miércoles fue publicada en el Diario Oficial de Castilla-La Mancha la noticia de las distinciones realizadas por la Consejería de Educación, Cultura y Deportes, entre las cuales se encontraba la concesión de la Placa de Plata al Mérito Deportivo a nuestra asociación.
 

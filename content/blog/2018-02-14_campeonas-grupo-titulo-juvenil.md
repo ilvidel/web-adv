@@ -1,15 +1,13 @@
-{
-"author": "Joaquín",
-  "banner": "img/equipos/jfa-1718.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2018-02-14 18:00:00",
-  "tags": [
-  "juvenil femenino"
-  ],
-  "title": "Campeonas de grupo y a por el título juvenil"
-}
+---
+author: Joaquín
+banner: img/equipos/jfa-1718.jpg
+categories:
+- noticias
+date: '2018-02-14 18:00:00'
+tags:
+- juvenil femenino
+title: Campeonas de grupo y a por el título juvenil
+---
 
 Tras el parón carnavalero volvemos con buenas noticias, y es que el
 pasado sábado el ADV Miguelturra juvenil femenino se imponía 0-3 a

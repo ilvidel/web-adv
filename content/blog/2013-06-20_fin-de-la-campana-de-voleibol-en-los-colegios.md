@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/IMG-20130605-WA0002.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2013-06-20 23:51:53", 
-  "tags": [
-    "EEDD"
-  ], 
-  "title": "Fin de la campaña de voleibol en los colegios"
-}
+---
+author: Joaquín
+banner: img/banners/IMG-20130605-WA0002.jpg
+categories:
+- noticias
+date: '2013-06-20 23:51:53'
+tags:
+- EEDD
+title: Fin de la campaña de voleibol en los colegios
+---
 
 Tras tres semanas visitando todas las aulas de 5º y 6º de los colegios de nuestra localidad toca fin la Campaña de Voleibol en los Colegios 2013.
 

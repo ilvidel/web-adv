@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/DSC_0758.JPG", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-12-20 16:37:57", 
-  "tags": [
-    "Resúenes"
-  ], 
-  "title": "Paso de gigante de las senior hacia la permanencia."
-}
+---
+author: Joaquín
+banner: img/banners/DSC_0758.JPG
+categories:
+- noticias
+date: '2015-12-20 16:37:57'
+tags:
+- Resúenes
+title: Paso de gigante de las senior hacia la permanencia.
+---
 
 Por fin llegó la victoria para las de Primera División tras imponerse 3-1 al CD Mintonette Almería en el Pabellón Municipal despidiendo el año de la mejor manera posible. Las juveniles continúan intratables con una nueva victoria mientras que los juveniles sufrieron un duro revés en Albacete.
 

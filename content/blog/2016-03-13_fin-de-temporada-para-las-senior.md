@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/SF.JPG", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2016-03-13 17:14:28", 
-  "tags": [
-    "Senior Femenino", 
-    "Resúenes"
-  ], 
-  "title": "Fin de temporada para las senior."
-}
+---
+author: Joaquín
+banner: img/banners/SF.JPG
+categories:
+- noticias
+date: '2016-03-13 17:14:28'
+tags:
+- Senior Femenino
+- Resúenes
+title: Fin de temporada para las senior.
+---
 
 Ultima jornada de liga para el equipo femenino del ADV en la Primera división Nacional de Voleibol, en la que ha cosechado una nueva derrota por 0-3 ante el equipo alicantino CV Goldcar Sant Joan, finalizando la competición en último lugar y relegando al equipo con casi toda seguridad a la Segunda División Nacional de Voleibol. El equipo, que afrontaba el último encuentro de la liga con un conjunto muy mermado por las bajas, debido a que gran parte del equipo se tuvo que desplazar a Guadalajara para afrontar la fase final regional juvenil femenina, no pudo finalizar la temporada con un buen encuentro, participando muchas jugadoras poco habituales que aunque cumplieron con las expectativas, no pudieron tener prácticamente opciones de victoria ante un equipo que ha terminado la liga regular entre los mejores de la competición. 
 

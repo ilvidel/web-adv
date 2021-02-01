@@ -1,17 +1,15 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Screenshot_-_110715_-_01%3A41%3A12.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-07-10 20:42:45", 
-  "tags": [
-    "Torneos", 
-    "Voley Playa", 
-    "Voley Playa"
-  ], 
-  "title": "Abierto el plazo de inscripción para el VI Trofeo Voley Playa de la Juventud"
-}
+---
+author: Joaquín
+banner: img/banners/Screenshot_-_110715_-_01%3A41%3A12.png
+categories:
+- noticias
+date: '2015-07-10 20:42:45'
+tags:
+- Torneos
+- Voley Playa
+- Voley Playa
+title: Abierto el plazo de inscripción para el VI Trofeo Voley Playa de la Juventud
+---
 
 Tras su presentación, se abre la inscripción para la sexta edición del Torneo Voley Playa de la Juventud que servirá de telonero para el torneo absoluto. Un torneo que el pasado año contó con cerca de 100 participantes y este año se espera que aumente la cifra.
 

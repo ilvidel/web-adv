@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Captura_de_pantalla_de_2013-09-24_13%3A15%3A26.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2013-09-24 12:24:12", 
-  "tags": [
-    "Juvenil Femenino"
-  ], 
-  "title": "Cuadrangular juvenil femenino en Tomelloso."
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_de_2013-09-24_13%3A15%3A26.png
+categories:
+- noticias
+date: '2013-09-24 12:24:12'
+tags:
+- Juvenil Femenino
+title: Cuadrangular juvenil femenino en Tomelloso.
+---
 
 Este sábado las juveniles de Joaquín González se desplazan a Tomelloso a disputar un cuadrangular en formato semifinales y final. Las miguelturreñas se enfrentarán en primer lugar contra Voley La Roda (Albacete) para tratar de pasar a la final en la que se encontrarían contra el equipo vencedor del encuentro entre CV San Clemente (Cuenca) y Nuevo Impacto Tomelloso.
 

@@ -1,17 +1,15 @@
-{
-  "author": "Joaquín",
-  "banner": "img/equipos/smb-1718.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2018-02-21 18:00:00",
-  "tags": [
-    "",
-    "",
-	""
-  ],
-  "title": "Momento clave para el ADV Miguelturra Nazarín"
-}
+---
+author: Joaquín
+banner: img/equipos/smb-1718.jpg
+categories:
+- noticias
+date: '2018-02-21 18:00:00'
+tags:
+- ''
+- ''
+- ''
+title: Momento clave para el ADV Miguelturra Nazarín
+---
 
 El conjunto senior masculino _ADV Miguelturra Nazarín_ quiere seguir
 apurando sus opciones de estar en la Fase de Ascenso y para ello el

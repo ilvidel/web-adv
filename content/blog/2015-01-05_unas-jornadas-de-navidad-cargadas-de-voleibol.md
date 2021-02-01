@@ -1,18 +1,16 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Screenshot_-_050115_-_17%3A41%3A58.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-01-05 16:45:57", 
-  "tags": [
-    "Club", 
-    "Eventos", 
-    "Navidad", 
-    "EEDD"
-  ], 
-  "title": "Unas Jornadas de Navidad cargadas de voleibol."
-}
+---
+author: Joaquín
+banner: img/banners/Screenshot_-_050115_-_17%3A41%3A58.png
+categories:
+- noticias
+date: '2015-01-05 16:45:57'
+tags:
+- Club
+- Eventos
+- Navidad
+- EEDD
+title: Unas Jornadas de Navidad cargadas de voleibol.
+---
 
 Las Jornadas de Navidad 2014 del ADV Miguelturra se cierran con récord de asistencia y participación, con números que serán difíciles de superar y que han hecho disfrutar a grandes y pequeños en las distintas actividades realizadas en el Pabellón Municipal.
 

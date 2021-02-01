@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Captura_de_pantalla_-_150414_-_16%3A31%3A43.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2014-04-15 15:43:56", 
-  "tags": [
-    "EEDD"
-  ], 
-  "title": "Miguelturreños en el Campeonato de España de Selecciones Autonómicas"
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_-_150414_-_16%3A31%3A43.png
+categories:
+- noticias
+date: '2014-04-15 15:43:56'
+tags:
+- EEDD
+title: Miguelturreños en el Campeonato de España de Selecciones Autonómicas
+---
 
 Este año el ADV vuelve de lleno a las selecciones autonómicas con tres jugadores y una jugadora de las categorías inferiores quienes se desplazarán a Toledo el sábado 19 para iniciar la concentración y posteriormente viajarán a Valladolid del 24 al 27 de abril para disputar con sus respectivas selecciones el Campeonato de España.
 

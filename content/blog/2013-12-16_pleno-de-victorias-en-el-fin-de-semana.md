@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2013-12-16 20:59:49", 
-  "tags": [
-    "Club"
-  ], 
-  "title": "Pleno de victorias en el fin de semana."
-}
+---
+author: Joaquín
+banner: ''
+categories:
+- noticias
+date: '2013-12-16 20:59:49'
+tags:
+- Club
+title: Pleno de victorias en el fin de semana.
+---
 
 El pasado fin de semana no llegaron más que buenas noticias de los resultados de nuestros equipos, todo victorias en los equipos federados y una sola derrota entre tres victorias en los equipos escolares.
 

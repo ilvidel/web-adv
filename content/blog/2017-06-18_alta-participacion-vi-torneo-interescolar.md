@@ -1,17 +1,15 @@
-{
-  "author": "Joaquín",
-  "banner": "img/banners/torneo-interescolar-2017-masc.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2017-06-18 20:00:00",
-  "tags": [
-    "Escuelas Deportivas",
-    "Clinic",
-	"Campaña en colegios"
-  ],
-  "title": "Alta participación en el VI Torneo Interescolar"
-}
+---
+author: Joaquín
+banner: img/banners/torneo-interescolar-2017-masc.jpg
+categories:
+- noticias
+date: '2017-06-18 20:00:00'
+tags:
+- Escuelas Deportivas
+- Clinic
+- Campaña en colegios
+title: Alta participación en el VI Torneo Interescolar
+---
 
 El pasado sábado tuvo lugar la **VI edición del Torneo Interescolar de
 Voleibol** en el Pabellón Municipal, donde los cerca de 150

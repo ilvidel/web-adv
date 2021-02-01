@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín",
-  "banner": "img/banners/parejas-regional-2017.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2017-06-30 00:10:00",
-  "tags": [
-    "voley-playa"
-  ],
-  "title": "Las parejas sub-21 y sub-19 afrontan el Campeonato Regional"
-}
+---
+author: Joaquín
+banner: img/banners/parejas-regional-2017.jpg
+categories:
+- noticias
+date: '2017-06-30 00:10:00'
+tags:
+- voley-playa
+title: Las parejas sub-21 y sub-19 afrontan el Campeonato Regional
+---
 
 El próximo fin de semana tendrá lugar en Tomelloso la **primera prueba
 regional de Voley Playa federado**. Será la única en categoría sub-21

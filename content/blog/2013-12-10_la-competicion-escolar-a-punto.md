@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/IMG-20131209-WA0002.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2013-12-10 11:22:14", 
-  "tags": [
-    "EEDD"
-  ], 
-  "title": "La competición escolar a punto."
-}
+---
+author: Joaquín
+banner: img/banners/IMG-20131209-WA0002.jpg
+categories:
+- noticias
+date: '2013-12-10 11:22:14'
+tags:
+- EEDD
+title: La competición escolar a punto.
+---
 
 Aparte de los equipos infantil femenino que ya arrancaron hace dos fines de semana (con derrotas de los equipos A y B de Miguelturra) queda esclarecido como se desarrollará la competición en todas las categorías escolares comenzando este fin de semana los equipos cadetes masculino y femenino.
 

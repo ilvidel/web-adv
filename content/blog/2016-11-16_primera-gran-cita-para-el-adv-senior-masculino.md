@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/cartelADVadeva.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2016-11-16 15:01:03", 
-  "tags": [
-    "Senior Masculino"
-  ], 
-  "title": "Primera gran cita para el ADV senior masculino"
-}
+---
+author: Joaquín
+banner: img/banners/cartelADVadeva.jpg
+categories:
+- noticias
+date: '2016-11-16 15:01:03'
+tags:
+- Senior Masculino
+title: Primera gran cita para el ADV senior masculino
+---
 
 El próximo sábado 19 los senior debutan en casa y lo harán con uno de los partidos clave de la temporada, recibiendo al ADEVA de Albacete.
 

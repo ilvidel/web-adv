@@ -1,10 +1,10 @@
-{
-  "author": "Administrador",
-  "banner": "img/banners/cartel-hazte-socio.png",
-  "date": "2015-01-15 09:50:34",
-  "tags": [],
-  "title": "Socios"
-}
+---
+author: Administrador
+banner: img/banners/cartel-hazte-socio.png
+date: '2015-01-15 09:50:34'
+tags: []
+title: Socios
+---
 
 Si te gusta lo que hacemos y quieres colaborar con nosotros, puedes
 formar parte del club convirtiéndote en **socio protector**. Mediante

@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/junta_directiva.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2016-01-19 16:20:39", 
-  "tags": [
-    "Club", 
-    "Junta Directiva"
-  ], 
-  "title": "Establecida la Junta Directiva del Club para 2016."
-}
+---
+author: Joaquín
+banner: img/banners/junta_directiva.jpg
+categories:
+- noticias
+date: '2016-01-19 16:20:39'
+tags:
+- Club
+- Junta Directiva
+title: Establecida la Junta Directiva del Club para 2016.
+---
 
 La primera reunión ordinaria trimestral de la Junta Directiva de la ADV Miguelturra estableció quienes serán los miembros de la misma en este año que ahora comienza entre otras decisiones de carácter ordinario.
 

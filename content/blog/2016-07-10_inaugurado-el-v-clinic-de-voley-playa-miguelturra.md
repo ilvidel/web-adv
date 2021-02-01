@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/IMG_20160707_203526.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2016-07-10 18:20:25", 
-  "tags": [
-    "Clinic", 
-    "Voley Playa"
-  ], 
-  "title": "Inaugurado el V Clinic de Voley Playa Miguelturra"
-}
+---
+author: Joaquín
+banner: img/banners/IMG_20160707_203526.jpg
+categories:
+- noticias
+date: '2016-07-10 18:20:25'
+tags:
+- Clinic
+- Voley Playa
+title: Inaugurado el V Clinic de Voley Playa Miguelturra
+---
 
 El pasado jueves arrancó la quinta edición del Clinic de Voley Playa Miguelturra con gran éxito de participación habiendo superado las inscripciones el límite de plazas. El punto de partida fue la ceremonia de inauguración celebrada este año en el Pabellón Municipal debido a las inclemencias del tiempo. 
 

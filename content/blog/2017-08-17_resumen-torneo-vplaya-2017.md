@@ -1,16 +1,14 @@
-{
-  "author": "Miguel Astilleros",
-  "banner": "img/banners/cartel-torneo-2017.jpg",
-  "categories": [
-    "crónicas"
-  ],
-  "date": "2017-08-17 20:00:00",
-  "tags": [
-    "torneos",
-	"voley-playa"
-  ],
-  "title": "XII Torneo Miguelturra de Voley Playa"
-}
+---
+author: Miguel Astilleros
+banner: img/banners/cartel-torneo-2017.jpg
+categories:
+- crónicas
+date: '2017-08-17 20:00:00'
+tags:
+- torneos
+- voley-playa
+title: XII Torneo Miguelturra de Voley Playa
+---
 
 <center>
 <a data-flickr-embed="true"

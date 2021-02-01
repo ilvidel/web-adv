@@ -1,15 +1,15 @@
-{
-	"author": "Joaquín",
-	"categories": ["noticias"],
-	"date": "2017-05-16T00:10:00+02:00",
-	"tags": [
-		"Escuelas Deportivas",
-		"Alevín Masculino",
-		"Campeonato de España"
-	],
-	"title": "Todo listo para el Campeonato de España Infaintl Masculino",
-	"banner": "img/banners/Captura_de_pantalla_de_2017-05-15_23-57-43.jpg"
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_de_2017-05-15_23-57-43.jpg
+categories:
+- noticias
+date: '2017-05-16T00:10:00+02:00'
+tags:
+- Escuelas Deportivas
+- Alevín Masculino
+- Campeonato de España
+title: Todo listo para el Campeonato de España Infaintl Masculino
+---
 
 El próximo miércoles arranca en Castellón el Campeonato de España
 Infantil Masculino que se extenderá hasta el domingo y para el que los

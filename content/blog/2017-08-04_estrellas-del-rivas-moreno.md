@@ -1,16 +1,15 @@
-{
-  "author": "Joaquín",
-  "banner": "img/banners/monfort-2013.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2017-08-04 16:00:00",
-  "tags": [
-    "torneos",
-	"voley-playa"
-  ],
-  "title": "Las estrellas del XII Torneo Voley Playa Miguelturra comienzan a pisar la arena del Rivas Moreno"
-}
+---
+author: Joaquín
+banner: img/banners/monfort-2013.jpg
+categories:
+- noticias
+date: '2017-08-04 16:00:00'
+tags:
+- torneos
+- voley-playa
+title: Las estrellas del XII Torneo Voley Playa Miguelturra comienzan a pisar la arena
+  del Rivas Moreno
+---
 
 
 Desde hoy viernes hasta el domingo nuestro parque más deportivo

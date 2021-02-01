@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/7b67f50d-6a17-42d2-8967-ac021032855b.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2016-03-15 18:52:04", 
-  "tags": [
-    "Juvenil Femenino"
-  ], 
-  "title": "Las juveniles suben al Podio casi 20 años después."
-}
+---
+author: Joaquín
+banner: img/banners/7b67f50d-6a17-42d2-8967-ac021032855b.jpg
+categories:
+- noticias
+date: '2016-03-15 18:52:04'
+tags:
+- Juvenil Femenino
+title: Las juveniles suben al Podio casi 20 años después.
+---
 
 El pasado sábado en Guadalajara el equipo Juvenil Femenino del ADV disputó la Fase Final Regional donde finalmente se alzaron con la medalla de bronce.
 

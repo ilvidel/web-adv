@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Screenshot_-_191114_-_10%3A45%3A44.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2014-11-19 09:46:56", 
-  "tags": [
-    "Juvenil Masculino"
-  ], 
-  "title": "Todo a punto para empezar en el equipo juvenil masculino."
-}
+---
+author: Joaquín
+banner: img/banners/Screenshot_-_191114_-_10%3A45%3A44.png
+categories:
+- noticias
+date: '2014-11-19 09:46:56'
+tags:
+- Juvenil Masculino
+title: Todo a punto para empezar en el equipo juvenil masculino.
+---
 
 Los chicos juveniles vuelven este sábado a las canchas en la Liga Regional con ganas de resarcirse de los resultados de los últimos dos años y de volver a sumar éxitos al ADV.
 

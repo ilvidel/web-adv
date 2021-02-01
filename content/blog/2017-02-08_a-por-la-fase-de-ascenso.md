@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/WhatsApp_Image_2017-02-07_at_23.00.43.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2017-02-08 21:54:15", 
-  "tags": [
-    "Senior Femenino"
-  ], 
-  "title": "A por la Fase de Ascenso"
-}
+---
+author: Joaquín
+banner: img/banners/WhatsApp_Image_2017-02-07_at_23.00.43.jpg
+categories:
+- noticias
+date: '2017-02-08 21:54:15'
+tags:
+- Senior Femenino
+title: A por la Fase de Ascenso
+---
 
 Este sábado el equipo senior femenino tendrá el partido clave para determinar la representación castellano-manchega en la Fase de Ascenso a Primera División. Las nuestras se juegan el segundo puesto ante CV Universitario Guadalajara.
 

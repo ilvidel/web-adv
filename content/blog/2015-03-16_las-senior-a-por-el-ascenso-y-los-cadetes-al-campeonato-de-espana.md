@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/IMG-20150316-WA0008.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-03-16 22:04:41", 
-  "tags": [
-    "Resúenes"
-  ], 
-  "title": "Las senior a por el ascenso y los cadetes al Campeonato de España."
-}
+---
+author: Joaquín
+banner: img/banners/IMG-20150316-WA0008.jpg
+categories:
+- noticias
+date: '2015-03-16 22:04:41'
+tags:
+- Resúenes
+title: Las senior a por el ascenso y los cadetes al Campeonato de España.
+---
 
 Fin de semana de idas y venidas el que dejamos atrás. Las grandes noticias: la clasificación del equipo senior femenino para la fase de ascenso a primera división y la del cadete masculino para el Campeonato de España. Por el lado menos positivo, los resultados senior masculino y juvenil femenino, que se tratarán de enmendar el próximo sábado.
 

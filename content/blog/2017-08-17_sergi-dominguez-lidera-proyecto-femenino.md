@@ -1,15 +1,14 @@
-{
-  "author": "Joaquín",
-  "banner": "img/banners/proyecto-juvfem-2.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2017-08-17 16:00:00",
-  "tags": [
-	"juvenil femenino"
-  ],
-  "title": "Sergi Domínguez liderará el ambicioso proyecto juvenil femenino para esta temporada"
-}
+---
+author: Joaquín
+banner: img/banners/proyecto-juvfem-2.jpg
+categories:
+- noticias
+date: '2017-08-17 16:00:00'
+tags:
+- juvenil femenino
+title: Sergi Domínguez liderará el ambicioso proyecto juvenil femenino para esta
+  temporada
+---
 
 
 <center>

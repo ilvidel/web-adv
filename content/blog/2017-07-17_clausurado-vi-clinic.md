@@ -1,17 +1,15 @@
-{
-  "author": "Joaquín",
-  "banner": "img/banners/clausura-vi-clinic.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2017-07-17 19:00:00",
-  "tags": [
-    "Escuelas Deportivas",
-    "clinic",
-	"voley-playa"
-  ],
-  "title": "Clausurado el VI Clinic de Voley Playa Miguelturra"
-}
+---
+author: Joaquín
+banner: img/banners/clausura-vi-clinic.jpg
+categories:
+- noticias
+date: '2017-07-17 19:00:00'
+tags:
+- Escuelas Deportivas
+- clinic
+- voley-playa
+title: Clausurado el VI Clinic de Voley Playa Miguelturra
+---
 
 El pasado sábado se ponía punto y final a la sexta edición del Clínic
 de Voley Playa Miguelturra, con la tradicional ceremonia de clausura

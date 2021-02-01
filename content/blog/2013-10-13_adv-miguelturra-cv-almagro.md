@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Captura_de_pantalla_de_2013-10-14_00%3A48%3A47.png", 
-  "categories": [
-    "crónicas"
-  ], 
-  "date": "2013-10-13 23:51:06", 
-  "tags": [
-    "Juvenil Femenino"
-  ], 
-  "title": "ADV Miguelturra - CV Almagro"
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_de_2013-10-14_00%3A48%3A47.png
+categories:
+- crónicas
+date: '2013-10-13 23:51:06'
+tags:
+- Juvenil Femenino
+title: ADV Miguelturra - CV Almagro
+---
 
 Por fin la plantilla al completo y el mejor juego.
 

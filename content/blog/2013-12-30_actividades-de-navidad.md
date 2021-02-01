@@ -1,15 +1,13 @@
-{
-  "author": "Nacho", 
-  "banner": "img/banners/seleccion-2.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2013-12-30 10:17:31", 
-  "tags": [
-    "Club"
-  ], 
-  "title": "Actividades de Navidad"
-}
+---
+author: Nacho
+banner: img/banners/seleccion-2.jpg
+categories:
+- noticias
+date: '2013-12-30 10:17:31'
+tags:
+- Club
+title: Actividades de Navidad
+---
 
 <br/>
 <p align="justify">El ADV Miguelturra celebró la Navidad de la única forma que sabe: jugando al voleibol. El día 28 se organizaron varios partidos entre los diferentes equipos de las escuelas deportivas, para que los más pequeños no dejaran de hacer deporte durante las  acaciones. También jugaron los dos equipos juveniles, masculino y femenino, contra sendos rivales formados por ex-jugadores que,  por distintos motivos (estudios, trabajo...), se vieron obligados en su momento a dejar de practicar el voleibol.</p>

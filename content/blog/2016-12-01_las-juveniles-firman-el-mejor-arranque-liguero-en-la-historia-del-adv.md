@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Captura_de_pantalla_de_2016-12-01_16-47-28.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2016-12-01 15:50:46", 
-  "tags": [
-    "Juvenil Femenino"
-  ], 
-  "title": "Las juveniles firman el mejor arranque liguero en la historia del ADV."
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_de_2016-12-01_16-47-28.png
+categories:
+- noticias
+date: '2016-12-01 15:50:46'
+tags:
+- Juvenil Femenino
+title: Las juveniles firman el mejor arranque liguero en la historia del ADV.
+---
 
 Continuando con la línea marcada en los últimos tres años, en los que el ADV Miguelturra ya venía siendo campeón de la fase de grupos de la Liga Regional, el equipo que comanda Miriam Sánchez ha conseguido dar un paso más batiendo de nuevo las estadísticas de los años anteriores.
 

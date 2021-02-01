@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/2013sf.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2014-03-11 13:33:42", 
-  "tags": [
-    "Senior Femenino"
-  ], 
-  "title": "El equipo senior femenino del ADV campeón de la Segunda División Femenina."
-}
+---
+author: Joaquín
+banner: img/banners/2013sf.jpg
+categories:
+- noticias
+date: '2014-03-11 13:33:42'
+tags:
+- Senior Femenino
+title: El equipo senior femenino del ADV campeón de la Segunda División Femenina.
+---
 
 La primera gran noticia del año para nuestro club la recibimos el pasado sábado aunque ya llevábamos un tiempo confiando en que no sería de otra forma. Pero ahora ya lo podemos afirmar, las senior son campeonas de liga matemáticamente a falta de las tres últimas jornadas de liga.
 

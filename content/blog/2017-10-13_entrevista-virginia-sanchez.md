@@ -1,11 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/entrevista-virginia-sanchez.jpg",
-  "categories": [ "entrevista" ], 
-  "date": "2017-10-13 18:00:00",
-  "tags": [ "juvenil femenino"],
-  "title": "Entrevista a Virginia Sánchez, capitana del advmiguelturra.org"
-}
+---
+author: Joaquín
+banner: img/banners/entrevista-virginia-sanchez.jpg
+categories:
+- entrevista
+date: '2017-10-13 18:00:00'
+tags:
+- juvenil femenino
+title: Entrevista a Virginia Sánchez, capitana del advmiguelturra.org
+---
 
 <center> 
 <img src="../../../../../img/banners/entrevista-virginia-sanchez.jpg" width="80%"/>

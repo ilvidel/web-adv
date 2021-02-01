@@ -1,17 +1,15 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Screenshot_-_180215_-_21%3A06%3A53.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-02-18 22:22:09", 
-  "tags": [
-    "Club", 
-    "Previa Jornadas", 
-    "EEDD"
-  ], 
-  "title": "Partidos decisivos y de alto interés para el voleibol miguelturreño."
-}
+---
+author: Joaquín
+banner: img/banners/Screenshot_-_180215_-_21%3A06%3A53.png
+categories:
+- noticias
+date: '2015-02-18 22:22:09'
+tags:
+- Club
+- Previa Jornadas
+- EEDD
+title: Partidos decisivos y de alto interés para el voleibol miguelturreño.
+---
 
 El próximo fin de semana no solo viene marcado como la segunda parte de nuestro idolatrado carnaval miguelturreño, si no que también nos trae una buena lista de partidos de Voleibol que garantizan una mezcla perfecta.
 

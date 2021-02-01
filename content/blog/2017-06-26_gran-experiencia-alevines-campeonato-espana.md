@@ -1,18 +1,16 @@
-{
-  "author": "Joaquín",
-  "banner": "img/banners/cartel-cto-espana-alevin-2017.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2017-06-26 19:00:00",
-  "tags": [
-    "Escuelas Deportivas",
-    "Campeonato de España",
-	"alevín femenino",
-	"alevín masculino"
-  ],
-  "title": "Gran experiencia de los equipos alevines en el Campeonato de España"
-}
+---
+author: Joaquín
+banner: img/banners/cartel-cto-espana-alevin-2017.jpg
+categories:
+- noticias
+date: '2017-06-26 19:00:00'
+tags:
+- Escuelas Deportivas
+- Campeonato de España
+- alevín femenino
+- alevín masculino
+title: Gran experiencia de los equipos alevines en el Campeonato de España
+---
 
 Los chicos y chicas alevines de nuestro club ya están de vuelta de
 Valladolid tras su paso por el [II Campeonato de España][campeonato]

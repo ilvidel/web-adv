@@ -1,17 +1,15 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Captura_de_pantalla_de_2016-06-03_13%3A12%3A58.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2016-06-01 14:00:24", 
-  "tags": [
-    "Voley Playa", 
-    "Cursos", 
-    "EEDD"
-  ], 
-  "title": "La Escuela de Voley Playa convoca los Cursos de Verano 2016."
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_de_2016-06-03_13%3A12%3A58.png
+categories:
+- noticias
+date: '2016-06-01 14:00:24'
+tags:
+- Voley Playa
+- Cursos
+- EEDD
+title: La Escuela de Voley Playa convoca los Cursos de Verano 2016.
+---
 
 Para continuar con el avance en materia de Voley Playa, la sección del ADV Miguelturra de esta modalidad deportiva hemos decidido ofrecer esta nueva actividad que se desarrollará durante las vacaciones de verano.
 

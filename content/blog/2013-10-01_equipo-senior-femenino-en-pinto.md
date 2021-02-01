@@ -1,15 +1,13 @@
-{
-  "author": "Tara",
-  "banner": "",
-  "categories": [
-    "crónicas"
-  ],
-  "date": "2013-10-01 09:16:35",
-  "tags": [
-    "Senior Femenino"
-  ],
-  "title": "Equipo senior femenino en Pinto"
-}
+---
+author: Tara
+banner: ''
+categories:
+- crónicas
+date: '2013-10-01 09:16:35'
+tags:
+- Senior Femenino
+title: Equipo senior femenino en Pinto
+---
 
 Primer partido:
 

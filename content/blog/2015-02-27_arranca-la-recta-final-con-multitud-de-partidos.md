@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Screenshot_-_270215_-_01%3A09%3A39.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-02-27 00:11:47", 
-  "tags": [
-    "Club", 
-    "Previa Jornadas"
-  ], 
-  "title": "Arranca la recta final con multitud de partidos."
-}
+---
+author: Joaquín
+banner: img/banners/Screenshot_-_270215_-_01%3A09%3A39.png
+categories:
+- noticias
+date: '2015-02-27 00:11:47'
+tags:
+- Club
+- Previa Jornadas
+title: Arranca la recta final con multitud de partidos.
+---
 
 Se presenta un fin de semana cargado de voleibol con numerosos encuentros, algunos de ellos decisivos y de alto grado de espectacularidad.
 

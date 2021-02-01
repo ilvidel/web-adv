@@ -1,17 +1,15 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Captura_de_pantalla_de_2016-02-12_11%3A01%3A48.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2016-02-10 23:04:23", 
-  "tags": [
-    "EEDD", 
-    "Juvenil Femenino", 
-    "Fase Regional"
-  ], 
-  "title": "Hora de la verdad para los equipos femeninos de regional."
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_de_2016-02-12_11%3A01%3A48.png
+categories:
+- noticias
+date: '2016-02-10 23:04:23'
+tags:
+- EEDD
+- Juvenil Femenino
+- Fase Regional
+title: Hora de la verdad para los equipos femeninos de regional.
+---
 
 Los equipos femeninos de nuestro club que compiten en Liga Regional arrancan este fin de semana los cruces de octavos de final tras haber finalizado sus respectivas fases de grupo. El objetivo, estar en la fase final.
 

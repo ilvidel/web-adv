@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Captura_de_pantalla_de_2013-10-07_21%3A51%3A14_0.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2013-10-07 20:53:22", 
-  "tags": [
-    "Juvenil Masculino"
-  ], 
-  "title": "Presentado el equipo juvenil masculino para la temporada 2013/2014"
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_de_2013-10-07_21%3A51%3A14_0.png
+categories:
+- noticias
+date: '2013-10-07 20:53:22'
+tags:
+- Juvenil Masculino
+title: Presentado el equipo juvenil masculino para la temporada 2013/2014
+---
 
 <center>
 <a target="_new" href="http://www.advmiguelturra.org/img/banners/Captura%20de%20pantalla%20de%202013-10-07%2021%3A51%3A14_0.png"> 

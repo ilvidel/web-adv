@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín",
-  "banner": "img/banners/pisando-fuerte-seniorf.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2017-11-01 19:00:00",
-  "tags": [
-    "club"
-  ],
-  "title": "El ADV empieza pisando fuerte el primer mes de competición"
-}
+---
+author: Joaquín
+banner: img/banners/pisando-fuerte-seniorf.jpg
+categories:
+- noticias
+date: '2017-11-01 19:00:00'
+tags:
+- club
+title: El ADV empieza pisando fuerte el primer mes de competición
+---
 
 Termina octubre y podemos decir que nuestros equipos han comenzado de
 la mejor manera posible. Las victorias son mayoría y en muchos de los

@@ -1,15 +1,14 @@
-{
-"author": "Joaquín",
-  "banner": "img/banners/concentracion-seleccion-clm.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2018-02-06 18:00:00",
-  "tags": [
-  "infantil femenino"
-  ],
-  "title": "Concentración de la Selección de Castilla-La Mancha Infantil Femenina en Miguelturra"
-}
+---
+author: Joaquín
+banner: img/banners/concentracion-seleccion-clm.jpg
+categories:
+- noticias
+date: '2018-02-06 18:00:00'
+tags:
+- infantil femenino
+title: Concentración de la Selección de Castilla-La Mancha Infantil Femenina en
+  Miguelturra
+---
 
 El pasado domingo 4 de febrero tuvo lugar una de las concentraciones
 técnicas de las selecciones de Castilla-La Mancha en nuestra

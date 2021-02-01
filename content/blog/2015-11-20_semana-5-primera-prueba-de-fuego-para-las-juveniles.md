@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/AtZCAzZK_Yl42YrWTnppPYlKkoGi7gFpDhRuVlgQv_6r.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-11-20 16:01:49", 
-  "tags": [
-    "Previa Jornadas"
-  ], 
-  "title": "Semana 5: Primera prueba de fuego para las juveniles"
-}
+---
+author: Joaquín
+banner: img/banners/AtZCAzZK_Yl42YrWTnppPYlKkoGi7gFpDhRuVlgQv_6r.jpg
+categories:
+- noticias
+date: '2015-11-20 16:01:49'
+tags:
+- Previa Jornadas
+title: 'Semana 5: Primera prueba de fuego para las juveniles'
+---
 
 Con todas las competiciones del ADV iniciadas, excepto regional escolar masculino, los fines de semana repletos de Voleibol han terminado de instaurarse en nuestra localidad, los equipos masculinos vuelven a jugar y las juveniles se la juegan con las con líderes mientras los escolares arrancan sus ligas.
 

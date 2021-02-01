@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Captura_de_pantalla_de_2015-09-18_16%3A46%3A48.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-09-18 15:50:09", 
-  "tags": [
-    "Juvenil Masculino"
-  ], 
-  "title": "Presentada la plantilla juvenil masculino para la temporada 2015/16."
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_de_2015-09-18_16%3A46%3A48.png
+categories:
+- noticias
+date: '2015-09-18 15:50:09'
+tags:
+- Juvenil Masculino
+title: Presentada la plantilla juvenil masculino para la temporada 2015/16.
+---
 
 La escuadra juvenil masculino del ADV afronta la liga con la plantilla más completa de los últimos años. Fueron los primeros en comenzar a trabajar y algo más de un mes después del inicio, su plantilla ha quedado cerrada.
 

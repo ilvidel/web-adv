@@ -1,17 +1,15 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Screenshot_-_090914_-_23%3A48%3A31.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2014-09-09 22:50:08", 
-  "tags": [
-    "EEDD", 
-    "Actividades", 
-    "Voley Hierba"
-  ], 
-  "title": "III Torneo Voley Hierba 3x3"
-}
+---
+author: Joaquín
+banner: img/banners/Screenshot_-_090914_-_23%3A48%3A31.png
+categories:
+- noticias
+date: '2014-09-09 22:50:08'
+tags:
+- EEDD
+- Actividades
+- Voley Hierba
+title: III Torneo Voley Hierba 3x3
+---
 
 Durante los próximos 11 y 12 de septiembre se va a desarrollar la tercera edición del ya habitual torneo de voley hierba con motivo de las ferias y fiestas de nuestra localidad organizado por el ADV Miguelturra en colaboración con la Concejalía de Deportes de Miguelturra.
 

@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2014-11-24 21:09:26", 
-  "tags": [
-    "Resúenes", 
-    "Club"
-  ], 
-  "title": "Buen debut de los equipos masculinos."
-}
+---
+author: Joaquín
+banner: ''
+categories:
+- noticias
+date: '2014-11-24 21:09:26'
+tags:
+- Resúenes
+- Club
+title: Buen debut de los equipos masculinos.
+---
 
 Fin de semana de altibajos para el ADV con victorias de los dos equipos juveniles y triunfo importantísimo del senior masculino en su debut liguero. Por contra, la derrota de las senior en un partido clave, así como el filial senior masculino arrancó sin éxito en el primer de este nuevo equipo.
 

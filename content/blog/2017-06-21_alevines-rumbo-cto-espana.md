@@ -1,17 +1,15 @@
-{
-  "author": "Joaquín",
-  "banner": "img/banners/alevines-rumbo-cto-espana.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2017-06-21 20:00:00",
-  "tags": [
-    "Escuelas Deportivas",
-    "Campeonato de España",
-	"alevín masculino"
-  ],
-  "title": "Los alevines rumbo al Campeonato de España"
-}
+---
+author: Joaquín
+banner: img/banners/alevines-rumbo-cto-espana.jpg
+categories:
+- noticias
+date: '2017-06-21 20:00:00'
+tags:
+- Escuelas Deportivas
+- Campeonato de España
+- alevín masculino
+title: Los alevines rumbo al Campeonato de España
+---
 
 Quedan sólo dos días para que arranque el **Campeonato de España
 Alevín** en Valladolid, que se extenderá hasta el domingo, y los

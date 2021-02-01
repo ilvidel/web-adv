@@ -1,15 +1,13 @@
-{
-  "author": "Nacho", 
-  "banner": "img/banners/cadete_fem.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2013-02-24 11:41:26", 
-  "tags": [
-    "EEDD"
-  ], 
-  "title": "Semifinales Escolares"
-}
+---
+author: Nacho
+banner: img/banners/cadete_fem.jpg
+categories:
+- noticias
+date: '2013-02-24 11:41:26'
+tags:
+- EEDD
+title: Semifinales Escolares
+---
 
 Ayer, sábado 23, se disputaron en Ciudad Real las semifinales del campeonato provincial escolar femenino. El ADV Miguelturra estaba representado en las tres categorías (alevín, infantil y cadete) y consiguió importantes victorias en dos de ellas.
 

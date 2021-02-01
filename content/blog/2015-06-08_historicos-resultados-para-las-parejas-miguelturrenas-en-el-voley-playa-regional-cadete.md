@@ -1,15 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/medallistas.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-06-08 00:32:52", 
-  "tags": [
-    "EEDD"
-  ], 
-  "title": "Históricos resultados para las parejas miguelturreñas en el Voley Playa Regional Cadete"
-}
+---
+author: Joaquín
+banner: img/banners/medallistas.jpg
+categories:
+- noticias
+date: '2015-06-08 00:32:52'
+tags:
+- EEDD
+title: Históricos resultados para las parejas miguelturreñas en el Voley Playa Regional
+  Cadete
+---
 
 El pasado sábado tuvo lugar en Playas del Vicario (Ciudad Real) el Campeonato Regional de Voley Playa en categoría cadete masculino y femenino clasificatorio para el Campeonato de España y para el que habían conseguido plaza previamente dos parejas miguelturreñas masculinas y dos femeninas. Un oro y dos platas fue el balance para los de Miguelturra superando todos los registros.
 

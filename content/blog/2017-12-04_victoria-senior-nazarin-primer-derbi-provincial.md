@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín",
-  "banner": "img/banners/victoria-senior-nazarin-primer-derbi-provincial.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2017-12-04",
-  "tags": [
-    "resúmenes"
-  ],
-  "title": "Victoria para el Senior Nazarín en el primer derbi provincial."
-}
+---
+author: Joaquín
+banner: img/banners/victoria-senior-nazarin-primer-derbi-provincial.jpg
+categories:
+- noticias
+date: '2017-12-04'
+tags:
+- resúmenes
+title: Victoria para el Senior Nazarín en el primer derbi provincial.
+---
 
 En un nuevo fin de semana de partidos de nuestros equipos, todos ellos
 en casa y con balance de cuatro victorias y una derrota, el _ADV

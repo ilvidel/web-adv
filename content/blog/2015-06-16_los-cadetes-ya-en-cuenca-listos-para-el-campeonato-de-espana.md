@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/cadetes_07.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-06-16 22:41:43", 
-  "tags": [
-    "Campeonato de España", 
-    "EEDD"
-  ], 
-  "title": "Los cadetes ya en Cuenca listos para el Campeonato de España"
-}
+---
+author: Joaquín
+banner: img/banners/cadetes_07.jpg
+categories:
+- noticias
+date: '2015-06-16 22:41:43'
+tags:
+- Campeonato de España
+- EEDD
+title: Los cadetes ya en Cuenca listos para el Campeonato de España
+---
 
 El equipo cadete masculino del ADV ya se encuentra en Cuenca para disputar el Campeonato de España de clubes.
 

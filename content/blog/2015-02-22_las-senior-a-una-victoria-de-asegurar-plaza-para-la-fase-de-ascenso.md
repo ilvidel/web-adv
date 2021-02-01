@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Screenshot_-_220215_-_23%3A37%3A35.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-02-22 23:07:54", 
-  "tags": [
-    "Resúenes", 
-    "Club"
-  ], 
-  "title": "Las senior a una victoria de asegurar plaza para la fase de ascenso."
-}
+---
+author: Joaquín
+banner: img/banners/Screenshot_-_220215_-_23%3A37%3A35.png
+categories:
+- noticias
+date: '2015-02-22 23:07:54'
+tags:
+- Resúenes
+- Club
+title: Las senior a una victoria de asegurar plaza para la fase de ascenso.
+---
 
 La pasada jornada, coincidente con el final de nuestro carnaval, nos deja como gran noticia la victoria de las senior ante el líder CV Hervás Cuenca entre el derbi local senior masculino y algunos resultados decisivos de los equipos escolares.
 

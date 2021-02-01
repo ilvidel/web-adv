@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/18-01-14.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2014-01-17 14:38:02", 
-  "tags": [
-    "Club"
-  ], 
-  "title": "Volvemos a la competición."
-}
+---
+author: Joaquín
+banner: img/banners/18-01-14.jpg
+categories:
+- noticias
+date: '2014-01-17 14:38:02'
+tags:
+- Club
+title: Volvemos a la competición.
+---
 
 Esta semana todas las secciones del ADV retoman la competición oficial tras el parón navideño.
 

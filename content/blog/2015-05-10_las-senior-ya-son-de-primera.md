@@ -1,17 +1,15 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Screenshot_-_110515_-_00%3A48%3A47.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-05-10 23:50:04", 
-  "tags": [
-    "Club", 
-    "Senior Femenino", 
-    "Fase de Ascenso"
-  ], 
-  "title": "¡¡Las senior ya son de primera!!"
-}
+---
+author: Joaquín
+banner: img/banners/Screenshot_-_110515_-_00%3A48%3A47.png
+categories:
+- noticias
+date: '2015-05-10 23:50:04'
+tags:
+- Club
+- Senior Femenino
+- Fase de Ascenso
+title: ¡¡Las senior ya son de primera!!
+---
 
 Este fin de semana ha puesto al ADV de nuevo en primera división tras la disputa de la fase de ascenso en Cáceres con un gran papel de las nuestras.
 

@@ -1,13 +1,12 @@
-{
-  "author": "Administrador", 
-  "banner": "", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2014-02-25 15:17:09", 
-  "tags": [], 
-  "title": "Canal del ADV en Youtube"
-}
+---
+author: Administrador
+banner: ''
+categories:
+- noticias
+date: '2014-02-25 15:17:09'
+tags: []
+title: Canal del ADV en Youtube
+---
 
 El ADV Miguelturra no ha querido quedarse atrás en lo referente a plataformas digitales, y hemos creado un <a href="http://www.youtube.com/channel/UCT8OZCjByyhJhh7ffScAOag">canal de Youtube</a> en el que iremos subiendo vídeos con entrevistas, resúmenes de partidos, resultados, vídeos promocionales, partidos completos, etc. Todo para que no te pierdas nada sobre la actualidad del voleibol en Miguelturra.
 

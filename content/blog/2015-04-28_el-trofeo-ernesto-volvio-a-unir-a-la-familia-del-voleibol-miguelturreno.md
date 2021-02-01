@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/IMG-20150425-WA0006.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-04-28 13:58:07", 
-  "tags": [
-    "Eventos", 
-    "Trofeo Ernesto"
-  ], 
-  "title": "El Trofeo Ernesto volvió a unir a la familia del voleibol miguelturreño."
-}
+---
+author: Joaquín
+banner: img/banners/IMG-20150425-WA0006.jpg
+categories:
+- noticias
+date: '2015-04-28 13:58:07'
+tags:
+- Eventos
+- Trofeo Ernesto
+title: El Trofeo Ernesto volvió a unir a la familia del voleibol miguelturreño.
+---
 
 El pasado sábado 25 de Mayo tuvo lugar la tercera edición del trofeo en honor a nuestro compañero Ernesto Arévalo, expresidente y exentrenador del ADV congregando a numerosos allegados a nuestro deporte desde alevines a veteranos.
 

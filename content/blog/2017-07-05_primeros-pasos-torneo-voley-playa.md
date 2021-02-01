@@ -1,15 +1,14 @@
-{
-  "author": "Joaquín",
-  "banner": "img/banners/cartel-torneo-2017.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2017-07-05 19:00:00",
-  "tags": [
-    "voley playa", "actividades"
-  ],
-  "title": "Primeros pasos del XII Torneo Voley Playa Miguelturra"
-}
+---
+author: Joaquín
+banner: img/banners/cartel-torneo-2017.jpg
+categories:
+- noticias
+date: '2017-07-05 19:00:00'
+tags:
+- voley playa
+- actividades
+title: Primeros pasos del XII Torneo Voley Playa Miguelturra
+---
 
 A falta de tres semanas para el comienzo, **queda abierto el plazo de
 inscripción para la XII edición del _Torneo Voley Playa

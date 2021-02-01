@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Captura_de_pantalla_de_2016-06-22_00%3A35%3A56.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2016-06-21 23:44:43", 
-  "tags": [
-    "Cadete Masculino", 
-    "Campeonato de España"
-  ], 
-  "title": "10ª posición en el Campeonato de España."
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_de_2016-06-22_00%3A35%3A56.png
+categories:
+- noticias
+date: '2016-06-21 23:44:43'
+tags:
+- Cadete Masculino
+- Campeonato de España
+title: 10ª posición en el Campeonato de España.
+---
 
 El equipo cadete masculino del ADV Miguelturra ha conseguido terminar en 10ª posición el Campeonato de España celebrado en Murcia los pasados 15 a 19 de Junio. Un resultado más que positivo que vuelve a poner a nuestro club entre los mejores de España.
 

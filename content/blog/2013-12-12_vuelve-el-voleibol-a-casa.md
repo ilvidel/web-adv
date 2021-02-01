@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/jornada14-12-13.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2013-12-12 11:02:28", 
-  "tags": [
-    "Club"
-  ], 
-  "title": "Vuelve el voleibol a casa."
-}
+---
+author: Joaquín
+banner: img/banners/jornada14-12-13.jpg
+categories:
+- noticias
+date: '2013-12-12 11:02:28'
+tags:
+- Club
+title: Vuelve el voleibol a casa.
+---
 
 Tres semanas después de las fatídicas derrotas ante CV Cuenca volvemos a tener partidos en casa. El sábado, los equipos senior tratarán de imponerse como locales al eterno rival provincial: el CV Puertollano.
 

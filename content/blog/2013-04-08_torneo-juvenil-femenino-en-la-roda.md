@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/torneo_femenino_2013.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2013-04-08 23:10:19", 
-  "tags": [
-    "Juvenil Femenino"
-  ], 
-  "title": "Torneo Juvenil Femenino en La Roda"
-}
+---
+author: Joaquín
+banner: img/banners/torneo_femenino_2013.jpg
+categories:
+- noticias
+date: '2013-04-08 23:10:19'
+tags:
+- Juvenil Femenino
+title: Torneo Juvenil Femenino en La Roda
+---
 
 El próximo sábado 14 de abril de abril las juveniles del ADV se desplazarán a La Roda para disputar el torneo organizado por el club de la localidad.
 

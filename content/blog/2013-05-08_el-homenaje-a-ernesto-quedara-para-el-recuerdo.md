@@ -1,15 +1,13 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Captura_de_pantalla_de_2013-05-08_16%3A32%3A48.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2013-05-08 15:36:45", 
-  "tags": [
-    "Club"
-  ], 
-  "title": "El homenaje a Ernesto quedará para el recuerdo"
-}
+---
+author: Joaquín
+banner: img/banners/Captura_de_pantalla_de_2013-05-08_16%3A32%3A48.png
+categories:
+- noticias
+date: '2013-05-08 15:36:45'
+tags:
+- Club
+title: El homenaje a Ernesto quedará para el recuerdo
+---
 
 <iframe width="640" height="360" src="http://www.youtube.com/embed/YxrO9nEEbQ8" frameborder="0" allowfullscreen></iframe>
 

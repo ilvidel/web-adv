@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín",
-  "banner": "img/banners/cartel-clinic-2017.jpg",
-  "categories": [
-    "noticias"
-  ],
-  "date": "2017-06-08 23:45:00",
-  "tags": [
-    "Voley Playa",
-    "Clinic"
-  ],
-  "title": "VI Clínic de Voley-Playa"
-}
+---
+author: Joaquín
+banner: img/banners/cartel-clinic-2017.jpg
+categories:
+- noticias
+date: '2017-06-08 23:45:00'
+tags:
+- Voley Playa
+- Clinic
+title: VI Clínic de Voley-Playa
+---
 
 La sexta edición del **Clínic de Voley Playa Miguelturra** ya está aquí,
 en esta ocasión estrenando la nueva instalación del **Parque Rivas

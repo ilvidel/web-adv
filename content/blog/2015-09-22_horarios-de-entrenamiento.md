@@ -1,12 +1,11 @@
-{
-  "author": "Administrador",
-  "banner": "",
-  "date": "2015-09-22 15:30:20",
-  "tags": [
-    "Club"
-  ],
-  "title": "Horarios de Entrenamiento"
-}
+---
+author: Administrador
+banner: ''
+date: '2015-09-22 15:30:20'
+tags:
+- Club
+title: Horarios de Entrenamiento
+---
 
 Estos son los horarios de entrenamiento de nuestros equipos federados para la temporada 2015-2016. Todos los entrenamientos son en el Pabellón Municipal, salvo los marcados <b style=" background-color: yellow">en amarillo</b>, que son en el pabellón del CP El Cristo.
 

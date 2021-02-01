@@ -1,15 +1,13 @@
-{
-  "author": "Nacho", 
-  "banner": "", 
-  "categories": [
-    "crónicas"
-  ], 
-  "date": "2013-03-03 11:31:37", 
-  "tags": [
-    "Senior Masculino"
-  ], 
-  "title": "ADV Miguelturra - ADEVA"
-}
+---
+author: Nacho
+banner: ''
+categories:
+- crónicas
+date: '2013-03-03 11:31:37'
+tags:
+- Senior Masculino
+title: ADV Miguelturra - ADEVA
+---
 
 El equipo senior recibía ayer por la tarde la visita del segundo clasificado de la liga, el club ADEVA de Albacete, que debía luchar por una victoria si quiería optar a robarle la cabeza de la clasificación al CV Ciudad de la Cerámica.
 

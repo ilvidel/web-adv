@@ -1,16 +1,14 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/10914805_427556370733005_2260183147455217816_o.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-01-18 19:48:34", 
-  "tags": [
-    "Club", 
-    "Resúenes"
-  ], 
-  "title": "Victorias de los equipos femeninos y derrota de los masculinos."
-}
+---
+author: Joaquín
+banner: img/banners/10914805_427556370733005_2260183147455217816_o.jpg
+categories:
+- noticias
+date: '2015-01-18 19:48:34'
+tags:
+- Club
+- Resúenes
+title: Victorias de los equipos femeninos y derrota de los masculinos.
+---
 
 La pasada jornada nos dejó un balance muy positivo para las chicas del ADV con victorias de senior, juveniles y cadetes a diferencia de los equipos masculinos, donde el senior no pudo sumar otro triunfo en un igualado partido con Puertollano a la vez que juveniles y senior B caían en sus difíciles encuentros con ADEVA.
 

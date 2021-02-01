@@ -1,17 +1,16 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/FullSizeRender.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2016-03-20 15:26:07", 
-  "tags": [
-    "EEDD", 
-    "Selecciones", 
-    "Cadete Masculino"
-  ], 
-  "title": "Tres miguelturreños en el Campeonato de España con la selección de Castilla-La Mancha."
-}
+---
+author: Joaquín
+banner: img/banners/FullSizeRender.jpg
+categories:
+- noticias
+date: '2016-03-20 15:26:07'
+tags:
+- EEDD
+- Selecciones
+- Cadete Masculino
+title: Tres miguelturreños en el Campeonato de España con la selección de Castilla-La
+  Mancha.
+---
 
 Los miguelturreños Alejandro Fernández, José Manuel Sánchez y Sergio Sobrino han sido convocados para participar en el próximo Campeonato de España de Selecciones Autonómicas representando a Castilla-La Mancha en categoría cadete masculino.
 

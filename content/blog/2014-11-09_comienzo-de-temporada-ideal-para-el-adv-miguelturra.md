@@ -1,18 +1,16 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/Screenshot_-_101114_-_00%3A46%3A46.png", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2014-11-09 23:45:17", 
-  "tags": [
-    "Club", 
-    "Senior Femenino", 
-    "Juvenil Femenino", 
-    "EEDD"
-  ], 
-  "title": "Comienzo de temporada ideal para el ADV Miguelturra."
-}
+---
+author: Joaquín
+banner: img/banners/Screenshot_-_101114_-_00%3A46%3A46.png
+categories:
+- noticias
+date: '2014-11-09 23:45:17'
+tags:
+- Club
+- Senior Femenino
+- Juvenil Femenino
+- EEDD
+title: Comienzo de temporada ideal para el ADV Miguelturra.
+---
 
 Este fin de semana arrancaban las ligas de las tres secciones femeninas del ADV Miguelturra que participan en competición federada con pleno de victorias miguelturreñas.
 

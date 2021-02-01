@@ -1,15 +1,13 @@
-{
-  "author": "Administrador",
-  "banner": "",
-  "categories": [
-    "crónicas"
-  ],
-  "date": "2013-01-19 19:00:00",
-  "tags": [
-    "Juvenil Masculino"
-  ],
-  "title": "ADV Miguelturra - Voley Guada"
-}
+---
+author: Administrador
+banner: ''
+categories:
+- crónicas
+date: '2013-01-19 19:00:00'
+tags:
+- Juvenil Masculino
+title: ADV Miguelturra - Voley Guada
+---
 
 Crónica por Ramón López.
 

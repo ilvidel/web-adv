@@ -1,15 +1,13 @@
-{
-  "author": "Administrador", 
-  "banner": "", 
-  "categories": [
-    "crónicas"
-  ], 
-  "date": "2012-11-24 15:30:00", 
-  "tags": [
-    "Juvenil Femenino"
-  ], 
-  "title": "CV Albacete - ADV Miguelturra"
-}
+---
+author: Administrador
+banner: ''
+categories:
+- crónicas
+date: '2012-11-24 15:30:00'
+tags:
+- Juvenil Femenino
+title: CV Albacete - ADV Miguelturra
+---
 
 Duro varapalo para las juveniles en Albacete que ya solo piensan en el siguiente partido.
 

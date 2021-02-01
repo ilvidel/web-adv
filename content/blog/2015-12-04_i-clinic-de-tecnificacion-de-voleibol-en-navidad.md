@@ -1,18 +1,16 @@
-{
-  "author": "Joaquín", 
-  "banner": "img/banners/AmWx7tYb3BZ4tbYCGn_4Hz_-1tIiiJZ-B2Lw7Qb5BYNO_0.jpg", 
-  "categories": [
-    "noticias"
-  ], 
-  "date": "2015-12-04 12:19:11", 
-  "tags": [
-    "EEDD", 
-    "Club", 
-    "Eventos", 
-    "Navidad"
-  ], 
-  "title": "I Clíic de Tecnificación de Voleibol en Navidad."
-}
+---
+author: Joaquín
+banner: img/banners/AmWx7tYb3BZ4tbYCGn_4Hz_-1tIiiJZ-B2Lw7Qb5BYNO_0.jpg
+categories:
+- noticias
+date: '2015-12-04 12:19:11'
+tags:
+- EEDD
+- Club
+- Eventos
+- Navidad
+title: I Clíic de Tecnificación de Voleibol en Navidad.
+---
 
 Estas vacaciones de navidad se inicia una nueva actividad organizada por la Escuela de Voleibol junto al ADV Miguelturra y la Concejalía de Deportes con objeto de proporcionar a los alumnos y alumnas de la escuela una posibilidad más para tratar de mejorar su nivel y realizar un trabajo específico de entrenamiento junto a compañeros y compañeras con los que disfrutar estos días de descanso.
 
