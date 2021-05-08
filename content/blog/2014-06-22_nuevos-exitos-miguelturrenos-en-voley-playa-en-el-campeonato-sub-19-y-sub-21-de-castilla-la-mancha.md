@@ -6,8 +6,7 @@ categories:
 date: '2014-06-22 17:38:11'
 tags:
 - Voley Playa
-title: Nuevos éxitos miguelturreños en voley playa en el campeonato sub-19 y sub-21
-  de Castilla-La Mancha
+title: Nuevos éxitos miguelturreños en voley playa en el campeonato sub-19 y sub-21 de Castilla-La Mancha
 ---
 
 El pasado sábado 21 de junio se celebraba en el Complejo Playas del

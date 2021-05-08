@@ -43,8 +43,8 @@ han hecho viable este Clínic: Ayuntamiento de Miguelturra, Diputación
 Provincial de Ciudad Real, Hipermercado E. Leclerc, Carnicería Satur,
 Pan Real y Central de Frutas del Hoyo.
 
-<img height="86px" src="http://www.advmiguelturra.org/logos/ayto-miguelturra.svg"/>
-<img height="86px" src="http://www.advmiguelturra.org/logos/diputacion.svg"/>
+<img height="86px" src="http://www.advmiguelturra.org/logos/ayto-miguelturra.png"/>
+<img height="86px" src="http://www.advmiguelturra.org/logos/diputacion.png"/>
 <img height="86px" src="http://www.advmiguelturra.org/logos/e-leclerc.jpg"/>
 <img height="86px" src="http://www.advmiguelturra.org/logos/carniceria-satur.jpg"/>
-<img height="86px" src="http://www.advmiguelturra.org/logos/frutas-del-hoyo.svg"/>
+<img height="86px" src="http://www.advmiguelturra.org/logos/frutas-del-hoyo.png"/>
